@@ -1,0 +1,282 @@
+{
+  "content.content.default" : {
+    "message" : "<h3 style=\"text-align:center;\"><strong>Servicio</strong></h3><p>Resume el servicio que proporcionas. Incluye un mensaje sobre el valor que puede ofrecer a sus clientes.</p>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "content.content.label" : {
+    "message" : "Contenidos",
+    "description" : "",
+    "placeholders" : null
+  },
+  "content.label" : {
+    "message" : "Contenidos",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.accessibility_options.label" : {
+    "message" : "Opciones de accesibilidad",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.accessibility_options.purpose.choices.decorative" : {
+    "message" : "Ignorado por el lector de pantalla",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.accessibility_options.purpose.choices.semantic" : {
+    "message" : "Leído por el lector de pantalla",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.accessibility_options.purpose.help_text" : {
+    "message" : "Categoriza el propósito de este icono para los lectores de pantalla. <a href='https://www.w3.org/WAI/tutorials/images/' target='_blank' rel='noopener noreferrer'>Más información</a>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.accessibility_options.purpose.label" : {
+    "message" : "Propósito",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.accessibility_options.title.help_text" : {
+    "message" : "Este texto será leído por los lectores de pantalla para describir el icono.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.accessibility_options.title.label" : {
+    "message" : "Título",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.icon.label" : {
+    "message" : "Ícono",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.label" : {
+    "message" : "Ícono",
+    "description" : "",
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "Tarjeta de servicio",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.background.color.label" : {
+    "message" : "Color",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.background.label" : {
+    "message" : "Fondo",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.border.border.label" : {
+    "message" : "Borde",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.border.label" : {
+    "message" : "Borde",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.corner.label" : {
+    "message" : "Esquina",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.corner.radius.label" : {
+    "message" : "Radio",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.height.label" : {
+    "message" : "Alto",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.height.min_height.label" : {
+    "message" : "Altura mínima",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.label" : {
+    "message" : "Tarjeta",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.dark" : {
+    "message" : "Oscuro",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.light" : {
+    "message" : "Claro",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.plain" : {
+    "message" : "Sin formato",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.label" : {
+    "message" : "Estilo de tarjeta",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.help_text" : {
+    "message" : "Usa valores preestablecidos para un rápido ajuste de la apariencia del elemento seleccionado con valores predefinidos.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.label" : {
+    "message" : "Ajustes preestablecidos",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.spacing.label" : {
+    "message" : "Espaciado",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.spacing.spacing.label" : {
+    "message" : "Espaciado",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.alignment.alignment.default.horizontal_align" : {
+    "message" : "CENTRO",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.alignment.alignment.label" : {
+    "message" : "Alineación",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.alignment.label" : {
+    "message" : "Alineación",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.background.color.label" : {
+    "message" : "Color",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.background.label" : {
+    "message" : "Fondo",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.corner.label" : {
+    "message" : "Esquina",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.corner.radius.label" : {
+    "message" : "Radio",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.fill.color.label" : {
+    "message" : "Color",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.fill.label" : {
+    "message" : "Relleno",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.label" : {
+    "message" : "Ícono",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.help_text" : {
+    "message" : "Usa valores preestablecidos para un rápido ajuste de la apariencia del elemento seleccionado con valores predefinidos.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_color.choices.dark" : {
+    "message" : "Oscuro",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_color.choices.light" : {
+    "message" : "Claro",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_color.label" : {
+    "message" : "Color del ícono",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_shape.choices.circle" : {
+    "message" : "Círculo",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_shape.choices.square" : {
+    "message" : "Cuadrado",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_shape.label" : {
+    "message" : "Forma del ícono",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_size.choices.large" : {
+    "message" : "Grande",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_size.choices.regular" : {
+    "message" : "Normal",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_size.choices.small" : {
+    "message" : "Pequeño",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_size.label" : {
+    "message" : "Tamaño de ícono",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.label" : {
+    "message" : "Ajustes preestablecidos",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.size.label" : {
+    "message" : "Tamaño",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.spacing.label" : {
+    "message" : "Espaciado",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.spacing.spacing.label" : {
+    "message" : "Espaciado",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "Estilos",
+    "description" : "",
+    "placeholders" : null
+  }
+}

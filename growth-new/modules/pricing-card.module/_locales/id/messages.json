@@ -1,0 +1,622 @@
+{
+  "button.add_icon.label" : {
+    "message" : "Tambahkan ikon",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.button_link.label" : {
+    "message" : "Tautan tombol",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.button_target.choices.custom_link" : {
+    "message" : "Lainnya",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.button_target.choices.payment_link" : {
+    "message" : "Gunakan tautan pembayaran",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.button_target.label" : {
+    "message" : "Target tombol",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.button_text.default" : {
+    "message" : "Beli starter sekarang",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.button_text.label" : {
+    "message" : "Teks tombol",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.checkout_behavior.choices.new_tab" : {
+    "message" : "Buka di tab baru",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.checkout_behavior.choices.overlay" : {
+    "message" : "Geser overlay",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.checkout_behavior.label" : {
+    "message" : "Perilaku checkout",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.icon.icon.label" : {
+    "message" : "Ikon",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.icon.label" : {
+    "message" : "Ikon",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.icon.position.choices.left" : {
+    "message" : "Kiri",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.icon.position.choices.right" : {
+    "message" : "Kanan",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.icon.position.label" : {
+    "message" : "Posisi",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.label" : {
+    "message" : "Tombol",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.payment_link.label" : {
+    "message" : "Tautan pembayaran",
+    "description" : "",
+    "placeholders" : null
+  },
+  "default_text.close_checkout.default" : {
+    "message" : "Tutup checkout",
+    "description" : "",
+    "placeholders" : null
+  },
+  "default_text.close_checkout.label" : {
+    "message" : "Tutup checkout",
+    "description" : "",
+    "placeholders" : null
+  },
+  "default_text.label" : {
+    "message" : "Teks default",
+    "description" : "",
+    "placeholders" : null
+  },
+  "heading.heading.default" : {
+    "message" : "<h3>Starter</h3>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "heading.heading.label" : {
+    "message" : "Judul",
+    "description" : "",
+    "placeholders" : null
+  },
+  "heading.label" : {
+    "message" : "Judul",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list.icon.label" : {
+    "message" : "Ikon",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list.label" : {
+    "message" : "Daftar",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list.list_items.content.default" : {
+    "message" : "Lorem ipsum dolor sit amet, consectetur",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list.list_items.content.label" : {
+    "message" : "Konten",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list.list_items.icon.label" : {
+    "message" : "Ikon",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list.list_items.label" : {
+    "message" : "Daftar Item",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list.use_custom_bullet_points.label" : {
+    "message" : "Gunakan titik khusus",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list.use_same_icon_for_all_list_items.label" : {
+    "message" : "Gunakan ikon yang sama untuk semua item daftar",
+    "description" : "",
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "Kartu harga",
+    "description" : "",
+    "placeholders" : null
+  },
+  "price.label" : {
+    "message" : "Harga",
+    "description" : "",
+    "placeholders" : null
+  },
+  "price.price.default" : {
+    "message" : "<h4>$50/bulan</h4>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "price.price.label" : {
+    "message" : "Harga",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.alignment.alignment.label" : {
+    "message" : "Penjajaran",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.alignment.label" : {
+    "message" : "Penjajaran",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.background.color.label" : {
+    "message" : "Warna",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.background.label" : {
+    "message" : "Latar belakang",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.border.border.label" : {
+    "message" : "Batasan",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.border.label" : {
+    "message" : "Batasan",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.corner.label" : {
+    "message" : "Pojok",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.corner.radius.label" : {
+    "message" : "Radius",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.hover.background.color.label" : {
+    "message" : "Warna",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.hover.background.label" : {
+    "message" : "Latar belakang",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.hover.border.border.label" : {
+    "message" : "Batasan",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.hover.border.label" : {
+    "message" : "Batasan",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.hover.label" : {
+    "message" : "Arahkan",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.hover.text.font.label" : {
+    "message" : "Huruf",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.hover.text.label" : {
+    "message" : "Teks",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.label" : {
+    "message" : "Tombol",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.button_size.choices.large" : {
+    "message" : "Besar",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.button_size.choices.regular" : {
+    "message" : "Reguler",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.button_size.choices.small" : {
+    "message" : "Kecil",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.button_size.label" : {
+    "message" : "Ukuran tombol",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.button_style.choices.primary" : {
+    "message" : "Utama",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.button_style.choices.secondary" : {
+    "message" : "Sekunder",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.button_style.choices.simple" : {
+    "message" : "Sederhana",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.button_style.label" : {
+    "message" : "Gaya tombol",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.help_text" : {
+    "message" : "Gunakan prasetel untuk menyesuaikan tampilan item yang dipilih dengan cepat ke nilai yang telah ditentukan.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.label" : {
+    "message" : "Prasetel",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.spacing.label" : {
+    "message" : "Spasi",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.spacing.spacing.label" : {
+    "message" : "Spasi",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.text.font.label" : {
+    "message" : "Huruf",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.text.label" : {
+    "message" : "Teks",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.text.transform.choices.capitalize" : {
+    "message" : "Kapitalkan",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.text.transform.choices.lowercase" : {
+    "message" : "Huruf kecil",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.text.transform.choices.none" : {
+    "message" : "Nihil",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.text.transform.choices.uppercase" : {
+    "message" : "Huruf besar",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.text.transform.label" : {
+    "message" : "Transformasi",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.background.color.label" : {
+    "message" : "Warna",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.background.label" : {
+    "message" : "Latar belakang",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.border.border.label" : {
+    "message" : "Batasan",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.border.label" : {
+    "message" : "Batasan",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.corner.label" : {
+    "message" : "Pojok",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.corner.radius.label" : {
+    "message" : "Radius",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.height.label" : {
+    "message" : "Tinggi",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.height.min_height.label" : {
+    "message" : "Tinggi minimum",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.label" : {
+    "message" : "Kartu",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.dark" : {
+    "message" : "Gelap",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.light" : {
+    "message" : "Cahaya",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.plain" : {
+    "message" : "Polos",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.label" : {
+    "message" : "Gaya kartu",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.help_text" : {
+    "message" : "Gunakan prasetel untuk menyesuaikan tampilan item yang dipilih dengan cepat ke nilai yang telah ditentukan.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.label" : {
+    "message" : "Prasetel",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.spacing.label" : {
+    "message" : "Spasi",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.spacing.spacing.label" : {
+    "message" : "Spasi",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.heading.background.color.label" : {
+    "message" : "Warna",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.heading.background.label" : {
+    "message" : "Latar belakang",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.heading.label" : {
+    "message" : "Judul",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.heading.spacing.label" : {
+    "message" : "Spasi",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.heading.spacing.spacing.label" : {
+    "message" : "Spasi",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "Gaya",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.background.color.label" : {
+    "message" : "Warna",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.background.label" : {
+    "message" : "Latar belakang",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.corner.label" : {
+    "message" : "Pojok",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.corner.radius.label" : {
+    "message" : "Radius",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.fill.color.label" : {
+    "message" : "Warna",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.fill.label" : {
+    "message" : "Isian",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.label" : {
+    "message" : "Ikon",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.help_text" : {
+    "message" : "Gunakan prasetel untuk menyesuaikan tampilan item yang dipilih dengan cepat ke nilai yang telah ditentukan.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_color.choices.dark" : {
+    "message" : "Gelap",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_color.choices.light" : {
+    "message" : "Cahaya",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_color.label" : {
+    "message" : "Warna ikon",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_shape.choices.circle" : {
+    "message" : "Lingkaran",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_shape.choices.square" : {
+    "message" : "Kotak",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_shape.label" : {
+    "message" : "Bentuk ikon",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_size.choices.large" : {
+    "message" : "Besar",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_size.choices.regular" : {
+    "message" : "Reguler",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_size.choices.small" : {
+    "message" : "Kecil",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_size.label" : {
+    "message" : "Ukuran ikon",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.label" : {
+    "message" : "Prasetel",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.size.label" : {
+    "message" : "Ukuran",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.size.size.label" : {
+    "message" : "Ukuran",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.spacing.label" : {
+    "message" : "Spasi",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.spacing.spacing.label" : {
+    "message" : "Spasi",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.label" : {
+    "message" : "Daftar",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.list_items.label" : {
+    "message" : "Daftar Item",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.list_items.spacing.between_icon_and_list_items.label" : {
+    "message" : "Antar-ikon dan daftar item",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.list_items.spacing.between_list_items.label" : {
+    "message" : "Antar-daftar item",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.list_items.spacing.label" : {
+    "message" : "Spasi",
+    "description" : "",
+    "placeholders" : null
+  },
+  "subheading.label" : {
+    "message" : "Subjudul",
+    "description" : "",
+    "placeholders" : null
+  },
+  "subheading.subheading.default" : {
+    "message" : "<h5>Beberapa fitur penting</h5>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "subheading.subheading.label" : {
+    "message" : "Subjudul",
+    "description" : "",
+    "placeholders" : null
+  }
+}

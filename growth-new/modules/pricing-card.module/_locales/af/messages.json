@@ -1,0 +1,622 @@
+{
+  "button.add_icon.label" : {
+    "message" : "Voeg ikoon by",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.button_link.label" : {
+    "message" : "Knoppie-skakel",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.button_target.choices.custom_link" : {
+    "message" : "Ander",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.button_target.choices.payment_link" : {
+    "message" : "Gebruik 'n betalingskakel",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.button_target.label" : {
+    "message" : "Knoppieteiken",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.button_text.default" : {
+    "message" : "Koop beginnersplan nou",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.button_text.label" : {
+    "message" : "Knoppieteks",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.checkout_behavior.choices.new_tab" : {
+    "message" : "Maak in 'n nuwe oortjie oop",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.checkout_behavior.choices.overlay" : {
+    "message" : "Glyende oorlegsel",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.checkout_behavior.label" : {
+    "message" : "Betalingsgedrag",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.icon.icon.label" : {
+    "message" : "Ikoon",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.icon.label" : {
+    "message" : "Ikoon",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.icon.position.choices.left" : {
+    "message" : "Links",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.icon.position.choices.right" : {
+    "message" : "Regs",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.icon.position.label" : {
+    "message" : "Posisie",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.label" : {
+    "message" : "Knoppie",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.payment_link.label" : {
+    "message" : "Betalingskakel",
+    "description" : "",
+    "placeholders" : null
+  },
+  "default_text.close_checkout.default" : {
+    "message" : "Sluit betaalpunt",
+    "description" : "",
+    "placeholders" : null
+  },
+  "default_text.close_checkout.label" : {
+    "message" : "Sluit betaalpunt",
+    "description" : "",
+    "placeholders" : null
+  },
+  "default_text.label" : {
+    "message" : "Verstekteks",
+    "description" : "",
+    "placeholders" : null
+  },
+  "heading.heading.default" : {
+    "message" : "<h3>Beginnersplan</h3>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "heading.heading.label" : {
+    "message" : "Opskrif",
+    "description" : "",
+    "placeholders" : null
+  },
+  "heading.label" : {
+    "message" : "Opskrif",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list.icon.label" : {
+    "message" : "Ikoon",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list.label" : {
+    "message" : "Lys",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list.list_items.content.default" : {
+    "message" : "Lorem ipsum dolor sit amet, consectetur",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list.list_items.content.label" : {
+    "message" : "Inhoud",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list.list_items.icon.label" : {
+    "message" : "Ikoon",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list.list_items.label" : {
+    "message" : "Lysitems",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list.use_custom_bullet_points.label" : {
+    "message" : "Gebruik aangepaste koeëlpunte",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list.use_same_icon_for_all_list_items.label" : {
+    "message" : "Gebruik dieselfde ikoon vir alle lysitems",
+    "description" : "",
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "Pryskaart",
+    "description" : "",
+    "placeholders" : null
+  },
+  "price.label" : {
+    "message" : "Prys",
+    "description" : "",
+    "placeholders" : null
+  },
+  "price.price.default" : {
+    "message" : "<h4>$50/maand</h4>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "price.price.label" : {
+    "message" : "Prys",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.alignment.alignment.label" : {
+    "message" : "Belyning",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.alignment.label" : {
+    "message" : "Belyning",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.background.color.label" : {
+    "message" : "Kleur",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.background.label" : {
+    "message" : "Agtergrond",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.border.border.label" : {
+    "message" : "Raam",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.border.label" : {
+    "message" : "Raam",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.corner.label" : {
+    "message" : "Hoek",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.corner.radius.label" : {
+    "message" : "Radius",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.hover.background.color.label" : {
+    "message" : "Kleur",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.hover.background.label" : {
+    "message" : "Agtergrond",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.hover.border.border.label" : {
+    "message" : "Raam",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.hover.border.label" : {
+    "message" : "Raam",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.hover.label" : {
+    "message" : "Sweef",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.hover.text.font.label" : {
+    "message" : "Font",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.hover.text.label" : {
+    "message" : "Teks",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.label" : {
+    "message" : "Knoppie",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.button_size.choices.large" : {
+    "message" : "Groot",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.button_size.choices.regular" : {
+    "message" : "Gewone",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.button_size.choices.small" : {
+    "message" : "Klein",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.button_size.label" : {
+    "message" : "Knoppiegrootte",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.button_style.choices.primary" : {
+    "message" : "Primêre",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.button_style.choices.secondary" : {
+    "message" : "Sekondêre",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.button_style.choices.simple" : {
+    "message" : "Eenvoudig",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.button_style.label" : {
+    "message" : "Knoppiestyl",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.help_text" : {
+    "message" : "Gebruik voorafinstellings om die voorkoms van die geselekteerde item vinnig na voorafgedefinieerde waardes te verstel.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.label" : {
+    "message" : "Voorafinstellings",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.spacing.label" : {
+    "message" : "Spasiëring",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.spacing.spacing.label" : {
+    "message" : "Spasiëring",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.text.font.label" : {
+    "message" : "Font",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.text.label" : {
+    "message" : "Teks",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.text.transform.choices.capitalize" : {
+    "message" : "Kapitaliseer",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.text.transform.choices.lowercase" : {
+    "message" : "Kleinletters",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.text.transform.choices.none" : {
+    "message" : "Geen",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.text.transform.choices.uppercase" : {
+    "message" : "Hoofletters",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.text.transform.label" : {
+    "message" : "Transformeer",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.background.color.label" : {
+    "message" : "Kleur",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.background.label" : {
+    "message" : "Agtergrond",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.border.border.label" : {
+    "message" : "Raam",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.border.label" : {
+    "message" : "Raam",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.corner.label" : {
+    "message" : "Hoek",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.corner.radius.label" : {
+    "message" : "Radius",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.height.label" : {
+    "message" : "Hoogte",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.height.min_height.label" : {
+    "message" : "Minimum hoogte",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.label" : {
+    "message" : "Kaart",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.dark" : {
+    "message" : "Donker",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.light" : {
+    "message" : "Lig",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.plain" : {
+    "message" : "Gewoon",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.label" : {
+    "message" : "Kaartstyl",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.help_text" : {
+    "message" : "Gebruik voorafinstellings om die voorkoms van die geselekteerde item vinnig na voorafgedefinieerde waardes te verstel.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.label" : {
+    "message" : "Voorafinstellings",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.spacing.label" : {
+    "message" : "Spasiëring",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.spacing.spacing.label" : {
+    "message" : "Spasiëring",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.heading.background.color.label" : {
+    "message" : "Kleur",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.heading.background.label" : {
+    "message" : "Agtergrond",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.heading.label" : {
+    "message" : "Opskrif",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.heading.spacing.label" : {
+    "message" : "Spasiëring",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.heading.spacing.spacing.label" : {
+    "message" : "Spasiëring",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "Style",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.background.color.label" : {
+    "message" : "Kleur",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.background.label" : {
+    "message" : "Agtergrond",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.corner.label" : {
+    "message" : "Hoek",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.corner.radius.label" : {
+    "message" : "Radius",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.fill.color.label" : {
+    "message" : "Kleur",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.fill.label" : {
+    "message" : "Vul",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.label" : {
+    "message" : "Ikone",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.help_text" : {
+    "message" : "Gebruik voorafinstellings om die voorkoms van die geselekteerde item vinnig na voorafgedefinieerde waardes te verstel.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_color.choices.dark" : {
+    "message" : "Donker",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_color.choices.light" : {
+    "message" : "Lig",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_color.label" : {
+    "message" : "Ikoonkleur",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_shape.choices.circle" : {
+    "message" : "Sirkel",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_shape.choices.square" : {
+    "message" : "Vierkantig",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_shape.label" : {
+    "message" : "Ikoonvorm",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_size.choices.large" : {
+    "message" : "Groot",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_size.choices.regular" : {
+    "message" : "Gewone",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_size.choices.small" : {
+    "message" : "Klein",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_size.label" : {
+    "message" : "Ikoongrootte",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.label" : {
+    "message" : "Voorafinstellings",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.size.label" : {
+    "message" : "Grootte",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.size.size.label" : {
+    "message" : "Grootte",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.spacing.label" : {
+    "message" : "Spasiëring",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.spacing.spacing.label" : {
+    "message" : "Spasiëring",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.label" : {
+    "message" : "Lys",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.list_items.label" : {
+    "message" : "Lysitems",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.list_items.spacing.between_icon_and_list_items.label" : {
+    "message" : "Tussen ikoon en lysitem",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.list_items.spacing.between_list_items.label" : {
+    "message" : "Tussen lysitems",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.list_items.spacing.label" : {
+    "message" : "Spasiëring",
+    "description" : "",
+    "placeholders" : null
+  },
+  "subheading.label" : {
+    "message" : "Subopskrif",
+    "description" : "",
+    "placeholders" : null
+  },
+  "subheading.subheading.default" : {
+    "message" : "<h5>Sommige sleuteleienskappe</h5>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "subheading.subheading.label" : {
+    "message" : "Subopskrif",
+    "description" : "",
+    "placeholders" : null
+  }
+}

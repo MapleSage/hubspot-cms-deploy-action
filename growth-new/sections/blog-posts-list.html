@@ -1,0 +1,38 @@
+<!--
+  templateType: section
+  label: Blog posts - list
+  isAvailableForNewContent: true
+  screenshotPath: ../images/section-previews/blog-posts-list.png
+  description: "Middle centered title and subtitle above a column of recent blog posts with an image, title, text, and button for each."
+-->
+{% set template_translations = load_translations('../templates/_locales', html_lang, 'en') %}
+{% set anchor_tag = '<a id="{{ context.anchor_id }}" data-hs-anchor="true"></a>' %}
+
+{% dnd_section
+  background_color={{ context.background_color }}
+%}
+  {% dnd_column %}
+    {% dnd_row
+      margin={
+        "bottom": 22
+      }
+    %}
+      {% dnd_module path="@hubspot/rich_text" %}
+        {% module_attribute "html" %}
+          <div style="text-align: center;">
+            {{ anchor_tag if context.anchor_id }}
+            <h2>{{ context.heading or template_translations.section_blog_posts_list_heading.message }}</h2>
+            <p>{{ context.content or template_translations.placeholder_content_one.message }}</p>
+          </div>
+        {% end_module_attribute %}
+      {% end_dnd_module %}
+    {% end_dnd_row %}
+    {% dnd_row %}
+      {% dnd_module path="../modules/recent-posts"
+          layout_style="list"
+          select_blog={{ context.blog_id or "default" }}
+      %}
+      {% end_dnd_module %}
+    {% end_dnd_row %}
+  {% end_dnd_column %}
+{% end_dnd_section %}

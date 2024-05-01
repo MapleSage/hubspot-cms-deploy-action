@@ -1,0 +1,197 @@
+{
+  "icon.label" : {
+    "message" : "Ikona",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list_items.content.default" : {
+    "message" : "<h3>Stavka popisa</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.</p>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list_items.content.label" : {
+    "message" : "Sadržaj",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list_items.icon.label" : {
+    "message" : "Ikona",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list_items.label" : {
+    "message" : "Stavke popisa",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list_type.choices.ol" : {
+    "message" : "Numeriran popis",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list_type.choices.ul" : {
+    "message" : "Nenumeriran popis",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list_type.label" : {
+    "message" : "Vrsta popisa",
+    "description" : "",
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "Popis",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.background.color.label" : {
+    "message" : "Boja",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.background.label" : {
+    "message" : "Pozadina",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.corner.label" : {
+    "message" : "Kut",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.corner.radius.label" : {
+    "message" : "Polumjer",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.fill.color.label" : {
+    "message" : "Boja",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.fill.label" : {
+    "message" : "Ispuni",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.label" : {
+    "message" : "Ikone",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.help_text" : {
+    "message" : "Pomoću zadanih postavki brzo prilagodite izgled odabrane stavke prema unaprijed određenim vrijednostima.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_color.choices.dark" : {
+    "message" : "Tamno",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_color.choices.light" : {
+    "message" : "Svijetlo",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_color.label" : {
+    "message" : "Boja ikone",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_shape.choices.circle" : {
+    "message" : "Krug",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_shape.choices.square" : {
+    "message" : "Kvadrat",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_shape.label" : {
+    "message" : "Oblik ikone",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_size.choices.large" : {
+    "message" : "Velika",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_size.choices.regular" : {
+    "message" : "Uobičajena",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_size.choices.small" : {
+    "message" : "Mala",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_size.label" : {
+    "message" : "Veličina ikone",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.label" : {
+    "message" : "Zadane postavke",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.size.label" : {
+    "message" : "Veličina",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.size.size.label" : {
+    "message" : "Veličina",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.spacing.label" : {
+    "message" : "Razmak",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.spacing.spacing.label" : {
+    "message" : "Razmak",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "Stilovi",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list_items.label" : {
+    "message" : "Stavke popisa",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list_items.spacing.between_icon_and_list_items.label" : {
+    "message" : "Između ikone i stavke popisa",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list_items.spacing.between_list_items.label" : {
+    "message" : "Između stavki popisa",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list_items.spacing.label" : {
+    "message" : "Razmak",
+    "description" : "",
+    "placeholders" : null
+  },
+  "use_custom_bullet_points.label" : {
+    "message" : "Upotrijebi prilagođene grafičke oznake",
+    "description" : "",
+    "placeholders" : null
+  },
+  "use_same_icon_for_all_list_items.label" : {
+    "message" : "Upotrijebi istu ikonu za sve stavke popisa",
+    "description" : "",
+    "placeholders" : null
+  }
+}

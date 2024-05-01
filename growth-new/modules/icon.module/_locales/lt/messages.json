@@ -1,0 +1,182 @@
+{
+  "accessibility_options.label" : {
+    "message" : "Pritaikymo neįgaliesiems parinktys",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accessibility_options.purpose.choices.decorative" : {
+    "message" : "Nustatyti, kad nepaisytų ekrano skaitytuvas",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accessibility_options.purpose.choices.semantic" : {
+    "message" : "Leisti skaityti ekrano skaitytuvui",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accessibility_options.purpose.help_text" : {
+    "message" : "Kategorizuoti šios piktogramos tikslą ekrano skaitytojams. <a href='https://www.w3.org/WAI/tutorials/images/' target='_blank' rel='noopener noreferrer'>Sužinoti daugiau</a>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accessibility_options.purpose.label" : {
+    "message" : "Tikslas",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accessibility_options.title.help_text" : {
+    "message" : "Šį piktogramą apibūdinantį tekstą skaitys ekrano skaitytojai.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accessibility_options.title.label" : {
+    "message" : "Pavadinimas",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.label" : {
+    "message" : "Piktograma",
+    "description" : "",
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "Piktograma",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.alignment.alignment.label" : {
+    "message" : "Lygiuotė",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.alignment.label" : {
+    "message" : "Lygiuotė",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.background.color.label" : {
+    "message" : "Spalva",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.background.label" : {
+    "message" : "Fonas",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.corner.label" : {
+    "message" : "Kampas",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.corner.radius.label" : {
+    "message" : "Spindulys",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.fill.color.label" : {
+    "message" : "Spalva",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.fill.label" : {
+    "message" : "Užpildyti",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "Stiliai",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.help_text" : {
+    "message" : "Naudokite iš anksto paruoštus šablonus, kad greitai pakoreguotumėte pasirinktų objektų vaizdą pagal iš anksto numatytas vertes.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_color.choices.dark" : {
+    "message" : "Tamsu",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_color.choices.light" : {
+    "message" : "Šviesu",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_color.label" : {
+    "message" : "Piktogramos spalva",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_shape.choices.circle" : {
+    "message" : "Apskritimas",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_shape.choices.square" : {
+    "message" : "Kvadratas",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_shape.label" : {
+    "message" : "Piktogramos forma",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_size.choices.large" : {
+    "message" : "Didelis",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_size.choices.regular" : {
+    "message" : "Įprastas",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_size.choices.small" : {
+    "message" : "Mažas",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_size.label" : {
+    "message" : "Piktogramos dydis",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.label" : {
+    "message" : "Iš anksto paruošti šablonai",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.size.label" : {
+    "message" : "Dydis",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.size.size.label" : {
+    "message" : "Dydis",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.spacing.force_full_width.help_text" : {
+    "message" : "Priverčia mygtuką užimti visą įmanomą horizontalią erdvę. Vis dėlto mygtukas neišsikiš už nustatytų viršutinių ir šoninių paraščių ribų.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.spacing.force_full_width.label" : {
+    "message" : "Priverstinis naudojimas per visą plotį",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.spacing.label" : {
+    "message" : "Tarpai",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.spacing.spacing.label" : {
+    "message" : "Tarpai",
+    "description" : "",
+    "placeholders" : null
+  }
+}

@@ -1,0 +1,223 @@
+[
+  {
+    "name": "banner",
+    "type": "group",
+    "children": [
+      {
+        "name": "background_image",
+        "type": "image",
+        "description": "A background image for a website section. The image should be darker (contain an overlay) so that white text will pass color contrast accessibility rules. The image must not include any text. It must be related to the focus of the page.",
+        "width": 1792,
+        "height": 1024
+      },
+      {
+        "name": "preface",
+        "type": "text",
+        "description": "A very short heading describing what the page focus is. Must be less than six words long."
+      },
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that describes the focus of the page. Will be supported by the banner content."
+      },
+      {
+        "name": "content",
+        "type": "text",
+        "description": "A small summary of what the page will be about. Should support the heading."
+      },
+      {
+        "name": "call_to_action",
+        "type": "text",
+        "description": "The text used in the banner button. Should be related to the main action of the page. For example if the focus of the page is to register for the event this might say 'Register now'. Must not be more than 3 words."
+      }
+    ]
+  },
+  {
+    "name": "logo_wall",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that preceeds a logo wall on a webpage. Must be relevant to the page focus and why logos would be helpful on this page."
+      }
+    ]
+  },
+  {
+    "name": "features",
+    "type": "group",
+    "children": [
+      {
+        "name": "feature_one",
+        "type": "group",
+        "children": [
+          {
+            "name": "image",
+            "type": "image",
+            "description": "An image related to the main feature of this section. Will be used on a website as a feature's supporting image. Should either be a graphic design or realistic. But it cannot contain any text or text-like elements.",
+            "width": 497,
+            "height": 284
+          },
+          {
+            "name": "heading",
+            "type": "text",
+            "description": "A featured point of the focus of the page. Should be related to the following content section."
+          },
+          {
+            "name": "content",
+            "type": "text",
+            "description": "A description of a feature or highlight related to the focus of the page. Should be about two to three sentences long."
+          }
+        ]
+      },
+      {
+        "name": "feature_two",
+        "type": "group",
+        "children": [
+          {
+            "name": "image",
+            "type": "image",
+            "description": "An image related to the main feature of this section. Will be used on a website as a feature's supporting image. Should either be a graphic design or realistic. But it cannot contain any text or text-like elements.",
+            "width": 497,
+            "height": 284
+          },
+          {
+            "name": "heading",
+            "type": "text",
+            "description": "A featured point of the focus of the page. Should be related to the following content section"
+          },
+          {
+            "name": "content",
+            "type": "text",
+            "description": "A description of a feature or highlight related to the focus of the page. Should be about two to three sentences long."
+          }
+        ]
+      },
+      {
+        "name": "feature_three",
+        "type": "group",
+        "children": [
+          {
+            "name": "image",
+            "type": "image",
+            "description": "An image related to the main feature of this section. Will be used on a website as a feature's supporting image. Should either be a graphic design or realistic. But it cannot contain any text or text-like elements.",
+            "width": 497,
+            "height": 284
+          },
+          {
+            "name": "heading",
+            "type": "text",
+            "description": "A featured point of the focus of the page. Should be related to the following content section"
+          },
+          {
+            "name": "content",
+            "type": "text",
+            "description": "A description of a feature or highlight related to the focus of the page. Should be about two to three sentences long."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "call_to_action",
+    "type": "group",
+    "children": [
+      {
+        "name": "background_image",
+        "type": "image",
+        "description": "A background image for a website section. The image should be darker (contain an overlay) so that white text will pass color contrast accessibility rules. The image must not include any text. It must be related to the focus of the page.",
+        "width": 1792,
+        "height": 1024
+      },
+      {
+        "name": "preface",
+        "type": "text",
+        "description": "A catchy phrase that introduces the a call to action section. Captivating and short."
+      },
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A final sentence that should drive engagement for a visitor to click on the button below."
+      },
+      {
+        "name": "button_text",
+        "type": "text",
+        "description": "The text used in the button. Should be related to the main action of the page. For example if the focus of the page is to register for the event this might say 'Register now'."
+      }
+    ]
+  },
+  {
+    "name": "form_content_area",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that describes the page, which is intended to suggest what a visitor might obtain by filling out the form."
+      },
+      {
+        "name": "content_p_one",
+        "type": "text",
+        "description": "A captivating introduction that sets the stage for the resource’s content, it addresses the visitor’s challenges or goals and explains how the resource will help solve them."
+      },
+      {
+        "name": "content_highlight",
+        "type": "text",
+        "description": "A very short heading describing the bullets that are in the following section. Must end with a colon ':'."
+      },
+      {
+        "name": "benefit_one",
+        "type": "group",
+        "children": [
+          {
+            "name": "bold_heading",
+            "type": "text",
+            "description": "This is a short two to three word heading describing the benefit"
+          },
+          {
+            "name": "benefit",
+            "type": "text",
+            "description": "This is a short description of a benefit received from the resource provided. It should relate to the benefit_one bold_heading"
+          }
+        ]
+      },
+      {
+        "name": "benefit_two",
+        "type": "group",
+        "children": [
+          {
+            "name": "bold_heading",
+            "type": "text",
+            "description": "This is a short two to three word heading describing the benefit"
+          },
+          {
+            "name": "benefit",
+            "type": "text",
+            "description": "This is a short description of a benefit received from the resource provided. It should relate to the benefit_two bold_heading"
+          }
+        ]
+      },
+      {
+        "name": "benefit_three",
+        "type": "group",
+        "children": [
+          {
+            "name": "bold_heading",
+            "type": "text",
+            "description": "This is a short two to three word heading describing the benefit"
+          },
+          {
+            "name": "benefit",
+            "type": "text",
+            "description": "This is a short description of a benefit received from the resource provided. It should relate to the benefit_three bold_heading"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "form",
+    "type": "form",
+    "description": "This is a form that is related to the focus of the page. It could fallback to a contact form if no form type is applicable."
+  }
+]

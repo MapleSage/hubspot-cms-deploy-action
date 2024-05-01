@@ -1,0 +1,1662 @@
+{
+  "partial_header_skip_to_content": {
+    "message": "Απευθείας μετάβαση στο περιεχόμενο",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_address": {
+    "message": "Ανθέων 123, 11111 Πόλη, Νομός",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_copyright": {
+    "message": "Πνευματικά δικαιώματα © {{ year }}, {{ site_settings.company_name }}",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_one": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_two": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_three": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "about_banner_heading": {
+    "message": "Σχετικά με εμάς",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_one": {
+    "message": "Η ιστορία μας",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_two": {
+    "message": "ΟΙ αξίες μας",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_three": {
+    "message": "Η ιστορία μας",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_four": {
+    "message": "Η ομάδα μας",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_five": {
+    "message": "Η κουλτούρα μας",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_six": {
+    "message": "Εταιρικά νέα",
+    "description": "",
+    "placeholders": null
+  },
+  "about_image_alt_text": {
+    "message": "Εταιρεία",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_one_title": {
+    "message": "Διευθύνων σύμβουλος και ιδρυτής",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_two_title": {
+    "message": "Διευθύνων σύμβουλος",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_three_title": {
+    "message": "Διευθυντής τεχνολογίας",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_four_title": {
+    "message": "Οικονομικός διευθυντής",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_five_title": {
+    "message": "Διευθυντής σχεδιασμού",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_six_title": {
+    "message": "Διευθυντής ανθρώπινου δυναμικού",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_description": {
+    "message": "Επισημάνετε τη μοναδική εμπειρογνωσία, εμπειρία και ενδιαφέροντα του μέλους της ομάδας σας. Διατηρήστε το συνοπτικό αλλά ελκυστικό, παρουσιάζοντας το επαγγελματικό του ταξίδι και τις πολύτιμες δεξιότητες του.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_index_heading": {
+    "message": "Ιστολόγιο",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_heading": {
+    "message": "Σχόλια ιστολογίου",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_heading": {
+    "message": "Growth Conference",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_date": {
+    "message": "5 - 8 Σεπτεμβρίου",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_text": {
+    "message": "Λάβετε εισιτήρια",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_content": {
+    "message": "Λάβετε εισιτήρια",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_one": {
+    "message": "Αγορά τώρα",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_two": {
+    "message": "Αγορά εισιτηρίων",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_one": {
+    "message": "Πληροφορίες",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_two": {
+    "message": "Πίνακας ομιλητών",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_three": {
+    "message": "Χορηγοί",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_four": {
+    "message": "Προσθέστε μια φράση-κλειδί για το βίντεό σας",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_five": {
+    "message": "Μαρτυρίες",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_six": {
+    "message": "Εισιτήρια",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_one": {
+    "message": "Το Growth Conference είναι ένα πρότυπο που μπορεί να χρησιμοποιηθεί για να δείξει στους πελάτες την αξία που μπορεί να τους προσφέρει το συνέδριο εκδήλωσης του οργανισμού σας. Περιγράψτε το θέμα του συνεδρίου σας και γιατί οι πελάτες πρέπει να αγοράζουν εισιτήρια.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_two": {
+    "message": "Προσθέστε μια σύντομη περιγραφή των ομιλητών σας εδώ. Γιατί να τους ακούσει το ακροατήριό σας; Υπάρχει κάποιο θέμα που θα καλύψουν όλοι στις ομιλίες τους; Τι τους κάνει μοναδικούς; Χρησιμοποιήστε αυτό το χώρο για να δώσετε στον αναγνώστη μια αίσθηση του γιατί αυτοί είναι οι ομιλητές που θέλετε να παρουσιάσετε.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_three": {
+    "message": "Συνοψίστε τη βιογραφία του ομιλητή σας εδώ. Μπορείτε επίσης να προσθέσετε μια πρόταση σχετικά με το θέμα της παρουσίασής τους.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_four": {
+    "message": "&ldquo;Αυτή είναι η ευκαιρία σας να δώσετε κοινωνικές αποδείξεις για το πόσο σπουδαία είναι η εκδήλωσή σας. Προσθέστε μαρτυρίες που βοηθούν τους ανθρώπους να κατανοήσουν την αξία της εκδήλωσής σας.&rdquo;",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_five": {
+    "message": "Περιγράψτε το θέμα του συνεδρίου σας, δώστε στους πιθανούς πελάτες σας μια ιδέα για το τι συμβαίνει στο συνέδριο και πείτε τους γιατί πρέπει να αγοράζουν εισιτήρια. Χρησιμοποιήστε αυτά τα πρότυπα για να πουλήσετε εισιτήρια για την εκδήλωσή σας ανέπαφα.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_heading": {
+    "message": "Γενική είσοδος",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_price": {
+    "message": "199$",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_heading": {
+    "message": "VIP",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_price": {
+    "message": "449$",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_one": {
+    "message": "Αναφέρετε όλα τα συναρπαστικά οφέλη που θα λάβει ο πελάτης σας εάν αγοράσει αυτό το επίπεδο.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_two": {
+    "message": "Ποιες ευκαιρίες δικτύωσης και μάθησης είναι διαθέσιμες σε αυτούς στο συνέδριο;",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_three": {
+    "message": "Σε ποια μέρη του συνεδρίου μπορούν να έχουν πρόσβαση;",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_four": {
+    "message": "Έχουν πρόσβαση σε καταγεγραμμένα προγράμματα;",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_five": {
+    "message": "Ποιες επιλογές φαγητού, μεταφοράς και διαμονής έχουν στη διάθεσή τους;",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_six": {
+    "message": "Αναφέρετε όλα τα συναρπαστικά οφέλη που θα λάβει ο VIP πελάτης σας εάν αγοράσει αυτό το επίπεδο.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_one": {
+    "message": "Διευθύνων σύμβουλος και ιδρυτής",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_two": {
+    "message": "Διευθύνων σύμβουλος",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_three": {
+    "message": "Διευθυντής τεχνολογίας",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_content": {
+    "message": "Αγορά εισιτηρίων",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_image_alt_text": {
+    "message": "Φωτογραφία ομιλητή",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_one": {
+    "message": "Επικοινωνία",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_two": {
+    "message": "Οι τοποθεσίες μας",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_three": {
+    "message": "Επικοινωνήστε μαζί μας",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_four": {
+    "message": "Συχνές ερωτήσεις",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_heading": {
+    "message": "Βιβλιοθήκη περιεχομένου",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_content": {
+    "message": "Μια βιβλιοθήκη πόρων για να σας βοηθήσει να μάθετε και να αναπτυχθείτε.",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_one": {
+    "message": "<h3>Σαν Φρανσίσκο</h3><p>3870 Twin Oaks Drive<br> Σαν Φρανσίσκο, CA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_two": {
+    "message": "<h3>Σικάγο</h3><p>2140 Roguski Road<br> Σικάγο, IL</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_three": {
+    "message": "<h3>Βοστώνη</h3><p>123 Waverly Place<br> Βοστώνη, MA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_question": {
+    "message": "Τίτλος ακορντεόν",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_heading": {
+    "message": "Η σελίδα δεν βρέθηκε",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_description": {
+    "message": "Δεν μπορείτε να βρείτε τη σελίδα που ψάχνετε;",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_button": {
+    "message": "Μετάβαση στην αρχική σελίδα",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_heading": {
+    "message": "Αυτή η σελίδα δεν λειτουργεί",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_description": {
+    "message": "Παρουσιάστηκε εσωτερικό σφάλμα διακομιστή, αλλά αναλαμβάνουμε την υπόθεση!",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_button": {
+    "message": "Μετάβαση στην αρχική σελίδα",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_heading": {
+    "message": "Λυπούμαστε, δεν έχετε πρόσβαση",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_description": {
+    "message": "Λυπούμαστε. Δεν έχετε επαρκή δικαιώματα για προβολή της σελίδας. Για ερωτήσεις, επικοινωνήστε με τον διαχειριστή του ιστότοπου.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_button": {
+    "message": "Μετάβαση στην αρχική σελίδα",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_heading": {
+    "message": "Είσοδος",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_subheading": {
+    "message": "Η σελίδα που προσπαθείτε να προβάλετε είναι διαθέσιμη μόνο σε εγγεγραμμένους χρήστες.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_email": {
+    "message": "Email",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_password": {
+    "message": "Κωδικός πρόσβασης",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_remember_me": {
+    "message": "Απομνημόνευση στοιχείων",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_reset_password": {
+    "message": "Ξεχάσατε τον κωδικό πρόσβασής σας;",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_submit": {
+    "message": "Είσοδος",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_show_password": {
+    "message": "Εμφάνιση",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_contact_admin": {
+    "message": "Αντιμετωπίζετε πρόβλημα; <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Επικοινωνήστε με τον διαχειριστή του ιστότοπου</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_heading": {
+    "message": "Έχετε αποσυνδεθεί",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_button": {
+    "message": "Είσοδος ξανά",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_alt": {
+    "message": "Ή επιστρέψτε στην <a href=\"{{ '//' ~ request.domain }}\">αρχική σελίδα</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_heading": {
+    "message": "Ρυθμίστε τον κωδικό πρόσβασής σας",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_subheading": {
+    "message": "Καλώς ορίσατε! Ολοκληρώστε την εγγραφή σας ρυθμίζοντας τον κωδικό πρόσβασής σας.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_email": {
+    "message": "Email",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_confirm_password": {
+    "message": "Επιβεβαίωση κωδικού πρόσβασης",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_password": {
+    "message": "Κωδικός πρόσβασης",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_save_password": {
+    "message": "Αποθήκευση κωδικού πρόσβασης",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_show_password": {
+    "message": "Εμφάνιση",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_contact_admin": {
+    "message": "Αντιμετωπίζετε πρόβλημα; <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Επικοινωνήστε με τον διαχειριστή του ιστότοπου</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_heading": {
+    "message": "Η διεύθυνση email σας επιβεβαιώθηκε",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_description": {
+    "message": "Ευχαριστούμε για την επαλήθευση της διεύθυνσης email σας. Μπορείτε πλέον να πραγματοποιήσετε είσοδο στον λογαριασμό σας και να αποκτήσετε πρόσβαση στο αποκλειστικό σας περιεχόμενο.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_button": {
+    "message": "Είσοδος",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_contact_admin": {
+    "message": "Αντιμετωπίζετε πρόβλημα; <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Επικοινωνήστε με τον διαχειριστή του ιστότοπου</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_heading": {
+    "message": "Δημιουργία νέου κωδικού πρόσβασης",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_subheading": {
+    "message": "Ο νέος κωδικός πρόσβασής σας πρέπει να διαφέρει από τον κωδικό πρόσβασης που είχατε χρησιμοποιήσει στο παρελθόν.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_new_password": {
+    "message": "Νέος κωδικός πρόσβασης",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_confirm_password": {
+    "message": "Επιβεβαίωση νέου κωδικού πρόσβασης",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_save_password": {
+    "message": "Αποθήκευση κωδικού πρόσβασης",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_show_password": {
+    "message": "Εμφάνιση",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_contact_admin": {
+    "message": "Αντιμετωπίζετε πρόβλημα; <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Επικοινωνήστε με τον διαχειριστή του ιστότοπου</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_heading": {
+    "message": "Επαναφορά του κωδικού πρόσβασής σας",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_subheading": {
+    "message": "Καταχωρήστε τη διεύθυνση email που χρησιμοποιήσατε για την εγγραφή και θα σας στείλουμε ένα email με μια σύνδεση για επαναφορά του κωδικού πρόσβασής σας.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_email": {
+    "message": "Email",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_submit": {
+    "message": "Αποστολή email επαναφοράς",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_alt": {
+    "message": "Μήπως απλά επανήλθε σε σας; <a href=\"/_hcms/mem/login\">Είσοδος</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_contact_admin": {
+    "message": "Αντιμετωπίζετε πρόβλημα; <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Επικοινωνήστε με τον διαχειριστή του ιστότοπου</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_heading": {
+    "message": "Επαληθεύστε τη διεύθυνση email σας",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_description": {
+    "message": "Σας ευχαριστούμε για την εγγραφή! Ελέγξτε το email σας και κάντε κλικ στον σύνδεσμο επιβεβαίωσης για να ολοκληρώσετε την εγγραφή σας.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_contact_admin": {
+    "message": "Αντιμετωπίζετε πρόβλημα; <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Επικοινωνήστε με τον διαχειριστή του ιστότοπου</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_one": {
+    "message": "Πληροφορίες",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two": {
+    "message": "Αναπτύξτε την επιχείρησή σας με συμβουλευτική επί πληρωμή",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two_update": {
+    "message": "Αναπτύξτε την επιχείρησή σας με συμβουλευτική επί πληρωμή",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_three": {
+    "message": "Μια σειρά εργαλείων στη διάθεσή σας",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_heading": {
+    "message": "Υπηρεσία",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_description": {
+    "message": "Συνοψίστε την υπηρεσία που παρέχετε. Προσθέστε ένα μήνυμα σχετικά με την αξία που μπορείτε να παρέχετε στους πελάτες σας.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_four": {
+    "message": "Μαρτυρίες",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_one": {
+    "message": "Προσθέστε έναν υπότιτλο που θα εξηγεί πώς θα παρέχετε αξία στους πελάτες σας",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_two": {
+    "message": "Προσθέστε μια σύντομη περιγραφή για την εργασία που κάνετε στην εταιρεία σας. Προσπαθήστε να περιορίσετε την εξειδίκευσή σας, ώστε να μπορέσετε να τραβήξετε την προσοχή των πελατών σας. Μιλήστε για την αξία που μπορείτε να παρέχετε μέσω συμβουλευτικής επί πληρωμή.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_list_content": {
+    "message": "&ldquo;Προσθέστε μια μαρτυρία για να εγγυηθείτε για τις υπηρεσίες σας. Γιατί οι τρέχοντες πελάτες σας είναι ενθουσιασμένοι με αυτό που προσφέρετε;&rdquo;",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_image_alt_text": {
+    "message": "Εικόνα συμβόλου κράτησης θέσης θέματος ανάπτυξης",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_button_text": {
+    "message": "Κλείστε μια συνεδρία συμβουλευτικής",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_heading": {
+    "message": "Ο κωδικός πρόσβασης απαιτείται",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_subheading": {
+    "message": "Καταχωρήστε τον κωδικό πρόσβασής σας για να δείτε αυτή τη σελίδα.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_one": {
+    "message": "Τιμολόγηση",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_plans_and_pricing_heading": {
+    "message": "Προγράμματα και τιμές",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_two": {
+    "message": "Συχνές ερωτήσεις",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_heading": {
+    "message": "Όλα τα προγράμματα περιλαμβάνουν",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_content_heading": {
+    "message": "Χαρακτηριστικό προϊόντος",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_heading": {
+    "message": "Οδηγήστε τους επισκέπτες στα προϊόντα και τις υπηρεσίες σας",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_button_text": {
+    "message": "Μάθετε περισσότερα",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_question": {
+    "message": "Τίτλος ακορντεόν",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_one": {
+    "message": "Προϊόντα",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_two": {
+    "message": "Κατασκευασμένο με γνώμονα εσάς",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_heading": {
+    "message": "Επιπλέον, ακόμη περισσότερα",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_content_heading": {
+    "message": "Χαρακτηριστικό προϊόντος",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_one": {
+    "message": "Γρήγορη έναρξη",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_two": {
+    "message": "Απλό και εύχρηστο",
+    "description": "",
+    "placeholders": null
+  },
+  "products_image_alt_text": {
+    "message": "Χαρακτηριστικό προϊόντος",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_heading": {
+    "message": "Οδηγήστε τους επισκέπτες στα προϊόντα και τις υπηρεσίες σας",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_button_text": {
+    "message": "Μάθετε περισσότερα",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_heading": {
+    "message": "Θέμα ανάπτυξης",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_button_text": {
+    "message": "Ξεκινήστε",
+    "description": "",
+    "placeholders": null
+  },
+  "home_logos_heading": {
+    "message": "Μερικοί από τους ευχαριστημένους πελάτες μας",
+    "description": "",
+    "placeholders": null
+  },
+  "home_heading": {
+    "message": "Κατασκευασμένο με γνώμονα εσάς",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_one": {
+    "message": "Γρήγορη ρύθμιση",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_two": {
+    "message": "Εύκολο στη χρήση",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_three": {
+    "message": "Προσαρμόσιμο",
+    "description": "",
+    "placeholders": null
+  },
+  "home_video_heading": {
+    "message": "Δείτε τα πράγματα σε δράση",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_heading": {
+    "message": "Μια σειρά εργαλείων στη διάθεσή σας",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_content_heading": {
+    "message": "Όνομα",
+    "description": "",
+    "placeholders": null
+  },
+  "home_image_alt_text": {
+    "message": "Όνομα",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_button_text": {
+    "message": "Μάθετε περισσότερα",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_content": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan velit sit amet sagittis malesuada.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_customer": {
+    "message": "Shaun Benson, διευθυντής μάρκετινγκ της Agriflora Inc.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_blog_post_heading": {
+    "message": "Τελευταίες αναρτήσεις",
+    "description": "",
+    "placeholders": null
+  },
+  "home_contact": {
+    "message": "Επικοινωνία",
+    "description": "",
+    "placeholders": null
+  },
+  "home_button_text": {
+    "message": "Ξεκινήστε",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_heading": {
+    "message": "Κατεβάστε τον δωρεάν ψηφιακό σας πόρο σήμερα",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_p_one": {
+    "message": "Γράψτε μια συναρπαστική εισαγωγή που θα θέσει τις βάσεις για το περιεχόμενο αυτού του πόρου. Αναφερθείτε στις προκλήσεις ή τους στόχους του αναγνώστη σας και εξηγήστε πώς το ηλεκτρονικό βιβλίο θα βοηθήσει στην επίλυσή τους.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_one_heading": {
+    "message": "Όφελος #1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_two_heading": {
+    "message": "Όφελος #2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_three_heading": {
+    "message": "Όφελος #3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_content": {
+    "message": "Εξηγήστε τι θα μάθουν οι αναγνώστες",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_highlight": {
+    "message": "Να θυμάστε να επισημαίνετε τα οφέλη:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_preface": {
+    "message": "Γιατί να μας επιλέξετε;",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_heading": {
+    "message": "Προσφέρουμε σύγχρονες λύσεις για την ανάπτυξη της επιχείρησής σας",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_content": {
+    "message": "Ελάτε μαζί με τους χιλιάδες ικανοποιημένους χρήστες που έχουν αλλάξει τη ζωή τους με τις καινοτόμες λύσεις μας.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_button_text": {
+    "message": "Μάθετε περισσότερα",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_logo_heading": {
+    "message": "Εμπιστοσύνη από κορυφαίες εταιρείες",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_heading": {
+    "message": "Όνομα δυνατότητας",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_content": {
+    "message": "Γράψτε πειστικό κείμενο με βάση τα οφέλη, που επικοινωνεί με σαφήνεια την αξία της προσφοράς σας και ενθαρρύνει τους επισκέπτες να αναλάβουν δράση. Εστιάστε στο πώς η προσφορά σας λύνει τα προβλήματά τους ή ικανοποιεί τις ανάγκες τους.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_preface": {
+    "message": "Μην πιστεύετε μόνο τα λόγια μας",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_heading": {
+    "message": "Δείτε αυτές τις δυνατότητες σε δράση με ένα από τα μέλη της ομάδας μας",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_button_text": {
+    "message": "Λάβετε μια επίδειξη",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_heading": {
+    "message": "Προγραμματίστε μια επίδειξη",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_p_one": {
+    "message": "Προγραμματίστε μια επίδειξη με ένα από τα μέλη της ομάδας μας στη διάθεσή σας. Προσθέστε μια σύντομη περιγραφή για το τι μπορούν να περιμένουν να μάθουν οι πιθανοί σας πελάτες.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_highlight": {
+    "message": "Θα συζητήσουμε:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_one_heading": {
+    "message": "Θέμα #1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_two_heading": {
+    "message": "Θέμα #2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_three_heading": {
+    "message": "Θέμα #3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_content": {
+    "message": "Εξηγήστε τι θα καλύψει η επίδειξή σας",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_heading": {
+    "message": "Εξασφαλίστε τη θέση σας: Εγγραφείτε τώρα για αυτήν την αποκλειστική εκδήλωση",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_content": {
+    "message": "Προσθέστε μια σύντομη εισαγωγή που να καλύπτει το θέμα της ζωντανής διάσκεψης, του διαδικτυακού σεμιναρίου ή της εκδήλωσης και γιατί τα μέλη του κοινού σας θα πρέπει να εγγραφούν.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_button_text": {
+    "message": "Εγγραφείτε τώρα",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_partners_content": {
+    "message": "Ελάτε μαζί μας στην κοινότητα των συνεργατών μας",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_preface": {
+    "message": "Σχετικά με την εκδήλωση",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_heading": {
+    "message": "Λάβετε πληροφορίες από κορυφαίους ειδικούς",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_highlight": {
+    "message": "Σημαντικά σημεία της εκδήλωσης:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_one_heading": {
+    "message": "Σημαντικό σημείο #1",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_two_heading": {
+    "message": "Σημαντικό σημείο #2",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_three_heading": {
+    "message": "Σημαντικό σημείο #3",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_content": {
+    "message": "Τι μπορούν να αναμένουν να κερδίσουν οι συμμετέχοντες",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_heading": {
+    "message": "Γρήγορα στατιστικά",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_one": {
+    "message": "20+",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_two": {
+    "message": "150+",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_three": {
+    "message": "10",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_description": {
+    "message": "Μικρή περιγραφή των στατιστικών",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_heading": {
+    "message": "Παρακολουθήστε για μια πρώτη ματιά της εκδήλωσης",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_content": {
+    "message": "Παρακολουθήστε το teaser video μας για μια γεύση από τις εμπνευσμένες ομιλίες, τα διαδραστικά εργαστήρια και τις ευκαιρίες δικτύωσης που σας περιμένουν. Μην χάσετε αυτήν την προεπισκόπηση για αυτό που θα ακολουθήσει - ελάτε μαζί μας για μια αξέχαστη εμπειρία.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_preface": {
+    "message": "Μην αρκεστείτε στα λόγια μας",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_heading": {
+    "message": "Ξεκλειδώστε ευκαιρίες και κρατήστε τη θέση σας σήμερα",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_button_text": {
+    "message": "Εγγραφείτε τώρα",
+    "description": "",
+    "placeholders": null
+  },
+  "search_results_heading": {
+    "message": "Αναζήτηση αποτελεσμάτων για \"[[search_term]]\"",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_heading": {
+    "message": "Πληροφορίες",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_sub_heading": {
+    "message": "Η εταιρεία μας",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_image_alt_text": {
+    "message": "Η ιστορία μας",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_list_heading": {
+    "message": "Πρόσφατες αναρτήσεις",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_heading": {
+    "message": "Πρόσφατες αναρτήσεις",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_heading": {
+    "message": "Οδηγήστε τους επισκέπτες στα προϊόντα και τις υπηρεσίες σας",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_button_text": {
+    "message": "Περισσότερες λεπτομέρειες",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_full_heading": {
+    "message": "Επικοινωνία",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_heading": {
+    "message": "Επικοινωνία",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_address": {
+    "message": "Ανθέων 123, 11111 Πόλη, Νομός",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_email": {
+    "message": "contact@businessname.com",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_phone_number": {
+    "message": "+1 234-567-8901",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_heading": {
+    "message": "Προϊόν",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_description_heading": {
+    "message": "Περιγραφή",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_button_text": {
+    "message": "Επικοινωνία",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_image_alt_text": {
+    "message": "Προϊόν",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_heading": {
+    "message": "Συλλογή",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_one": {
+    "message": "Προϊόντα",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_two": {
+    "message": "Εταιρεία",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_three": {
+    "message": "Τιμολόγηση",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_four": {
+    "message": "Χαρακτηριστικό προϊόντος",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_five": {
+    "message": "Λεζάντα εικόνας",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_caption": {
+    "message": "Λεζάντα εικόνας",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_heading": {
+    "message": "Συλλογή",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_one": {
+    "message": "Προϊόντα",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_two": {
+    "message": "Εταιρεία",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_three": {
+    "message": "Τιμολόγηση",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_four": {
+    "message": "Χαρακτηριστικό προϊόντος",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_five": {
+    "message": "Τιμολόγηση",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_hover_message": {
+    "message": "Μήνυμα κατάδειξης",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_heading": {
+    "message": "Θέμα ανάπτυξης",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_button_text": {
+    "message": "Επικοινωνία",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_heading": {
+    "message": "Θέμα ανάπτυξης",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_button_text": {
+    "message": "Ξεκινήστε",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_heading": {
+    "message": "Γιατί ξεχωρίζουμε",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_one": {
+    "message": "Γρήγορη ρύθμιση",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_two": {
+    "message": "Εύκολο στη χρήση",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_three": {
+    "message": "Προσαρμόσιμο",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_heading": {
+    "message": "Μερικοί από τους ευχαριστημένους πελάτες μας",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_image_alt_text": {
+    "message": "Λογότυπο πελάτη",
+    "description": "",
+    "placeholders": null
+  },
+  "section_meetings_banner_heading": {
+    "message": "Κλείστε μια συνάντηση για να λάβετε δωρεάν συμβουλές",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_heading": {
+    "message": "Η ομάδα μας",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_one_title": {
+    "message": "Διευθύνων σύμβουλος",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_two_title": {
+    "message": "Διευθύνων σύμβουλος",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_three_title": {
+    "message": "Οικονομικός διευθυντής",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_description": {
+    "message": "Επισημάνετε τη μοναδική εμπειρογνωσία, εμπειρία και ενδιαφέροντα του μέλους της ομάδας σας. Διατηρήστε το συνοπτικό αλλά ελκυστικό, παρουσιάζοντας το επαγγελματικό του ταξίδι και τις πολύτιμες δεξιότητες του.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_heading": {
+    "message": "Η ιστορία μας",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_image_alt_text": {
+    "message": "Η ιστορία μας",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_button_text": {
+    "message": "Περισσότερες λεπτομέρειες",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_heading": {
+    "message": "Τα προγράμματα περιλαμβάνουν",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_description_heading": {
+    "message": "Χαρακτηριστικό προϊόντος",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_image_alt_text": {
+    "message": "Χαρακτηριστικό προγράμματος",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_heading": {
+    "message": "Εγγραφείτε στο ενημερωτικό μας δελτίο!",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_subheading": {
+    "message": "Εγγραφείτε για να ενημερώνεστε για τις τελευταίες ενημερώσεις",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_heading": {
+    "message": "Μια σειρά εργαλείων στη διάθεσή σας",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_card_heading": {
+    "message": "Οδηγήστε τους επισκέπτες στα προϊόντα και τις υπηρεσίες σας",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_button_text": {
+    "message": "Επικοινωνία",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_image_alt_text": {
+    "message": "Υπηρεσία",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_heading": {
+    "message": "Προγράμματα και τιμές",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_heading": {
+    "message": "Starter",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_price": {
+    "message": "$50/μήνα",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_content": {
+    "message": "Αγορά Starter τώρα",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_button_text": {
+    "message": "Αγορά Starter τώρα",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_heading": {
+    "message": "Professional",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_price": {
+    "message": "$200/μήνα",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_content": {
+    "message": "Αγορά professional τώρα",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_button_text": {
+    "message": "Αγορά professional τώρα",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_heading": {
+    "message": "Enterprise",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_price": {
+    "message": "$600/μήνα",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_content": {
+    "message": "Αγορά enterprise τώρα",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_button_text": {
+    "message": "Αγορά enterprise τώρα",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_sub_heading": {
+    "message": "Μερικά βασικά χαρακτηριστικά",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_heading": {
+    "message": "Προϊόντα",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_image_alt_text": {
+    "message": "Η ιστορία μας",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_description_heading": {
+    "message": "Όνομα",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_button_text": {
+    "message": "Επικοινωνία",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_heading": {
+    "message": "Υπηρεσίες",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_description_heading": {
+    "message": "Όνομα υπηρεσίας",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_one": {
+    "message": "Η ιστορία μας",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_two": {
+    "message": "ΟΙ αξίες μας",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_three": {
+    "message": "Η ιστορία μας",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_button_text": {
+    "message": "Επικοινωνία",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_heading": {
+    "message": "Μαρτυρία",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_team_member_title_one": {
+    "message": "Προϊόν VP",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_heading": {
+    "message": "Δείτε τι λέει ο κόσμος",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_one": {
+    "message": "Προϊόν VP",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_two": {
+    "message": "Πωλήσεις SVP",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_three": {
+    "message": "Διευθυντής μάρκετινγκ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_video_heading": {
+    "message": "Δείτε τα πράγματα σε δράση",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading": {
+    "message": "Υπηρεσίες",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_one_alt": {
+    "message": "Δύο άνθρωποι σε υπολογιστή",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_two_alt": {
+    "message": "Δύο άνθρωποι κοιτάζουν το τηλέφωνο",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_three_alt": {
+    "message": "Δύο άνθρωποι εργάζονται με αυτοκόλλητες σημειώσεις σε τοίχο",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_one": {
+    "message": "Base",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_two": {
+    "message": "Pro",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_three": {
+    "message": "Enterprise",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_button_text": {
+    "message": "Μάθετε περισσότερα",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_description": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_heading": {
+    "message": "Υπηρεσίες",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_image_alt": {
+    "message": "Άνθρωποι κάθονται στη σκάλα",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_heading": {
+    "message": "Ανάπτυξη ταυτότητας επωνυμίας",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_content": {
+    "message": "Η ομάδα μας θα δημιουργήσει μια μοναδική και αξέχαστη ταυτότητα εταιρικής επωνυμίας που αποτυπώνει την ουσία της εταιρείας σας. Θα δημιουργήσουμε ένα ελκυστικό λογότυπο, θα επιλέξουμε μια αρμονική παλέτα χρωμάτων και θα αναπτύξουμε ένα συνεπές οπτικό στυλ για να ξεχωρίσει η επωνυμία σας.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_image_alt": {
+    "message": "Νεαροί επαγγελματίες κοιτάζουν έναν φορητό υπολογιστή",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_heading": {
+    "message": "Βελτίωση σχεδίασης UX/UI",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_content": {
+    "message": "Βελτιώστε την ικανοποίηση και τη συμμετοχή των χρηστών με την εμπειρία σχεδίασης UX/UI μας. Θα πραγματοποιήσουμε λεπτομερή ανάλυση των ψηφιακών προϊόντων σας, θα αναγνωρίσουμε τα σημεία που υστερούν και θα εφαρμόσουμε λύσεις που επικεντρώνονται στον χρήστη για να βελτιώσουμε τη συνολική εμπειρία του χρήστη.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_image_alt": {
+    "message": "Νεαρός επαγγελματίας μάρκετινγκ μιλάει στην αυλή με το τάμπλετ στο χέρι",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_heading": {
+    "message": "Σχεδιασμός υλικού μάρκετινγκ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_content": {
+    "message": "Αναβαθμίστε τις προσπάθειες σας στο μάρκετινγκ με εντυπωσιακό υλικό που αφήνει ανεξίτηλη εντύπωση. Από φυλλάδια μέχρι γραφικά κοινωνικών δικτύων, θα σχεδιάσουμε υλικά που τραβούν την προσοχή και ανταποκρίνονται στο κοινό-στόχο σας και προκαλούν αποτελέσματα.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_button_text": {
+    "message": "Μάθετε περισσότερα",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_banner_image_alt": {
+    "message": "Ομάδα χαμογελαστών ανθρώπων κοιτάζει ευθεία προς την κάμερα",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_heading": {
+    "message": "Υποστήριξη τοπικού παντοπωλείου",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_content_area_one": {
+    "message": "Ελάτε να κάνουμε τη διαφορά στη ζωή των γειτόνων μας υποστηρίζοντας το τοπικό μας παντοπωλείο. Η δωρεά σας θα βοηθήσει να παρέχεται απαραίτητη διατροφή σε άτομα και οικογένειες που αντιμετωπίζουν δυσκολίες εδώ, στην κοινότητά μας.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_one_alt": {
+    "message": "Δύο άτομα κοιτούν αυτοκόλλητα σημειώματα σε γυαλί",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_two_alt": {
+    "message": "Τηλέφωνο ακουμπά σε τερματικό επεξεργασίας πληρωμών",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_three_alt": {
+    "message": "Άνδρας οδηγεί ένα βαν με δύο πακέτα στο κάθισμα του συνοδηγού",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_heading": {
+    "message": "Κάντε δωρεά τώρα",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_message_and_amount": {
+    "message": "Συνιστώμενο ποσό: $15,00",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_one_text": {
+    "message": "Δωρεά $15,00",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_two_text": {
+    "message": "Προσαρμοσμένο ποσό",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_three_text": {
+    "message": "Διαμοιρασμός",
+    "description": "",
+    "placeholders": null
+  }
+}

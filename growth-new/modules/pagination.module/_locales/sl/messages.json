@@ -1,0 +1,142 @@
+{
+  "default_text.go_to_page_text.default" : {
+    "message" : "Pojdite na stran {{ this_page }}",
+    "description" : "",
+    "placeholders" : null
+  },
+  "default_text.go_to_page_text.label" : {
+    "message" : "Pojdite na besedilo strani",
+    "description" : "",
+    "placeholders" : null
+  },
+  "default_text.label" : {
+    "message" : "Privzeto besedilo",
+    "description" : "",
+    "placeholders" : null
+  },
+  "default_text.pagination_navigation_text.default" : {
+    "message" : "Navigacija po straneh",
+    "description" : "",
+    "placeholders" : null
+  },
+  "default_text.pagination_navigation_text.label" : {
+    "message" : "Besedilo za navigacijo po straneh",
+    "description" : "",
+    "placeholders" : null
+  },
+  "first_label.default" : {
+    "message" : "Najprej",
+    "description" : "",
+    "placeholders" : null
+  },
+  "first_label.label" : {
+    "message" : "Prva oznaka",
+    "description" : "",
+    "placeholders" : null
+  },
+  "last_label.default" : {
+    "message" : "Zadnje",
+    "description" : "",
+    "placeholders" : null
+  },
+  "last_label.label" : {
+    "message" : "Zadnja oznaka",
+    "description" : "",
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "Oštevilčenje strani",
+    "description" : "",
+    "placeholders" : null
+  },
+  "next_label.default" : {
+    "message" : "Naprej",
+    "description" : "",
+    "placeholders" : null
+  },
+  "next_label.label" : {
+    "message" : "Naslednja oznaka",
+    "description" : "",
+    "placeholders" : null
+  },
+  "previous_label.default" : {
+    "message" : "Prejšnja",
+    "description" : "",
+    "placeholders" : null
+  },
+  "previous_label.label" : {
+    "message" : "Prejšnja oznaka",
+    "description" : "",
+    "placeholders" : null
+  },
+  "show_first_and_last_links.label" : {
+    "message" : "Pokaži prvo in zadnjo povezavo",
+    "description" : "",
+    "placeholders" : null
+  },
+  "show_numbers.label" : {
+    "message" : "Prikazuj številke",
+    "description" : "",
+    "placeholders" : null
+  },
+  "show_previous_and_next_links.label" : {
+    "message" : "Pokaži prejšnje in naslednje povezave",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.active.border.border.label" : {
+    "message" : "Obroba",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.active.border.label" : {
+    "message" : "Obroba",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.active.corner.label" : {
+    "message" : "Kot",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.active.corner.radius.label" : {
+    "message" : "Polmer",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.active.label" : {
+    "message" : "Aktivno",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "Stili",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.spacing.label" : {
+    "message" : "Razmik",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.spacing.space_between_links.label" : {
+    "message" : "Prostor med povezavami",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.spacing.spacing.label" : {
+    "message" : "Razmik",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.text.font.label" : {
+    "message" : "Pisava",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.text.label" : {
+    "message" : "Besedilo",
+    "description" : "",
+    "placeholders" : null
+  }
+}

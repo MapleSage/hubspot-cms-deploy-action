@@ -1,0 +1,142 @@
+{
+  "default_text.go_to_page_text.default" : {
+    "message" : "Gå till sidan {{ this_page }}",
+    "description" : "",
+    "placeholders" : null
+  },
+  "default_text.go_to_page_text.label" : {
+    "message" : "Gå till sidan-text",
+    "description" : "",
+    "placeholders" : null
+  },
+  "default_text.label" : {
+    "message" : "Standardtext",
+    "description" : "",
+    "placeholders" : null
+  },
+  "default_text.pagination_navigation_text.default" : {
+    "message" : "Paginationsnavigering",
+    "description" : "",
+    "placeholders" : null
+  },
+  "default_text.pagination_navigation_text.label" : {
+    "message" : "Paginering av navigationstext",
+    "description" : "",
+    "placeholders" : null
+  },
+  "first_label.default" : {
+    "message" : "Först",
+    "description" : "",
+    "placeholders" : null
+  },
+  "first_label.label" : {
+    "message" : "Första etiketten",
+    "description" : "",
+    "placeholders" : null
+  },
+  "last_label.default" : {
+    "message" : "Sista",
+    "description" : "",
+    "placeholders" : null
+  },
+  "last_label.label" : {
+    "message" : "Sista etiketten",
+    "description" : "",
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "Paginering",
+    "description" : "",
+    "placeholders" : null
+  },
+  "next_label.default" : {
+    "message" : "Nästa",
+    "description" : "",
+    "placeholders" : null
+  },
+  "next_label.label" : {
+    "message" : "Nästa etikett",
+    "description" : "",
+    "placeholders" : null
+  },
+  "previous_label.default" : {
+    "message" : "Föregående",
+    "description" : "",
+    "placeholders" : null
+  },
+  "previous_label.label" : {
+    "message" : "Föregående etikett",
+    "description" : "",
+    "placeholders" : null
+  },
+  "show_first_and_last_links.label" : {
+    "message" : "Visa första och sista länkarna",
+    "description" : "",
+    "placeholders" : null
+  },
+  "show_numbers.label" : {
+    "message" : "Visa siffror",
+    "description" : "",
+    "placeholders" : null
+  },
+  "show_previous_and_next_links.label" : {
+    "message" : "Visa föregående och nästa länkar",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.active.border.border.label" : {
+    "message" : "Kant",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.active.border.label" : {
+    "message" : "Kant",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.active.corner.label" : {
+    "message" : "Hörn",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.active.corner.radius.label" : {
+    "message" : "Radie",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.active.label" : {
+    "message" : "Aktiv",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "Stiler",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.spacing.label" : {
+    "message" : "Blanksteg",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.spacing.space_between_links.label" : {
+    "message" : "Utrymme mellan länkar",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.spacing.spacing.label" : {
+    "message" : "Blanksteg",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.text.font.label" : {
+    "message" : "Teckensnitt",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.text.label" : {
+    "message" : "Text",
+    "description" : "",
+    "placeholders" : null
+  }
+}

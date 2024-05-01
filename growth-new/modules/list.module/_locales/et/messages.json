@@ -1,0 +1,197 @@
+{
+  "icon.label" : {
+    "message" : "Ikoon",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list_items.content.default" : {
+    "message" : "<h3>Loendi üksus</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.</p>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list_items.content.label" : {
+    "message" : "Sisu",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list_items.icon.label" : {
+    "message" : "Ikoon",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list_items.label" : {
+    "message" : "Loendi üksused",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list_type.choices.ol" : {
+    "message" : "Korrastatud loend",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list_type.choices.ul" : {
+    "message" : "Korrastamata loend",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list_type.label" : {
+    "message" : "Loendi tüüp",
+    "description" : "",
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "Loend",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.background.color.label" : {
+    "message" : "Värv",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.background.label" : {
+    "message" : "Taust",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.corner.label" : {
+    "message" : "Nurk",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.corner.radius.label" : {
+    "message" : "Raadius",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.fill.color.label" : {
+    "message" : "Värv",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.fill.label" : {
+    "message" : "Täide",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.label" : {
+    "message" : "Ikoonid",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.help_text" : {
+    "message" : "Kasutage eelseadistusi, et kohandada kiirelt eelmääratud väärtuste valitud üksuse väljanägemist.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_color.choices.dark" : {
+    "message" : "Tume",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_color.choices.light" : {
+    "message" : "Hele",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_color.label" : {
+    "message" : "Ikooni värv",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_shape.choices.circle" : {
+    "message" : "Ring",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_shape.choices.square" : {
+    "message" : "Kandiline",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_shape.label" : {
+    "message" : "Ikooni kuju",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_size.choices.large" : {
+    "message" : "Suur",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_size.choices.regular" : {
+    "message" : "Tavaline",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_size.choices.small" : {
+    "message" : "Väike",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_size.label" : {
+    "message" : "Ikooni suurus",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.label" : {
+    "message" : "Eelseadistused",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.size.label" : {
+    "message" : "Suurus",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.size.size.label" : {
+    "message" : "Suurus",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.spacing.label" : {
+    "message" : "Reasamm",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.spacing.spacing.label" : {
+    "message" : "Reasamm",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "Stiilid",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list_items.label" : {
+    "message" : "Loendi üksused",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list_items.spacing.between_icon_and_list_items.label" : {
+    "message" : "Ikooni ja loendiüksuse vahel",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list_items.spacing.between_list_items.label" : {
+    "message" : "Loendiüksuste vahel",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list_items.spacing.label" : {
+    "message" : "Reasamm",
+    "description" : "",
+    "placeholders" : null
+  },
+  "use_custom_bullet_points.label" : {
+    "message" : "Kasutage kohandatud loetelupunkte",
+    "description" : "",
+    "placeholders" : null
+  },
+  "use_same_icon_for_all_list_items.label" : {
+    "message" : "Kasutage sama ikooni kõigi loendi üksuste kohta",
+    "description" : "",
+    "placeholders" : null
+  }
+}

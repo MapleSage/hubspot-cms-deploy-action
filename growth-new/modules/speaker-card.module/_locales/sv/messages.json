@@ -1,0 +1,147 @@
+{
+  "name" : {
+    "message" : "Talarkort",
+    "description" : "",
+    "placeholders" : null
+  },
+  "speaker.bio.label" : {
+    "message" : "Bio",
+    "description" : "",
+    "placeholders" : null
+  },
+  "speaker.label" : {
+    "message" : "Högtalare",
+    "description" : "",
+    "placeholders" : null
+  },
+  "speaker.photo.label" : {
+    "message" : "Bild",
+    "description" : "",
+    "placeholders" : null
+  },
+  "speaker.speaker_name.default" : {
+    "message" : "<h3 style='text-align:center;'>Abigail Johnson</h3>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "speaker.speaker_name.label" : {
+    "message" : "Namn",
+    "description" : "",
+    "placeholders" : null
+  },
+  "speaker.speaker_title.default" : {
+    "message" : "<p style='text-align:center;'><strong>Grundare och VD</strong></p>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "speaker.speaker_title.label" : {
+    "message" : "Titel",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.background.color.label" : {
+    "message" : "Färg",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.background.label" : {
+    "message" : "Bakgrund",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.border.border.label" : {
+    "message" : "Kant",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.border.label" : {
+    "message" : "Kant",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.corner.label" : {
+    "message" : "Hörn",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.corner.radius.label" : {
+    "message" : "Radie",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.height.label" : {
+    "message" : "Höjd",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.height.min_height.label" : {
+    "message" : "Minimihöjd",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.label" : {
+    "message" : "Kort",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.dark" : {
+    "message" : "Mörk",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.light" : {
+    "message" : "Ljus",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.plain" : {
+    "message" : "Normal",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.label" : {
+    "message" : "Kortstil",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.help_text" : {
+    "message" : "Använd förinställda värden för att snabbjustera hur det valda objektet visas.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.label" : {
+    "message" : "Förinställda värden",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.spacing.label" : {
+    "message" : "Mellanslag",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.spacing.spacing.label" : {
+    "message" : "Mellanslag",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "Stilar",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.photo.corner.label" : {
+    "message" : "Hörn",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.photo.corner.radius.label" : {
+    "message" : "Radie",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.photo.label" : {
+    "message" : "Bild",
+    "description" : "",
+    "placeholders" : null
+  }
+}

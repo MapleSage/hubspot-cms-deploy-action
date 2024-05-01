@@ -1,0 +1,197 @@
+{
+  "icon.label" : {
+    "message" : "ไอคอน",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list_items.content.default" : {
+    "message" : "<h3>ข้อมูลในรายการ</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.</p>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list_items.content.label" : {
+    "message" : "เนื้อหา",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list_items.icon.label" : {
+    "message" : "ไอคอน",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list_items.label" : {
+    "message" : "ข้อมูลในรายการ",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list_type.choices.ol" : {
+    "message" : "รายการที่จัดเรียง",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list_type.choices.ul" : {
+    "message" : "รายการที่ไม่ได้จัดเรียง",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list_type.label" : {
+    "message" : "ประเภทรายการ",
+    "description" : "",
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "รายการ",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.background.color.label" : {
+    "message" : "สี",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.background.label" : {
+    "message" : "พื้นหลัง",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.corner.label" : {
+    "message" : "มุม",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.corner.radius.label" : {
+    "message" : "รัศมี",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.fill.color.label" : {
+    "message" : "สี",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.fill.label" : {
+    "message" : "เติม",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.label" : {
+    "message" : "ไอคอน",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.help_text" : {
+    "message" : "ใช้ค่าที่กำหนดไว้ล่วงหน้าเพื่อปรับเปลี่ยนลักษณะที่ปรากฏของรายการที่เลือกเป็นค่าที่กำหนดไว้ล่วงหน้าอย่างรวดเร็ว",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_color.choices.dark" : {
+    "message" : "เข้ม",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_color.choices.light" : {
+    "message" : "อ่อน",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_color.label" : {
+    "message" : "สีไอคอน",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_shape.choices.circle" : {
+    "message" : "วงกลม",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_shape.choices.square" : {
+    "message" : "สี่เหลี่ยมจัตุรัส",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_shape.label" : {
+    "message" : "รูปร่างไอคอน",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_size.choices.large" : {
+    "message" : "ใหญ่",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_size.choices.regular" : {
+    "message" : "ปกติ",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_size.choices.small" : {
+    "message" : "เล็ก",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_size.label" : {
+    "message" : "ขนาดไอคอน",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.label" : {
+    "message" : "ค่าที่กำหนดไว้ล่วงหน้า",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.size.label" : {
+    "message" : "ขนาด",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.size.size.label" : {
+    "message" : "ขนาด",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.spacing.label" : {
+    "message" : "เว้นวรรค",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.spacing.spacing.label" : {
+    "message" : "เว้นวรรค",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "รูปแบบ",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list_items.label" : {
+    "message" : "ข้อมูลในรายการ",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list_items.spacing.between_icon_and_list_items.label" : {
+    "message" : "ระหว่างไอคอนและข้อมูลในรายการ",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list_items.spacing.between_list_items.label" : {
+    "message" : "ระหว่างรายการ",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list_items.spacing.label" : {
+    "message" : "เว้นวรรค",
+    "description" : "",
+    "placeholders" : null
+  },
+  "use_custom_bullet_points.label" : {
+    "message" : "ใช้จุดแสดงหัวข้อย่อยที่กำหนดเอง",
+    "description" : "",
+    "placeholders" : null
+  },
+  "use_same_icon_for_all_list_items.label" : {
+    "message" : "ใช้ไอคอนเดียวกันสำหรับข้อมูลในรายการทั้งหมด",
+    "description" : "",
+    "placeholders" : null
+  }
+}

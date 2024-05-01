@@ -1,0 +1,197 @@
+{
+  "accordions.content.default" : {
+    "message" : "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.</p>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accordions.content.label" : {
+    "message" : "เนื้อหา",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accordions.label" : {
+    "message" : "หีบเพลง",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accordions.open_by_default.label" : {
+    "message" : "เปิดตามค่าเริ่มต้น",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accordions.title.default" : {
+    "message" : "ชื่อหีบเพลง",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accordions.title.label" : {
+    "message" : "ชื่อเรื่อง",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.choices.caret" : {
+    "message" : "อักขระ ^",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.choices.plus" : {
+    "message" : "บวก",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.label" : {
+    "message" : "ไอคอน",
+    "description" : "",
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "หีบเพลง",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.border.border.label" : {
+    "message" : "ขอบ",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.border.label" : {
+    "message" : "ขอบ",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.label" : {
+    "message" : "หีบเพลง",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.presets.card_style.choices.dark" : {
+    "message" : "เข้ม",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.presets.card_style.choices.light" : {
+    "message" : "อ่อน",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.presets.card_style.choices.plain" : {
+    "message" : "ธรรมดา",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.presets.card_style.label" : {
+    "message" : "รูปแบบบัตร",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.presets.help_text" : {
+    "message" : "ใช้ค่าที่กำหนดไว้ล่วงหน้าเพื่อปรับเปลี่ยนลักษณะที่ปรากฏของรายการที่เลือกเป็นค่าที่กำหนดไว้ล่วงหน้าอย่างรวดเร็ว",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.presets.label" : {
+    "message" : "ค่าที่กำหนดไว้ล่วงหน้า",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.spacing.label" : {
+    "message" : "เว้นวรรค",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.accordions.spacing.space_between_accordions.label" : {
+    "message" : "ช่องว่างระหว่างหีบเพลง",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.content.background.color.label" : {
+    "message" : "สี",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.content.background.label" : {
+    "message" : "พื้นหลัง",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.content.label" : {
+    "message" : "เนื้อหา",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.content.spacing.label" : {
+    "message" : "เว้นวรรค",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.content.spacing.spacing.label" : {
+    "message" : "เว้นวรรค",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "รูปแบบ",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.background.color.label" : {
+    "message" : "สี",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.background.label" : {
+    "message" : "พื้นหลัง",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.label" : {
+    "message" : "ชื่อเรื่อง",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.spacing.label" : {
+    "message" : "เว้นวรรค",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.spacing.spacing.label" : {
+    "message" : "เว้นวรรค",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.font.label" : {
+    "message" : "แบบอักษร",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.label" : {
+    "message" : "ข้อความ",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.transform.choices.capitalize" : {
+    "message" : "ใช้ตัวพิมพ์ใหญ่",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.transform.choices.lowercase" : {
+    "message" : "ตัวพิมพ์เล็ก",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.transform.choices.none" : {
+    "message" : "ไม่มี",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.transform.choices.uppercase" : {
+    "message" : "ตัวพิมพ์ใหญ่",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.title.text.transform.label" : {
+    "message" : "แปลง",
+    "description" : "",
+    "placeholders" : null
+  }
+}

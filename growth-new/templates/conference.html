@@ -1,0 +1,434 @@
+<!--
+  templateType: page
+  isAvailableForNewContent: true
+  label: Conference
+  screenshotPath: ../images/template-previews/conference.png
+  scaffoldSchemaPath: ./schemas/conference.scaffold_schema.json
+-->
+{% extends "./layouts/base.html" %}
+
+{# Default content for prices in cards #}
+{% set card_one_price = "<h4>{{ scaffold_content.tickets.ticket_one.price or template_translations.conference_card_one_price.message }}</h4>" %}
+{% set card_two_price = "<h4>{{ scaffold_content.tickets.ticket_two.price or template_translations.conference_card_two_price.message }}</h4>" %}
+
+{# Default content for speaker names #}
+{% set speaker_one_name = "<h3>{{ scaffold_content.speaker_one.name or 'Abigail Johnson' }}</h3>" %}
+{% set speaker_two_name = "<h3>{{ scaffold_content.speaker_two.name or 'Michelle Rodriguez' }}</h3>" %}
+{% set speaker_three_name = "<h3>{{ scaffold_content.speaker_three.name or 'Stephen Kim' }}</h3>" %}
+
+{% block body %}
+  {% set ticket_button_label = template_translations.conference_banner_button_text.message %}
+  {% set buy_button_label = template_translations.conference_button_text_one.message %}
+  {% set buy_now_anchor = "#buy-now" %}
+  {% set banner_background_url = get_asset_url('../images/conference-banner-crop.jpg') %}
+
+  {% dnd_area "dnd_area"
+    label="Main section" %}
+
+
+    {# Banner #}
+
+    {% include_dnd_partial path="../sections/hero-banner.html"
+      context={
+        "heading": scaffold_content.banner.heading or template_translations.conference_banner_heading.message,
+        "content": scaffold_content.banner.subheading or template_translations.conference_banner_date.message,
+        "background_image": scaffold_content.banner.background_image.src or banner_background_url,
+        "button": {
+          "text": scaffold_content.banner.button_text or ticket_button_label,
+          "href": buy_now_anchor
+        }
+      }
+    %}
+
+    {# About the conference section with button #}
+
+    {% dnd_section %}
+      {% dnd_column %}
+        {% dnd_row %}
+          {% dnd_module path="@hubspot/rich_text" %}
+            {% module_attribute "html" %}
+              <div>
+                <h2 style="text-align: center;">{{ scaffold_content.about.heading or template_translations.conference_heading_one.message }}</h2>
+                <p>{{ scaffold_content.about.description or template_translations.conference_content_one.message }}</p>
+                {{ scaffold_content.about.description ? "" : "<p>" ~ template_translations.conference_content_five.message ~ "</p>" }}
+              </div>
+            {% end_module_attribute %}
+          {% end_dnd_module %}
+        {% end_dnd_row %}
+        {% dnd_row %}
+          {% dnd_module
+            path="../modules/button",
+            button_text={{ scaffold_content.about.button_text or ticket_button_label }},
+            button_link={
+              "url": {
+                "href": buy_now_anchor
+              }
+            }
+            styles={
+              "alignment": {
+                "alignment": {
+                  "horizontal_align": "CENTER"
+                }
+              }
+            }
+          %}
+          {% end_dnd_module %}
+        {% end_dnd_row %}
+      {% end_dnd_column %}
+    {% end_dnd_section %}
+
+    {# Conference pricing and description #}
+
+    {% dnd_section background_color={{ "#F5F8FA" }} %}
+      {% dnd_column
+        offset=0,
+        width=12
+      %}
+        {% dnd_row %}
+          {% dnd_module path="@hubspot/rich_text" %}
+            {% module_attribute "html" %}
+              <a id="buy-now" data-hs-anchor="true"></a>
+              <div style="text-align: center;">
+                <h2>{{ scaffold_content.tickets.heading or template_translations.conference_heading_six.message }}</h2>
+              </div>
+            {% end_module_attribute %}
+          {% end_dnd_module %}
+        {% end_dnd_row %}
+        {% dnd_row  %}
+          {% dnd_module "ticket_pricing"
+            path="../modules/pricing-card",
+            button={
+              "button_text": scaffold_content.tickets.ticket_one.button_text or buy_button_label,
+            },
+            heading={
+              "heading": scaffold_content.tickets.ticket_one.name or template_translations.conference_card_one_heading.message
+            },
+            price={
+              "price": card_one_price|render
+            },
+            subheading={
+              "subheading": ""
+            },
+            list={
+              "list_items": [
+                {
+                  "content": scaffold_content.tickets.ticket_one.feature_one or template_translations.conference_card_content_one.message
+                },
+                {
+                  "content": scaffold_content.tickets.ticket_one.feature_two or template_translations.conference_card_content_two.message
+                },
+                {
+                  "content": scaffold_content.tickets.ticket_one.feature_three or template_translations.conference_card_content_three.message
+                },
+                {
+                  "content": scaffold_content.tickets.ticket_one.feature_four or template_translations.conference_card_content_four.message
+                },
+                {
+                  "content": scaffold_content.tickets.ticket_one.feature_five or template_translations.conference_card_content_five.message
+                }
+              ]
+            },
+            styles={
+              "card": {
+                "spacing": {
+                  "spacing": {
+                    "margin": {
+                      "bottom": {
+                        "value": 22,
+                        "units": "px"
+                      }
+                    }
+                  }
+                }
+              },
+              "button":{
+                "alignment": {
+                  "alignment": {
+                    "horizontal_align": "CENTER"
+                  }
+                }
+              }
+            },
+            offset=0,
+            width=6
+          %}
+          {% end_dnd_module %}
+          {% dnd_module
+            path="../modules/pricing-card",
+            button={
+              "button_text": scaffold_content.tickets.ticket_two.button_text or buy_button_label
+            },
+            heading={
+              "heading": scaffold_content.tickets.ticket_two.name or template_translations.conference_card_two_heading.message
+            },
+            price={
+              "price": card_two_price|render
+            },
+            subheading={
+              "subheading": ""
+            },
+            list={
+              "list_items": [
+                {
+                  "content": scaffold_content.tickets.ticket_two.feature_one or template_translations.conference_card_content_one.message
+                },
+                {
+                  "content": scaffold_content.tickets.ticket_two.feature_two or template_translations.conference_card_content_two.message
+                },
+                {
+                  "content": scaffold_content.tickets.ticket_two.feature_three or template_translations.conference_card_content_three.message
+                },
+                {
+                  "content": scaffold_content.tickets.ticket_two.feature_four or template_translations.conference_card_content_four.message
+                },
+                {
+                  "content": scaffold_content.tickets.ticket_two.feature_five or template_translations.conference_card_content_five.message
+                }
+              ]
+            },
+            styles={
+              "card": {
+                "spacing": {
+                  "spacing": {
+                    "margin": {
+                      "bottom": {
+                        "value": 22,
+                        "units": "px"
+                      }
+                    }
+                  }
+                }
+              },
+              "button":{
+                "alignment": {
+                  "alignment": {
+                    "horizontal_align": "CENTER"
+                  }
+                }
+              }
+            },
+            offset=6,
+            width=6
+          %}
+          {% end_dnd_module %}
+        {% end_dnd_row %}
+      {% end_dnd_column %}
+    {% end_dnd_section %}
+
+    {# Conference speakers #}
+
+    {% dnd_section %}
+      {% dnd_column %}
+        {% dnd_row %}
+          {% dnd_module path="@hubspot/rich_text" %}
+            {% module_attribute "html" %}
+              <div style="text-align: center;">
+                <h2>{{ scaffold_content.speakers.heading or template_translations.conference_heading_two.message }}</h2>
+                <p>{{ scaffold_content.speakers.description or template_translations.conference_content_two.message }}</p>
+              </div>
+            {% end_module_attribute %}
+          {% end_dnd_module %}
+        {% end_dnd_row %}
+        {% dnd_row %}
+          {% dnd_module "speaker"
+            path="../modules/speaker-card",
+            speaker={
+              "photo": {
+                "alt": scaffold_content.speakers.speaker_one.image.alt or template_translations.conference_image_alt_text.message,
+                "src": scaffold_content.speakers.speaker_one.image.src or get_asset_url("../images/industry-images/employee-one.jpg")
+              },
+              "speaker_name": speaker_one_name|render,
+              "speaker_title": scaffold_content.speakers.speaker_one.title or template_translations.conference_team_member_title_one.message,
+              "bio": scaffold_content.speakers.speaker_one.description or template_translations.conference_content_three.message
+            },
+            offset=0,
+            width=4
+          %}
+          {% end_dnd_module %}
+          {% dnd_module "speaker"
+            path="../modules/speaker-card",
+            speaker={
+              "photo": {
+                "alt": scaffold_content.speaker_two.image.alt or template_translations.conference_image_alt_text.message,
+                "src": scaffold_content.speaker_two.image.src or get_asset_url("../images/industry-images/employee-three.jpg")
+              },
+              "speaker_name": speaker_two_name|render,
+              "speaker_title": scaffold_content.speaker_two.title or template_translations.conference_team_member_title_two.message,
+              "bio": scaffold_content.speaker_two.description or template_translations.conference_content_three.message
+            },
+            offset=4,
+            width=4
+          %}
+          {% end_dnd_module %}
+          {% dnd_module "speaker"
+            path="../modules/speaker-card",
+            speaker={
+              "photo": {
+                "alt": scaffold_content.speaker_three.image.alt or template_translations.conference_image_alt_text.message,
+                "src": scaffold_content.speaker_three.image.src or get_asset_url("../images/industry-images/employee-four.jpg")
+              },
+              "speaker_name": speaker_three_name|render,
+              "speaker_title": scaffold_content.speaker_three.title or template_translations.conference_team_member_title_three.message,
+              "bio": scaffold_content.speaker_three.description or template_translations.conference_content_three.message
+            },
+            offset=8,
+            width=4
+          %}
+          {% end_dnd_module %}
+        {% end_dnd_row %}
+      {% end_dnd_column %}
+    {% end_dnd_section %}
+
+    {# Video with button (Call-to-action video) section #}
+
+    {% dnd_section
+      background_color="#F5F8FA"
+      max_width=750
+    %}
+      {% dnd_column %}
+        {% dnd_row
+          margin={
+            "bottom": 22
+          }
+        %}
+          {% dnd_module path="@hubspot/rich_text" %}
+            {% module_attribute "html" %}
+              <div style="text-align: center;">
+                <h2>{{ scaffold_content.video.heading or template_translations.conference_heading_four.message }}</h2>
+              </div>
+            {% end_module_attribute %}
+          {% end_dnd_module %}
+        {% end_dnd_row %}
+        {% dnd_row
+          margin={
+            "bottom": 22
+          }
+        %}
+          {% dnd_module path="@hubspot/video"
+            offset=0,
+            width=12,
+            embed_field={
+              "embed_html": "<!-- The script tag should live in the head of your page if at all possible --> <script type='text/javascript' async src='https://play.vidyard.com/embed/v4.js'></script> <!-- Put this wherever you would like your player to appear --> <img style='width: 100%; margin: auto; display: block;' class='vidyard-player-embed' src='https://play.vidyard.com/G2TVmca8fMAtCEKpY5YTWv.jpg' data-uuid='G2TVmca8fMAtCEKpY5YTWv' data-v='4' data-type='inline' />",
+              "height": 360,
+              "max_height": 360,
+              "max_width": 640,
+              "oembed_response": {
+                "height": "360",
+                "html": "<script type='text/javascript' async src='https://play.vidyard.com/embed/v4.js'></script> <img style='width: 100%; margin: auto; display: block;' class='vidyard-player-embed' src='https://play.vidyard.com/G2TVmca8fMAtCEKpY5YTWv.jpg' data-uuid='G2TVmca8fMAtCEKpY5YTWv' data-v='4' data-type='inline' data-width='640' data-height='360' />",
+                "provider_name": "Vidyard",
+                "provider_url": "https://vidyard.com/",
+                "thumbnail_url": "https://play.vidyard.com/G2TVmca8fMAtCEKpY5YTWv.jpg",
+                "title": "What is the purpose of a website?",
+                "type": "video",
+                "url": "https://share.vidyard.com/watch/G2TVmca8fMAtCEKpY5YTWv",
+                "version": "1.0",
+                "width": "640"
+              },
+              "oembed_url": "https://share.vidyard.com/watch/G2TVmca8fMAtCEKpY5YTWv",
+              "size_type": "auto_full_width",
+              "source_type": "html",
+              "supported_oembed_types": [ "video" ],
+              "width": 640
+            },
+            video_type="embed"
+          %}
+          {% end_dnd_module %}
+        {% end_dnd_row %}
+        {% dnd_row %}
+          {% dnd_module path="../modules/button"
+            button_text={{ scaffold_content.video.button_text or template_translations.conference_button_text.message }},
+            button_link={
+              "url": {
+                "href": buy_now_anchor
+              }
+            },
+            styles={
+              "alignment": {
+                "alignment": {
+                  "horizontal_align": "CENTER"
+                }
+              }
+            }
+          %}
+          {% end_dnd_module %}
+        {% end_dnd_row %}
+      {% end_dnd_column %}
+    {% end_dnd_section %}
+
+
+    {# Logo gallery #}
+
+    {% include_dnd_partial path="../sections/logo-gallery.html"
+      context={
+        "heading": scaffold_content.sponsors.heading or template_translations.conference_heading_three.message,
+        "background_color": "#FFFFFF",
+        "logos": [
+        {
+          "image": {
+            "src": scaffold_content.sponsors.logo_one.src or get_asset_url("../images/industry-images/customer-logo-one.png"),
+            "alt": scaffold_content.sponsors.logo_one.alt or "Sponsor placeholder one"
+          }
+        },
+        {
+          "image": {
+            "src": scaffold_content.sponsors.logo_two.src or get_asset_url("../images/industry-images/customer-logo-two.png"),
+            "alt": scaffold_content.sponsors.logo_two.alt or "Sponsor placeholder two"
+          }
+        },
+        {
+          "image": {
+            "src": scaffold_content.sponsors.logo_three.src or get_asset_url("../images/industry-images/customer-logo-three.png"),
+            "alt": scaffold_content.sponsors.logo_three.alt or "Sponsor placeholder three"
+          }
+        },
+        {
+          "image": {
+            "src": scaffold_content.sponsors.logo_four.src or get_asset_url("../images/industry-images/customer-logo-four.png"),
+            "alt": scaffold_content.sponsors.logo_four.alt or "Sponsor placeholder four"
+          }
+        }
+      ]
+      }
+    %}
+
+    {# Testimonials section #}
+
+    {% include_dnd_partial path="../sections/testimonials.html"
+      context={
+        "background_color": "#F5F8FA",
+        "heading": scaffold_content.testimonials.heading or template_translations.conference_heading_five.message,
+        "content": scaffold_content.testimonials.subheading or template_translations.placeholder_content_one.message,
+        "testimonials": [
+        {
+          "content": scaffold_content.testimonials.testimonial_one.text or template_translations.conference_content_four.message,
+          "author": {
+            "name": scaffold_content.testimonials.testimonial_one.customer_name,
+            "image": {
+              "src": scaffold_content.testimonials.testimonial_one.customer_image.src or get_asset_url("../images/testimonial-one.jpg")
+            }
+          }
+        },
+        {
+          "content": scaffold_content.testimonials.testimonial_two.text or template_translations.conference_content_four.message,
+          "author": {
+            "name": scaffold_content.testimonials.testimonial_two.customer_name,
+            "image": {
+              "src": scaffold_content.testimonials.testimonial_two.customer_image.src or get_asset_url("../images/testimonial-two.jpg")
+            }
+          }
+        },
+        {
+          "content": scaffold_content.testimonials.testimonial_three.text or template_translations.conference_content_four.message,
+          "author": {
+            "name": scaffold_content.testimonials.testimonial_three.customer_name,
+            "image": {
+              "src": scaffold_content.testimonials.testimonial_three.customer_image.src or get_asset_url("../images/testimonial-three.jpg")
+            }
+          }
+        }
+      ],
+      }
+    %}
+
+  {% end_dnd_area %}
+{% endblock body %}

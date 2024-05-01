@@ -1,0 +1,197 @@
+{
+  "icon.label" : {
+    "message" : "आइकॉन",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list_items.content.default" : {
+    "message" : "<h3>सूची आइटम</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit। Nullam tempor arcu non commodo elementum।</p>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list_items.content.label" : {
+    "message" : "कॉन्टेंट",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list_items.icon.label" : {
+    "message" : "आइकॉन",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list_items.label" : {
+    "message" : "सूची आइटम",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list_type.choices.ol" : {
+    "message" : "ऑर्डर सूची",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list_type.choices.ul" : {
+    "message" : "अव्यवस्थित सूची",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list_type.label" : {
+    "message" : "सूची का प्रकार",
+    "description" : "",
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "सूची",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.background.color.label" : {
+    "message" : "कलर",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.background.label" : {
+    "message" : "बैकग्राउंड",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.corner.label" : {
+    "message" : "कॉर्नर",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.corner.radius.label" : {
+    "message" : "रेडियस",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.fill.color.label" : {
+    "message" : "कलर",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.fill.label" : {
+    "message" : "फिल",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.label" : {
+    "message" : "आइकॉन",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.help_text" : {
+    "message" : "चुने हुए आइटम की दिखावट को पूर्वनिर्धारित वैल्यू में त्वरित रूप से समायोजित करने के लिए प्रीसेट का उपयोग करें।",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_color.choices.dark" : {
+    "message" : "डार्क",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_color.choices.light" : {
+    "message" : "लाइट",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_color.label" : {
+    "message" : "आइकॉन कलर",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_shape.choices.circle" : {
+    "message" : "सर्कल",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_shape.choices.square" : {
+    "message" : "स्क्वैर",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_shape.label" : {
+    "message" : "आइकॉन शेप",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_size.choices.large" : {
+    "message" : "बड़ा",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_size.choices.regular" : {
+    "message" : "रेगुलर",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_size.choices.small" : {
+    "message" : "छोटा",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.icon_size.label" : {
+    "message" : "आइकॉन साइज",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.presets.label" : {
+    "message" : "प्रीसेट्स",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.size.label" : {
+    "message" : "साइज़",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.size.size.label" : {
+    "message" : "साइज़",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.spacing.label" : {
+    "message" : "स्पेसिंग",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icons.spacing.spacing.label" : {
+    "message" : "स्पेसिंग",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "स्टाइल",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list_items.label" : {
+    "message" : "सूची आइटम",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list_items.spacing.between_icon_and_list_items.label" : {
+    "message" : "आइकन और सूची आइटम के बीच",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list_items.spacing.between_list_items.label" : {
+    "message" : "सूची आइटम के बीच",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list_items.spacing.label" : {
+    "message" : "स्पेसिंग",
+    "description" : "",
+    "placeholders" : null
+  },
+  "use_custom_bullet_points.label" : {
+    "message" : "कस्टम बुलेट पॉइंट का उपयोग करें",
+    "description" : "",
+    "placeholders" : null
+  },
+  "use_same_icon_for_all_list_items.label" : {
+    "message" : "सभी सूची आइटमों के लिए एक ही आइकन का उपयोग करें",
+    "description" : "",
+    "placeholders" : null
+  }
+}

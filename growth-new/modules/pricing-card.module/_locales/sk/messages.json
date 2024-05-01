@@ -1,0 +1,622 @@
+{
+  "button.add_icon.label" : {
+    "message" : "Pridať ikonu",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.button_link.label" : {
+    "message" : "Odkaz na tlačidlo",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.button_target.choices.custom_link" : {
+    "message" : "Iné",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.button_target.choices.payment_link" : {
+    "message" : "Použite platobný odkaz",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.button_target.label" : {
+    "message" : "Cieľ tlačidla",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.button_text.default" : {
+    "message" : "Kúpiť štartovaciu verziu",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.button_text.label" : {
+    "message" : "Text tlačidla",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.checkout_behavior.choices.new_tab" : {
+    "message" : "Otvoriť v novej karte",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.checkout_behavior.choices.overlay" : {
+    "message" : "Posuvné prekrytie",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.checkout_behavior.label" : {
+    "message" : "Správanie pri dokončení platby",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.icon.icon.label" : {
+    "message" : "Ikona",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.icon.label" : {
+    "message" : "Ikona",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.icon.position.choices.left" : {
+    "message" : "Vľavo",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.icon.position.choices.right" : {
+    "message" : "Vpravo",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.icon.position.label" : {
+    "message" : "Pozícia",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.label" : {
+    "message" : "Tlačidlo",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.payment_link.label" : {
+    "message" : "Odkaz na platbu",
+    "description" : "",
+    "placeholders" : null
+  },
+  "default_text.close_checkout.default" : {
+    "message" : "Zavrieť dokončenie platby",
+    "description" : "",
+    "placeholders" : null
+  },
+  "default_text.close_checkout.label" : {
+    "message" : "Zavrieť dokončenie platby",
+    "description" : "",
+    "placeholders" : null
+  },
+  "default_text.label" : {
+    "message" : "Predvolený text",
+    "description" : "",
+    "placeholders" : null
+  },
+  "heading.heading.default" : {
+    "message" : "<h3>Začiatočné</h3>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "heading.heading.label" : {
+    "message" : "Nadpis",
+    "description" : "",
+    "placeholders" : null
+  },
+  "heading.label" : {
+    "message" : "Nadpis",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list.icon.label" : {
+    "message" : "Ikona",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list.label" : {
+    "message" : "Zoznam",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list.list_items.content.default" : {
+    "message" : "Lorem ipsum dolor sit amet, consectetur",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list.list_items.content.label" : {
+    "message" : "Obsah",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list.list_items.icon.label" : {
+    "message" : "Ikona",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list.list_items.label" : {
+    "message" : "Položky zoznamu",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list.use_custom_bullet_points.label" : {
+    "message" : "Použiť vlastné odrážky",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list.use_same_icon_for_all_list_items.label" : {
+    "message" : "Použiť rovnakú ikonu pre všetky položky zoznamu",
+    "description" : "",
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "Karta tvorby cien",
+    "description" : "",
+    "placeholders" : null
+  },
+  "price.label" : {
+    "message" : "Cena",
+    "description" : "",
+    "placeholders" : null
+  },
+  "price.price.default" : {
+    "message" : "<h4>50 USD/mesiac</h4>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "price.price.label" : {
+    "message" : "Cena",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.alignment.alignment.label" : {
+    "message" : "Zarovnanie",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.alignment.label" : {
+    "message" : "Zarovnanie",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.background.color.label" : {
+    "message" : "Farba",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.background.label" : {
+    "message" : "Pozadie",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.border.border.label" : {
+    "message" : "Ohraničenie",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.border.label" : {
+    "message" : "Ohraničenie",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.corner.label" : {
+    "message" : "Roh",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.corner.radius.label" : {
+    "message" : "Okruh",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.hover.background.color.label" : {
+    "message" : "Farba",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.hover.background.label" : {
+    "message" : "Pozadie",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.hover.border.border.label" : {
+    "message" : "Ohraničenie",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.hover.border.label" : {
+    "message" : "Ohraničenie",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.hover.label" : {
+    "message" : "Umiestniť kurzor",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.hover.text.font.label" : {
+    "message" : "Písmo",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.hover.text.label" : {
+    "message" : "Text",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.label" : {
+    "message" : "Tlačidlo",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.button_size.choices.large" : {
+    "message" : "Veľké",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.button_size.choices.regular" : {
+    "message" : "Štandardné",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.button_size.choices.small" : {
+    "message" : "Malé",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.button_size.label" : {
+    "message" : "Veľkosť tlačidla",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.button_style.choices.primary" : {
+    "message" : "Primárne",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.button_style.choices.secondary" : {
+    "message" : "Sekundárne",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.button_style.choices.simple" : {
+    "message" : "Jednoduché",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.button_style.label" : {
+    "message" : "Štýl tlačidla",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.help_text" : {
+    "message" : "Pomocou predvolieb rýchlo upravte vzhľad vybranej položky na prednastavené hodnoty",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.label" : {
+    "message" : "Predvoľby",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.spacing.label" : {
+    "message" : "Medzery",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.spacing.spacing.label" : {
+    "message" : "Medzery",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.text.font.label" : {
+    "message" : "Písmo",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.text.label" : {
+    "message" : "Text",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.text.transform.choices.capitalize" : {
+    "message" : "Veľkými písmenami",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.text.transform.choices.lowercase" : {
+    "message" : "Malými písmenami",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.text.transform.choices.none" : {
+    "message" : "Žiadne",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.text.transform.choices.uppercase" : {
+    "message" : "Veľkými písmenami",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.text.transform.label" : {
+    "message" : "Transformovať",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.background.color.label" : {
+    "message" : "Farba",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.background.label" : {
+    "message" : "Pozadie",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.border.border.label" : {
+    "message" : "Ohraničenie",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.border.label" : {
+    "message" : "Ohraničenie",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.corner.label" : {
+    "message" : "Roh",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.corner.radius.label" : {
+    "message" : "Okruh",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.height.label" : {
+    "message" : "Výška",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.height.min_height.label" : {
+    "message" : "Minimálna výška",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.label" : {
+    "message" : "Karta",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.dark" : {
+    "message" : "Tmavý",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.light" : {
+    "message" : "Svetlo",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.plain" : {
+    "message" : "Jednoduché",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.label" : {
+    "message" : "Štýl karty",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.help_text" : {
+    "message" : "Pomocou predvolieb rýchlo upravte vzhľad vybranej položky na prednastavené hodnoty",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.label" : {
+    "message" : "Predvoľby",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.spacing.label" : {
+    "message" : "Medzery",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.spacing.spacing.label" : {
+    "message" : "Medzery",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.heading.background.color.label" : {
+    "message" : "Farba",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.heading.background.label" : {
+    "message" : "Pozadie",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.heading.label" : {
+    "message" : "Nadpis",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.heading.spacing.label" : {
+    "message" : "Medzery",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.heading.spacing.spacing.label" : {
+    "message" : "Medzery",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "Štýly",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.background.color.label" : {
+    "message" : "Farba",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.background.label" : {
+    "message" : "Pozadie",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.corner.label" : {
+    "message" : "Roh",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.corner.radius.label" : {
+    "message" : "Okruh",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.fill.color.label" : {
+    "message" : "Farba",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.fill.label" : {
+    "message" : "Vyplniť",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.label" : {
+    "message" : "Ikony",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.help_text" : {
+    "message" : "Pomocou predvolieb rýchlo upravte vzhľad vybranej položky na prednastavené hodnoty",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_color.choices.dark" : {
+    "message" : "Tmavý",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_color.choices.light" : {
+    "message" : "Svetlo",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_color.label" : {
+    "message" : "Farba ikony",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_shape.choices.circle" : {
+    "message" : "Kruh",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_shape.choices.square" : {
+    "message" : "Štvorec",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_shape.label" : {
+    "message" : "Tvar ikony",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_size.choices.large" : {
+    "message" : "Veľké",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_size.choices.regular" : {
+    "message" : "Štandardné",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_size.choices.small" : {
+    "message" : "Malé",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_size.label" : {
+    "message" : "Veľkosť ikony",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.label" : {
+    "message" : "Predvoľby",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.size.label" : {
+    "message" : "Veľkosť",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.size.size.label" : {
+    "message" : "Veľkosť",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.spacing.label" : {
+    "message" : "Medzery",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.spacing.spacing.label" : {
+    "message" : "Medzery",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.label" : {
+    "message" : "Zoznam",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.list_items.label" : {
+    "message" : "Položky zoznamu",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.list_items.spacing.between_icon_and_list_items.label" : {
+    "message" : "Položka medzi ikonou a zoznamom",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.list_items.spacing.between_list_items.label" : {
+    "message" : "Položky medzi zoznamami",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.list_items.spacing.label" : {
+    "message" : "Medzery",
+    "description" : "",
+    "placeholders" : null
+  },
+  "subheading.label" : {
+    "message" : "Podhlavička",
+    "description" : "",
+    "placeholders" : null
+  },
+  "subheading.subheading.default" : {
+    "message" : "<h5>Niektoré kľúčové funkcie</h5>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "subheading.subheading.label" : {
+    "message" : "Podhlavička",
+    "description" : "",
+    "placeholders" : null
+  }
+}

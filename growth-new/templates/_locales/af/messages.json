@@ -1,0 +1,1662 @@
+{
+  "partial_header_skip_to_content": {
+    "message": "Slaan oor en gaan na inhoud",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_address": {
+    "message": "Kerkstraat 123, Stad, Provinsie 11111",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_copyright": {
+    "message": "Kopiereg © {{ year }}, {{ site_settings.company_name }}",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_one": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_two": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_three": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "about_banner_heading": {
+    "message": "Meer oor ons",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_one": {
+    "message": "Ons storie",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_two": {
+    "message": "Ons waardes",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_three": {
+    "message": "Ons geskiedenis",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_four": {
+    "message": "Ons span",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_five": {
+    "message": "Ons kultuur",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_six": {
+    "message": "Maatskappynuus",
+    "description": "",
+    "placeholders": null
+  },
+  "about_image_alt_text": {
+    "message": "Maatskappy",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_one_title": {
+    "message": "HUB en Stigter",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_two_title": {
+    "message": "Hoofbedryfsbeampte",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_three_title": {
+    "message": "Hooftegnologiebeampte",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_four_title": {
+    "message": "Hoof- finansiële beampte",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_five_title": {
+    "message": "Hoofontwerpsbeampte",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_six_title": {
+    "message": "Hoofmensehulpbronbeampte",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_description": {
+    "message": "Beklemtoon jou spanlid se unieke kundigheid, ervaring en belangstellings. Hou dit kort maar boeiend, en dui hul professionele reis aan asook die waardevolle vaardighede wat hulle kan bied.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_index_heading": {
+    "message": "Blog",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_heading": {
+    "message": "Blogopmerkings",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_heading": {
+    "message": "Growth conference",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_date": {
+    "message": "5-8 September",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_text": {
+    "message": "Kry kaartjies",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_content": {
+    "message": "Kry kaartjies",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_one": {
+    "message": "Koop nou",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_two": {
+    "message": "Koop kaartjies",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_one": {
+    "message": "Aangaande",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_two": {
+    "message": "Sprekerpaneel",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_three": {
+    "message": "Borge",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_four": {
+    "message": "Gee jou video 'n treffase",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_five": {
+    "message": "Aanbevelings",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_six": {
+    "message": "Kaartjies",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_one": {
+    "message": "Growth Conference is 'n templaat wat gebruik kan word om vir kliënte te wys hoe jou organisasie&rsquo;s konferensie of gebeurtenis vir hulle van waarde kan wees. Beskryf die tema van jou konferensie en waarom kliënte kaartjies moet koop.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_two": {
+    "message": "Gee hier 'n kort beskrywing van jou sprekers. Waarom moet jou gehoor na hulle luister? Is daar 'n tema wat hulle almal in hul praatjies gaan behandel? Wat maak hulle uniek? Gebruik hierdie spasie om vir die gebruiker 'n gevoel te gee van waarom jy hierdie sprekers wil uitlig.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_three": {
+    "message": "Gee hier 'n opsomming van jou spreker se biografie. Jy kan ook 'n sin byvoeg oor die onderwerp van hul aanbieding.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_four": {
+    "message": "&ldquo;Dit is jou kans om sosiale bewyse te lewer van hoe goed jou gebeurtenis is. Voeg getuigskrifte by wat mense sal help om die waarde van jou gebeurtenis te verstaan.&rdquo;",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_five": {
+    "message": "Beskryf die tema van jou konferensie, gee vir jou moontlike kliënte 'n idee van wat by die konferensie gaan gebeur en sê vir hulle hoekom hulle kaartjies moet koop. Gebruik hierdie template om kontaklose kaartjies vir jou gebeurtenis te verkoop.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_heading": {
+    "message": "Algemene toegang",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_price": {
+    "message": "$199",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_heading": {
+    "message": "BBP",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_price": {
+    "message": "$449",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_one": {
+    "message": "Noem al die opwindende voordele wat jou kliënte sal geniet as hulle hierdie vlak koop.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_two": {
+    "message": "Watter netwerk- en leergeleenthede is vir hulle by die konferensie beskikbaar?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_three": {
+    "message": "Tot watter dele van die konferensie het hulle toegang?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_four": {
+    "message": "Het hulle toegang tot enige opgeneemde programme?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_five": {
+    "message": "Wat is hulle kos-, vervoer- en akkommodasie-opsies?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_six": {
+    "message": "Noem al die eksklusiewe voordele wat jou BBP-kliënt sal geniet as hulle hierdie vlak koop.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_one": {
+    "message": "HUB en Stigter",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_two": {
+    "message": "Hoofbedryfsbeampte",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_three": {
+    "message": "Hooftegnologiebeampte",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_content": {
+    "message": "Koop kaartjies",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_image_alt_text": {
+    "message": "Sprekerfoto",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_one": {
+    "message": "Kontak ons",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_two": {
+    "message": "Ons lokaliteite",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_three": {
+    "message": "Tree in aanraking",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_four": {
+    "message": "Kwelvrae",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_heading": {
+    "message": "Inhoudsbiblioteek",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_content": {
+    "message": "'n Biblioteek van hulpbronne en digitale bates om jou te help leer en groei.",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_one": {
+    "message": "<h3>San Francisco</h3><p>3870 Twin Oaks Drive<br> San Francisco, CA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_two": {
+    "message": "<h3>Chicago</h3><p>2140 Roguski Road<br> Chicago, IL</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_three": {
+    "message": "<h3>Boston</h3><p>123 Waverly Place<br> Boston, MA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_question": {
+    "message": "Akkordiontitel",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_heading": {
+    "message": "Bladsy nie gekry nie",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_description": {
+    "message": "Ons kan nie die bladsy kry wat jy soek nie.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_button": {
+    "message": "Gaan na tuisblad",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_heading": {
+    "message": "Hierdie bladsy is stukkend",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_description": {
+    "message": "'n Interne bedienerfout het opgeduik, maar ons stel ondersoek in!",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_button": {
+    "message": "Gaan na tuisblad",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_heading": {
+    "message": "Jammer, jy het nie toegang nie",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_description": {
+    "message": "Jy het nie toestemming om hierdie bladsy te besigtig nie. Kontak die webwerfadministrateur met vrae.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_button": {
+    "message": "Gaan na tuisblad",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_heading": {
+    "message": "Meld aan",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_subheading": {
+    "message": "Die bladsy wat jy probeer besigtig, is slegs beskikbaar aan geregistreerde gebruikers.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_email": {
+    "message": "E-posadres",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_password": {
+    "message": "Wagwoord",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_remember_me": {
+    "message": "Onthou my",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_reset_password": {
+    "message": "Het jy jou wagwoord vergeet?",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_submit": {
+    "message": "Meld aan",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_show_password": {
+    "message": "Wys",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_contact_admin": {
+    "message": "Sukkel jy? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Kontak die webwerfadministrateur</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_heading": {
+    "message": "Jy is afgemeld",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_button": {
+    "message": "Meld weer aan",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_alt": {
+    "message": "Of keer terug na die <a href=\"{{ '//' ~ request.domain }}\">tuisblad</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_heading": {
+    "message": "Stel jou wagwoord op",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_subheading": {
+    "message": "Welkom! Voltooi jou registrasie deur jou wagwoord op te stel.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_email": {
+    "message": "E-posadres",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_confirm_password": {
+    "message": "Bevestig wagwoord",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_password": {
+    "message": "Wagwoord",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_save_password": {
+    "message": "Stoor wagwoord",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_show_password": {
+    "message": "Wys",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_contact_admin": {
+    "message": "Sukkel jy? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Kontak die webwerfadministrateur</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_heading": {
+    "message": "Jou e-posadres is bevestig",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_description": {
+    "message": "Dankie dat jy jou e-posadres geverifieer het. Jy kan nou by jou rekening inteken en toegang tot jou eksklusiewe inhoud kry.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_button": {
+    "message": "Meld aan",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_contact_admin": {
+    "message": "Sukkel jy? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Kontak die webwerfadministrateur</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_heading": {
+    "message": "Skep nuwe wagwoord",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_subheading": {
+    "message": "Jou nuwe wagwoord moet verskil van jou vorige wagwoord.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_new_password": {
+    "message": "Nuwe wagwoord",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_confirm_password": {
+    "message": "Bevestig nuwe wagwoord",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_save_password": {
+    "message": "Stoor wagwoord",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_show_password": {
+    "message": "Wys",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_contact_admin": {
+    "message": "Sukkel jy? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Kontak die webwerfadministrateur</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_heading": {
+    "message": "Stel jou wagwoord terug",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_subheading": {
+    "message": "Tik die e-posadres in wat jy gebruik het om te registreer en ons sal dan vir jou 'n e-pos met 'n skakel stuur om jou wagwoord terug te stel.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_email": {
+    "message": "E-posadres",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_submit": {
+    "message": "Stuur terugstel-e-pos",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_alt": {
+    "message": "Het dit so pas na jou toe teruggekom? <a href=\"/_hcms/mem/login\">Meld aan</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_contact_admin": {
+    "message": "Sukkel jy? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Kontak die webwerfadministrateur</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_heading": {
+    "message": "Verifieer jou e-posadres",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_description": {
+    "message": "Dankie dat jy geregistreer het! Kontroleer asseblief jou e-pos en klik op die bevestigingskakel om jou registrasie te voltooi.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_contact_admin": {
+    "message": "Sukkel jy? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Kontak die webwerfadministrateur</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_one": {
+    "message": "Aangaande",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two": {
+    "message": "Ontwikkel jou onderneming met betaalde konsultasies",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two_update": {
+    "message": "Ontwikkel jou onderneming met betaalde konsultasies",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_three": {
+    "message": "'n Stel hulpmiddels tot jou beskikking",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_heading": {
+    "message": "Diens",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_description": {
+    "message": "Gee 'n opsomming van die diens wat jy verskaf. Voeg 'n boodskap by oor die waarde wat jy kan toevoeg vir jou kliënte.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_four": {
+    "message": "Aanbevelings",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_one": {
+    "message": "Voeg 'n subtitel by wat sal verduidelik watter waarde jy tot jou kliënte sal toevoeg",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_two": {
+    "message": "Gee 'n kort beskrywing van die werk wat jy by jou maatskappy doen. Probeer op jou spesialiseringsveld konsentreer sodat jy jou kliënte se aandag sal vasvang. Praat oor die waarde wat jy met 'n betaalde konsultasie kan toevoeg.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_list_content": {
+    "message": "&ldquo;Gee 'n getuigskrif wat jou dienste sal beaam. Waarom is jou huidige kliënte opgewonde oor jou aanbieding?&rdquo;",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_image_alt_text": {
+    "message": "Beeld van plekhouer vir groeitema",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_button_text": {
+    "message": "Bespreek 'n konsultasie",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_heading": {
+    "message": "Wagwoord benodig",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_subheading": {
+    "message": "Tik asseblief jou wagwoord in om hierdie bladsy te besigtig.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_one": {
+    "message": "Pryse",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_plans_and_pricing_heading": {
+    "message": "Planne en pryse",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_two": {
+    "message": "Kwelvrae",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_heading": {
+    "message": "Alle planne sluit in",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_content_heading": {
+    "message": "Produkkenmerk",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_heading": {
+    "message": "Stuur mense na jou produkte en dienste",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_button_text": {
+    "message": "Vind meer uit",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_question": {
+    "message": "Akkordiontitel",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_one": {
+    "message": "Produkte",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_two": {
+    "message": "Ontwikkel met jou in gedagte",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_heading": {
+    "message": "Plus selfs nog meer",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_content_heading": {
+    "message": "Produkkenmerk",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_one": {
+    "message": "Begin vinnig",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_two": {
+    "message": "Eenvoudig en maklik om te gebruik",
+    "description": "",
+    "placeholders": null
+  },
+  "products_image_alt_text": {
+    "message": "Produkkenmerk",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_heading": {
+    "message": "Stuur mense na jou produkte en dienste",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_button_text": {
+    "message": "Vind meer uit",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_heading": {
+    "message": "Groeitema",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_button_text": {
+    "message": "Begin",
+    "description": "",
+    "placeholders": null
+  },
+  "home_logos_heading": {
+    "message": "'n Paar van ons tevrede kliënte",
+    "description": "",
+    "placeholders": null
+  },
+  "home_heading": {
+    "message": "Ontwikkel met jou in gedagte",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_one": {
+    "message": "Vinnige opstelling",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_two": {
+    "message": "Maklik om te gebruik",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_three": {
+    "message": "Kan pasgemaak word",
+    "description": "",
+    "placeholders": null
+  },
+  "home_video_heading": {
+    "message": "Sien dinge in aksie",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_heading": {
+    "message": "'n Stel hulpmiddels tot jou beskikking",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_content_heading": {
+    "message": "Produknaam",
+    "description": "",
+    "placeholders": null
+  },
+  "home_image_alt_text": {
+    "message": "Produknaam",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_button_text": {
+    "message": "Vind meer uit",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_content": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan velit sit amet sagittis malesuada.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_customer": {
+    "message": "Shaun Benson, Bemarkingsbestuurder, Agriflora Inc.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_blog_post_heading": {
+    "message": "Nuutste plasings",
+    "description": "",
+    "placeholders": null
+  },
+  "home_contact": {
+    "message": "Kontak ons",
+    "description": "",
+    "placeholders": null
+  },
+  "home_button_text": {
+    "message": "Begin",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_heading": {
+    "message": "Laai vandag nog jou gratis digitale hulpbron af",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_p_one": {
+    "message": "Skryf 'n boeiende inleiding wat die tafel dek vir hierdie hulpbron se inhoud. Bespreek jou leser se uitdagings of doelwitte en verduidelik hoe die e-boek daarmee sal help.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_one_heading": {
+    "message": "Voordeel #1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_two_heading": {
+    "message": "Voordeel #2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_three_heading": {
+    "message": "Voordeel #3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_content": {
+    "message": "Verduidelik wat lesers gaan leer",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_highlight": {
+    "message": "Onthou om voordele uit te lig:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_preface": {
+    "message": "Waarom moet jy ons kies?",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_heading": {
+    "message": "Ons bied moderne oplossings om jou onderneming te laat groei",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_content": {
+    "message": "Sluit by duisende tevrede gebruikers aan wat hul lewe met ons innoverende oplossings verander het.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_button_text": {
+    "message": "Vind meer uit",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_logo_heading": {
+    "message": "Vertrou deur toonaangewende maatskappye",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_heading": {
+    "message": "Kenmerknaam",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_content": {
+    "message": "Skryf oorredende, voordeelgedrewe kopie wat die waarde van jou aanbod duidelik kommunikeer en besoekers tot optrede aanmoedig. Fokus op hoe jou aanbod hul probleme oplos of hul behoeftes vervul.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_preface": {
+    "message": "Moenie net ons woord daarvoor aanvaar nie",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_heading": {
+    "message": "Sien hierdie funksies in aksie met een van ons spanlede",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_button_text": {
+    "message": "Kry 'n demonstrasie",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_heading": {
+    "message": "Skeduleer 'n demonstrasie",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_p_one": {
+    "message": "Skeduleer 'n demonstrasie met een van ons spanlede op 'n tyd wat vir jou geleë is. Voeg 'n kort beskrywing by oor wat jou voornemende kliënte kan verwag om te leer.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_highlight": {
+    "message": "Ons sal die volgende bespreek:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_one_heading": {
+    "message": "Onderwerp #1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_two_heading": {
+    "message": "Onderwerp #2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_three_heading": {
+    "message": "Onderwerp #3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_content": {
+    "message": "Verduidelik wat jou demonstrasie gaan dek",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_heading": {
+    "message": "Verseker jou plek: Registreer nou vir hierdie eksklusiewe gebeurtenis",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_content": {
+    "message": "Voeg 'n kort inleiding by oor wat die regstreekse konferensie, webinaar of gebeurtenis behels en waarom lede van jou gehoor daarvoor moet registreer.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_button_text": {
+    "message": "Registreer nou",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_partners_content": {
+    "message": "Sluit by ons en ons gemeenskap van vennote aan",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_preface": {
+    "message": "Meer oor die gebeurtenis",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_heading": {
+    "message": "Kry insigte vanaf topkenners",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_highlight": {
+    "message": "Hoogtepunte van gebeurtenis:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_one_heading": {
+    "message": "Hoogtepunt #1",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_two_heading": {
+    "message": "Hoogtepunt #2",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_three_heading": {
+    "message": "Hoogtepunt #3",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_content": {
+    "message": "Wat teenwoordiges kan verwag om te baat",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_heading": {
+    "message": "Vinnige statistieke",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_one": {
+    "message": "20+",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_two": {
+    "message": "150+",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_three": {
+    "message": "10",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_description": {
+    "message": "Kort beskrywing van die statistiek",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_heading": {
+    "message": "Kyk vir 'n voorsmakie van die gebeurtenis",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_content": {
+    "message": "Kyk ons voorskouvideo vir 'n voorsmakie van die inspirerende hoofonderwerpe, interaktiewe werkswinkels en netwerkgeleenthede wat wag. Moenie hierdie voorskou van wat kom, misloop nie – sluit by ons aan vir 'n onvergeetlike ervaring.  ",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_preface": {
+    "message": "Moenie net ons woord daarvoor aanvaar nie",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_heading": {
+    "message": "Ontsluit geleenthede en bespreek vandag nog jou plek",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_button_text": {
+    "message": "Registreer nou",
+    "description": "",
+    "placeholders": null
+  },
+  "search_results_heading": {
+    "message": "Soektogresultate vir \"[[search_term]]\"",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_heading": {
+    "message": "Aangaande",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_sub_heading": {
+    "message": "Ons maatskappy",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_image_alt_text": {
+    "message": "Ons storie",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_list_heading": {
+    "message": "Onlangse plasings",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_heading": {
+    "message": "Onlangse plasings",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_heading": {
+    "message": "Stuur mense na jou produkte en dienste",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_button_text": {
+    "message": "Vind meer uit",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_full_heading": {
+    "message": "Kontak",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_heading": {
+    "message": "Kontak",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_address": {
+    "message": "Kerkstraat 123, Stad, Provinsie 11111",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_email": {
+    "message": "kontak@onderneming.com",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_phone_number": {
+    "message": "+27 82-777-1212",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_heading": {
+    "message": "Produk",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_description_heading": {
+    "message": "Produkbeskrywing",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_button_text": {
+    "message": "Kontak ons",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_image_alt_text": {
+    "message": "Produk",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_heading": {
+    "message": "Galery",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_one": {
+    "message": "Produkte",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_two": {
+    "message": "Maatskappy",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_three": {
+    "message": "Pryse",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_four": {
+    "message": "Produkkenmerk",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_five": {
+    "message": "Beeld se byskrif",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_caption": {
+    "message": "Beeld se byskrif",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_heading": {
+    "message": "Galery",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_one": {
+    "message": "Produkte",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_two": {
+    "message": "Maatskappy",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_three": {
+    "message": "Pryse",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_four": {
+    "message": "Produkkenmerk",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_five": {
+    "message": "Pryse",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_hover_message": {
+    "message": "Sweefboodskap",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_heading": {
+    "message": "Groeitema",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_button_text": {
+    "message": "Kontak ons",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_heading": {
+    "message": "Groeitema",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_button_text": {
+    "message": "Begin",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_heading": {
+    "message": "Waarom ons uitstaan",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_one": {
+    "message": "Vinnige opstelling",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_two": {
+    "message": "Maklik om te gebruik",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_three": {
+    "message": "Kan pasgemaak word",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_heading": {
+    "message": "'n Paar van ons tevrede kliënte",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_image_alt_text": {
+    "message": "Kliëntlogo",
+    "description": "",
+    "placeholders": null
+  },
+  "section_meetings_banner_heading": {
+    "message": "Bespreek 'n vergadering om 'n gratis konsultasie te kry",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_heading": {
+    "message": "Ons span",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_one_title": {
+    "message": "HUB",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_two_title": {
+    "message": "Hoofbedryfsbeampte",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_three_title": {
+    "message": "Hoof- finansiële beampte",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_description": {
+    "message": "Beklemtoon jou spanlid se unieke kundigheid, ervaring en belangstellings. Hou dit kort maar boeiend, en dui hul professionele reis aan asook die waardevolle vaardighede wat hulle kan bied.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_heading": {
+    "message": "Ons storie",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_image_alt_text": {
+    "message": "Ons storie",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_button_text": {
+    "message": "Vind meer uit",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_heading": {
+    "message": "Planne sluit in",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_description_heading": {
+    "message": "Produkkenmerk",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_image_alt_text": {
+    "message": "Plankenmerk",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_heading": {
+    "message": "Teken in op ons nuusbrief!",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_subheading": {
+    "message": "Registreer om op hoogte te bly van die jongste nuus",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_heading": {
+    "message": "'n Stel hulpmiddels tot jou beskikking",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_card_heading": {
+    "message": "Stuur mense na jou produkte en dienste",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_button_text": {
+    "message": "Kontak ons",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_image_alt_text": {
+    "message": "Diens",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_heading": {
+    "message": "Planne en pryse",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_heading": {
+    "message": "Begin",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_price": {
+    "message": "$50/maand",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_content": {
+    "message": "Koop beginnersplan nou",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_button_text": {
+    "message": "Koop beginnersplan nou",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_heading": {
+    "message": "Professional",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_price": {
+    "message": "$200/maand",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_content": {
+    "message": "Koop Professional nou",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_button_text": {
+    "message": "Koop Professional nou",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_heading": {
+    "message": "Onderneming",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_price": {
+    "message": "$600/maand",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_content": {
+    "message": "Koop Enterprise nou",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_button_text": {
+    "message": "Koop Enterprise nou",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_sub_heading": {
+    "message": "'n Paar hoofkenmerke",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_heading": {
+    "message": "Produkte",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_image_alt_text": {
+    "message": "Ons storie",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_description_heading": {
+    "message": "Produknaam",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_button_text": {
+    "message": "Kontak ons",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_heading": {
+    "message": "Dienste",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_description_heading": {
+    "message": "Naam van diens",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_one": {
+    "message": "Ons storie",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_two": {
+    "message": "Ons waardes",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_three": {
+    "message": "Ons geskiedenis",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_button_text": {
+    "message": "Kontak ons",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_heading": {
+    "message": "Aanbeveling",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_team_member_title_one": {
+    "message": "VP Product",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_heading": {
+    "message": "Sien wat mense te sê het",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_one": {
+    "message": "VP Product",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_two": {
+    "message": "SVP Sales",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_three": {
+    "message": "CMO",
+    "description": "",
+    "placeholders": null
+  },
+  "section_video_heading": {
+    "message": "Sien dinge in aksie",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading": {
+    "message": "Dienste",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_one_alt": {
+    "message": "Twee mense by rekenaar",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_two_alt": {
+    "message": "Twee mense met telefoon",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_three_alt": {
+    "message": "Twee mense by kleefnotas op muur",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_one": {
+    "message": "Basis",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_two": {
+    "message": "Professioneel",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_three": {
+    "message": "Onderneming",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_button_text": {
+    "message": "Vind meer uit",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_description": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_heading": {
+    "message": "Dienste",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_image_alt": {
+    "message": "Mense wat op trappe sit",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_heading": {
+    "message": "Ontwikkeling van handelsmerkidentiteit",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_content": {
+    "message": "Ons span sal 'n unieke en onvergeetlike handelsmerkidentiteit skep wat die kern van jou maatskappy vasvang. Ons sal 'n boeiende logo skep, 'n harmonieuse kleurpalet saamstel en 'n konsekwente visuele styl ontwikkel om jou handelsmerk te laat uitstaan.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_image_alt": {
+    "message": "Jong sakelui wat besig is om na skootrekenaar te kyk",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_heading": {
+    "message": "UX/UI-ontwerpverbetering",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_content": {
+    "message": "Verbeter gebruikerstevredenheid en -interaksie met ons UX/UI-ontwerpvernuf. Ons sal jou digitale produkte deeglik ontleed, swakplekke identifiseer en gebruikergesentreerde oplossings implementeer om die algehele gebruikerservaring te verbeter.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_image_alt": {
+    "message": "Jong bemarker gesels in binnehof met tablet in die hand",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_heading": {
+    "message": "Aanvullende bemarkingsontwerp",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_content": {
+    "message": "Gee jou bemarkingsprestasie 'n hupstoot met verstommende aanvullings wat 'n blywende indruk sal laat. Van brosjures en pamflette tot sosialemediagrafika; ons sal materiaal ontwerp wat die oog vang, by jou teikengehoor weerklank vind en resultate lewer. ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_button_text": {
+    "message": "Vind meer uit",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_banner_image_alt": {
+    "message": "Groep glimlaggende mense wat reguit vir kamera kyk",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_heading": {
+    "message": "Ondersteuning vir plaaslike kosspens",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_content_area_one": {
+    "message": "Sluit by ons aan en maak 'n verskil in jou bure se lewe deur ons plaaslike kosspens te ondersteun. Jou skenking sal help om noodsaaklike voeding aan individue en gesinne te verskaf wat voedselnood reg hier binne ons gemeenskap ervaar. ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_one_alt": {
+    "message": "Twee mense is besig om na kleefnotas op glas te kyk",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_two_alt": {
+    "message": "Telefoon word opgehou vir 'n betalingsverwerker",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_three_alt": {
+    "message": "Man wat 'n paneelwa bestuur met twee pakkies op die passasiersitplek",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_heading": {
+    "message": "Skenk nou",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_message_and_amount": {
+    "message": "Aanbevole bedrag: $15.00",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_one_text": {
+    "message": "Skenk $15.00",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_two_text": {
+    "message": "Pasgemaakte bedrag",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_three_text": {
+    "message": "Deel",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,1662 @@
+{
+  "partial_header_skip_to_content": {
+    "message": "Bỏ qua đến phần nội dung",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_address": {
+    "message": "Số 123, Đường, Quận, Thành phố 11111",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_copyright": {
+    "message": "Bản quyền © {{ year }}, {{ site_settings.company_name }}",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_one": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_two": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_three": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "about_banner_heading": {
+    "message": "Giới thiệu về chúng tôi",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_one": {
+    "message": "Câu chuyện của chúng tôi",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_two": {
+    "message": "Giá trị của chúng tôi",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_three": {
+    "message": "Lịch sử của chúng tôi",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_four": {
+    "message": "Đội ngũ của chúng tôi",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_five": {
+    "message": "Văn hóa của chúng tôi",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_six": {
+    "message": "Tin tức công ty",
+    "description": "",
+    "placeholders": null
+  },
+  "about_image_alt_text": {
+    "message": "Công ty",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_one_title": {
+    "message": "CEO và Nhà đồng sáng lập",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_two_title": {
+    "message": "Giám đốc điều hành",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_three_title": {
+    "message": "Giám đốc kỹ thuật",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_four_title": {
+    "message": "Giám đốc tài chính",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_five_title": {
+    "message": "Giám đốc thiết kế",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_six_title": {
+    "message": "Giám đốc nhân sự",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_description": {
+    "message": "Làm nổi bật chuyên môn, kinh nghiệm và sở thích độc đáo của các thành viên trong nhóm của bạn. Hãy viết một cách ngắn gọn nhưng hấp dẫn, thể hiện nền tảng chuyên môn và những kỹ năng quý giá mà họ mang lại.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_index_heading": {
+    "message": "Blog",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_heading": {
+    "message": "Bình luận trên blog",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_heading": {
+    "message": "Hội thảo về phát triển",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_date": {
+    "message": "5 - 8 tháng 9",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_text": {
+    "message": "Mua vé",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_content": {
+    "message": "Mua vé",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_one": {
+    "message": "Mua ngay",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_two": {
+    "message": "Mua vé",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_one": {
+    "message": "Giới thiệu",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_two": {
+    "message": "Đội ngũ diễn giả",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_three": {
+    "message": "Các nhà tài trợ",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_four": {
+    "message": "Thêm khẩu hiệu quảng bá cho video",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_five": {
+    "message": "Lời chứng thực",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_six": {
+    "message": "Phiếu",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_one": {
+    "message": "Hội thảo về phát triển là mẫu có thể dùng để cho khách hàng biết sự kiện hội thảo của tổ chức bạn có thể mang lại cho họ giá trị gì. Mô tả chủ đề của hội thảo và lý do khách hàng nên mua vé.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_two": {
+    "message": "Thêm mô tả ngắn về các diễn giả ở đây. Vì sao các khán giả nên nghe họ chia sẻ? Họ có cùng thảo luận về một chủ đề nào trong cuộc trò chuyện không? Điều gì khiến họ khác biệt? Hãy dùng không gian này để cho người đọc biết vì sao bạn muốn quảng bá những diễn giả này.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_three": {
+    "message": "Tóm tắt tiểu sử của diễn giả ở đây. Bạn cũng có thể thêm một câu về chủ đề trình bày của họ.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_four": {
+    "message": "&ldquo;Đây là cơ hội để bạn thêm hiệu ứng lan truyền cho thấy sự kiện của bạn thực sự xuất sắc. Thêm lời chứng thực giúp mọi người hiểu giá trị của sự kiện.&rdquo;",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_five": {
+    "message": "Mô tả chủ đề hội thảo của bạn để khách hàng triển vọng nắm được những việc sẽ diễn ra trong hội thảo và cho họ biết lý do họ nên mua vé. Sử dụng mẫu này để bán vé sự kiện của bạn theo cách không tiếp xúc.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_heading": {
+    "message": "Hạng phổ thông",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_price": {
+    "message": "199 USD",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_heading": {
+    "message": "Hạng VIP",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_price": {
+    "message": "449 USD",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_one": {
+    "message": "Liệt kê tất cả các lợi ích hấp dẫn mà khách hàng sẽ nhận được nếu họ mua hạng này.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_two": {
+    "message": "Họ sẽ có cơ hội nhận cơ hội học tập và kết nối mạng lưới nào ở hội thảo này?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_three": {
+    "message": "Họ có thể tham gia vào những phần nào của hội thảo?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_four": {
+    "message": "Họ có được nhận chương trình được ghi lại không?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_five": {
+    "message": "Họ có những lựa chọn ăn ở và di chuyển nào?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_six": {
+    "message": "Liệt kê tất cả quyền lợi độc quyền mà khách hàng VIP của bạn sẽ nhận được nếu họ mua bậc này.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_one": {
+    "message": "CEO và Nhà đồng sáng lập",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_two": {
+    "message": "Giám đốc điều hành",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_three": {
+    "message": "Giám đốc kỹ thuật",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_content": {
+    "message": "Mua vé",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_image_alt_text": {
+    "message": "Ảnh diễn giả",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_one": {
+    "message": "Liên hệ với chúng tôi",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_two": {
+    "message": "Địa điểm của chúng tôi",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_three": {
+    "message": "Liên hệ",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_four": {
+    "message": "Câu hỏi thường gặp",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_heading": {
+    "message": "Thư viện nội dung",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_content": {
+    "message": "Thư viện tài nguyên và tài sản kỹ thuật số để giúp bạn tìm hiểu và phát triển.",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_one": {
+    "message": "<h3>San Francisco</h3><p>3870 Twin Oaks Drive<br> San Francisco, CA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_two": {
+    "message": "<h3>Chicago</h3><p>2140 Roguski Road<br> Chicago, IL</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_three": {
+    "message": "<h3>Boston</h3><p>123 Waverly Place<br> Boston, MA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_question": {
+    "message": "Tiêu đề accordion",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_heading": {
+    "message": "Không tìm thấy trang",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_description": {
+    "message": "Chúng tôi không tìm thấy trang bạn đang tìm.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_button": {
+    "message": "Chuyển tới trang chủ",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_heading": {
+    "message": "Trang này không hoạt động",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_description": {
+    "message": "Đã xảy ra lỗi máy chủ nội bộ, nhưng chúng tôi đang xử lý rồi!",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_button": {
+    "message": "Chuyển tới trang chủ",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_heading": {
+    "message": "Rất tiếc, bạn không có quyền truy cập vào",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_description": {
+    "message": "Bạn không có quyền xem trang này. Liên hệ với quản trị viên của trang nếu có câu hỏi.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_button": {
+    "message": "Chuyển tới trang chủ",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_heading": {
+    "message": "Đăng nhập",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_subheading": {
+    "message": "Trang bạn đang cố gắng xem chỉ có sẵn cho người dùng đã đăng ký.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_email": {
+    "message": "Email",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_password": {
+    "message": "Mật khẩu",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_remember_me": {
+    "message": "Ghi nhớ tôi",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_reset_password": {
+    "message": "Bạn quên mật khẩu?",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_submit": {
+    "message": "Đăng nhập",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_show_password": {
+    "message": "Hiển thị",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_contact_admin": {
+    "message": "Bạn gặp sự cố? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Hãy liên hệ với quản trị viên của trang</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_heading": {
+    "message": "Bạn đã đăng xuất",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_button": {
+    "message": "Đăng nhập lại",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_alt": {
+    "message": "Hoặc quay lại <a href=\"{{ '//' ~ request.domain }}\">trang chủ</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_heading": {
+    "message": "Thiết lập mật khẩu của bạn",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_subheading": {
+    "message": "Chào mừng! Hoàn thành đăng ký bằng cách thiết lập mật khẩu của bạn.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_email": {
+    "message": "Email",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_confirm_password": {
+    "message": "Xác nhận mật khẩu",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_password": {
+    "message": "Mật khẩu",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_save_password": {
+    "message": "Lưu mật khẩu",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_show_password": {
+    "message": "Hiển thị",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_contact_admin": {
+    "message": "Bạn gặp sự cố? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Hãy liên hệ với quản trị viên của trang</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_heading": {
+    "message": "Địa chỉ email của bạn đã được xác nhận",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_description": {
+    "message": "Cám ơn bạn đã xác nhận địa chỉ email. Giờ đây, bạn có thể đăng nhập vào tài khoản và truy cập nội dung độc quyền của mình.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_button": {
+    "message": "Đăng nhập",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_contact_admin": {
+    "message": "Bạn gặp sự cố? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Hãy liên hệ với quản trị viên của trang</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_heading": {
+    "message": "Tạo mật khẩu mới",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_subheading": {
+    "message": "Mật khẩu mới phải khác với mật khẩu đã sử dụng trước đó của bạn.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_new_password": {
+    "message": "Mật khẩu mới",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_confirm_password": {
+    "message": "Xác nhận mật khẩu mới",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_save_password": {
+    "message": "Lưu mật khẩu",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_show_password": {
+    "message": "Hiển thị",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_contact_admin": {
+    "message": "Bạn gặp sự cố? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Hãy liên hệ với quản trị viên của trang</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_heading": {
+    "message": "Đặt lại mật khẩu của bạn",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_subheading": {
+    "message": "Nhập địa chỉ email bạn đã sử dụng để đăng ký và chúng tôi sẽ gửi cho bạn một email có liên kết để đặt lại mật khẩu của bạn.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_email": {
+    "message": "Email",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_submit": {
+    "message": "Gửi email đặt lại",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_alt": {
+    "message": "Email không được gửi lại cho bạn? <a href=\"/_hcms/mem/login\">Đăng nhập</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_contact_admin": {
+    "message": "Bạn gặp sự cố? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Hãy liên hệ với quản trị viên của trang</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_heading": {
+    "message": "Xác minh địa chỉ email của bạn",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_description": {
+    "message": "Cảm ơn bạn đã đăng ký! Vui lòng kiểm tra email và nhấp vào liên kết xác nhận để hoàn tất đăng ký của bạn.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_contact_admin": {
+    "message": "Bạn gặp sự cố? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Hãy liên hệ với quản trị viên của trang</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_one": {
+    "message": "Giới thiệu",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two": {
+    "message": "Phát triển doanh nghiệp của bạn nhờ dịch vụ tư vấn trả phí",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two_update": {
+    "message": "Phát triển doanh nghiệp của bạn nhờ dịch vụ tư vấn trả phí",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_three": {
+    "message": "Một bộ công cụ bạn có thể sử dụng",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_heading": {
+    "message": "Dịch vụ",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_description": {
+    "message": "Tóm tắt dịch vụ bạn cung cấp. Thêm thông báo về giá trị mà bạn có thể cung cấp cho khách hàng.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_four": {
+    "message": "Lời chứng thực",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_one": {
+    "message": "Thêm tiểu đề giải thích cách bạn mang lại giá trị cho khách hàng",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_two": {
+    "message": "Thêm mô tả ngắn về công việc mà bạn làm ở công ty. Hãy cố gắng tập trung vào chuyên môn của bạn để thu hút sự chú ý của khách hàng. Trao đổi về các giá trị bạn mang lại qua dịch vụ tư vấn trả phí.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_list_content": {
+    "message": "&ldquo;Thêm lời chứng thực làm minh chứng cho dịch vụ của bạn. Vì sao khách hàng hiện tại hứng thú với dịch vụ bạn cung cấp?&rdquo;",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_image_alt_text": {
+    "message": "Hình ảnh chỗ dành sẵn chủ đề phát triển",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_button_text": {
+    "message": "Đặt lịch tư vấn",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_heading": {
+    "message": "Cần có mật khẩu",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_subheading": {
+    "message": "Vui lòng nhập mật khẩu của bạn để xem trang này.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_one": {
+    "message": "Định giá",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_plans_and_pricing_heading": {
+    "message": "Các gói và mức giá",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_two": {
+    "message": "Câu hỏi thường gặp",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_heading": {
+    "message": "Tất cả các gói bao gồm",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_content_heading": {
+    "message": "Tính năng sản phẩm",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_heading": {
+    "message": "Thu hút mọi người đến với sản phẩm và dịch vụ của bạn",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_button_text": {
+    "message": "Tìm hiểu thêm",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_question": {
+    "message": "Tiêu đề accordion",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_one": {
+    "message": "Sản phẩm",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_two": {
+    "message": "Chú trọng đến nhu cầu của bạn",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_heading": {
+    "message": "Thêm nhiều lợi ích khác",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_content_heading": {
+    "message": "Tính năng sản phẩm",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_one": {
+    "message": "Bắt đầu nhanh chóng",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_two": {
+    "message": "Đơn giản và dễ sử dụng",
+    "description": "",
+    "placeholders": null
+  },
+  "products_image_alt_text": {
+    "message": "Tính năng sản phẩm",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_heading": {
+    "message": "Thu hút mọi người đến với sản phẩm và dịch vụ của bạn",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_button_text": {
+    "message": "Tìm hiểu thêm",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_heading": {
+    "message": "Chủ đề phát triển",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_button_text": {
+    "message": "Bắt đầu",
+    "description": "",
+    "placeholders": null
+  },
+  "home_logos_heading": {
+    "message": "Một số khách hàng hài lòng",
+    "description": "",
+    "placeholders": null
+  },
+  "home_heading": {
+    "message": "Chú trọng đến nhu cầu của bạn",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_one": {
+    "message": "Thiết lập nhanh",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_two": {
+    "message": "Dễ sử dụng",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_three": {
+    "message": "Có thể tùy chỉnh",
+    "description": "",
+    "placeholders": null
+  },
+  "home_video_heading": {
+    "message": "Xem những điều đang diễn ra",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_heading": {
+    "message": "Một bộ công cụ bạn có thể sử dụng",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_content_heading": {
+    "message": "Tên sản phẩm",
+    "description": "",
+    "placeholders": null
+  },
+  "home_image_alt_text": {
+    "message": "Tên sản phẩm",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_button_text": {
+    "message": "Tìm hiểu thêm",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_content": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan velit sit amet sagittis malesuada.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_customer": {
+    "message": "Shaun Benson, Giám đốc Tiếp thị, Agriflora Inc.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_blog_post_heading": {
+    "message": "Bài đăng gần nhất",
+    "description": "",
+    "placeholders": null
+  },
+  "home_contact": {
+    "message": "Liên hệ với chúng tôi",
+    "description": "",
+    "placeholders": null
+  },
+  "home_button_text": {
+    "message": "Bắt đầu",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_heading": {
+    "message": "Tải xuống tài nguyên kỹ thuật số miễn phí của bạn ngay hôm nay",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_p_one": {
+    "message": "Viết phần giới thiệu hấp dẫn gợi mở cho nội dung của tài nguyên này. Nêu ra khó khăn hoặc mục tiêu của người đọc và giải thích cuốn sách điện tử này có thể giúp họ giải quyết những vấn đề đó như thế nào.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_one_heading": {
+    "message": "Lợi ích số 1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_two_heading": {
+    "message": "Lợi ích số 2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_three_heading": {
+    "message": "Lợi ích số 3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_content": {
+    "message": "Nêu những điều độc giả sẽ học được",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_highlight": {
+    "message": "Đừng quên nêu bật các lợi ích",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_preface": {
+    "message": "Vì sao bạn nên chọn chúng tôi?",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_heading": {
+    "message": "Chúng tôi cung cấp các giải pháp hiện đại để phát triển doanh nghiệp của bạn",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_content": {
+    "message": "Hãy đồng hành cùng hàng ngàn người dùng hài lòng đã thay đổi cuộc đời nhờ các giải pháp tân tiến của chúng tôi.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_button_text": {
+    "message": "Tìm hiểu thêm",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_logo_heading": {
+    "message": "Được các công ty hàng đầu tin tưởng",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_heading": {
+    "message": "Tên tính năng",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_content": {
+    "message": "Viết nội dung tập trung vào lợi ích và mang tính thuyết phục cao, nêu rõ giá trị đề nghị của bạn và khuyến khích khách ghé thăm thực hiện hành động. Tập trung vào cách đề nghị của bạn giải quyết vấn đề hoặc đáp ứng nhu cầu của họ như thế nào.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_preface": {
+    "message": "Đừng chỉ tin lời chúng tôi",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_heading": {
+    "message": "Hãy xem cách thực hiện những tính năng này cùng với một thành viên trong đội của chúng tôi",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_button_text": {
+    "message": "Nhận bản minh họa",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_heading": {
+    "message": "Lên lịch dùng thử bản minh họa",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_p_one": {
+    "message": "Lên lịch dùng thử bản minh họa cùng với một thành viên trong đội của chúng tôi vào bất kỳ lúc nào thuận tiện cho bạn. Thêm mô tả ngắn gọn về những gì khách hàng tiềm năng của bạn có thể muốn tìm hiểu.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_highlight": {
+    "message": "Chúng ta sẽ thảo luận về:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_one_heading": {
+    "message": "Chủ đề số 1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_two_heading": {
+    "message": "Chủ đề số 2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_three_heading": {
+    "message": "Chủ đề số 3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_content": {
+    "message": "Giải thích nội dung có trong bản minh họa của bạn",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_heading": {
+    "message": "Giữ chỗ ngay: Đăng ký liền tay để tham gia dự kiện dành riêng này",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_content": {
+    "message": "Thêm phần giới thiệu ngắn gọn về nội dung trong hội nghị trực tuyến, hội thảo trực tuyến hoặc sự kiện và vì sao các đối tượng người xem của bạn nên đăng ký.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_button_text": {
+    "message": "Đăng ký ngay",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_partners_content": {
+    "message": "Tham gia cộng đồng đối tác của chúng tôi",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_preface": {
+    "message": "Giới thiệu về sự kiện",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_heading": {
+    "message": "Tham khảo thông tin chuyên sâu từ chuyên gia hàng đầu",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_highlight": {
+    "message": "Điểm nổi bật trong sự kiện:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_one_heading": {
+    "message": "Điểm nổi bật số 1",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_two_heading": {
+    "message": "Điểm nổi bật số 2",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_three_heading": {
+    "message": "Điểm nổi bật số 3",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_content": {
+    "message": "Những điều người tham dự có thể nhận được",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_heading": {
+    "message": "Số liệu thống kê nhanh",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_one": {
+    "message": "Hơn 20",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_two": {
+    "message": "Hơn 150",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_three": {
+    "message": "10",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_description": {
+    "message": "Mô tả ngắn gọn về số liệu thống kê",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_heading": {
+    "message": "Xem qua thông tin tóm tắt sự kiện",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_content": {
+    "message": "Xem đoạn video tiết lộ của chúng tôi để biết qua về những nội dung chính truyền cảm hứng, các hội thảo mang tính tương tác, và cơ hội mở rộng mạng lưới đang chờ đợi. Đừng bỏ lỡ cơ hội xem trước những gì sẽ diễn ra - hãy tham gia cùng chúng tôi để có trải nghiệm khó quên.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_preface": {
+    "message": "Đừng chỉ tin lời chúng tôi",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_heading": {
+    "message": "Mở khóa cơ hội và giữ chỗ ngay hôm nay",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_button_text": {
+    "message": "Đăng ký ngay",
+    "description": "",
+    "placeholders": null
+  },
+  "search_results_heading": {
+    "message": "Kết quả tìm kiếm cho \"[[search_term]]\"",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_heading": {
+    "message": "Giới thiệu",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_sub_heading": {
+    "message": "Công ty chúng tôi",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_image_alt_text": {
+    "message": "Câu chuyện của chúng tôi",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_list_heading": {
+    "message": "Bài đăng gần đây",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_heading": {
+    "message": "Bài đăng gần đây",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_heading": {
+    "message": "Thu hút mọi người đến với sản phẩm và dịch vụ của bạn",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_button_text": {
+    "message": "Tìm hiểu thêm",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_full_heading": {
+    "message": "Liên hệ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_heading": {
+    "message": "Liên hệ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_address": {
+    "message": "Số 123, Đường, Quận, Thành phố 11111",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_email": {
+    "message": "contact@businessname.com",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_phone_number": {
+    "message": "+1 234-567-8901",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_heading": {
+    "message": "Sản phẩm",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_description_heading": {
+    "message": "Mô tả",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_button_text": {
+    "message": "Liên hệ với chúng tôi",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_image_alt_text": {
+    "message": "Sản phẩm",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_heading": {
+    "message": "Thư viện",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_one": {
+    "message": "Sản phẩm",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_two": {
+    "message": "Công ty",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_three": {
+    "message": "Định giá",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_four": {
+    "message": "Tính năng sản phẩm",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_five": {
+    "message": "Chú thích hình ảnh",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_caption": {
+    "message": "Chú thích hình ảnh",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_heading": {
+    "message": "Thư viện",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_one": {
+    "message": "Sản phẩm",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_two": {
+    "message": "Công ty",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_three": {
+    "message": "Định giá",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_four": {
+    "message": "Tính năng sản phẩm",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_five": {
+    "message": "Định giá",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_hover_message": {
+    "message": "Di chuột qua thông báo",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_heading": {
+    "message": "Chủ đề phát triển",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_button_text": {
+    "message": "Liên hệ với chúng tôi",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_heading": {
+    "message": "Chủ đề phát triển",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_button_text": {
+    "message": "Bắt đầu",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_heading": {
+    "message": "Lý do khiến chúng tôi trở nên nổi bật",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_one": {
+    "message": "Thiết lập nhanh",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_two": {
+    "message": "Dễ sử dụng",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_three": {
+    "message": "Có thể tùy chỉnh",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_heading": {
+    "message": "Một số khách hàng hài lòng",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_image_alt_text": {
+    "message": "Logo của khách hàng",
+    "description": "",
+    "placeholders": null
+  },
+  "section_meetings_banner_heading": {
+    "message": "Đặt lịch hẹn để nhận buổi tư vấn miễn phí",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_heading": {
+    "message": "Đội ngũ của chúng tôi",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_one_title": {
+    "message": "CEO",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_two_title": {
+    "message": "Giám đốc điều hành",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_three_title": {
+    "message": "Giám đốc tài chính",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_description": {
+    "message": "Làm nổi bật chuyên môn, kinh nghiệm và sở thích độc đáo của các thành viên trong nhóm của bạn. Hãy viết một cách ngắn gọn nhưng hấp dẫn, thể hiện nền tảng chuyên môn và những kỹ năng quý giá mà họ mang lại.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_heading": {
+    "message": "Câu chuyện của chúng tôi",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_image_alt_text": {
+    "message": "Câu chuyện của chúng tôi",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_button_text": {
+    "message": "Tìm hiểu thêm",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_heading": {
+    "message": "Các gói bao gồm",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_description_heading": {
+    "message": "Tính năng sản phẩm",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_image_alt_text": {
+    "message": "Tính năng của gói",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_heading": {
+    "message": "Hãy đăng ký nhận bản tin của chúng tôi!",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_subheading": {
+    "message": "Đăng ký để nhận những thông tin cập nhật mới nhất",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_heading": {
+    "message": "Một bộ công cụ bạn có thể sử dụng",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_card_heading": {
+    "message": "Thu hút mọi người đến với sản phẩm và dịch vụ của bạn",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_button_text": {
+    "message": "Liên hệ với chúng tôi",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_image_alt_text": {
+    "message": "Dịch vụ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_heading": {
+    "message": "Các gói và mức giá",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_heading": {
+    "message": "Giá khởi đầu",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_price": {
+    "message": "50 USD/tháng",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_content": {
+    "message": "Mua gói khởi đầu ngay",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_button_text": {
+    "message": "Mua gói khởi đầu ngay",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_heading": {
+    "message": "Professional",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_price": {
+    "message": "200 USD/tháng",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_content": {
+    "message": "Mua ngay gói Professional",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_button_text": {
+    "message": "Mua ngay gói Professional",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_heading": {
+    "message": "Doanh nghiệp",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_price": {
+    "message": "600 USD/tháng",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_content": {
+    "message": "Mua ngay gói Enterprise",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_button_text": {
+    "message": "Mua ngay gói Enterprise",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_sub_heading": {
+    "message": "Một số tính năng chính",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_heading": {
+    "message": "Sản phẩm",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_image_alt_text": {
+    "message": "Câu chuyện của chúng tôi",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_description_heading": {
+    "message": "Tên sản phẩm",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_button_text": {
+    "message": "Liên hệ với chúng tôi",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_heading": {
+    "message": "Dịch vụ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_description_heading": {
+    "message": "Tên dịch vụ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_one": {
+    "message": "Câu chuyện của chúng tôi",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_two": {
+    "message": "Giá trị của chúng tôi",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_three": {
+    "message": "Lịch sử của chúng tôi",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_button_text": {
+    "message": "Liên hệ với chúng tôi",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_heading": {
+    "message": "Lời chứng thực",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_team_member_title_one": {
+    "message": "VP Product",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_heading": {
+    "message": "Xem những gì mọi người nói",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_one": {
+    "message": "VP Product",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_two": {
+    "message": "SVP Sales",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_three": {
+    "message": "CMO",
+    "description": "",
+    "placeholders": null
+  },
+  "section_video_heading": {
+    "message": "Xem những điều đang diễn ra",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading": {
+    "message": "Dịch vụ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_one_alt": {
+    "message": "Hai người ở trước máy tính",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_two_alt": {
+    "message": "Hai người đang nhìn qua điện thoại",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_three_alt": {
+    "message": "Hai người đang làm việc với giấy ghi chú trên tường",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_one": {
+    "message": "Cơ bản",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_two": {
+    "message": "Chuyên nghiệp",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_three": {
+    "message": "Doanh nghiệp",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_button_text": {
+    "message": "Tìm hiểu thêm",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_description": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_heading": {
+    "message": "Dịch vụ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_image_alt": {
+    "message": "Những người đang ngồi ở cầu thang",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_heading": {
+    "message": "Phát triển bộ nhận diện thương hiệu",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_content": {
+    "message": "Đội ngũ của chúng tôi sẽ tạo một bộ nhận diện thương hiệu độc đáo và khó quên, thể hiện bản sắc của công ty bạn. Chúng tôi sẽ tạo logo cuốn hút, chọn bảng màu hài hòa và phát triển phong cách trực quan nhất quán để tạo nên sự khác biệt cho thương hiệu của bạn.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_image_alt": {
+    "message": "Các chuyên viên kinh doanh trẻ đang nhìn vào máy tính xách tay",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_heading": {
+    "message": "Nâng cao thiết kế trải nghiệm người dùng/giao diện người dùng",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_content": {
+    "message": "Cải thiện sự hài lòng và tương tác của người dùng với chuyên môn thiết kế trải nghiệm người dùng/giao diện người dùng của chúng tôi. Chúng tôi sẽ tiến hành phân tích kỹ lưỡng về các sản phẩm kỹ thuật số của bạn, xác định các vấn đề trong quá trình trải nghiệm và triển khai các giải pháp lấy người dùng làm trung tâm để nâng cao trải nghiệm người dùng tổng thể.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_image_alt": {
+    "message": "Chuyên viên tiếp thị trẻ đang nói chuyện trong sân, tay cầm máy tính bảng",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_heading": {
+    "message": "Thiết kế tài liệu tiếp thị",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_content": {
+    "message": "Nâng cấp công tác tiếp thị của bạn bằng bộ tài liệu quảng cáo tuyệt vời, để lại ấn tượng khó phai. Từ tập sách nhỏ và tờ rơi cho đến đồ họa trên mạng xã hội, chúng tôi sẽ thiết kế những tài liệu bắt mắt, gợi cảm giác đồng điệu từ phía khách hàng mục tiêu của bạn và thúc đẩy kết quả.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_button_text": {
+    "message": "Tìm hiểu thêm",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_banner_image_alt": {
+    "message": "Nhóm người đang mỉm cười nhìn thẳng về phía trước vào máy ảnh",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_heading": {
+    "message": "Hỗ trợ kho thực phẩm địa phương",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_content_area_one": {
+    "message": "Tham gia cùng chúng tôi tạo nên sự khác biệt cho cuộc sống người dân trong khu vực của chúng ta bằng cách hỗ trợ kho thực phẩm địa phương. Sự quyên góp của bạn sẽ giúp cung cấp dinh dưỡng thiết yếu cho các cá nhân và gia đình đang phải đối mặt với tình trạng mất an ninh lương thực ngay tại cộng đồng của chúng ta.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_one_alt": {
+    "message": "Hai cá nhân đang nhìn vào giấy ghi chú trên kính",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_two_alt": {
+    "message": "Điện thoại đang được giơ lên với bộ xử lý thanh toán",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_three_alt": {
+    "message": "Người đàn ông đang lái xe tải, trên ghế hành khách đặt hai gói hàng",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_heading": {
+    "message": "Quyên góp ngay",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_message_and_amount": {
+    "message": "Số tiền đề xuất: 367.000 VND/$15.00",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_one_text": {
+    "message": "Quyên góp 367.000 VND/$15.00",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_two_text": {
+    "message": "Số tiền tùy chỉnh",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_three_text": {
+    "message": "Chia sẻ",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "name" : {
+    "message" : "Kõneleja kaart",
+    "description" : "",
+    "placeholders" : null
+  },
+  "speaker.bio.label" : {
+    "message" : "Biograafia",
+    "description" : "",
+    "placeholders" : null
+  },
+  "speaker.label" : {
+    "message" : "Kõneleja",
+    "description" : "",
+    "placeholders" : null
+  },
+  "speaker.photo.label" : {
+    "message" : "Pilt",
+    "description" : "",
+    "placeholders" : null
+  },
+  "speaker.speaker_name.default" : {
+    "message" : "<h3 style='text-align:center;'>Abigail Johnson</h3>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "speaker.speaker_name.label" : {
+    "message" : "Nimi",
+    "description" : "",
+    "placeholders" : null
+  },
+  "speaker.speaker_title.default" : {
+    "message" : "<p style='text-align:center;'><strong>Asutaja ja tegevjuht</strong></p>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "speaker.speaker_title.label" : {
+    "message" : "Pealkiri",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.background.color.label" : {
+    "message" : "Värv",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.background.label" : {
+    "message" : "Taust",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.border.border.label" : {
+    "message" : "Ääris",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.border.label" : {
+    "message" : "Ääris",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.corner.label" : {
+    "message" : "Nurk",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.corner.radius.label" : {
+    "message" : "Raadius",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.height.label" : {
+    "message" : "Kõrgus",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.height.min_height.label" : {
+    "message" : "Minimaalne kõrgus",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.label" : {
+    "message" : "Kaart",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.dark" : {
+    "message" : "Tume",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.light" : {
+    "message" : "Hele",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.plain" : {
+    "message" : "Lihtne",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.label" : {
+    "message" : "Kaardi stiil",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.help_text" : {
+    "message" : "Kasutage eelseadistusi, et kohandada kiirelt eelmääratud väärtuste valitud üksuse väljanägemist.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.label" : {
+    "message" : "Eelseadistused",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.spacing.label" : {
+    "message" : "Reasamm",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.spacing.spacing.label" : {
+    "message" : "Reasamm",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "Stiilid",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.photo.corner.label" : {
+    "message" : "Nurk",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.photo.corner.radius.label" : {
+    "message" : "Raadius",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.photo.label" : {
+    "message" : "Pilt",
+    "description" : "",
+    "placeholders" : null
+  }
+}

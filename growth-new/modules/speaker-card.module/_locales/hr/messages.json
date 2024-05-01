@@ -1,0 +1,147 @@
+{
+  "name" : {
+    "message" : "Kartica govornika",
+    "description" : "",
+    "placeholders" : null
+  },
+  "speaker.bio.label" : {
+    "message" : "Bio",
+    "description" : "",
+    "placeholders" : null
+  },
+  "speaker.label" : {
+    "message" : "Govornik",
+    "description" : "",
+    "placeholders" : null
+  },
+  "speaker.photo.label" : {
+    "message" : "Slika",
+    "description" : "",
+    "placeholders" : null
+  },
+  "speaker.speaker_name.default" : {
+    "message" : "<h3 style='text-align:center;'>Abigail Johnson</h3>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "speaker.speaker_name.label" : {
+    "message" : "Ime",
+    "description" : "",
+    "placeholders" : null
+  },
+  "speaker.speaker_title.default" : {
+    "message" : "<p style='text-align:center;'><strong>Osnivačica i izvršna direktorica</strong></p>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "speaker.speaker_title.label" : {
+    "message" : "Naslov",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.background.color.label" : {
+    "message" : "Boja",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.background.label" : {
+    "message" : "Pozadina",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.border.border.label" : {
+    "message" : "Obrub",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.border.label" : {
+    "message" : "Obrub",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.corner.label" : {
+    "message" : "Kut",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.corner.radius.label" : {
+    "message" : "Polumjer",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.height.label" : {
+    "message" : "Visina",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.height.min_height.label" : {
+    "message" : "Minimalna visina",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.label" : {
+    "message" : "Kartica",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.dark" : {
+    "message" : "Tamno",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.light" : {
+    "message" : "Svijetlo",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.plain" : {
+    "message" : "Obično",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.label" : {
+    "message" : "Stil kartice",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.help_text" : {
+    "message" : "Pomoću zadanih postavki brzo prilagodite izgled odabrane stavke prema unaprijed određenim vrijednostima.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.label" : {
+    "message" : "Zadane postavke",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.spacing.label" : {
+    "message" : "Razmak",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.spacing.spacing.label" : {
+    "message" : "Razmak",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "Stilovi",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.photo.corner.label" : {
+    "message" : "Kut",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.photo.corner.radius.label" : {
+    "message" : "Polumjer",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.photo.label" : {
+    "message" : "Slika",
+    "description" : "",
+    "placeholders" : null
+  }
+}

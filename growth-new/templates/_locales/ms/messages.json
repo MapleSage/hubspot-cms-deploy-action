@@ -1,0 +1,1662 @@
+{
+  "partial_header_skip_to_content": {
+    "message": "Langkau ke kandungan",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_address": {
+    "message": "123 Jalan Utama, Bandar, Negara 11111",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_copyright": {
+    "message": "Hak cipta © {{ year }}, {{ site_settings.company_name }}",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_one": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_two": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_three": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "about_banner_heading": {
+    "message": "Perihal kami",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_one": {
+    "message": "Kisah kami",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_two": {
+    "message": "Nilai kami",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_three": {
+    "message": "Sejarah kami",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_four": {
+    "message": "Pasukan kami",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_five": {
+    "message": "Budaya kami",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_six": {
+    "message": "Berita syarikat",
+    "description": "",
+    "placeholders": null
+  },
+  "about_image_alt_text": {
+    "message": "Syarikat",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_one_title": {
+    "message": "CEO dan Pengasas",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_two_title": {
+    "message": "Ketua Pegawai Operasi",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_three_title": {
+    "message": "Ketua Pegawai Teknologi",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_four_title": {
+    "message": "Ketua Pegawai Kewangan",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_five_title": {
+    "message": "Ketua Pegawai Reka bentuk",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_six_title": {
+    "message": "Ketua Pegawai Kakitangan",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_description": {
+    "message": "Serlahkan kepakaran unik, pengalaman dan minat ahli pasukan anda, Pastikan maklumat ini ringkas tetapi menarik, menampilkan perjalanan profesional mereka dan kemahiran berharga yang dimiliki oleh mereka.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_index_heading": {
+    "message": "Blog",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_heading": {
+    "message": "Komen blog",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_heading": {
+    "message": "Persidangan pertumbuhan",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_date": {
+    "message": "5 - 8 September",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_text": {
+    "message": "Dapatkan tiket",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_content": {
+    "message": "Dapatkan tiket",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_one": {
+    "message": "Beli sekarang",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_two": {
+    "message": "Beli tiket",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_one": {
+    "message": "Perihal",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_two": {
+    "message": "Panel penceramah",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_three": {
+    "message": "Penaja",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_four": {
+    "message": "Tambahkan rangkai kata penarik untuk video anda",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_five": {
+    "message": "Testimonial",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_six": {
+    "message": "Tiket",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_one": {
+    "message": "Persidangan Pertumbuhan ialah templat yang boleh digunakan untuk menunjukkan kepada pelanggan manfaat yang akan mereka peroleh daripada acara persidangan yang dianjurkan oleh organisasi&rsquo;s anda. Terangkan tema persidangan anda dan sebab pelanggan perlu membeli tiket.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_two": {
+    "message": "Tambahkan penerangan ringkas tentang penceramah anda di sini. Mengapakah hadirin anda perlu menghadiri ceramah mereka? Adakah ada tema untuk ceramah yang akan disampaikan oleh mereka? Apakah keunikan mereka? Manfaatkan ruang ini untuk memberitahu pembaca sebab anda ingin menampilkan penceramah tersebut. ",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_three": {
+    "message": "Ringkaskan biografi penceramah anda di sini. Anda juga boleh menambahkan penerangan ringkas tentang topik pembentangan mereka.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_four": {
+    "message": "&ldquo;Inilah peluang anda untuk membuktikan kepada orang ramai akan kehebatan acara anda. Tambahkan testimoni yang dapat membantu orang ramai memahami kelebihan acara anda.&rdquo;",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_five": {
+    "message": "Terangkan tema persidangan anda, maklumi prospek tentang aktiviti semasa persidangan dan beritahu sebab mereka perlu membeli tiket. Gunakan templat ini untuk menjual tikel untuk acara anda secara dalam talian.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_heading": {
+    "message": "Kemasukan Umum",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_price": {
+    "message": "$199",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_heading": {
+    "message": "VIP",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_price": {
+    "message": "$449",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_one": {
+    "message": "Senaraikan semua manfaat menarik yang akan dinikmati oleh pelanggan anda jika mereka memilih kategori ini.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_two": {
+    "message": "Apakah peluang untuk membina rangkaian dan menambahkan pengetahuan yang tersedia untuk mereka di persidangan?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_three": {
+    "message": "Bahagian manakah dalam persidangan yang boleh diakses oleh mereka?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_four": {
+    "message": "Adakah mereka memiliki akses kepada mana-mana rakaman program?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_five": {
+    "message": "Apakah pilihan makanan, pengangkutan dan penginapan yang tersedia untuk mereka?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_six": {
+    "message": "Senaraikan semua manfaat eksklusif yang akan dinikmati oleh pelanggan VIP anda jika mereka memilih kategori ini.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_one": {
+    "message": "CEO dan Pengasas",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_two": {
+    "message": "Ketua Pegawai Operasi",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_three": {
+    "message": "Ketua Pegawai Teknologi",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_content": {
+    "message": "Beli tiket",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_image_alt_text": {
+    "message": "Foto penceramah",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_one": {
+    "message": "Hubungi kami",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_two": {
+    "message": "Lokasi kami",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_three": {
+    "message": "Berhubung",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_four": {
+    "message": "Soalan lazim",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_heading": {
+    "message": "Pustaka Kandungan",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_content": {
+    "message": "Pustaka sumber dan aset digital untuk membantu anda belajar dan berkembang.",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_one": {
+    "message": "<h3>San Francisco</h3><p>3870 Twin Oaks Drive<br> San Francisco, CA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_two": {
+    "message": "<h3>Chicago</h3><p>2140 Roguski Road<br> Chicago, IL</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_three": {
+    "message": "<h3>Boston</h3><p>123 Waverly Place<br> Boston, MA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_question": {
+    "message": "Tajuk akordion",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_heading": {
+    "message": "Halaman tidak dijumpai",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_description": {
+    "message": "Kami tidak dapat menjumpai halaman yang anda cuba cari.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_button": {
+    "message": "Kembali ke halaman utama",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_heading": {
+    "message": "Halaman tidak berfungsi",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_description": {
+    "message": "Ralat pelayan dalaman berlaku tetapi kami sedang mengusahakan kes ini!",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_button": {
+    "message": "Kembali ke halaman utama",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_heading": {
+    "message": "Maaf, anda tidak mempunyai akses",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_description": {
+    "message": "Anda tidak mempunyai kebenaran untuk melihat halaman ini. Hubungi pentadbir halaman untuk apa-apa soalan.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_button": {
+    "message": "Kembali ke halaman utama",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_heading": {
+    "message": "Daftar masuk",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_subheading": {
+    "message": "Halaman yang anda cuba lihat hanya tersedia untuk pengguna berdaftar.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_email": {
+    "message": "E-mel",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_password": {
+    "message": "Kata laluan",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_remember_me": {
+    "message": "Ingat saya",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_reset_password": {
+    "message": "Terlupa kata laluan?",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_submit": {
+    "message": "Daftar masuk",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_show_password": {
+    "message": "Tunjukkan",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_contact_admin": {
+    "message": "Menghadapi masalah? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Hubungi pentadbir laman</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_heading": {
+    "message": "Anda telah didaftar keluar",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_button": {
+    "message": "Daftar masuk semula",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_alt": {
+    "message": "Atau kembali ke <a href=\"{{ '//' ~ request.domain }}\">halaman utama</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_heading": {
+    "message": "Sediakan kata laluan anda",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_subheading": {
+    "message": "Selamat datang! Selesaikan pendaftaran anda dengan menyediakan kata laluan anda.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_email": {
+    "message": "E-mel",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_confirm_password": {
+    "message": "Sah kata laluan",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_password": {
+    "message": "Kata laluan",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_save_password": {
+    "message": "Simpan kata laluan",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_show_password": {
+    "message": "Tunjukkan",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_contact_admin": {
+    "message": "Menghadapi masalah? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Hubungi pentadbir laman</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_heading": {
+    "message": "Alamat e-mel anda adalah sah",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_description": {
+    "message": "Terima kasih kerana mengesahkan alamat e-mel anda. Anda kini boleh masuk ke akaun anda dan mengakses kandungan ekslusif anda.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_button": {
+    "message": "Daftar masuk",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_contact_admin": {
+    "message": "Menghadapi masalah? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Hubungi pentadbir laman</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_heading": {
+    "message": "Cipta kata laluan baharu",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_subheading": {
+    "message": "Kata laluan baharu anda mesti berbeza daripada kata laluan yang digunakan sebelum ini.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_new_password": {
+    "message": "Kata laluan baharu",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_confirm_password": {
+    "message": "Sahkan kata laluan baharu",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_save_password": {
+    "message": "Simpan kata laluan",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_show_password": {
+    "message": "Tunjukkan",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_contact_admin": {
+    "message": "Menghadapi masalah? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Hubungi pentadbir laman</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_heading": {
+    "message": "Tetapkan semula kata laluan anda",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_subheading": {
+    "message": "Masukkan alamat e-mel yang anda gunakan untuk mendaftar dan kami akan menghantar e-mel dengan pautan untuk menetapkan semula kata laluan anda kepada anda.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_email": {
+    "message": "E-mel",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_submit": {
+    "message": "Hantarkan e-mel penetapan semula",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_alt": {
+    "message": "Adakah anda sudah mengingatinya? <a href=\"/_hcms/mem/login\">Daftar masuk</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_contact_admin": {
+    "message": "Menghadapi masalah? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Hubungi pentadbir laman</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_heading": {
+    "message": "Sahkan alamat e-mel anda",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_description": {
+    "message": "Terima kasih kerana mendaftar! Sila semak e-mel anda dan klik pautan pengesahan untuk melengkapkan pendaftaran anda.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_contact_admin": {
+    "message": "Menghadapi masalah? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Hubungi pentadbir laman</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_one": {
+    "message": "Perihal",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two": {
+    "message": "Kembangkan perniagaan anda dengan perundingan berbayar",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two_update": {
+    "message": "Kembangkan perniagaan anda dengan perundingan berbayar",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_three": {
+    "message": "Pilihan alat yang boleh anda gunakan",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_heading": {
+    "message": "Perkhidmatan",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_description": {
+    "message": "Ringkaskan perkhidmatan yang anda berikan. Tambahkan mesej tentang nilai yang boleh anda berikan kepada pelanggan anda.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_four": {
+    "message": "Testimonial",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_one": {
+    "message": "Tambahkan subtajuk yang menerangkan cara anda akan memberikan manfaat kepada pelanggan anda",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_two": {
+    "message": "Tambahkan penerangan ringkas tentang peranan anda di syarikat anda. Cuba perincikan bidang tugas khusus anda supaya anda dapat menarik perhatian pelanggan anda. Ceritakan tentang manfaat yang boleh anda berikan melalui perundingan berbayar.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_list_content": {
+    "message": "&ldquo;Tambahkan testimoni untuk meyakinkan orang ramai tentang perkhidmatan yang anda tawarkan. Mengapakah pelanggan semasa anda teruja dengan perkhidmatan anda?&rdquo;",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_image_alt_text": {
+    "message": "Imej ruang letak tema pertumbuhan",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_button_text": {
+    "message": "Tempah perundingan",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_heading": {
+    "message": "Kata laluan diperlukan",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_subheading": {
+    "message": "Sila masukkan kata laluan anda untuk melihat halaman ini.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_one": {
+    "message": "Harga",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_plans_and_pricing_heading": {
+    "message": "Pelan dan harga",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_two": {
+    "message": "Soalan lazim",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_heading": {
+    "message": "Semua pelan disertakan",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_content_heading": {
+    "message": "Fitur produk",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_heading": {
+    "message": "Timbulkan minat orang ramai terhadap produk dan perkhidmatan anda",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_button_text": {
+    "message": "Ketahui lebih lanjut",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_question": {
+    "message": "Tajuk akordion",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_one": {
+    "message": "Produk",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_two": {
+    "message": "Anda adalah keutamaan kami",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_heading": {
+    "message": "Lebih banyak lagi",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_content_heading": {
+    "message": "Fitur produk",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_one": {
+    "message": "Mulakan sekarang",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_two": {
+    "message": "Mudah digunakan",
+    "description": "",
+    "placeholders": null
+  },
+  "products_image_alt_text": {
+    "message": "Fitur produk",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_heading": {
+    "message": "Timbulkan minat orang ramai terhadap produk dan perkhidmatan anda",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_button_text": {
+    "message": "Ketahui lebih lanjut",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_heading": {
+    "message": "Tema pertumbuhan",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_button_text": {
+    "message": "Mari bermula",
+    "description": "",
+    "placeholders": null
+  },
+  "home_logos_heading": {
+    "message": "Beberapa pelanggan kami yang gembira",
+    "description": "",
+    "placeholders": null
+  },
+  "home_heading": {
+    "message": "Anda adalah keutamaan kami",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_one": {
+    "message": "Persediaan yang pantas",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_two": {
+    "message": "Mudah digunakan",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_three": {
+    "message": "Boleh disesuaikan",
+    "description": "",
+    "placeholders": null
+  },
+  "home_video_heading": {
+    "message": "Lihat perkara yang sedang berlaku",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_heading": {
+    "message": "Pilihan alat yang boleh anda gunakan",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_content_heading": {
+    "message": "Nama produk",
+    "description": "",
+    "placeholders": null
+  },
+  "home_image_alt_text": {
+    "message": "Nama produk",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_button_text": {
+    "message": "Ketahui lebih lanjut",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_content": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan velit sit amet sagittis malesuada.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_customer": {
+    "message": "Shaun Benson, Pengurus Pemasaran, Agriflora Inc.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_blog_post_heading": {
+    "message": "Siaran terkini",
+    "description": "",
+    "placeholders": null
+  },
+  "home_contact": {
+    "message": "Hubungi kami",
+    "description": "",
+    "placeholders": null
+  },
+  "home_button_text": {
+    "message": "Mari bermula",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_heading": {
+    "message": "Muat turun sumber digital percuma anda hari ini",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_p_one": {
+    "message": "Tuliskan pengenalan yang menarik yang dapat menonjolkan kandungan sumber ini. Ketengahkan cabaran yang dihadapi oleh pembaca anda atau matlamat mereka dan terangkan cara e-buku ini akan membantu menyelesaikan isu tersebut.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_one_heading": {
+    "message": "Manfaat #1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_two_heading": {
+    "message": "Manfaat #2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_three_heading": {
+    "message": "Manfaat #3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_content": {
+    "message": "Terangkan perkara yang akan dipelajari oleh pembaca",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_highlight": {
+    "message": "Jangan lupa untuk menonjolkan manfaat:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_preface": {
+    "message": "Mengapakah memilih kami?",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_heading": {
+    "message": "Kami menawarkan penyelesaian moden untuk mengembangkan perniagaan anda",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_content": {
+    "message": "Sertai ribuan pengguna yang berpuas hati yang telah mengubah kehidupan mereka dengan penyelesaian inovatif kami.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_button_text": {
+    "message": "Ketahui lebih lanjut",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_logo_heading": {
+    "message": "Dipercayai oleh syarikat peneraju",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_heading": {
+    "message": "Nama ciri",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_content": {
+    "message": "Tuliskan kandungan yang menarik yang menyerlahkan manfaat. Ceritakan tentang nilai yang anda tawarkan dan galakkan pelawat mengambil tindakan. Fokuskan pada cara tawaran anda dapat menyelesaikan masalah atau memenuhi keperluan mereka.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_preface": {
+    "message": "Jangan hanya percayakan kata-kata kami",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_heading": {
+    "message": "Lihat sendiri kelebihan ciri ini dengan salah seorang ahli pasukan kami",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_button_text": {
+    "message": "Dapatkan demo",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_heading": {
+    "message": "Jadualkan demo",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_p_one": {
+    "message": "Jadualkan demo dengan salah seorang ahli pasukan kami mengikut kesesuaian waktu anda. Tambahkan penerangan ringkas tentang perkara yang boleh dipelajari oleh prospek anda.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_highlight": {
+    "message": "Kita akan membincangkan tentang:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_one_heading": {
+    "message": "Topik #1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_two_heading": {
+    "message": "Topik #2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_three_heading": {
+    "message": "Topik #3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_content": {
+    "message": "Terangkan perkara yang disertakan dalam demo anda",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_heading": {
+    "message": "Dapatkan tempat anda: Daftar sekarang untuk acara eksklusif ini",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_content": {
+    "message": "Tambahkan pengenalan ringkas yang merangkumi persidangan langsung, webinar atau tentang acara dan sebab khalayak anda perlu membuat pendaftaran.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_button_text": {
+    "message": "Daftar sekarang",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_partners_content": {
+    "message": "Sertai kami bersama-sama dengan komunititi rakan kongsi kami",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_preface": {
+    "message": "Tentang acara",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_heading": {
+    "message": "Dapatkan buah fikiran daripada pakar terkenal",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_highlight": {
+    "message": "Serlahan acara:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_one_heading": {
+    "message": "Serlahan #1",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_two_heading": {
+    "message": "Serlahan #2",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_three_heading": {
+    "message": "Serlahan #3",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_content": {
+    "message": "Manfaat yang akan diperoleh oleh hadirin",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_heading": {
+    "message": "Statistik ringkas",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_one": {
+    "message": "20+",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_two": {
+    "message": "150+",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_three": {
+    "message": "10",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_description": {
+    "message": "Penerangan ringkas tentang statistik",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_heading": {
+    "message": "Tonton video pendek untuk acara",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_content": {
+    "message": "Tonton video cuitan kami untuk mengetahui secara ringkas tentang isi penting, bengkel interaktif dan peluang perangkaian yang menanti. Jangan terlepas pratonton perkara yang menanti anda – sertai kami untuk menikmati pengalaman yang tidak akan dapat anda lupakan.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_preface": {
+    "message": "Jangan hanya percayakan kata-kata kami",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_heading": {
+    "message": "Terokai peluang dan tempah tempat anda hari ini",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_button_text": {
+    "message": "Daftar sekarang",
+    "description": "",
+    "placeholders": null
+  },
+  "search_results_heading": {
+    "message": "Hasil carian untuk \"[[search_term]]\"",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_heading": {
+    "message": "Perihal",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_sub_heading": {
+    "message": "Syarikat kami",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_image_alt_text": {
+    "message": "Kisah kami",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_list_heading": {
+    "message": "Siaran baru-baru ini",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_heading": {
+    "message": "Siaran baru-baru ini",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_heading": {
+    "message": "Timbulkan minat orang ramai terhadap produk dan perkhidmatan anda",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_button_text": {
+    "message": "Ketahui lebih lanjut",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_full_heading": {
+    "message": "Kenalan",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_heading": {
+    "message": "Kenalan",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_address": {
+    "message": "123 Jalan Utama, Bandar, Negara 11111",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_email": {
+    "message": "contact@businessname.com",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_phone_number": {
+    "message": "+1 234-567-8901",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_heading": {
+    "message": "Produk",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_description_heading": {
+    "message": "Penerangan produk",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_button_text": {
+    "message": "Hubungi kami",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_image_alt_text": {
+    "message": "Produk",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_heading": {
+    "message": "Galeri",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_one": {
+    "message": "Produk",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_two": {
+    "message": "Syarikat",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_three": {
+    "message": "Harga",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_four": {
+    "message": "Fitur produk",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_five": {
+    "message": "Kapsyen imej",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_caption": {
+    "message": "Kapsyen imej",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_heading": {
+    "message": "Galeri",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_one": {
+    "message": "Produk",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_two": {
+    "message": "Syarikat",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_three": {
+    "message": "Harga",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_four": {
+    "message": "Fitur produk",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_five": {
+    "message": "Harga",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_hover_message": {
+    "message": "Mesej layang",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_heading": {
+    "message": "Tema pertumbuhan",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_button_text": {
+    "message": "Hubungi kami",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_heading": {
+    "message": "Tema pertumbuhan",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_button_text": {
+    "message": "Mari bermula",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_heading": {
+    "message": "Mengapa kami menyerlah",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_one": {
+    "message": "Persediaan yang pantas",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_two": {
+    "message": "Mudah digunakan",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_three": {
+    "message": "Boleh disesuaikan",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_heading": {
+    "message": "Beberapa pelanggan kami yang gembira",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_image_alt_text": {
+    "message": "Logo pelanggan",
+    "description": "",
+    "placeholders": null
+  },
+  "section_meetings_banner_heading": {
+    "message": "Tempah perjumpaan untuk mendapatkan perundingan percuma",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_heading": {
+    "message": "Pasukan kami",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_one_title": {
+    "message": "CEO",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_two_title": {
+    "message": "Ketua Pegawai Operasi",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_three_title": {
+    "message": "Ketua Pegawai Kewangan",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_description": {
+    "message": "Serlahkan kepakaran unik, pengalaman dan minat ahli pasukan anda, Pastikan maklumat ini ringkas tetapi menarik, menampilkan perjalanan profesional mereka dan kemahiran berharga yang dimiliki oleh mereka.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_heading": {
+    "message": "Kisah kami",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_image_alt_text": {
+    "message": "Kisah kami",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_button_text": {
+    "message": "Ketahui lebih lanjut",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_heading": {
+    "message": "Pelan termasuk",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_description_heading": {
+    "message": "Fitur produk",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_image_alt_text": {
+    "message": "Ciri pelan",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_heading": {
+    "message": "Langgan surat berita kami!",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_subheading": {
+    "message": "Mendaftar untuk mengikuti perkembangan terkini",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_heading": {
+    "message": "Pilihan alat yang boleh anda gunakan",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_card_heading": {
+    "message": "Timbulkan minat orang ramai terhadap produk dan perkhidmatan anda",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_button_text": {
+    "message": "Hubungi kami",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_image_alt_text": {
+    "message": "Perkhidmatan",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_heading": {
+    "message": "Pelan dan harga",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_heading": {
+    "message": "Pemula",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_price": {
+    "message": "$50/bulan",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_content": {
+    "message": "Beli Starter sekarang",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_button_text": {
+    "message": "Beli Starter sekarang",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_heading": {
+    "message": "Profesional",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_price": {
+    "message": "$200/bulan",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_content": {
+    "message": "Beli profesional sekarang",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_button_text": {
+    "message": "Beli profesional sekarang",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_heading": {
+    "message": "Perusahaan",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_price": {
+    "message": "$600/bulan",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_content": {
+    "message": "Beli perusahaan sekarang",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_button_text": {
+    "message": "Beli perusahaan sekarang",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_sub_heading": {
+    "message": "Beberapa ciri utama",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_heading": {
+    "message": "Produk",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_image_alt_text": {
+    "message": "Kisah kami",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_description_heading": {
+    "message": "Nama produk",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_button_text": {
+    "message": "Hubungi kami",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_heading": {
+    "message": "Perkhidmatan",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_description_heading": {
+    "message": "Nama perkhidmatan",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_one": {
+    "message": "Kisah kami",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_two": {
+    "message": "Nilai kami",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_three": {
+    "message": "Sejarah kami",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_button_text": {
+    "message": "Hubungi kami",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_heading": {
+    "message": "Testimonial",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_team_member_title_one": {
+    "message": "Produk VP",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_heading": {
+    "message": "Lihat apa kata orang lain",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_one": {
+    "message": "Produk VP",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_two": {
+    "message": "Jualan SVP",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_three": {
+    "message": "Ketua Pegawai Pemasaran (CMO)",
+    "description": "",
+    "placeholders": null
+  },
+  "section_video_heading": {
+    "message": "Lihat perkara yang sedang berlaku",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading": {
+    "message": "Perkhidmatan",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_one_alt": {
+    "message": "Dua orang di komputer",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_two_alt": {
+    "message": "Dua orang sedang memeriksa telefon",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_three_alt": {
+    "message": "Dua orang bekerja dengan nota lekat pada dinding",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_one": {
+    "message": "Asas",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_two": {
+    "message": "Profesional",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_three": {
+    "message": "Perusahaan",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_button_text": {
+    "message": "Ketahui lebih lanjut",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_description": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_heading": {
+    "message": "Perkhidmatan",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_image_alt": {
+    "message": "Orang duduk di tangga",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_heading": {
+    "message": "Pembangunan identiti jenama",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_content": {
+    "message": "Pasukan kami akan mencipta identiti jenama yang unik dan istimewa yang menyerlahkan nilai-nilai syarikat anda. Kami akan menghasilkan logo yang menarik, memilih palet warna yang harmoni dan membangunkan gaya visual yang konsisten untuk menonjolkan jenama anda.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_image_alt": {
+    "message": "Profesional perniagaan yang muda melihat pada komputer riba",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_heading": {
+    "message": "Penambahbaikan reka bentuk UX/UI",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_content": {
+    "message": "Tingkatkan kepuasan dan interaksi pengguna dengan kepakaran reka bentuk UX/UI yang dimiliki oleh kami. Kami akan menjalankan analisis yang mendalam untuk produk digital anda, mengenal pasti isu dan melaksanakan penyelesaian yang mengutamakan pengguna untuk meningkatkan pengalaman pengguna secara keseluruhan.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_image_alt": {
+    "message": "Profesional pemasaran yang muda memegang tablet dan berbual di laman",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_heading": {
+    "message": "Reka bentuk kolateral pemasaran",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_content": {
+    "message": "Tingkatkan usaha pemasaran anda dengan kolateral menarik yang akan sentiasa diingati. Tidak kira sama ada brosur, risalah atau grafik media sosial, kami akan menghasilkan bahan yang menarik yang sesuai dengan audiens sasaran anda dan memberikan hasil yang diingini.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_button_text": {
+    "message": "Ketahui lebih lanjut",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_banner_image_alt": {
+    "message": "Sekumpulan orang yang sedang tersenyum memandang tepat ke kamera",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_heading": {
+    "message": "Sokongan untuk pantri makanan tempatan",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_content_area_one": {
+    "message": "Sertai kami untuk mengubah kehidupan jiran kita dengan menyokong pantri makanan tempatan kami. Sumbangan anda akan membantu membekalkan khasiat penting untuk individu dan keluarga yang berdepan dengan ketakjaminan makanan dalam komuniti kita.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_one_alt": {
+    "message": "Dua individu sedang melihat nota lekat pada kaca",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_two_alt": {
+    "message": "Panggilan sedang disambungkan kepada pemproses pembayaran",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_three_alt": {
+    "message": "Lelaki memandu van dengan dua bungkusan diletakkan di tempat duduk penumpang",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_heading": {
+    "message": "Sumbang sekarang",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_message_and_amount": {
+    "message": "Jumlah yang dicadangkan: $15.00",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_one_text": {
+    "message": "Sumbangkan $15.00",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_two_text": {
+    "message": "Jumlah tersuai",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_three_text": {
+    "message": "Kongsi",
+    "description": "",
+    "placeholders": null
+  }
+}

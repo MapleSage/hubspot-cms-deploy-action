@@ -1,0 +1,282 @@
+{
+  "content.content.default" : {
+    "message" : "<h3 style=\"text-align:center;\"><strong>الخدمة</strong></h3><p>لخص الخدمة التي تقدمها. أضف رسالة حول القيمة التي يمكنك تقديمها لعملائك.</p>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "content.content.label" : {
+    "message" : "المحتوى",
+    "description" : "",
+    "placeholders" : null
+  },
+  "content.label" : {
+    "message" : "المحتوى",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.accessibility_options.label" : {
+    "message" : "خيارات إمكانية الوصول",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.accessibility_options.purpose.choices.decorative" : {
+    "message" : "تم التجاهل بواسطة قارئ الشاشة",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.accessibility_options.purpose.choices.semantic" : {
+    "message" : "تمت القراءة بواسطة قارئ الشاشة",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.accessibility_options.purpose.help_text" : {
+    "message" : "تصنيف الغرض من هذه الأيقونة لقارئات الشاشة. <a href='https://www.w3.org/WAI/tutorials/images/' target='_blank' rel='noopener noreferrer'>معرفة المزيد</a>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.accessibility_options.purpose.label" : {
+    "message" : "الغرض",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.accessibility_options.title.help_text" : {
+    "message" : "ستتم قراءة هذا النص بواسطة قارئات الشاشة لوصف الأيقونة.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.accessibility_options.title.label" : {
+    "message" : "العنوان",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.icon.label" : {
+    "message" : "الأيقونة",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.label" : {
+    "message" : "الأيقونة",
+    "description" : "",
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "بطاقة الخدمة",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.background.color.label" : {
+    "message" : "اللون",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.background.label" : {
+    "message" : "الخلفية",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.border.border.label" : {
+    "message" : "الحد",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.border.label" : {
+    "message" : "الحد",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.corner.label" : {
+    "message" : "الزاوية",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.corner.radius.label" : {
+    "message" : "نصف القطر",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.height.label" : {
+    "message" : "الارتفاع",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.height.min_height.label" : {
+    "message" : "أدنى ارتفاع",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.label" : {
+    "message" : "البطاقة",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.dark" : {
+    "message" : "داكن",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.light" : {
+    "message" : "فاتح",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.plain" : {
+    "message" : "عادي",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.label" : {
+    "message" : "نمط البطاقة",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.help_text" : {
+    "message" : "استخدم الإعدادات مسبقة التعيين لضبط مظهر العنصر المحدد بسرعة على القيم المحددة مسبقًا.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.label" : {
+    "message" : "الإعدادات مسبقة التعيين",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.spacing.label" : {
+    "message" : "التباعد",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.spacing.spacing.label" : {
+    "message" : "التباعد",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.alignment.alignment.default.horizontal_align" : {
+    "message" : "الوسط",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.alignment.alignment.label" : {
+    "message" : "محاذاة",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.alignment.label" : {
+    "message" : "محاذاة",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.background.color.label" : {
+    "message" : "اللون",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.background.label" : {
+    "message" : "الخلفية",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.corner.label" : {
+    "message" : "الزاوية",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.corner.radius.label" : {
+    "message" : "نصف القطر",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.fill.color.label" : {
+    "message" : "اللون",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.fill.label" : {
+    "message" : "ملء",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.label" : {
+    "message" : "الأيقونة",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.help_text" : {
+    "message" : "استخدم الإعدادات مسبقة التعيين لضبط مظهر العنصر المحدد بسرعة على القيم المحددة مسبقًا.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_color.choices.dark" : {
+    "message" : "داكن",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_color.choices.light" : {
+    "message" : "فاتح",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_color.label" : {
+    "message" : "لون الأيقونة",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_shape.choices.circle" : {
+    "message" : "دائرة",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_shape.choices.square" : {
+    "message" : "مربع",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_shape.label" : {
+    "message" : "شكل الأيقونة",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_size.choices.large" : {
+    "message" : "كبير",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_size.choices.regular" : {
+    "message" : "عادي",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_size.choices.small" : {
+    "message" : "صغير",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_size.label" : {
+    "message" : "حجم الأيقونة",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.label" : {
+    "message" : "الإعدادات مسبقة التعيين",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.size.label" : {
+    "message" : "الحجم",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.spacing.label" : {
+    "message" : "التباعد",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.spacing.spacing.label" : {
+    "message" : "التباعد",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "الأنماط",
+    "description" : "",
+    "placeholders" : null
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "author.content.default" : {
+    "message" : "<span>Shaun Benson, Manajer Pemasaran, Agriflora Inc.</span>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "author.content.label" : {
+    "message" : "Konten",
+    "description" : "",
+    "placeholders" : null
+  },
+  "author.image.default.alt" : {
+    "message" : "Foto Shaun Benson, Manajer Pemasaran, Agriflora Inc.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "author.image.label" : {
+    "message" : "Gambar",
+    "description" : "",
+    "placeholders" : null
+  },
+  "author.include_image.label" : {
+    "message" : "Masukkan gambar",
+    "description" : "",
+    "placeholders" : null
+  },
+  "author.label" : {
+    "message" : "Penulis",
+    "description" : "",
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "Testimoni",
+    "description" : "",
+    "placeholders" : null
+  },
+  "quote_text.default" : {
+    "message" : "<span>\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan velit sit amet sagittis malesuada.\"</span>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "quote_text.label" : {
+    "message" : "Teks kutipan",
+    "description" : "",
+    "placeholders" : null
+  },
+  "show_author.label" : {
+    "message" : "Tampilkan penulis",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.author.alignment.alignment.label" : {
+    "message" : "Penjajaran",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.author.alignment.label" : {
+    "message" : "Penjajaran",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.author.image.corner.label" : {
+    "message" : "Pojok",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.author.image.corner.radius.label" : {
+    "message" : "Radius",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.author.image.label" : {
+    "message" : "Gambar",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.author.label" : {
+    "message" : "Penulis",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "Gaya",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.background.color.label" : {
+    "message" : "Warna",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.background.label" : {
+    "message" : "Latar belakang",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.border.border.label" : {
+    "message" : "Batasan",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.border.label" : {
+    "message" : "Batasan",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.corner.label" : {
+    "message" : "Pojok",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.corner.radius.label" : {
+    "message" : "Radius",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.label" : {
+    "message" : "Testimoni",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.presets.card_style.choices.dark" : {
+    "message" : "Gelap",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.presets.card_style.choices.light" : {
+    "message" : "Cahaya",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.presets.card_style.choices.plain" : {
+    "message" : "Polos",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.presets.card_style.label" : {
+    "message" : "Gaya kartu",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.presets.help_text" : {
+    "message" : "Gunakan prasetel untuk menyesuaikan tampilan item yang dipilih dengan cepat ke nilai yang telah ditentukan.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.presets.label" : {
+    "message" : "Prasetel",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.spacing.label" : {
+    "message" : "Spasi",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.spacing.spacing.label" : {
+    "message" : "Spasi",
+    "description" : "",
+    "placeholders" : null
+  }
+}

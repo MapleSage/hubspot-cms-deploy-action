@@ -1,0 +1,394 @@
+[
+  {
+    "name": "banner",
+    "type": "group",
+    "children": [
+      {
+        "name": "background_image",
+        "type": "image",
+        "description": "A banner background image that is related to a conference the company is having.",
+        "width": 1792,
+        "height": 1024
+      },
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading about the conference the company is having."
+      },
+      {
+        "name": "subheading",
+        "type": "text",
+        "description": "A subheading that describes the dates that the conference is happening."
+      },
+      {
+        "name": "button_text",
+        "type": "text",
+        "description": "The button text that describes the call to action the user should take which is buying tickets to the conference."
+      }
+    ]
+  },
+  {
+    "name": "about",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that helps describe more information about the conference."
+      },
+      {
+        "name": "description",
+        "type": "text",
+        "description": "A couple of paragraphs that describe what the conference is about."
+      },
+      {
+        "name": "button_text",
+        "type": "text",
+        "description": "The button text that describes the call to action the user should take which is buying tickets to the conference."
+      }
+    ]
+  },
+  {
+    "name": "tickets",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that is above a section that has information on the different type of tickets offered or tiered passes for the conference."
+      },
+      {
+        "name": "ticket_one",
+        "type": "group",
+        "children": [
+          {
+            "name": "name",
+            "type": "text",
+            "description": "The name of the first ticket type that the company is offering for the conference."
+          },
+          {
+            "name": "price",
+            "type": "text",
+            "description": "The price of the first ticket type that the company is offering for the conference."
+          },
+          {
+            "name": "feature_one",
+            "type": "text",
+            "description": "The first feature of the first ticket type that the company is offering for the conference."
+          },
+          {
+            "name": "feature_two",
+            "type": "text",
+            "description": "The second feature of the first ticket type that the company is offering for the conference."
+          },
+          {
+            "name": "feature_three",
+            "type": "text",
+            "description": "The third feature of the first ticket type that the company is offering for the conference."
+          },
+          {
+            "name": "feature_four",
+            "type": "text",
+            "description": "The fourth feature of the first ticket type that the company is offering for the conference."
+          },
+          {
+            "name": "feature_five",
+            "type": "text",
+            "description": "The fifth feature of the first ticket type that the company is offering for the conference."
+          },
+          {
+            "name": "button_text",
+            "type": "text",
+            "description": "The button text that describes the call to action the user should take which is purchasing this ticket type for the conference."
+          }
+        ]
+      },
+      {
+        "name": "ticket_two",
+        "type": "group",
+        "children": [
+          {
+            "name": "name",
+            "type": "text",
+            "description": "The name of the second ticket type that the company is offering for the conference."
+          },
+          {
+            "name": "price",
+            "type": "text",
+            "description": "The price of the second ticket type that the company is offering for the conference."
+          },
+          {
+            "name": "feature_one",
+            "type": "text",
+            "description": "The first feature of the second ticket type that the company is offering for the conference."
+          },
+          {
+            "name": "feature_two",
+            "type": "text",
+            "description": "The second feature of the second ticket type that the company is offering for the conference."
+          },
+          {
+            "name": "feature_three",
+            "type": "text",
+            "description": "The third feature of the second ticket type that the company is offering for the conference."
+          },
+          {
+            "name": "feature_four",
+            "type": "text",
+            "description": "The fourth feature of the second ticket type that the company is offering for the conference."
+          },
+          {
+            "name": "feature_five",
+            "type": "text",
+            "description": "The fifth feature of the second ticket type that the company is offering for the conference."
+          },
+          {
+            "name": "button_text",
+            "type": "text",
+            "description": "The button text that describes the call to action the user should take which is purchasing this ticket type for the conference."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "speakers",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that is above a section that describes the different speakers who will be speaking at the company conference."
+      },
+      {
+        "name": "description",
+        "type": "text",
+        "description": "A paragraph that provides a bit more detail about the different speakers who will be speaking at the company conference."
+      },
+      {
+        "name": "speaker_one",
+        "type": "group",
+        "children": [
+          {
+            "name": "image",
+            "type": "image",
+            "description": "An image of the first speaker that is speaking at the conference.",
+            "width": 1024,
+            "height": 1024
+          },
+          {
+            "name": "name",
+            "type": "text",
+            "description": "The first and last name of the first speaker that is speaking at the conference."
+          },
+          {
+            "name": "title",
+            "type": "text",
+            "description": "The job title of the first speaker that is speaking at the conference."
+          },
+          {
+            "name": "description",
+            "type": "text",
+            "description": "A brief description about the first speaker that is speaking at the conference."
+          }
+        ]
+      },
+      {
+        "name": "speaker_two",
+        "type": "group",
+        "children": [
+          {
+            "name": "image",
+            "type": "image",
+            "description": "An image of the second speaker that is speaking at the conference",
+            "width": 1024,
+            "height": 1024
+          },
+          {
+            "name": "name",
+            "type": "text",
+            "description": "The first and last name of the second speaker that is speaking at the conference."
+          },
+          {
+            "name": "title",
+            "type": "text",
+            "description": "The job title of the second speaker that is speaking at the conference."
+          },
+          {
+            "name": "description",
+            "type": "text",
+            "description": "A brief description about the second speaker that is speaking at the conference."
+          }
+        ]
+      },
+      {
+        "name": "speaker_three",
+        "type": "group",
+        "children": [
+          {
+            "name": "image",
+            "type": "image",
+            "description": "An image of the third speaker that is speaking at the conference",
+            "width": 1024,
+            "height": 1024
+          },
+          {
+            "name": "name",
+            "type": "text",
+            "description": "The first and last name of the third speaker that is speaking at the conference."
+          },
+          {
+            "name": "title",
+            "type": "text",
+            "description": "The job title of the third speaker that is speaking at the conference."
+          },
+          {
+            "name": "description",
+            "type": "text",
+            "description": "A brief description about the third speaker that is speaking at the conference."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "video",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that is above a section that has a video that will preview what the conference is about."
+      },
+      {
+        "name": "button_text",
+        "type": "text",
+        "description": "The button text that describes the call to action the user should take which is learning more about the conference."
+      }
+    ]
+  },
+  {
+    "name": "sponsors",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that is above a section that shows who the different sponsors of the conference are."
+      },
+      {
+        "name": "logo_one",
+        "type": "image",
+        "description": "A logo of the first company that is sponsoring the conference.",
+        "width": 266,
+        "height": 152
+      },
+      {
+        "name": "logo_two",
+        "type": "image",
+        "description": "A logo of the second company that is sponsoring the conference.",
+        "width": 266,
+        "height": 152
+      },
+      {
+        "name": "logo_three",
+        "type": "image",
+        "description": "A logo of the third company that is sponsoring the conference.",
+        "width": 266,
+        "height": 152
+      },
+      {
+        "name": "logo_four",
+        "type": "image",
+        "description": "A logo of the fourth company that is sponsoring the conference.",
+        "width": 266,
+        "height": 152
+      }
+    ]
+  },
+  {
+    "name": "testimonials",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that shows above a section that has customer testimonials from the company's previous conferences."
+      },
+      {
+        "name": "subheading",
+        "type": "text",
+        "description": "A subheading that shows above a section that has customer testimonials from the company's previous conferences."
+      },
+      {
+        "name": "testimonial_one",
+        "type": "group",
+        "children": [
+          {
+            "name": "text",
+            "type": "text",
+            "description": "The first testimonial that a customer wrote about the conference."
+          },
+          {
+            "name": "customer_image",
+            "type": "image",
+            "description": "An image of the customer who wrote the first testimonial.",
+            "width": 1024,
+            "height": 1024
+          },
+          {
+            "name": "customer_name",
+            "type": "text",
+            "description": "The name of the customer who wrote the first testimonial."
+          }
+        ]
+      },
+      {
+        "name": "testimonial_two",
+        "type": "group",
+        "children": [
+          {
+            "name": "text",
+            "type": "text",
+            "description": "The second testimonial that a customer wrote about the conference."
+          },
+          {
+            "name": "customer_image",
+            "type": "image",
+            "description": "An image of the customer who wrote the second testimonial.",
+            "width": 1024,
+            "height": 1024
+          },
+          {
+            "name": "customer_name",
+            "type": "text",
+            "description": "The name of the customer who wrote the second testimonial."
+          }
+        ]
+      },
+      {
+        "name": "testimonial_three",
+        "type": "group",
+        "children": [
+          {
+            "name": "text",
+            "type": "text",
+            "description": "The third testimonial that a customer wrote about the conference."
+          },
+          {
+            "name": "customer_image",
+            "type": "image",
+            "description": "An image of the customer who wrote the third testimonial.",
+            "width": 1024,
+            "height": 1024
+          },
+          {
+            "name": "customer_name",
+            "type": "text",
+            "description": "The name of the customer who wrote the third testimonial."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,187 @@
+{
+  "name" : {
+    "message" : "Kortelės",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.content.label" : {
+    "message" : "Turinys",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.content.spacing.label" : {
+    "message" : "Tarpai",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.content.spacing.spacing.label" : {
+    "message" : "Tarpai",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "Stiliai",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.active.background.color.label" : {
+    "message" : "Spalva",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.active.background.label" : {
+    "message" : "Fonas",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.active.border.bottom.label" : {
+    "message" : "Apačia",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.active.border.label" : {
+    "message" : "Kraštinė",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.active.label" : {
+    "message" : "Aktyvus",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.active.text.font.label" : {
+    "message" : "Šriftas",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.active.text.label" : {
+    "message" : "Tekstas",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.hover.background.color.label" : {
+    "message" : "Spalva",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.hover.background.label" : {
+    "message" : "Fonas",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.hover.border.bottom.label" : {
+    "message" : "Apačia",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.hover.border.label" : {
+    "message" : "Kraštinė",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.hover.label" : {
+    "message" : "Laikyti virš",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.hover.text.font.label" : {
+    "message" : "Šriftas",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.hover.text.label" : {
+    "message" : "Tekstas",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.inactive.background.color.label" : {
+    "message" : "Spalva",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.inactive.background.label" : {
+    "message" : "Fonas",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.inactive.border.bottom.label" : {
+    "message" : "Apačia",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.inactive.border.label" : {
+    "message" : "Kraštinė",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.inactive.label" : {
+    "message" : "Neaktyvus",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.inactive.text.font.label" : {
+    "message" : "Šriftas",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.inactive.text.label" : {
+    "message" : "Tekstas",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.label" : {
+    "message" : "Kortelės",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.spacing.label" : {
+    "message" : "Tarpai",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.spacing.spacing.label" : {
+    "message" : "Tarpai",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs_module.label" : {
+    "message" : "Kortelių modulis",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs_module.spacing.label" : {
+    "message" : "Tarpai",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs_module.spacing.spacing.label" : {
+    "message" : "Tarpai",
+    "description" : "",
+    "placeholders" : null
+  },
+  "tabs.content.default" : {
+    "message" : "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan velit sit amet sagittis malesuada.</p>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "tabs.content.label" : {
+    "message" : "Turinys",
+    "description" : "",
+    "placeholders" : null
+  },
+  "tabs.label" : {
+    "message" : "Kortelės",
+    "description" : "",
+    "placeholders" : null
+  },
+  "tabs.tab_label.default" : {
+    "message" : "Kortelės elementas",
+    "description" : "",
+    "placeholders" : null
+  },
+  "tabs.tab_label.label" : {
+    "message" : "Etiketė",
+    "description" : "",
+    "placeholders" : null
+  }
+}

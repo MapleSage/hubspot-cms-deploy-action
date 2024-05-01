@@ -1,0 +1,186 @@
+<!--
+  templateType: section
+  label: Pricing
+  isAvailableForNewContent: true
+  screenshotPath: ../images/section-previews/pricing.png
+  description: "Middle centered title and subtitle above three pricing cards, containing a heading, title, text and button each."
+-->
+{% set template_translations = load_translations('../templates/_locales', html_lang, 'en') %}
+{% set anchor_tag = '<a id="{{ context.anchor_id }}" data-hs-anchor="true"></a>' %}
+
+{% dnd_section
+  background_color={{ context.background_color }}
+%}
+  {% dnd_column %}
+    {% dnd_row
+      margin={
+        "bottom": 22
+      }
+    %}
+      {% dnd_module path="@hubspot/rich_text" %}
+        {% module_attribute "html" %}
+          <div style="text-align: center;">
+            {{ anchor_tag if context.anchor_id }}
+            <h2>{{ context.heading or template_translations.section_pricing_heading.message }}</h2>
+            <p>{{ context.content or template_translations.placeholder_content_one.message }}</p>
+          </div>
+        {% end_module_attribute %}
+      {% end_dnd_module %}
+    {% end_dnd_row %}
+    {% dnd_row %}
+      {% dnd_module
+        path="../modules/pricing-card",
+        button={
+          "button_text": context.pricing_cards[0].button.text or template_translations.section_pricing_card_one_button_text.message,
+          "button_link": {
+            "url": {
+              "href": context.pricing_cards[0].button.href or ""
+            }
+          }
+        },
+        heading={
+          "heading": context.pricing_cards[0].heading
+            ?  "<h3>" ~ context.pricing_cards[0].heading ~ "</h3>"
+            : "<h3>" ~ template_translations.section_pricing_card_one_heading.message ~ "</h3>"
+        },
+        subheading={
+          "subheading": context.pricing_cards[0].sub_heading
+            ?  "<h5>" ~ context.pricing_cards[0].sub_heading ~ "</h5>"
+            :  "<h5>" ~ template_translations.section_pricing_card_sub_heading.message ~ "</h5>"
+        }
+        price={
+          "price": context.pricing_cards[0].price
+            ? "<h4>" ~ context.pricing_cards[0].price ~ "</h4>"
+            : "<h4>" ~ template_translations.section_pricing_card_one_price.message ~ "</h4>"
+        },
+        list={
+          "list_items": [
+            {
+              "content": context.pricing_cards[0].descriptions[0].content or context.pricing_cards[0].descriptions[0] or template_translations.placeholder_content_one.message
+            },
+            {
+              "content": context.pricing_cards[0].descriptions[1].content or context.pricing_cards[0].descriptions[1] or template_translations.placeholder_content_one.message
+            },
+            {
+              "content": context.pricing_cards[0].descriptions[2].content or context.pricing_cards[0].descriptions[2] or template_translations.placeholder_content_one.message
+            }
+          ]
+        },
+        styles={
+          "card": {
+            "spacing": {
+              "spacing": {
+                "margin": {
+                  "bottom": {
+                    "value": 22,
+                    "units": "px"
+                  }
+                }
+              }
+            }
+          }
+        },
+        width=4
+      %}
+      {% end_dnd_module %}
+      {% dnd_module
+        path="../modules/pricing-card",
+        button={
+          "button_text": context.pricing_cards[1].button.text or template_translations.section_pricing_card_two_button_text.message,
+          "button_link": {
+            "url": {
+              "href": context.pricing_cards[1].button.href or ""
+            }
+          }
+        },
+        heading={
+          "heading": context.pricing_cards[1].heading
+            ? "<h3>" ~ context.pricing_cards[1].heading ~ "</h3>"
+            : "<h3>" ~ template_translations.section_pricing_card_two_heading.message ~ "</h3>"
+        }
+        subheading={
+          "subheading": context.pricing_cards[1].sub_heading
+            ? "<h5>" ~ context.pricing_cards[1].sub_heading ~ "</h5>"
+            : "<h5>" ~ template_translations.section_pricing_card_sub_heading.message ~ "</h5>"
+        }
+        offset=4,
+        price={
+          "price": context.pricing_cards[1].price
+            ? "<h4>" ~ context.pricing_cards[1].price ~ "</h4>"
+            : "<h4>" ~ template_translations.section_pricing_card_two_price.message ~ "</h4>"
+        },
+        list={
+          "list_items": [
+            {
+              "content": context.pricing_cards[1].descriptions[0].content or context.pricing_cards[1].descriptions[0] or template_translations.placeholder_content_one.message
+            },
+            {
+              "content": context.pricing_cards[1].descriptions[1].content or context.pricing_cards[1].descriptions[1] or template_translations.placeholder_content_one.message
+            },
+            {
+              "content": context.pricing_cards[1].descriptions[2].content or context.pricing_cards[1].descriptions[2] or template_translations.placeholder_content_one.message
+            }
+          ]
+        },
+        styles={
+          "card": {
+            "spacing": {
+              "spacing": {
+                "margin": {
+                  "bottom": {
+                    "value": 22,
+                    "units": "px"
+                  }
+                }
+              }
+            }
+          }
+        },
+        width=4
+      %}
+      {% end_dnd_module %}
+      {% dnd_module
+        path="../modules/pricing-card",
+        button={
+          "button_text": context.pricing_cards[2].button.text or template_translations.section_pricing_card_three_button_text.message,
+          "button_link": {
+            "url": {
+              "href": context.pricing_cards[2].button.href or ""
+            }
+          }
+        },
+        heading={
+          "heading": context.pricing_cards[2].heading
+            ? "<h3>" ~ context.pricing_cards[2].heading ~ "</h3>"
+            : "<h3>" ~ template_translations.section_pricing_card_three_heading.message ~ "</h3>"
+        }
+        subheading={
+          "subheading": context.pricing_cards[2].sub_heading
+            ? "<h5>" ~ context.pricing_cards[2].sub_heading ~ "</h5>"
+            : "<h5>" ~ template_translations.section_pricing_card_sub_heading.message ~ "</h5>"
+        }
+        list={
+          "list_items": [
+            {
+              "content": context.pricing_cards[2].descriptions[0].content or context.pricing_cards[2].descriptions[0] or template_translations.placeholder_content_one.message
+            },
+            {
+              "content": context.pricing_cards[2].descriptions[1].content or context.pricing_cards[2].descriptions[1] or template_translations.placeholder_content_one.message
+            },
+            {
+              "content": context.pricing_cards[2].descriptions[2].content or context.pricing_cards[2].descriptions[2] or template_translations.placeholder_content_one.message
+            }
+          ]
+        },
+        offset=8,
+        price={
+          "price": context.pricing_cards[2].price
+            ? "<h4>" ~ context.pricing_cards[2].price ~ "</h4>"
+            : "<h4>" ~ template_translations.section_pricing_card_three_price.message ~ "</h4>"
+        },
+        width=4
+      %}
+      {% end_dnd_module %}
+    {% end_dnd_row %}
+  {% end_dnd_column %}
+{% end_dnd_section %}

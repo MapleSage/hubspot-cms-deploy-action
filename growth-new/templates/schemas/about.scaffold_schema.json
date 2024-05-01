@@ -1,0 +1,344 @@
+[
+  {
+    "name": "banner",
+    "type": "group",
+    "children": [
+      {
+        "name": "background_image",
+        "type": "image",
+        "description": "A banner background image that shows the team members who work for the company.",
+        "width": 1792,
+        "height": 1024
+      },
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that describes the page, which is intended to provide information about the company and the people that work for the company."
+      },
+      {
+        "name": "subheading",
+        "type": "text",
+        "description": "A subheading that gives a brief description (2-3 sentences) about the company."
+      }
+    ]
+  },
+  {
+    "name": "our_story",
+    "type": "group",
+    "children": [
+      {
+        "name": "image",
+        "type": "image",
+        "description": "An image that describes the company's story.",
+        "width": 497,
+        "height": 284
+      },
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading about the company's story."
+      },
+      {
+        "name": "description",
+        "type": "text",
+        "description": "A paragraph that provides some details about the company's story."
+      }
+    ]
+  },
+  {
+    "name": "our_values",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading about the company's values."
+      },
+      {
+        "name": "description",
+        "type": "text",
+        "description": "A paragraph that provides information about the company's values."
+      },
+      {
+        "name": "image",
+        "type": "image",
+        "description": "An image that describes the company's values.",
+        "width": 497,
+        "height": 284
+      }
+    ]
+  },
+  {
+    "name": "our_history",
+    "type": "group",
+    "children": [
+      {
+        "name": "image",
+        "type": "image",
+        "description": "An image that shows a moment from some point in the company's history.",
+        "width": 497,
+        "height": 284
+      },
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading about the company's history."
+      },
+      {
+        "name": "description",
+        "type": "text",
+        "description": "A paragraph that provides information about the company's history."
+      }
+    ]
+  },
+  {
+    "name": "gallery",
+    "type": "group",
+    "children": [
+      {
+        "name": "image_one",
+        "type": "image",
+        "description": "The first image in a gallery about the company and the people that work for it.",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "name": "image_two",
+        "type": "image",
+        "description": "The second image in a gallery about the company and the people that work for it.",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "name": "image_three",
+        "type": "image",
+        "description": "The third image in a gallery about the company and the people that work for it.",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "name": "image_four",
+        "type": "image",
+        "description": "The fourth image in a gallery about the company and the people that work for it.",
+        "width": 1024,
+        "height": 1024
+      }
+    ]
+  },
+  {
+    "name": "our_team",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that will go above a section that talks about people on the team."
+      },
+      {
+        "name": "subheading",
+        "type": "text",
+        "description": "A subheading that will go above a section that talks about people on the team."
+      },
+      {
+        "name": "team_member_one",
+        "type": "group",
+        "children": [
+          {
+            "name": "image",
+            "type": "image",
+            "description": "An image of the first team member.",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "name": "name",
+            "type": "text",
+            "description": "The first and last name of the first team member."
+          },
+          {
+            "name": "title",
+            "type": "text",
+            "description": "The job title of the first team member."
+          },
+          {
+            "name": "description",
+            "type": "text",
+            "description": "A brief description of what the first team member does for the company."
+          }
+        ]
+      },
+      {
+        "name": "team_member_two",
+        "type": "group",
+        "children": [
+          {
+            "name": "image",
+            "type": "image",
+            "description": "An image of the second team member.",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "name": "name",
+            "type": "text",
+            "description": "The first and last name of the second team member."
+          },
+          {
+            "name": "title",
+            "type": "text",
+            "description": "The job title of the second team member."
+          },
+          {
+            "name": "description",
+            "type": "text",
+            "description": "A brief description of what the second team member does for the company."
+          }
+        ]
+      },
+      {
+        "name": "team_member_three",
+        "type": "group",
+        "children": [
+          {
+            "name": "image",
+            "type": "image",
+            "description": "An image of the third team member.",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "name": "name",
+            "type": "text",
+            "description": "The first and last name of the third team member."
+          },
+          {
+            "name": "title",
+            "type": "text",
+            "description": "The job title of the third team member."
+          },
+          {
+            "name": "description",
+            "type": "text",
+            "description": "A brief description of what the third team member does for the company."
+          }
+        ]
+      },
+      {
+        "name": "team_member_four",
+        "type": "group",
+        "children": [
+          {
+            "name": "image",
+            "type": "image",
+            "description": "An image of the fourth team member.",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "name": "name",
+            "type": "text",
+            "description": "The first and last name of the fourth team member."
+          },
+          {
+            "name": "title",
+            "type": "text",
+            "description": "The job title of the fourth team member."
+          },
+          {
+            "name": "description",
+            "type": "text",
+            "description": "A brief description of what the fourth team member does for the company."
+          }
+        ]
+      },
+      {
+        "name": "team_member_five",
+        "type": "group",
+        "children": [
+          {
+            "name": "image",
+            "type": "image",
+            "description": "An image of the fifth team member.",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "name": "name",
+            "type": "text",
+            "description": "The first and last name of the fifth team member."
+          },
+          {
+            "name": "title",
+            "type": "text",
+            "description": "The job title of the fifth team member."
+          },
+          {
+            "name": "description",
+            "type": "text",
+            "description": "A brief description of what the fifth team member does for the company."
+          }
+        ]
+      },
+      {
+        "name": "team_member_six",
+        "type": "group",
+        "children": [
+          {
+            "name": "image",
+            "type": "image",
+            "description": "An image of the sixth team member.",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "name": "name",
+            "type": "text",
+            "description": "The first and last name of the sixth team member."
+          },
+          {
+            "name": "title",
+            "type": "text",
+            "description": "The job title of the sixth team member."
+          },
+          {
+            "name": "description",
+            "type": "text",
+            "description": "A brief description of what the sixth team member does for the company."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "our_culture",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that will go above a section that talks about the company's culture."
+      },
+      {
+        "name": "subheading",
+        "type": "text",
+        "description": "A subheading that will go above a section that talks about the company's culture."
+      }
+    ]
+  },
+  {
+    "name": "company_news",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that will go above a section that talks the latest blog posts from the company."
+      },
+      {
+        "name": "subheading",
+        "type": "text",
+        "description": "A subheading that will go above a section that talks the latest blog posts from the company."
+      }
+    ]
+  }
+]

@@ -1,0 +1,147 @@
+{
+  "name" : {
+    "message" : "Kartu pembicara",
+    "description" : "",
+    "placeholders" : null
+  },
+  "speaker.bio.label" : {
+    "message" : "Bio",
+    "description" : "",
+    "placeholders" : null
+  },
+  "speaker.label" : {
+    "message" : "Pembicara",
+    "description" : "",
+    "placeholders" : null
+  },
+  "speaker.photo.label" : {
+    "message" : "Gambar",
+    "description" : "",
+    "placeholders" : null
+  },
+  "speaker.speaker_name.default" : {
+    "message" : "<h3 style='text-align:center;'>Abigail Johnson</h3>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "speaker.speaker_name.label" : {
+    "message" : "Nama",
+    "description" : "",
+    "placeholders" : null
+  },
+  "speaker.speaker_title.default" : {
+    "message" : "<p style='text-align:center;'>Pendiri & CEO</strong></p>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "speaker.speaker_title.label" : {
+    "message" : "Judul",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.background.color.label" : {
+    "message" : "Warna",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.background.label" : {
+    "message" : "Latar belakang",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.border.border.label" : {
+    "message" : "Batasan",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.border.label" : {
+    "message" : "Batasan",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.corner.label" : {
+    "message" : "Pojok",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.corner.radius.label" : {
+    "message" : "Radius",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.height.label" : {
+    "message" : "Tinggi",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.height.min_height.label" : {
+    "message" : "Tinggi minimum",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.label" : {
+    "message" : "Kartu",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.dark" : {
+    "message" : "Gelap",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.light" : {
+    "message" : "Cahaya",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.plain" : {
+    "message" : "Polos",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.label" : {
+    "message" : "Gaya kartu",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.help_text" : {
+    "message" : "Gunakan prasetel untuk menyesuaikan tampilan item yang dipilih dengan cepat ke nilai yang telah ditentukan.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.label" : {
+    "message" : "Prasetel",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.spacing.label" : {
+    "message" : "Spasi",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.spacing.spacing.label" : {
+    "message" : "Spasi",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "Gaya",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.photo.corner.label" : {
+    "message" : "Pojok",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.photo.corner.radius.label" : {
+    "message" : "Radius",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.photo.label" : {
+    "message" : "Gambar",
+    "description" : "",
+    "placeholders" : null
+  }
+}

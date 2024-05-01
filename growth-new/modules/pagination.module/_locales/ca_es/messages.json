@@ -1,0 +1,142 @@
+{
+  "default_text.go_to_page_text.default" : {
+    "message" : "Ves a la pàgina {{ this_page }}",
+    "description" : "",
+    "placeholders" : null
+  },
+  "default_text.go_to_page_text.label" : {
+    "message" : "Text de l'opció Ves a la pàgina",
+    "description" : "",
+    "placeholders" : null
+  },
+  "default_text.label" : {
+    "message" : "Text per defecte",
+    "description" : "",
+    "placeholders" : null
+  },
+  "default_text.pagination_navigation_text.default" : {
+    "message" : "Navegació per la paginació",
+    "description" : "",
+    "placeholders" : null
+  },
+  "default_text.pagination_navigation_text.label" : {
+    "message" : "Text de l'opció Navegació per la paginació",
+    "description" : "",
+    "placeholders" : null
+  },
+  "first_label.default" : {
+    "message" : "Primera",
+    "description" : "",
+    "placeholders" : null
+  },
+  "first_label.label" : {
+    "message" : "Primera etiqueta",
+    "description" : "",
+    "placeholders" : null
+  },
+  "last_label.default" : {
+    "message" : "Última",
+    "description" : "",
+    "placeholders" : null
+  },
+  "last_label.label" : {
+    "message" : "Última etiqueta",
+    "description" : "",
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "Paginació",
+    "description" : "",
+    "placeholders" : null
+  },
+  "next_label.default" : {
+    "message" : "Següent",
+    "description" : "",
+    "placeholders" : null
+  },
+  "next_label.label" : {
+    "message" : "Etiqueta següent",
+    "description" : "",
+    "placeholders" : null
+  },
+  "previous_label.default" : {
+    "message" : "Anterior",
+    "description" : "",
+    "placeholders" : null
+  },
+  "previous_label.label" : {
+    "message" : "Etiqueta anterior",
+    "description" : "",
+    "placeholders" : null
+  },
+  "show_first_and_last_links.label" : {
+    "message" : "Mostra el primer i l'últim enllaç",
+    "description" : "",
+    "placeholders" : null
+  },
+  "show_numbers.label" : {
+    "message" : "Mostra els números",
+    "description" : "",
+    "placeholders" : null
+  },
+  "show_previous_and_next_links.label" : {
+    "message" : "Mostra els enllaços anterior i següent",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.active.border.border.label" : {
+    "message" : "Cantonada",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.active.border.label" : {
+    "message" : "Cantonada",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.active.corner.label" : {
+    "message" : "Cantonada",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.active.corner.radius.label" : {
+    "message" : "Radi",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.active.label" : {
+    "message" : "Actiu",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "Estils",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.spacing.label" : {
+    "message" : "Espaiat",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.spacing.space_between_links.label" : {
+    "message" : "Espai entre enllaços",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.spacing.spacing.label" : {
+    "message" : "Espaiat",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.text.font.label" : {
+    "message" : "Tipus de lletra",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.text.label" : {
+    "message" : "Text",
+    "description" : "",
+    "placeholders" : null
+  }
+}

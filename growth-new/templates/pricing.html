@@ -1,0 +1,243 @@
+<!--
+  templateType: page
+  isAvailableForNewContent: true
+  label: Pricing
+  screenshotPath: ../images/template-previews/pricing.png
+  scaffoldSchemaPath: ./schemas/pricing.scaffold_schema.json
+-->
+{% extends "./layouts/base.html" %}
+
+{# Template variables #}
+
+{# Default content for features #}
+{% set features = [
+    {
+      "heading": "{{ scaffold_content.plans.feature_one.heading or template_translations.pricing_list_content_heading.message }}",
+      "description": "{{ scaffold_content.plans.feature_one.description or template_translations.placeholder_content_two.message }}"
+    },
+    {
+      "heading": "{{ scaffold_content.plans.feature_two.heading or template_translations.pricing_list_content_heading.message }}",
+      "description": "{{ scaffold_content.plans.feature_two.description or template_translations.placeholder_content_two.message }}"
+    },
+    {
+      "heading": "{{ scaffold_content.plans.feature_three.heading or template_translations.pricing_list_content_heading.message }}",
+      "description": "{{ scaffold_content.plans.feature_three.description or template_translations.placeholder_content_two.message }}"
+    },
+    {
+      "heading": "{{ scaffold_content.plans.feature_four.heading or template_translations.pricing_list_content_heading.message }}",
+      "description": "{{ scaffold_content.plans.feature_four.description or template_translations.placeholder_content_two.message }}"
+    },
+    {
+      "heading": "{{ scaffold_content.plans.feature_five.heading or template_translations.pricing_list_content_heading.message }}",
+      "description": "{{ scaffold_content.plans.feature_five.description or template_translations.placeholder_content_two.message }}"
+    },
+    {
+      "heading": "{{ scaffold_content.plans.feature_six.heading or template_translations.pricing_list_content_heading.message }}",
+      "description": "{{ scaffold_content.plans.feature_six.description or template_translations.placeholder_content_two.message }}"
+    }
+  ]
+%}
+{% set features_content = [] %}
+{% for feature in features %}
+  {% do features_content.append("<h3>" ~ feature.heading ~ "</h3><p>" ~ feature.description ~ "</p>") %}
+{% endfor %}
+
+{# Default content for accordions #}
+{% set accordion_one_answer = "<p>{{ scaffold_content.faq.accordion_one.answer or template_translations.pricing_faq_answer.message }}</p>" %}
+{% set accordion_two_answer = "<p>{{ scaffold_content.faq.accordion_two.answer or template_translations.pricing_faq_answer.message }}</p>" %}
+
+{% block body %}
+
+{% dnd_area "dnd_area"
+  label="Main section"
+%}
+
+  {# Banner #}
+
+  {% dnd_section
+    background_image={
+      "backgroundPosition": "MIDDLE_CENTER",
+      "backgroundSize": "cover",
+      "imageUrl": scaffold_content.banner.background_image.src or get_asset_url("../images/industry-images/pricing-banner.jpg")
+    },
+    max_width=750,
+    padding={
+      "top": 132,
+      "bottom": 132
+    }
+  %}
+    {% dnd_module path="@hubspot/rich_text" %}
+      {% module_attribute "html" %}
+        <div style="text-align: center;">
+          <h1 style="color: #fff;">{{ scaffold_content.banner.heading or template_translations.pricing_heading_one.message }}</h1>
+          <p style="color: #fff;">{{ scaffold_content.banner.subheading or template_translations.placeholder_content_two.message }}</p>
+        </div>
+      {% end_module_attribute %}
+    {% end_dnd_module %}
+  {% end_dnd_section %}
+
+  {# Pricing #}
+
+  {% include_dnd_partial path="../sections/pricing.html"
+    context={
+      "heading": scaffold_content.pricing.heading or template_translations.pricing_plans_and_pricing_heading.message,
+      "content": scaffold_content.pricing.subheading or template_translations.placeholder_content_one.message,
+      "pricing_cards": [
+        {
+          "heading": scaffold_content.pricing.plan_one.name,
+          "price": scaffold_content.pricing.plan_one.price,
+          "descriptions": [
+            scaffold_content.pricing.plan_one.feature_one,
+            scaffold_content.pricing.plan_one.feature_two,
+            scaffold_content.pricing.plan_one.feature_three
+          ],
+          "button": {
+            "text": scaffold_content.pricing.plan_one.button_text
+          }
+        },
+        {
+          "heading": scaffold_content.pricing.plan_two.name,
+          "price": scaffold_content.pricing.plan_two.price,
+          "descriptions": [
+            scaffold_content.pricing.plan_two.feature_one,
+            scaffold_content.pricing.plan_two.feature_two,
+            scaffold_content.pricing.plan_two.feature_three
+          ],
+          "button": {
+            "text": scaffold_content.pricing.plan_two.button_text
+          }
+        },
+        {
+          "heading": scaffold_content.pricing.plan_three.name,
+          "price": scaffold_content.pricing.plan_three.price,
+          "descriptions": [
+            scaffold_content.pricing.plan_three.feature_one,
+            scaffold_content.pricing.plan_three.feature_two,
+            scaffold_content.pricing.plan_three.feature_three
+          ],
+          "button": {
+            "text": scaffold_content.pricing.plan_three.button_text
+          }
+        }
+      ]
+    }
+  %}
+
+  {# Feature lists #}
+
+  {% dnd_section %}
+    {% dnd_column %}
+      {% dnd_row
+        margin={
+          "bottom": 22
+        }
+      %}
+        {% dnd_module path="@hubspot/rich_text" %}
+          {% module_attribute "html" %}
+            <div style="text-align: center;">
+              <h1>{{ scaffold_content.plans.heading or template_translations.pricing_list_heading.message }}</h1>
+              <p>{{ scaffold_content.plans.subheading or template_translations.placeholder_content_two.message }}</p>
+            </div>
+          {% end_module_attribute %}
+        {% end_dnd_module %}
+      {% end_dnd_row %}
+      {% dnd_row %}
+        {% dnd_column
+          width=6
+        %}
+          {% dnd_row %}
+            {% dnd_module
+              path="../modules/list",
+              list_items=[
+                {
+                  "content": features_content[0]|render
+                },
+                {
+                  "content": features_content[1]|render
+                },
+                {
+                  "content": features_content[2]|render
+                }
+              ]
+            %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+        {% dnd_column
+          offset=6,
+          width=6
+        %}
+          {% dnd_row %}
+            {% dnd_module
+              path="../modules/list",
+              list_items=[
+                {
+                  "content": features_content[3]|render
+                },
+                {
+                  "content": features_content[4]|render
+                },
+                {
+                  "content": features_content[5]|render
+                }
+              ]
+            %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+      {% end_dnd_row %}
+    {% end_dnd_column %}
+  {% end_dnd_section %}
+
+  {# Call to action #}
+
+  {% include_dnd_partial path="../sections/call-to-action.html"
+    context={
+      "background_color": "#F5F8FA",
+      "heading": scaffold_content.cta.heading or template_translations.pricing_cta_heading.message,
+      "content": scaffold_content.cta.subheading or template_translations.pricing_cta_subheading.message,
+      "button": {
+        "text": scaffold_content.cta.button_text or template_translations.pricing_cta_button_text.message
+      }
+    }
+  %}
+
+  {# FAQ #}
+
+  {% dnd_section %}
+    {% dnd_column %}
+      {% dnd_row
+        margin={
+          "bottom": 22
+        }
+      %}
+        {% dnd_module path="@hubspot/rich_text" %}
+          {% module_attribute "html" %}
+            <div style="text-align: center;">
+              <h2>{{ scaffold_content.faq.heading or template_translations.pricing_heading_two.message }}</h2>
+              <p>{{ scaffold_content.faq.subheading or template_translations.placeholder_content_one.message }}</p>
+            </div>
+          {% end_module_attribute %}
+        {% end_dnd_module %}
+      {% end_dnd_row %}
+      {% dnd_row %}
+        {% dnd_module
+          path="../modules/accordion",
+          accordions=[
+            {
+              "title": scaffold_content.faq.accordion_one.question or template_translations.pricing_faq_question.message,
+              "content": accordion_one_answer|render
+            },
+            {
+              "title": scaffold_content.faq.accordion_two.question or template_translations.pricing_faq_question.message,
+              "content": accordion_two_answer|render
+            }
+          ]
+        %}
+        {% end_dnd_module %}
+      {% end_dnd_row %}
+    {% end_dnd_column %}
+  {% end_dnd_section %}
+
+{% end_dnd_area %}
+{% endblock body %}

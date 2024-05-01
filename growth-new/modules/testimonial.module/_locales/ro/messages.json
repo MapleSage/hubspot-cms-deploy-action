@@ -1,0 +1,162 @@
+{
+  "author.content.default" : {
+    "message" : "<span>Shaun Benson, Manager de Marketing, Agriflora Inc.</span>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "author.content.label" : {
+    "message" : "Conținut",
+    "description" : "",
+    "placeholders" : null
+  },
+  "author.image.default.alt" : {
+    "message" : "O fotografie cu Shaun Benson, Manager de Marketing, Agriflora Inc.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "author.image.label" : {
+    "message" : "Imagine",
+    "description" : "",
+    "placeholders" : null
+  },
+  "author.include_image.label" : {
+    "message" : "Includere imagine",
+    "description" : "",
+    "placeholders" : null
+  },
+  "author.label" : {
+    "message" : "Autor",
+    "description" : "",
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "Recomandare",
+    "description" : "",
+    "placeholders" : null
+  },
+  "quote_text.default" : {
+    "message" : "<span>„Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan velit sit amet sagittis malesuada.”</span>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "quote_text.label" : {
+    "message" : "Text citat",
+    "description" : "",
+    "placeholders" : null
+  },
+  "show_author.label" : {
+    "message" : "Afișare autor",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.author.alignment.alignment.label" : {
+    "message" : "Aliniere",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.author.alignment.label" : {
+    "message" : "Aliniere",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.author.image.corner.label" : {
+    "message" : "Colț",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.author.image.corner.radius.label" : {
+    "message" : "Rază",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.author.image.label" : {
+    "message" : "Imagine",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.author.label" : {
+    "message" : "Autor",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "Stiluri",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.background.color.label" : {
+    "message" : "Culoare",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.background.label" : {
+    "message" : "Fundal",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.border.border.label" : {
+    "message" : "Margine",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.border.label" : {
+    "message" : "Margine",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.corner.label" : {
+    "message" : "Colț",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.corner.radius.label" : {
+    "message" : "Rază",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.label" : {
+    "message" : "Recomandare",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.presets.card_style.choices.dark" : {
+    "message" : "Întunecat",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.presets.card_style.choices.light" : {
+    "message" : "Luminos",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.presets.card_style.choices.plain" : {
+    "message" : "Simplu",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.presets.card_style.label" : {
+    "message" : "Stil carte",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.presets.help_text" : {
+    "message" : "Utilizați presetările pentru a ajusta rapid aspectul elementului selectat, la valorile predefinite.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.presets.label" : {
+    "message" : "Presetări",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.spacing.label" : {
+    "message" : "Spațiere",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.spacing.spacing.label" : {
+    "message" : "Spațiere",
+    "description" : "",
+    "placeholders" : null
+  }
+}

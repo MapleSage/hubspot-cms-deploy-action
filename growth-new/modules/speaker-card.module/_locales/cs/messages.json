@@ -1,0 +1,147 @@
+{
+  "name" : {
+    "message" : "Karta vystupujícího",
+    "description" : "",
+    "placeholders" : null
+  },
+  "speaker.bio.label" : {
+    "message" : "Životopis",
+    "description" : "",
+    "placeholders" : null
+  },
+  "speaker.label" : {
+    "message" : "Vystupující",
+    "description" : "",
+    "placeholders" : null
+  },
+  "speaker.photo.label" : {
+    "message" : "Obrázek",
+    "description" : "",
+    "placeholders" : null
+  },
+  "speaker.speaker_name.default" : {
+    "message" : "<h3 style='text-align:center;'>Abigail Johnson</h3>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "speaker.speaker_name.label" : {
+    "message" : "Název",
+    "description" : "",
+    "placeholders" : null
+  },
+  "speaker.speaker_title.default" : {
+    "message" : "<p style='text-align:center;'><strong>Zakladatel a generální ředitel</strong></p>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "speaker.speaker_title.label" : {
+    "message" : "Název",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.background.color.label" : {
+    "message" : "Barva",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.background.label" : {
+    "message" : "Pozadí",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.border.border.label" : {
+    "message" : "Ohraničení",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.border.label" : {
+    "message" : "Ohraničení",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.corner.label" : {
+    "message" : "Roh",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.corner.radius.label" : {
+    "message" : "Rádius",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.height.label" : {
+    "message" : "Výška",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.height.min_height.label" : {
+    "message" : "Minimální výška",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.label" : {
+    "message" : "Karta",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.dark" : {
+    "message" : "Tmavé",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.light" : {
+    "message" : "Světlé",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.plain" : {
+    "message" : "Jednoduchý",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.label" : {
+    "message" : "Styl karty",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.help_text" : {
+    "message" : "Pomocí předvoleb můžete rychle upravit vzhled vybrané položky na předem definované hodnoty.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.label" : {
+    "message" : "Předvolby",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.spacing.label" : {
+    "message" : "Rozestupy",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.spacing.spacing.label" : {
+    "message" : "Rozestupy",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "Styly",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.photo.corner.label" : {
+    "message" : "Roh",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.photo.corner.radius.label" : {
+    "message" : "Rádius",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.photo.label" : {
+    "message" : "Obrázek",
+    "description" : "",
+    "placeholders" : null
+  }
+}

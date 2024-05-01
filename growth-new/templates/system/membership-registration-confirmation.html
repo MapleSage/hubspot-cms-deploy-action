@@ -1,0 +1,52 @@
+<!--
+  templateType: page
+  isAvailableForNewContent: true
+  label: Registration confirmation
+  screenshotPath: ../../images/template-previews/membership-registration-confirmation.png
+-->
+{% set template_css = "../../css/templates/membership.css" %}
+{% extends "../layouts/base.html" %}
+
+{% block header %}
+{% endblock %}
+
+{% block body %}
+<section class="content-wrapper">
+  <div class="membership-page membership-page--centered membership-page--spaced">
+
+    <img class="success-image" src="{{ get_asset_url("../../images/success.svg") }}" height="76" width="76" loading="eager" alt="">
+
+    {% module "registration_confirmation_heading"
+      path="@hubspot/rich_text",
+      html="<h1>Your {{ membership_company_name }} password was successfully changed</h1>"
+    %}
+
+    {% module "registration_confirmation_description"
+      path="@hubspot/rich_text",
+      html="<p>Didn't mean to make this change? Use the <a href=\"{{ membership_domain }}/_hcms/mem/reset/request\">forgotten password</a> form to reset your password now.</p>"
+    %}
+
+    {% module "registration_confirmation_sign_in_button"
+      path="../../modules/button",
+      button_text="Sign in",
+      button_link={
+        "url": {
+          "type": "EXTERNAL",
+          "href": "/_hcms/mem/login"
+        }
+      }
+    %}
+
+    {% module_block module "admin_contact"
+      path="@hubspot/rich_text",
+      extra_classes="contact-admin-description"
+    %}
+      {% module_attribute "html" %}
+        <p>Having trouble? <a href="{{ "mailto:" ~ site_settings.membershipWebsiteAdmin }}">Contact the admin</a>.</p>
+      {% end_module_attribute %}
+    {% end_module_block %}
+
+  </div>
+</section>
+{% endblock body %}
+

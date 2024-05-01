@@ -1,0 +1,142 @@
+{
+  "default_text.go_to_page_text.default" : {
+    "message" : "ไปที่หน้า {{ this_page }}",
+    "description" : "",
+    "placeholders" : null
+  },
+  "default_text.go_to_page_text.label" : {
+    "message" : "ข้อความไปที่หน้า",
+    "description" : "",
+    "placeholders" : null
+  },
+  "default_text.label" : {
+    "message" : "ข้อความเริ่มต้น",
+    "description" : "",
+    "placeholders" : null
+  },
+  "default_text.pagination_navigation_text.default" : {
+    "message" : "การนำทางผ่านเลขหน้า",
+    "description" : "",
+    "placeholders" : null
+  },
+  "default_text.pagination_navigation_text.label" : {
+    "message" : "ข้อความการนำทางผ่านเลขหน้า",
+    "description" : "",
+    "placeholders" : null
+  },
+  "first_label.default" : {
+    "message" : "แรก",
+    "description" : "",
+    "placeholders" : null
+  },
+  "first_label.label" : {
+    "message" : "ป้ายแรก",
+    "description" : "",
+    "placeholders" : null
+  },
+  "last_label.default" : {
+    "message" : "สุดท้าย",
+    "description" : "",
+    "placeholders" : null
+  },
+  "last_label.label" : {
+    "message" : "ป้ายสุดท้าย",
+    "description" : "",
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "การแบ่งหน้า",
+    "description" : "",
+    "placeholders" : null
+  },
+  "next_label.default" : {
+    "message" : "ถัดไป",
+    "description" : "",
+    "placeholders" : null
+  },
+  "next_label.label" : {
+    "message" : "ป้ายถัดไป",
+    "description" : "",
+    "placeholders" : null
+  },
+  "previous_label.default" : {
+    "message" : "ก่อนหน้า",
+    "description" : "",
+    "placeholders" : null
+  },
+  "previous_label.label" : {
+    "message" : "ป้ายก่อนหน้า",
+    "description" : "",
+    "placeholders" : null
+  },
+  "show_first_and_last_links.label" : {
+    "message" : "แสดงลิงก์แรกและลิงก์สุดท้าย",
+    "description" : "",
+    "placeholders" : null
+  },
+  "show_numbers.label" : {
+    "message" : "แสดงหมายเลข",
+    "description" : "",
+    "placeholders" : null
+  },
+  "show_previous_and_next_links.label" : {
+    "message" : "แสดงลิงก์ก่อนหน้าและลิงก์ถัดไป",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.active.border.border.label" : {
+    "message" : "ขอบ",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.active.border.label" : {
+    "message" : "ขอบ",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.active.corner.label" : {
+    "message" : "มุม",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.active.corner.radius.label" : {
+    "message" : "รัศมี",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.active.label" : {
+    "message" : "ใช้งานอยู่",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "รูปแบบ",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.spacing.label" : {
+    "message" : "เว้นวรรค",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.spacing.space_between_links.label" : {
+    "message" : "ช่องว่างระหว่างลิงก์",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.spacing.spacing.label" : {
+    "message" : "เว้นวรรค",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.text.font.label" : {
+    "message" : "แบบอักษร",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.text.label" : {
+    "message" : "ข้อความ",
+    "description" : "",
+    "placeholders" : null
+  }
+}

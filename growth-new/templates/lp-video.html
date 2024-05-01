@@ -1,0 +1,622 @@
+<!--
+  templateType: page
+  isAvailableForNewContent: true
+  label: Landing page - video
+  screenshotPath: '../images/section-previews/lp-video.png'
+  scaffoldSchemaPath: ./schemas/lp-video.scaffold_schema.json
+-->
+
+{% extends "./layouts/base.html" %}
+
+{% block header %}
+{% endblock %}
+
+{% block body %}
+  {% set bg_dark = "#F5F8FA" %}
+  {% set color_light ="#F4F0EC" %}
+
+
+  {% dnd_area "main" %}
+
+    {# banner #}
+    {% dnd_section
+      background_color={{ bg_dark }}
+    %}
+      {% dnd_column
+        offset=0,
+        width=12
+      %}
+        {% dnd_row %}
+          {% dnd_column
+            offset=0,
+            width=12
+          %}
+            {% dnd_row %}
+              {% dnd_module
+                path="@hubspot/logo",
+                offset=0,
+                width=12,
+                horizontal_alignment="LEFT"
+              %}
+              {% end_dnd_module %}
+            {% end_dnd_row %}
+          {% end_dnd_column %}
+        {% end_dnd_row %}
+        {% dnd_row
+          padding={
+            "default" : {
+              "right" : 20
+            }
+          }
+        %}
+          {% dnd_column
+            offset=0,
+            width=5
+          %}
+            {% dnd_row %}
+              {% dnd_module
+                path="@hubspot/rich_text",
+                offset=0,
+                width=12
+              %}
+                {% module_attribute "html" %}
+                  <h1 style="font-weight: bold; text-align: left;">{{ scaffold_content.banner.heading or template_translations.lp_video_banner_heading.message }}</h1>
+                {% end_module_attribute %}
+              {% end_dnd_module %}
+            {% end_dnd_row %}
+            {% dnd_row %}
+              {% dnd_module
+                path="@hubspot/rich_text",
+                offset=0,
+                width=12
+              %}
+                {% module_attribute "html" %}
+                  <p style="font-weight: normal; text-align: left;">{{ scaffold_content.banner.content or template_translations.lp_video_banner_content.message }}</p>
+                {% end_module_attribute %}
+              {% end_dnd_module %}
+            {% end_dnd_row %}
+            {% dnd_row %}
+              {% dnd_module
+                path="../modules/button",
+                offset=0,
+                width=6,
+                button_link={
+                  "url" : {
+                    "href" : "https://blog.hubspot.com/marketing/landing-page-types",
+                    "type" : "EXTERNAL"
+                  }
+                },
+                button_text={{ scaffold_content.banner.call_to_action or template_translations.lp_video_banner_button_text.message }},
+                styles={
+                  "alignment" : {
+                    "alignment" : {
+                      "horizontal_align" : "LEFT"
+                    }
+                  },
+                  "presets" : {
+                    "button_style" : "primary"
+                  },
+                  "spacing" : {
+                    "spacing" : {
+                      "margin" : {
+                        "bottom" : {
+                          "units" : "px",
+                          "value" : 15
+                        },
+                      }
+                    }
+                  }
+                }
+              %}
+              {% end_dnd_module %}
+            {% end_dnd_row %}
+          {% end_dnd_column %}
+          {% dnd_column
+            offset=5,
+            width=1
+          %}
+            {% dnd_row %}
+              {% dnd_module
+                path="@hubspot/horizontal_spacer",
+                offset=0,
+                width=12
+              %}
+              {% end_dnd_module %}
+            {% end_dnd_row %}
+          {% end_dnd_column %}
+          {% dnd_column
+            offset=6,
+            width=6
+          %}
+            {% dnd_row %}
+              {% dnd_module
+                path="@hubspot/video",
+                offset=0,
+                width=12,
+                embed_field={
+                  "oembed_response" : {
+                      "type" : "video",
+                  },
+                  "height" : 113,
+                  "max_height" : 113,
+                  "max_width" : 200,
+                  "oembed_url" : "https://www.youtube.com/watch?v=S93nYy-Bxzo",
+                  "size_type" : "auto_full_width",
+                  "source_type" : "oembed",
+                  "width" : 200
+                },
+                video_type="embed"
+              %}
+              {% end_dnd_module %}
+            {% end_dnd_row %}
+          {% end_dnd_column %}
+        {% end_dnd_row %}
+      {% end_dnd_column %}
+    {% end_dnd_section %}
+    {# end banner#}
+
+    {# Partners section #}
+    {% dnd_section
+      background_color="#fff",
+      padding={
+        "default" : {
+          "bottom" : 30,
+          "top" : 20
+        }
+      }
+    %}
+      {% dnd_column
+        offset=0,
+        width=12
+      %}
+        {% dnd_row %}
+          {% dnd_module
+            path="@hubspot/rich_text",
+            offset=0,
+            width=12
+          %}
+            {% module_attribute "html" %}
+              <p style="text-align: center; font-weight: bold;">{{ scaffold_content.logo_wall.heading or template_translations.lp_video_partners_content.message }}</p>
+            {% end_module_attribute %}
+          {% end_dnd_module %}
+        {% end_dnd_row %}
+        {% dnd_row %}
+          {% dnd_module
+            path="@hubspot/logo_grid",
+            offset=0,
+            width=12,
+            styles={
+              group_logo_grid: {
+                column_count: 5,
+                grid_gap: 40
+              }
+            },
+            group_logos=[ {
+              "logo" : {
+                "alt" : "HubSpot default example company logo",
+                "loading" : "lazy",
+                "src" : get_asset_url("../images/landing-page-images/hs-default-logo-appwave.svg")
+              }
+            }, {
+              "logo" : {
+                "alt" : "HubSpot default example company logo",
+                "loading" : "lazy",
+                "src" : get_asset_url("../images/landing-page-images/hs-default-logo-codecloud.svg")
+              }
+            }, {
+              "logo" : {
+                "alt" : "HubSpot default example company logo",
+                "loading" : "lazy",
+                "src" : get_asset_url("../images/landing-page-images/hs-default-logo-luminatech.svg")
+              }
+            }, {
+              "logo" : {
+                "alt" : "HubSpot default example company logo",
+                "loading" : "lazy",
+                "src" : get_asset_url("../images/landing-page-images/hs-default-logo-serenitysystems.svg")
+              }
+            },
+              {
+              "logo" : {
+                "alt" : "HubSpot default example company logo",
+                "loading" : "lazy",
+                "src" : get_asset_url("../images/landing-page-images/hs-default-logo-stellarforge.svg")
+              }
+            } ]
+          %}
+          {% end_dnd_module %}
+        {% end_dnd_row %}
+      {% end_dnd_column %}
+    {% end_dnd_section %}
+    {# end partners section #}
+
+    {# details section #}
+    {% dnd_section
+      background_color={{ bg_dark }}
+    %}
+      {% dnd_column
+        offset=0,
+        width=6
+      %}
+        {% dnd_row %}
+          {% dnd_module
+            path="@hubspot/linked_image",
+            offset=0,
+            width=12,
+            horizontal_alignment="CENTER",
+            img={
+              "alt": "feature-three",
+              "height": scaffold_content.about.image.height or 300,
+              "loading": "lazy",
+              "max_height": 300,
+              "max_width": 500,
+              "size_type": "auto",
+              "src": scaffold_content.about.image.src or get_asset_url('../images/industry-images/feature-three.jpg'),
+              "width": scaffold_content.about.image.width or 500
+            }
+          %}
+          {% end_dnd_module %}
+        {% end_dnd_row %}
+      {% end_dnd_column %}
+      {% dnd_column
+        offset=6,
+        width=6
+      %}
+        {% dnd_row %}
+          {% dnd_module
+            path="@hubspot/rich_text",
+            offset=0,
+            width=12
+          %}
+            {% module_attribute "html" %}
+              <p style="font-weight: bold; text-align: left;">{{ scaffold_content.about.preface or  template_translations.lp_video_details_preface.message }}</p>
+            {% end_module_attribute %}
+          {% end_dnd_module %}
+        {% end_dnd_row %}
+        {% dnd_row %}
+          {% dnd_module
+            path="@hubspot/rich_text",
+            offset=0,
+            width=12
+          %}
+            {% module_attribute "html" %}
+            <h2 style="font-weight: bold; text-align: left;">{{ scaffold_content.about.heading or template_translations.lp_video_details_heading.message }}</h2>
+            <p><strong>{{ scaffold_content.about.bullet_intro or template_translations.lp_video_details_highlight.message }}</strong></p>
+            <ul>
+              <li><strong>{{ scaffold_content.about.bullet_one.heading or template_translations.lp_video_details_li_one_heading.message }}</strong> {{ scaffold_content.about.bullet_one.content or template_translations.lp_video_details_li_content.message }}</li>
+              <li><strong>{{ scaffold_content.about.bullet_two.heading or template_translations.lp_video_details_li_two_heading.message }}</strong> {{ scaffold_content.about.bullet_two.content or template_translations.lp_video_details_li_content.message }}</li>
+              <li><strong>{{ scaffold_content.about.bullet_three.heading or template_translations.lp_video_details_li_three_heading.message }}</strong> {{ scaffold_content.about.bullet_three.content or template_translations.lp_video_details_li_content.message }}</li>
+            </ul>
+            {% end_module_attribute %}
+          {% end_dnd_module %}
+        {% end_dnd_row %}
+      {% end_dnd_column %}
+    {% end_dnd_section %}
+    {# end details section #}
+
+    {# Stats section #}
+    {% dnd_section
+      background_color={{ bg_dark }},
+      padding={
+        "default" : {
+          "bottom" : 30,
+          "top" : 30
+        }
+      }
+    %}
+      {% dnd_column
+        offset=0,
+        width=12,
+        background_color="#fff",
+        padding={
+          "default" : {
+            "bottom" : 20,
+            "left" : 40,
+            "right" : 40,
+            "top" : 20
+          }
+        },
+        margin={
+          "default" : {
+            "bottom" : 5,
+            "top" : 5
+          }
+        }
+      %}
+        {% dnd_row %}
+          {% dnd_column
+            offset=0,
+            width=12
+          %}
+            {% dnd_row %}
+              {% dnd_module
+                path="@hubspot/rich_text",
+                offset=0,
+                width=12
+              %}
+                {% module_attribute "html" %}
+                  <h2 style="margin-bottom: 0px; text-align: center; font-weight: normal;">{{ scaffold_content.stats.heading or template_translations.lp_video_stats_heading.message }}</h2>
+                {% end_module_attribute %}
+              {% end_dnd_module %}
+            {% end_dnd_row %}
+          {% end_dnd_column %}
+        {% end_dnd_row %}
+        {% dnd_row
+          padding={
+            "default" : {
+              "top" : 15
+            }
+          }
+        %}
+          {% dnd_column
+            offset=0,
+            width=4,
+            padding={
+              "default" : {
+                "bottom" : 5,
+                "left" : 20,
+                "right" : 20,
+                "top": 10
+              }
+            }
+          %}
+            {% dnd_row %}
+              {% dnd_module
+                path="@hubspot/rich_text",
+                offset=0,
+                width=12
+              %}
+                {% module_attribute "html" %}
+                  <p style="margin-bottom: 0px; text-align: center;">
+                    <span style="font-size: 48px; font-weight: bold;">{{ scaffold_content.stats.stat_one.stat or template_translations.lp_video_stats_one.message }}</span>
+                  </p>
+                  <p style="text-align: center;">{{ scaffold_content.stats.stat_one.content or template_translations.lp_video_stats_description.message }}</p>
+                {% end_module_attribute %}
+              {% end_dnd_module %}
+            {% end_dnd_row %}
+          {% end_dnd_column %}
+          {% dnd_column
+            offset=4,
+            width=4,
+            padding={
+              "default" : {
+                "bottom" : 5,
+                "left" : 20,
+                "right" : 20,
+                "top": 10
+              }
+            }
+          %}
+            {% dnd_row %}
+              {% dnd_module
+                path="@hubspot/rich_text",
+                offset=0,
+                width=12
+              %}
+                {% module_attribute "html" %}
+                  <p style="margin-bottom: 0px; text-align: center;">
+                    <span style="font-size: 48px; font-weight: bold;">{{ scaffold_content.stats.stat_two.stat or template_translations.lp_video_stats_two.message }}</span>
+                  </p>
+                  <p style="text-align: center;">{{ scaffold_content.stats.stat_three.content or template_translations.lp_video_stats_description.message }}</p>
+                {% end_module_attribute %}
+              {% end_dnd_module %}
+            {% end_dnd_row %}
+          {% end_dnd_column %}
+          {% dnd_column
+            offset=8,
+            width=4,
+            padding={
+              "default" : {
+                "bottom" : 5,
+                "left" : 20,
+                "right" : 20,
+                "top": 10
+              }
+            }
+          %}
+            {% dnd_row %}
+              {% dnd_module
+                path="@hubspot/rich_text",
+                offset=0,
+                width=12
+              %}
+                {% module_attribute "html" %}
+                  <p style="margin-bottom: 0px; text-align: center;">
+                    <span style="font-size: 48px; font-weight: bold;">{{ scaffold_content.stats.stat_three.stat or template_translations.lp_video_stats_three.message }}</span>
+                  </p>
+                  <p style="text-align: center;">{{ scaffold_content.stats.stat_three.content or template_translations.lp_video_stats_description.message }}</p>
+                {% end_module_attribute %}
+              {% end_dnd_module %}
+            {% end_dnd_row %}
+          {% end_dnd_column %}
+        {% end_dnd_row %}
+      {% end_dnd_column %}
+    {% end_dnd_section %}
+    {# end stats section #}
+
+    {# Additional video context #}
+    {% dnd_section
+      padding={
+        "default" : {
+          "bottom" : 0
+        }
+      },
+      max_width=700
+    %}
+      {% dnd_column
+        offset=0,
+        width=12
+      %}
+        {% dnd_row %}
+          {% dnd_module
+            path="@hubspot/rich_text",
+            offset=0,
+            width=12
+          %}
+            {% module_attribute "html" %}
+              <h2 style="font-weight: bold; text-align: center;">{{ scaffold_content.video.heading or template_translations.lp_video_sneak_peak_heading.message }}</h2>
+              <p style="text-align: center;">{{ scaffold_content.video.content or template_translations.lp_video_sneak_peak_content.message }}</p>
+            {% end_module_attribute %}
+          {% end_dnd_module %}
+        {% end_dnd_row %}
+      {% end_dnd_column %}
+    {% end_dnd_section %}
+    {# End second video context #}
+
+    {# second video #}
+    {% dnd_section
+      padding={
+        "default" : {
+          "top" : 30
+        }
+      }
+    %}
+      {% dnd_column
+        offset=0,
+        width=12
+      %}
+        {% dnd_row %}
+          {% dnd_module
+            path="@hubspot/video",
+            offset=0,
+            width=12,
+            embed_field={
+              "embed_html" : "https://23651834.fs1.hubspotusercontent-na1.net/hubfs/23651834/sample_640x360.mp4",
+              "height" : 113,
+              "max_height" : 113,
+              "max_width" : 200,
+              "oembed_response" : {
+                "type" : "video",
+              },
+              "oembed_url" : "https://www.youtube.com/watch?v=S93nYy-Bxzo",
+              "size_type" : "auto_full_width",
+              "source_type" : "oembed",
+              "width" : 200
+            },
+            video_type="embed"
+          %}
+          {% end_dnd_module %}
+        {% end_dnd_row %}
+      {% end_dnd_column %}
+    {% end_dnd_section %}
+    {# end second video #}
+
+
+
+    {# final click-through #}
+    {% dnd_section
+      background_image={
+        "background_position" : "MIDDLE_CENTER",
+        "background_size" : "cover",
+        "image_url" : scaffold_content.call_to_action.background_image.src or get_asset_url("../images/industry-images/pricing-banner.jpg")
+      },
+      max_width=600
+    %}
+      {% dnd_column
+        offset=0,
+        width=12
+      %}
+        {% dnd_row %}
+          {% dnd_module
+            path="@hubspot/rich_text",
+            offset=0,
+            width=12
+          %}
+            {% module_attribute "html" %}
+              <p style="text-align: center; font-weight: bold; color: #fff;">{{ scaffold_content.call_to_action.preface or template_translations.lp_video_bottom_banner_preface.message }}</p>
+            {% end_module_attribute %}
+          {% end_dnd_module %}
+        {% end_dnd_row %}
+        {% dnd_row %}
+          {% dnd_module
+            path="@hubspot/rich_text",
+            offset=0,
+            width=12
+          %}
+            {% module_attribute "html" %}
+              <h2 style="text-align: center; color: #fff;">{{ scaffold_content.call_to_action.heading or template_translations.lp_video_bottom_banner_heading.message }}</h2>
+            {% end_module_attribute %}
+          {% end_dnd_module %}
+        {% end_dnd_row %}
+        {% dnd_row %}
+          {% dnd_module
+            path="../modules/button",
+            offset=0,
+            width=12,
+            button_text={{ scaffold_content.call_to_action.button_text or template_translations.lp_video_bottom_banner_button_text.message }},
+            styles={
+              "alignment" : {
+                "alignment" : {
+                  "horizontal_align" : "CENTER"
+                }
+              },
+              "presets" : {
+                "button_style" : "primary"
+              },
+              "border" : {
+                "border" : {
+                  "bottom" : {
+                    "color" : color_light,
+                    "opacity" : 100,
+                    "style" : "solid",
+                    "width" : {
+                      "units" : "px",
+                      "value" : 1
+                    }
+                  },
+                  "left" : {
+                    "color" : color_light,
+                    "opacity" : 100,
+                    "style" : "solid",
+                    "width" : {
+                      "units" : "px",
+                      "value" : 1
+                    }
+                  },
+                  "right" : {
+                    "color" : color_light,
+                    "opacity" : 100,
+                    "style" : "solid",
+                    "width" : {
+                      "units" : "px",
+                      "value" : 1
+                    }
+                  },
+                  "top" : {
+                    "color" : color_light,
+                    "opacity" : 100,
+                    "style" : "solid",
+                    "width" : {
+                      "units" : "px",
+                      "value" : 1
+                    }
+                  }
+                }
+              },
+              "background": {
+                "color": {
+                  "color": color_light,
+                  "opacity": 100
+                }
+              },
+              "text": {
+                "font" : {
+                  "color": "#000000"
+                }
+              },
+            }
+          %}
+          {% end_dnd_module %}
+        {% end_dnd_row %}
+      {% end_dnd_column %}
+    {% end_dnd_section %}
+    {# end final click-through #}
+
+  {% end_dnd_area %}
+{% endblock %}
+
+
+{% block footer %}
+  {% global_partial path="./partials/footer--lite.html" %}
+{% endblock %}
+

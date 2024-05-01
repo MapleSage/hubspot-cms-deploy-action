@@ -1,0 +1,622 @@
+{
+  "button.add_icon.label" : {
+    "message" : "Afegeix una icona",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.button_link.label" : {
+    "message" : "Enllaç de botó",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.button_target.choices.custom_link" : {
+    "message" : "Altres",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.button_target.choices.payment_link" : {
+    "message" : "Utilitza un enllaç de pagament",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.button_target.label" : {
+    "message" : "Destinació del botó",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.button_text.default" : {
+    "message" : "Compra l'edició Starter ara",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.button_text.label" : {
+    "message" : "Text del botó",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.checkout_behavior.choices.new_tab" : {
+    "message" : "Obre en una pestanya nova",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.checkout_behavior.choices.overlay" : {
+    "message" : "Superposició lliscant",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.checkout_behavior.label" : {
+    "message" : "Comportament del procés de finalització de compra",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.icon.icon.label" : {
+    "message" : "Icona",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.icon.label" : {
+    "message" : "Icona",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.icon.position.choices.left" : {
+    "message" : "Esquerra",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.icon.position.choices.right" : {
+    "message" : "Dreta",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.icon.position.label" : {
+    "message" : "Posició",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.label" : {
+    "message" : "Botó",
+    "description" : "",
+    "placeholders" : null
+  },
+  "button.payment_link.label" : {
+    "message" : "Enllaç de pagament",
+    "description" : "",
+    "placeholders" : null
+  },
+  "default_text.close_checkout.default" : {
+    "message" : "Tanca el procés de finalització de compra",
+    "description" : "",
+    "placeholders" : null
+  },
+  "default_text.close_checkout.label" : {
+    "message" : "Tanca el procés de finalització de compra",
+    "description" : "",
+    "placeholders" : null
+  },
+  "default_text.label" : {
+    "message" : "Text per defecte",
+    "description" : "",
+    "placeholders" : null
+  },
+  "heading.heading.default" : {
+    "message" : "<h3>Starter</h3>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "heading.heading.label" : {
+    "message" : "Títol",
+    "description" : "",
+    "placeholders" : null
+  },
+  "heading.label" : {
+    "message" : "Títol",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list.icon.label" : {
+    "message" : "Icona",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list.label" : {
+    "message" : "Llista",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list.list_items.content.default" : {
+    "message" : "Lorem ipsum dolor sit amet, consectetur",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list.list_items.content.label" : {
+    "message" : "Contingut",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list.list_items.icon.label" : {
+    "message" : "Icona",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list.list_items.label" : {
+    "message" : "Elements de llista",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list.use_custom_bullet_points.label" : {
+    "message" : "Utilitza punts d'enumeració personalitzats",
+    "description" : "",
+    "placeholders" : null
+  },
+  "list.use_same_icon_for_all_list_items.label" : {
+    "message" : "Utilitza la mateixa icona per a tots els elements de la llista",
+    "description" : "",
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "Targeta de preus",
+    "description" : "",
+    "placeholders" : null
+  },
+  "price.label" : {
+    "message" : "Preu",
+    "description" : "",
+    "placeholders" : null
+  },
+  "price.price.default" : {
+    "message" : "<h4>50 $/mes</h4>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "price.price.label" : {
+    "message" : "Preu",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.alignment.alignment.label" : {
+    "message" : "Alineació",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.alignment.label" : {
+    "message" : "Alineació",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.background.color.label" : {
+    "message" : "Color",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.background.label" : {
+    "message" : "Fons",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.border.border.label" : {
+    "message" : "Cantonada",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.border.label" : {
+    "message" : "Cantonada",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.corner.label" : {
+    "message" : "Cantonada",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.corner.radius.label" : {
+    "message" : "Radi",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.hover.background.color.label" : {
+    "message" : "Color",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.hover.background.label" : {
+    "message" : "Fons",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.hover.border.border.label" : {
+    "message" : "Cantonada",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.hover.border.label" : {
+    "message" : "Cantonada",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.hover.label" : {
+    "message" : "Desplaçament",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.hover.text.font.label" : {
+    "message" : "Tipus de lletra",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.hover.text.label" : {
+    "message" : "Text",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.label" : {
+    "message" : "Botó",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.button_size.choices.large" : {
+    "message" : "Gran",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.button_size.choices.regular" : {
+    "message" : "Normal",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.button_size.choices.small" : {
+    "message" : "Petit",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.button_size.label" : {
+    "message" : "Mida del botó",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.button_style.choices.primary" : {
+    "message" : "Principal",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.button_style.choices.secondary" : {
+    "message" : "Secundari",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.button_style.choices.simple" : {
+    "message" : "Senzill",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.button_style.label" : {
+    "message" : "Estil del botó",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.help_text" : {
+    "message" : "Utilitza els valors predefinits per ajustar ràpidament l'aparença de l'element seleccionat als valors predefinits.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.presets.label" : {
+    "message" : "Valors predefinits",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.spacing.label" : {
+    "message" : "Espaiat",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.spacing.spacing.label" : {
+    "message" : "Espaiat",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.text.font.label" : {
+    "message" : "Tipus de lletra",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.text.label" : {
+    "message" : "Text",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.text.transform.choices.capitalize" : {
+    "message" : "Posa en majúscula",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.text.transform.choices.lowercase" : {
+    "message" : "Minúscula",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.text.transform.choices.none" : {
+    "message" : "Cap",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.text.transform.choices.uppercase" : {
+    "message" : "Majúscula",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.button.text.transform.label" : {
+    "message" : "Transforma",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.background.color.label" : {
+    "message" : "Color",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.background.label" : {
+    "message" : "Fons",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.border.border.label" : {
+    "message" : "Cantonada",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.border.label" : {
+    "message" : "Cantonada",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.corner.label" : {
+    "message" : "Cantonada",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.corner.radius.label" : {
+    "message" : "Radi",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.height.label" : {
+    "message" : "Alçària",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.height.min_height.label" : {
+    "message" : "Alçada mínima",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.label" : {
+    "message" : "Targeta",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.dark" : {
+    "message" : "Fosc",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.light" : {
+    "message" : "Clar",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.plain" : {
+    "message" : "Sense format",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.label" : {
+    "message" : "Estil de la targeta",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.help_text" : {
+    "message" : "Utilitza els valors predefinits per ajustar ràpidament l'aparença de l'element seleccionat als valors predefinits.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.label" : {
+    "message" : "Valors predefinits",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.spacing.label" : {
+    "message" : "Espaiat",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.spacing.spacing.label" : {
+    "message" : "Espaiat",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.heading.background.color.label" : {
+    "message" : "Color",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.heading.background.label" : {
+    "message" : "Fons",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.heading.label" : {
+    "message" : "Títol",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.heading.spacing.label" : {
+    "message" : "Espaiat",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.heading.spacing.spacing.label" : {
+    "message" : "Espaiat",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "Estils",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.background.color.label" : {
+    "message" : "Color",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.background.label" : {
+    "message" : "Fons",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.corner.label" : {
+    "message" : "Cantonada",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.corner.radius.label" : {
+    "message" : "Radi",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.fill.color.label" : {
+    "message" : "Color",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.fill.label" : {
+    "message" : "Emplenament",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.label" : {
+    "message" : "Icones",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.help_text" : {
+    "message" : "Utilitza els valors predefinits per ajustar ràpidament l'aparença de l'element seleccionat als valors predefinits.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_color.choices.dark" : {
+    "message" : "Fosc",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_color.choices.light" : {
+    "message" : "Clar",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_color.label" : {
+    "message" : "Color de la icona",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_shape.choices.circle" : {
+    "message" : "Cercle",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_shape.choices.square" : {
+    "message" : "Quadrat",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_shape.label" : {
+    "message" : "Forma de la icona",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_size.choices.large" : {
+    "message" : "Gran",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_size.choices.regular" : {
+    "message" : "Normal",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_size.choices.small" : {
+    "message" : "Petit",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.icon_size.label" : {
+    "message" : "Mida de la icona",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.presets.label" : {
+    "message" : "Valors predefinits",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.size.label" : {
+    "message" : "Mida",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.size.size.label" : {
+    "message" : "Mida",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.spacing.label" : {
+    "message" : "Espaiat",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.icons.spacing.spacing.label" : {
+    "message" : "Espaiat",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.label" : {
+    "message" : "Llista",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.list_items.label" : {
+    "message" : "Elements de llista",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.list_items.spacing.between_icon_and_list_items.label" : {
+    "message" : "Entre la icona i l'element de la llista",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.list_items.spacing.between_list_items.label" : {
+    "message" : "Entre els elements de la llista",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.list.list_items.spacing.label" : {
+    "message" : "Espaiat",
+    "description" : "",
+    "placeholders" : null
+  },
+  "subheading.label" : {
+    "message" : "Subtítol",
+    "description" : "",
+    "placeholders" : null
+  },
+  "subheading.subheading.default" : {
+    "message" : "<h5>Algunes funcions clau</h5>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "subheading.subheading.label" : {
+    "message" : "Subtítol",
+    "description" : "",
+    "placeholders" : null
+  }
+}

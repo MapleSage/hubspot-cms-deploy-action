@@ -1,0 +1,39 @@
+<!--
+  templateType: error_page
+  isAvailableForNewContent: true
+  label: Growth - 500 error
+  screenshotPath: ../../images/template-previews/500.png
+-->
+{% set template_css = "../../css/templates/error.css" %}
+{% extends "../layouts/base.html" %}
+
+{% block body %}
+<section class="content-wrapper">
+  <div class="error-page" data-error="500">
+
+    {% module_block module "error_heading" path="@hubspot/rich_text" %}
+      {% module_attribute "html" %}
+        <h1>{{ template_translations.error_500_heading.message }}</h1>
+      {% end_module_attribute %}
+    {% end_module_block %}
+
+    {% module_block module "error_description" path="@hubspot/rich_text" %}
+      {% module_attribute "html" %}
+        <p>{{ template_translations.error_500_description.message }}</p>
+      {% end_module_attribute %}
+    {% end_module_block %}
+
+    {% module "return_button"
+      path="@hubspot/button",
+      button_text={{ template_translations.error_500_button.message }},
+      link={
+        "url": {
+          "type": "EXTERNAL",
+          "href": "/"
+        }
+      }
+    %}
+
+  </div>
+</section>
+{% endblock body %}

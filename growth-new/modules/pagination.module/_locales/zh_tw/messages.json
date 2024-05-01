@@ -1,0 +1,142 @@
+{
+  "default_text.go_to_page_text.default" : {
+    "message" : "前往頁面 {{ this_page }}",
+    "description" : "",
+    "placeholders" : null
+  },
+  "default_text.go_to_page_text.label" : {
+    "message" : "前往頁面文字",
+    "description" : "",
+    "placeholders" : null
+  },
+  "default_text.label" : {
+    "message" : "預設文字",
+    "description" : "",
+    "placeholders" : null
+  },
+  "default_text.pagination_navigation_text.default" : {
+    "message" : "分頁導覽",
+    "description" : "",
+    "placeholders" : null
+  },
+  "default_text.pagination_navigation_text.label" : {
+    "message" : "分頁導覽文字",
+    "description" : "",
+    "placeholders" : null
+  },
+  "first_label.default" : {
+    "message" : "第一頁",
+    "description" : "",
+    "placeholders" : null
+  },
+  "first_label.label" : {
+    "message" : "第一頁標籤",
+    "description" : "",
+    "placeholders" : null
+  },
+  "last_label.default" : {
+    "message" : "最後一頁",
+    "description" : "",
+    "placeholders" : null
+  },
+  "last_label.label" : {
+    "message" : "最後一頁標籤",
+    "description" : "",
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "頁碼",
+    "description" : "",
+    "placeholders" : null
+  },
+  "next_label.default" : {
+    "message" : "下一頁",
+    "description" : "",
+    "placeholders" : null
+  },
+  "next_label.label" : {
+    "message" : "下一頁標籤",
+    "description" : "",
+    "placeholders" : null
+  },
+  "previous_label.default" : {
+    "message" : "上一頁",
+    "description" : "",
+    "placeholders" : null
+  },
+  "previous_label.label" : {
+    "message" : "上一頁標籤",
+    "description" : "",
+    "placeholders" : null
+  },
+  "show_first_and_last_links.label" : {
+    "message" : "顯示第一個和最後一個的連結",
+    "description" : "",
+    "placeholders" : null
+  },
+  "show_numbers.label" : {
+    "message" : "顯示號碼",
+    "description" : "",
+    "placeholders" : null
+  },
+  "show_previous_and_next_links.label" : {
+    "message" : "顯示上一個和下一個的連結",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.active.border.border.label" : {
+    "message" : "邊界",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.active.border.label" : {
+    "message" : "邊界",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.active.corner.label" : {
+    "message" : "邊角",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.active.corner.radius.label" : {
+    "message" : "半徑",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.active.label" : {
+    "message" : "使用中",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "樣式",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.spacing.label" : {
+    "message" : "間距",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.spacing.space_between_links.label" : {
+    "message" : "連結間距",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.spacing.spacing.label" : {
+    "message" : "間距",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.text.font.label" : {
+    "message" : "字型",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.text.label" : {
+    "message" : "文字",
+    "description" : "",
+    "placeholders" : null
+  }
+}

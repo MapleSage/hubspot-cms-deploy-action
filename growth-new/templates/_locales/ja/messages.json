@@ -1,0 +1,1662 @@
+{
+  "partial_header_skip_to_content": {
+    "message": "コンテンツまでスキップ",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_address": {
+    "message": "111-1111 〇県〇市中央通り1-2-3",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_copyright": {
+    "message": "Copyright © {{ year }}, {{ site_settings.company_name }}",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_one": {
+    "message": "ここにテキストが入ります。",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_two": {
+    "message": "ここにテキストが入ります、---ここにテキストが入ります、---ここにテキストが入ります。---ここにテキストが入ります。",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_three": {
+    "message": "ここにテキストが入ります、---ここにテキストが入ります、---ここにテキストが入ります。---ここにテキストが入ります。ここにテキストが入ります、---ここにテキストが入ります、---ここにテキストが入ります。---ここにテキストが入ります。ここにテキストが入ります、---ここにテキストが入ります、---ここにテキストが入ります。---ここにテキストが入ります。ここにテキストが入ります、---ここにテキストが入ります、---ここにテキストが入ります。---ここにテキストが入ります。",
+    "description": "",
+    "placeholders": null
+  },
+  "about_banner_heading": {
+    "message": "会社概要",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_one": {
+    "message": "当社のストーリー",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_two": {
+    "message": "当社が提供できる価値",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_three": {
+    "message": "当社の歩み",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_four": {
+    "message": "当社のチーム",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_five": {
+    "message": "当社の社風",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_six": {
+    "message": "当社に関するニュース",
+    "description": "",
+    "placeholders": null
+  },
+  "about_image_alt_text": {
+    "message": "会社",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_one_title": {
+    "message": "最高経営責任者（CEO）、創業者",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_two_title": {
+    "message": "最高執行責任者（COO）",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_three_title": {
+    "message": "最高技術責任者（CTO）",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_four_title": {
+    "message": "最高財務責任者（CFO）",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_five_title": {
+    "message": "最高デザイン責任者",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_six_title": {
+    "message": "最高人材責任者（CPO）",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_description": {
+    "message": "チームメンバー各自の専門知識、経験、関心にスポットを当てます。簡潔にまとめつつ魅力的な内容に仕上げて、プロとしての経験や役に立つスキルを紹介しましょう。",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_index_heading": {
+    "message": "ブログ",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_heading": {
+    "message": "ブログコメント",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_heading": {
+    "message": "成長戦略会議",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_date": {
+    "message": "9月5日～8日",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_text": {
+    "message": "チケットを入手",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_content": {
+    "message": "チケットを入手",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_one": {
+    "message": "今すぐ購入",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_two": {
+    "message": "チケットを購入",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_one": {
+    "message": "概要",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_two": {
+    "message": "［登壇者］パネル",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_three": {
+    "message": "スポンサー",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_four": {
+    "message": "動画のキャッチフレーズを追加",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_five": {
+    "message": "お客さまからの評価",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_six": {
+    "message": "チケット",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_one": {
+    "message": "Growth Conference（成長戦略会議）は、カンファレンスイベントでどのような価値を提供できるかを示すために活用可能なテンプレートです。会議のテーマや、チケット購入のメリットを説明してください。",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_two": {
+    "message": "ここで登壇者の簡単な説明を追加します。オーディエンスが登壇者の話を聞くメリットは何でしょうか？ 講演の柱となるテーマはありますか？ 他の人との違いは何でしょうか？ このスペースを使用して、なぜ彼らを登壇者に選んだのかを読み手に伝えましょう。",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_three": {
+    "message": "登壇者の経歴をここでまとめます。登壇者のプレゼンテーショントピックに関する文を追加することもできます。",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_four": {
+    "message": "「これは、イベントの素晴らしさの社会的証明を行う機会となります。イベントの価値が伝わるようにお客さまの声を追加しましょう」",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_five": {
+    "message": "会議のテーマについて説明し、プロスペクトに会議の内容を知らせて、チケットを購入するメリットを伝えてください。このテンプレートを使用して、イベントのチケットを非接触で販売できます。",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_heading": {
+    "message": "自由席入場料",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_price": {
+    "message": "$199",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_heading": {
+    "message": "VIP",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_price": {
+    "message": "$449",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_one": {
+    "message": "顧客がこのチケットを購入する全てのメリットを一覧にします。",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_two": {
+    "message": "会議ではどのような人脈作りや学習の機会がありますか？",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_three": {
+    "message": "会議のどの部分に参加できますか？",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_four": {
+    "message": "レコーディングされたプログラムを再生することはできますか？",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_five": {
+    "message": "食事、交通機関、宿泊施設に関してはどのようなオプションがありますか？",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_six": {
+    "message": "VIP顧客がこのクラスのチケットを購入した場合の全ての限定特典を一覧にします。",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_one": {
+    "message": "最高経営責任者（CEO）、創業者",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_two": {
+    "message": "最高執行責任者（COO）",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_three": {
+    "message": "最高技術責任者（CTO）",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_content": {
+    "message": "チケットを購入",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_image_alt_text": {
+    "message": "登壇者の写真",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_one": {
+    "message": "お問い合わせ",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_two": {
+    "message": "拠点一覧",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_three": {
+    "message": "お問い合わせ先",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_four": {
+    "message": "よくある質問",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_heading": {
+    "message": "コンテンツライブラリー",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_content": {
+    "message": "学習や成長に役立つリソースやデジタルアセットのライブラリー。",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_one": {
+    "message": "<h3>サンフランシスコ</h3><p>3870 Twin Oaks Drive<br> San Francisco, CA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_two": {
+    "message": "<h3>シカゴ</h3><p>2140 Roguski Road<br> Chicago, IL</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_three": {
+    "message": "<h3>ボストン</h3><p>123 Waverly Place<br> Boston, MA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_question": {
+    "message": "アコーディオンタイトル",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_answer": {
+    "message": "ここにテキストが入ります、---ここにテキストが入ります。---ここにテキストが入ります。",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_heading": {
+    "message": "ページが見つかりません",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_description": {
+    "message": "お探しのページが見つかりません。",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_button": {
+    "message": "ホームページへ",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_heading": {
+    "message": "このページは機能していません",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_description": {
+    "message": "内部サーバーエラーが発生しました。現在、調査・対策を進めております。",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_button": {
+    "message": "ホームページへ",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_heading": {
+    "message": "申し訳ありませんが、アクセス権がありません",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_description": {
+    "message": "このページを表示する権限がありません。ご不明点がある場合は、サイトの管理者にお問い合わせください。",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_button": {
+    "message": "ホームページへ",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_heading": {
+    "message": "サインイン",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_subheading": {
+    "message": "表示しようとしているページは、登録済みユーザー専用です。",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_email": {
+    "message": "Eメール",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_password": {
+    "message": "パスワード",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_remember_me": {
+    "message": "ログイン情報を記憶する",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_reset_password": {
+    "message": "パスワードをお忘れですか？",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_submit": {
+    "message": "サインイン",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_show_password": {
+    "message": "表示",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_contact_admin": {
+    "message": "何かお困りですか？ <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">サイトの管理者にお問い合わせください</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_heading": {
+    "message": "サインアウトしました",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_button": {
+    "message": "もう一度サインインする",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_alt": {
+    "message": "または、<a href=\"{{ '//' ~ request.domain }}\">ホームページ</a>に戻る",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_heading": {
+    "message": "パスワードを設定",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_subheading": {
+    "message": "ようこそ。パスワードを設定して登録を完了してください。",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_email": {
+    "message": "Eメール",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_confirm_password": {
+    "message": "パスワードを再入力",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_password": {
+    "message": "パスワード",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_save_password": {
+    "message": "パスワードを保存",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_show_password": {
+    "message": "表示",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_contact_admin": {
+    "message": "何かお困りですか？ <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">サイトの管理者にお問い合わせください</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_heading": {
+    "message": "Eメールアドレスが確認されました",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_description": {
+    "message": "Eメールアドレスを確認していただき、ありがとうございます。アカウントにサインインして、あなただけのコンテンツにアクセスできるようになりました。",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_button": {
+    "message": "サインイン",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_contact_admin": {
+    "message": "何かお困りですか？ <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">サイトの管理者にお問い合わせください</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_heading": {
+    "message": "新しいパスワードを作成",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_subheading": {
+    "message": "新しいパスワードは以前に使用していたパスワードから変更する必要があります。",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_new_password": {
+    "message": "新しいパスワード",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_confirm_password": {
+    "message": "新しいパスワードを再入力",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_save_password": {
+    "message": "パスワードを保存",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_show_password": {
+    "message": "表示",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_contact_admin": {
+    "message": "何かお困りですか？ <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">サイトの管理者にお問い合わせください</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_heading": {
+    "message": "パスワードをリセット",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_subheading": {
+    "message": "登録に使用したEメールアドレスを入力してください。パスワードをリセットするためのリンクを記載したEメールをお送りいたします。",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_email": {
+    "message": "Eメール",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_submit": {
+    "message": "リセットEメールを送信",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_alt": {
+    "message": "思い出した場合は、<a href=\"/_hcms/mem/login\">サインイン</a>してください",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_contact_admin": {
+    "message": "何かお困りですか？ <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">サイトの管理者にお問い合わせください</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_heading": {
+    "message": "Eメールアドレスを確認",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_description": {
+    "message": "ご登録いただきありがとうございます。Eメールを確認して、確認リンクをクリックして登録を完了してください。",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_contact_admin": {
+    "message": "何かお困りですか？ <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">サイトの管理者にお問い合わせください</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_one": {
+    "message": "概要",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two": {
+    "message": "コンサルティングが貴社の成長を支援",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two_update": {
+    "message": "コンサルティングが貴社の成長を支援",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_three": {
+    "message": "意のままに使える一連のツール",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_heading": {
+    "message": "サービス",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_description": {
+    "message": "提供するサービスの概要。お客様に提供できる価値に関するメッセージを追加します。",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_four": {
+    "message": "お客さまからの評価",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_one": {
+    "message": "顧客に価値を提供する方法を説明するサブタイトルを追加",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_two": {
+    "message": "会社での作業内容に関する簡単な説明を追加します。クライアントの関心を集められるように、自分の専門分野に内容を絞ってください。有料のコンサルティングを通じて提供できる価値を説明しましょう。",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_list_content": {
+    "message": "「サービスの裏付けとなるお客さまの声を追加します。現在の顧客はどのような理由でどのような内容に満足していますか？」",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_image_alt_text": {
+    "message": "Growth（成長戦略）テーマのプレースホルダー画像",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_button_text": {
+    "message": "コンサルティングを予約",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_heading": {
+    "message": "パスワードが必要",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_subheading": {
+    "message": "このページを表示するにはパスワードを入力してください。",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_one": {
+    "message": "価格設定",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_plans_and_pricing_heading": {
+    "message": "プランと価格設定",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_two": {
+    "message": "よくある質問",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_heading": {
+    "message": "全てのプランに含まれる内容",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_content_heading": {
+    "message": "製品機能",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_heading": {
+    "message": "製品やサービスを紹介",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_subheading": {
+    "message": "ここにテキストが入ります、---ここにテキストが入ります、---ここにテキストが入ります。---ここにテキストが入ります。",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_button_text": {
+    "message": "もっと詳しく",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_question": {
+    "message": "アコーディオンタイトル",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_answer": {
+    "message": "ここにテキストが入ります、---ここにテキストが入ります。---ここにテキストが入ります。",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_one": {
+    "message": "製品",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_two": {
+    "message": "お客さまのニーズを考慮",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_heading": {
+    "message": "他にもご用意",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_content_heading": {
+    "message": "製品機能",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_one": {
+    "message": "すぐに利用開始",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_two": {
+    "message": "シンプルで使いやすい",
+    "description": "",
+    "placeholders": null
+  },
+  "products_image_alt_text": {
+    "message": "製品機能",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_heading": {
+    "message": "製品やサービスを紹介",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_subheading": {
+    "message": "ここにテキストが入ります、---ここにテキストが入ります、---ここにテキストが入ります。---ここにテキストが入ります。",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_button_text": {
+    "message": "もっと詳しく",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_heading": {
+    "message": "Growth（成長戦略）テーマ",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_button_text": {
+    "message": "はじめに",
+    "description": "",
+    "placeholders": null
+  },
+  "home_logos_heading": {
+    "message": "満足度の高いお客さま",
+    "description": "",
+    "placeholders": null
+  },
+  "home_heading": {
+    "message": "お客さまのニーズを考慮",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_one": {
+    "message": "簡単な設定",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_two": {
+    "message": "使いやすい",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_three": {
+    "message": "カスタマイズ可能",
+    "description": "",
+    "placeholders": null
+  },
+  "home_video_heading": {
+    "message": "具体的に確認",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_heading": {
+    "message": "意のままに使える一連のツール",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_content_heading": {
+    "message": "製品名",
+    "description": "",
+    "placeholders": null
+  },
+  "home_image_alt_text": {
+    "message": "製品名",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_button_text": {
+    "message": "もっと詳しく",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_content": {
+    "message": "ここにテキストが入ります、---ここにテキストが入ります。---ここにテキストが入ります。",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_customer": {
+    "message": "Shaun Benson（Agriflora Inc.のマーケティングマネージャー）",
+    "description": "",
+    "placeholders": null
+  },
+  "home_blog_post_heading": {
+    "message": "最新の記事",
+    "description": "",
+    "placeholders": null
+  },
+  "home_contact": {
+    "message": "お問い合わせ",
+    "description": "",
+    "placeholders": null
+  },
+  "home_button_text": {
+    "message": "はじめに",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_heading": {
+    "message": "今すぐ無料のデジタルリソースをダウンロード",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_p_one": {
+    "message": "このリソースの内容の土台となる魅力的な導入部を執筆しましょう。読み手が課題を克服したり目標を達成したりするのを後押しして、このeBookが問題の解決にどのように役立つかを説明しましょう。",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_one_heading": {
+    "message": "メリットその1：",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_two_heading": {
+    "message": "メリットその2：",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_three_heading": {
+    "message": "メリットその3：",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_content": {
+    "message": "学習内容について説明",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_highlight": {
+    "message": "メリットを強調するのをお忘れなく：",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_preface": {
+    "message": "当社が選ばれる理由",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_heading": {
+    "message": "ビジネスの成長に役立つモダンなソリューションを提供しています",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_content": {
+    "message": "当社の革新的なソリューションで業績を伸ばした数千社の仲間入りをしましょう",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_button_text": {
+    "message": "もっと詳しく",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_logo_heading": {
+    "message": "大手企業からも信頼されています",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_heading": {
+    "message": "機能名",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_content": {
+    "message": "オファーの価値を分かりやすく伝え、訪問者に行動を促す説得力のあるメリットに重点を置いたコピーを執筆しましょう。オファーで問題をどのように解決できるか、またはニーズをどのように満たせるかに重点を置きましょう。",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_preface": {
+    "message": "文面ではお伝えしきれません",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_heading": {
+    "message": "チームメンバーの1人とこれらの機能の動作を確認してください",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_button_text": {
+    "message": "デモを入手",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_heading": {
+    "message": "デモをスケジュール",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_p_one": {
+    "message": "都合の良い時間にチームメンバーの1人とのデモをスケジュールしてください。プロスペクトが学習できる内容に関する簡単な説明を追加してください。",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_highlight": {
+    "message": "話し合う内容：",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_one_heading": {
+    "message": "トピックその1：",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_two_heading": {
+    "message": "トピックその2：",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_three_heading": {
+    "message": "トピックその3：",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_content": {
+    "message": "デモの内容について説明",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_heading": {
+    "message": "席を確保：この限定イベントに今すぐ登録",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_content": {
+    "message": "ライブカンファレンス、ウェビナーイベントの内容からオーディエンスのメンバーが登録すべき理由までを網羅する簡潔な導入部を追加しましょう。",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_button_text": {
+    "message": "今すぐ登録",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_partners_content": {
+    "message": "パートナーのコミュニティーと一緒にご参加ください",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_preface": {
+    "message": "イベントについて",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_heading": {
+    "message": "エキスパートから学ぶ",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_highlight": {
+    "message": "イベントのハイライト：",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_one_heading": {
+    "message": "ハイライトその1：",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_two_heading": {
+    "message": "ハイライトその2：",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_three_heading": {
+    "message": "ハイライトその3：",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_content": {
+    "message": "参加者が学べる内容",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_heading": {
+    "message": "簡単な統計",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_one": {
+    "message": "20以上",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_two": {
+    "message": "150以上",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_three": {
+    "message": "10",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_description": {
+    "message": "統計の簡単な説明",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_heading": {
+    "message": "イベントのプレビューを再生",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_content": {
+    "message": "今後の基調講演、対話型のワークショップ、人脈作りの機会を簡単に紹介しているティザー動画をご再生ください。今後の予定に関するプレビューをお見逃しなく。忘れられない体験をするためにご参加ください。",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_preface": {
+    "message": "文面ではお伝えしきれません",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_heading": {
+    "message": "この機会にぜひお席をご予約ください",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_button_text": {
+    "message": "今すぐ登録",
+    "description": "",
+    "placeholders": null
+  },
+  "search_results_heading": {
+    "message": "「[[search_term]]」の検索結果",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_heading": {
+    "message": "概要",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_sub_heading": {
+    "message": "当社について",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_image_alt_text": {
+    "message": "当社のストーリー",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_list_heading": {
+    "message": "最近の記事",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_heading": {
+    "message": "最近の記事",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_heading": {
+    "message": "製品やサービスを紹介",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_button_text": {
+    "message": "もっと詳しく",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_full_heading": {
+    "message": "連絡先",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_heading": {
+    "message": "連絡先",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_address": {
+    "message": "111-1111 〇県〇市中央通り1-2-3",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_email": {
+    "message": "contact@businessname.com",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_phone_number": {
+    "message": "+1 234-567-8901",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_heading": {
+    "message": "製品",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_description_heading": {
+    "message": "説明",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_button_text": {
+    "message": "お問い合わせ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_image_alt_text": {
+    "message": "製品",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_heading": {
+    "message": "ギャラリー",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_one": {
+    "message": "製品",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_two": {
+    "message": "会社",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_three": {
+    "message": "価格設定",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_four": {
+    "message": "製品機能",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_five": {
+    "message": "画像キャプション",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_caption": {
+    "message": "画像キャプション",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_heading": {
+    "message": "ギャラリー",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_one": {
+    "message": "製品",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_two": {
+    "message": "会社",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_three": {
+    "message": "価格設定",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_four": {
+    "message": "製品機能",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_five": {
+    "message": "価格設定",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_hover_message": {
+    "message": "ホバーメッセージ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_heading": {
+    "message": "Growth（成長戦略）テーマ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_button_text": {
+    "message": "お問い合わせ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_heading": {
+    "message": "Growth（成長戦略）テーマ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_button_text": {
+    "message": "はじめに",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_heading": {
+    "message": "他社との違い",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_one": {
+    "message": "簡単な設定",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_two": {
+    "message": "使いやすい",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_three": {
+    "message": "カスタマイズ可能",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_heading": {
+    "message": "満足度の高いお客さま",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_image_alt_text": {
+    "message": "顧客ロゴ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_meetings_banner_heading": {
+    "message": "ミーティングを予約して無料でコンサルティング",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_heading": {
+    "message": "当社のチーム",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_one_title": {
+    "message": "最高経営責任者（CEO）",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_two_title": {
+    "message": "最高執行責任者（COO）",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_three_title": {
+    "message": "最高財務責任者（CFO）",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_description": {
+    "message": "チームメンバー各自の専門知識、経験、関心にスポットを当てます。簡潔にまとめつつ魅力的な内容に仕上げて、プロとしての経験や役に立つスキルを紹介しましょう。",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_heading": {
+    "message": "当社のストーリー",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_image_alt_text": {
+    "message": "当社のストーリー",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_button_text": {
+    "message": "もっと詳しく",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_heading": {
+    "message": "プランに含まれる内容",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_description_heading": {
+    "message": "製品機能",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_image_alt_text": {
+    "message": "プランの機能",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_heading": {
+    "message": "ニュースレターの配信にご登録ください。",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_subheading": {
+    "message": "登録して最新情報を受け取りましょう",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_heading": {
+    "message": "意のままに使える一連のツール",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_card_heading": {
+    "message": "製品やサービスを紹介",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_button_text": {
+    "message": "お問い合わせ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_image_alt_text": {
+    "message": "サービス",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_heading": {
+    "message": "プランと価格設定",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_heading": {
+    "message": "Starter",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_price": {
+    "message": "$50／月",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_content": {
+    "message": "今すぐStarterを購入",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_button_text": {
+    "message": "今すぐStarterを購入",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_heading": {
+    "message": "Professional",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_price": {
+    "message": "$200／月",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_content": {
+    "message": "今すぐProfessionalを購入",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_button_text": {
+    "message": "今すぐProfessionalを購入",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_heading": {
+    "message": "Enterprise",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_price": {
+    "message": "$600／月",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_content": {
+    "message": "今すぐEnterpriseを購入",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_button_text": {
+    "message": "今すぐEnterpriseを購入",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_sub_heading": {
+    "message": "主な機能の一部",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_heading": {
+    "message": "製品",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_image_alt_text": {
+    "message": "当社のストーリー",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_description_heading": {
+    "message": "製品名",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_button_text": {
+    "message": "お問い合わせ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_heading": {
+    "message": "サービス",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_description_heading": {
+    "message": "サービス名",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_one": {
+    "message": "当社のストーリー",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_two": {
+    "message": "当社が提供できる価値",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_three": {
+    "message": "当社の歩み",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_button_text": {
+    "message": "お問い合わせ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_heading": {
+    "message": "お客さまからの評価",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_team_member_title_one": {
+    "message": "製品担当VP（副社長）",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_heading": {
+    "message": "皆さまからの評価を確認",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_one": {
+    "message": "製品担当VP（副社長）",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_two": {
+    "message": "営業担当SVP（上級副社長）",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_three": {
+    "message": "最高マーケティング責任者（CMO）",
+    "description": "",
+    "placeholders": null
+  },
+  "section_video_heading": {
+    "message": "具体的に確認",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading": {
+    "message": "サービス",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_one_alt": {
+    "message": "パソコンを前にした2人の人物",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_two_alt": {
+    "message": "電話を覗き込んでいる2人の人物",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_three_alt": {
+    "message": "壁に付箋を貼り付けている2人の人物",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_one": {
+    "message": "基本",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_two": {
+    "message": "Pro",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_three": {
+    "message": "Enterprise",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_button_text": {
+    "message": "もっと詳しく",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_description": {
+    "message": "ここにテキストが入ります、---ここにテキストが入ります、---ここにテキストが入ります。---ここにテキストが入ります、---ここにテキストが入ります。",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_heading": {
+    "message": "サービス",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_image_alt": {
+    "message": "階段で座っている人物",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_heading": {
+    "message": "ブランドアイデンティティーの形成",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_content": {
+    "message": "貴社の本質を捉えたユニークで記憶に残りやすいブランドアイデンティティーを考案いたします。興味を惹くロゴを作り、バランスの良い配色を選び、一貫性のあるビジュアルイメージを作り上げて他のブランドとの差別化を図ります。",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_image_alt": {
+    "message": "ノートパソコンを見つめている若いビジネスマンたち",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_heading": {
+    "message": "UX/UIのデザインの強化",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_content": {
+    "message": "UX/UIのデザインに関する専門知識を生かしてユーザー満足度を高め、エンゲージメントを改善します。貴社のデジタル製品を細かく分析し、懸念材料を明らかにして、ユーザーを中心に据えたソリューションを実装することで全体的なユーザー体験の向上を図ります。",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_image_alt": {
+    "message": "タブレットを手に持ちながら中庭で話をしている若いマーケティング担当者",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_heading": {
+    "message": "マーケティング資料のデザイン",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_content": {
+    "message": "記憶に残る強い印象を与える資料を作成して、マーケティングの効果を高めましょう。パンフレットや小冊子からソーシャルメディアのグラフィックまで、ターゲットとなるオーディエンスの心に届き、業績向上につながる印象的な資料をデザインします。",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_button_text": {
+    "message": "もっと詳しく",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_banner_image_alt": {
+    "message": "カメラに向かって笑顔を見せている人々のグループ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_heading": {
+    "message": "地元の食料配給所の支援",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_content_area_one": {
+    "message": "地元の食糧配給所を支援して、近隣の人々の生活を向上させる取り組みにご参加ください。いただいた寄付は、地元で食糧不足に苦しんでいる人々に必要な栄養を届ける活動に役立てられます。",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_one_alt": {
+    "message": "壁に貼られた付箋を眺める2人の人物",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_two_alt": {
+    "message": "決済代行事業者につながっている電話",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_three_alt": {
+    "message": "助手席に2つの荷物を載せたトラックを運転している男性",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_heading": {
+    "message": "今すぐ寄付",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_message_and_amount": {
+    "message": "おすすめの金額：2000円",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_one_text": {
+    "message": "2000円を寄付",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_two_text": {
+    "message": "カスタム金額",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_three_text": {
+    "message": "共有",
+    "description": "",
+    "placeholders": null
+  }
+}

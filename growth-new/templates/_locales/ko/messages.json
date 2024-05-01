@@ -1,0 +1,1662 @@
+{
+  "partial_header_skip_to_content": {
+    "message": "콘텐츠로 건너뛰기",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_address": {
+    "message": "State, City, 123 메인 스트리트 11111",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_copyright": {
+    "message": "Copyright © {{ year }}, {{ site_settings.company_name }}",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_one": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_two": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_three": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "about_banner_heading": {
+    "message": "정보",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_one": {
+    "message": "우리의 이야기",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_two": {
+    "message": "우리의 가치",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_three": {
+    "message": "우리의 역사",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_four": {
+    "message": "우리 팀",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_five": {
+    "message": "회사 문화",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_six": {
+    "message": "회사 소식",
+    "description": "",
+    "placeholders": null
+  },
+  "about_image_alt_text": {
+    "message": "회사",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_one_title": {
+    "message": "CEO 겸 설립자",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_two_title": {
+    "message": "COO(운영 책임자)",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_three_title": {
+    "message": "CTO(기술 책임자)",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_four_title": {
+    "message": "CFO(재정 책임자)",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_five_title": {
+    "message": "CDO(설계 책임자)",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_six_title": {
+    "message": "CPO(인사 책임자)",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_description": {
+    "message": "팀원의 고유한 전문 지식, 경험, 관심 분야를 강조해 보십시오. 팀원이 보유한 전문적인 경력과 탁월한 역량을 간결하면서도 흥미롭게 선보이십시오.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_index_heading": {
+    "message": "블로그",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_heading": {
+    "message": "블로그 댓글",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_heading": {
+    "message": "성장 회의",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_date": {
+    "message": "9월 5~8일",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_text": {
+    "message": "티켓 받기",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_content": {
+    "message": "티켓 받기",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_one": {
+    "message": "지금 구매하기",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_two": {
+    "message": "티켓 구매하기",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_one": {
+    "message": "정보",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_two": {
+    "message": "발언자 패널",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_three": {
+    "message": "후원자",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_four": {
+    "message": "비디오 캐치프레이즈 추가",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_five": {
+    "message": "추천",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_six": {
+    "message": "티켓",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_one": {
+    "message": "성장 회의는 조직의 이벤트 회의에서 제공할 수 있는 가치를 고객에게 보여주는 데 사용 가능한 템플릿입니다. 회의 주제 및 고객이 티켓을 구매해야 할 이유를 설명하십시오.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_two": {
+    "message": "발언자에 대한 간략한 설명을 여기에 추가하십시오. 청중이 발언자의 이야기를 들어야 할 이유는 무엇인가요? 모든 발언자가 다루게 될 테마가 있나요? 발언을 특별하게 만드는 비결은 무엇인가요? 이 공간을 이용하여 이 발언자를 내세우려는 이유를 독자에게 납득시켜 보십시오.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_three": {
+    "message": "발언자의 약력을 여기에 간단히 요약하십시오. 프레젠테이션 주제에 대한 설명을 추가할 수도 있습니다.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_four": {
+    "message": "&ldquo;이벤트가 얼마나 훌륭한지에 대한 공식적 증거를 제시할 수 있는 기회입니다. 사람들이 이벤트의 가치를 이해하는 데 도움이 될 추천장을 추가하십시오.&rdquo;",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_five": {
+    "message": "회의 테마를 설명하고, 잠재 고객에게 회의에서 일어나는 일에 대한 아이디어를 제공하고, 티켓을 구매해야 하는 이유를 알려주십시오. 이 템플릿을 사용하면 이벤트 티켓을 쉽게 판매할 수 있습니다.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_heading": {
+    "message": "일반 입장",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_price": {
+    "message": "$199",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_heading": {
+    "message": "VIP",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_price": {
+    "message": "$449",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_one": {
+    "message": "고객이 이 등급을 구매하는 경우에 받게 될 놀라운 혜택을 모두 열거하십시오.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_two": {
+    "message": "고객이 회의에서 얻을 수 있는 네트워킹 및 학습 기회는 무엇입니까?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_three": {
+    "message": "고객은 회의의 어떤 부분에 액세스할 수 있습니까?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_four": {
+    "message": "고객은 기록된 모든 프로그래밍에 액세스할 수 있습니까?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_five": {
+    "message": "음식, 이동 수단, 숙박 옵션으로는 무엇이 있습니까?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_six": {
+    "message": "VIP 고객이 이 등급을 구매하는 경우에 받게 될 독점 혜택을 모두 열거하십시오.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_one": {
+    "message": "CEO 겸 설립자",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_two": {
+    "message": "COO(운영 책임자)",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_three": {
+    "message": "CTO(기술 책임자)",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_content": {
+    "message": "티켓 구매하기",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_image_alt_text": {
+    "message": "발언자 사진",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_one": {
+    "message": "문의",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_two": {
+    "message": "당사 위치",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_three": {
+    "message": "문의",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_four": {
+    "message": "자주 묻는 질문",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_heading": {
+    "message": "콘텐츠 라이브러리",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_content": {
+    "message": "학습과 성장을 돕기 위한 리소스 및 디지털 자산 라이브러리입니다.",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_one": {
+    "message": "<h3>San Francisco</h3><p>3870 Twin Oaks Drive<br> San Francisco, CA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_two": {
+    "message": "<h3>Chicago</h3><p>2140 Roguski Road<br> Chicago, IL</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_three": {
+    "message": "<h3>Boston</h3><p>123 Waverly Place<br> Boston, MA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_question": {
+    "message": "아코디언 제목",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_heading": {
+    "message": "페이지를 찾을 수 없음",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_description": {
+    "message": "찾으시던 페이지를 찾을 수 없습니다.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_button": {
+    "message": "홈페이지로 이동",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_heading": {
+    "message": "이 페이지는 작동하지 않습니다.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_description": {
+    "message": "내부 서버 오류가 발생했지만 해결하는 중입니다!",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_button": {
+    "message": "홈페이지로 이동",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_heading": {
+    "message": "죄송합니다. 액세스 권한이 없습니다.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_description": {
+    "message": "이 페이지를 볼 권한이 없습니다. 필요하다면 사이트 관리자에게 문의하십시오.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_button": {
+    "message": "홈페이지로 이동",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_heading": {
+    "message": "등록",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_subheading": {
+    "message": "지금 보려는 페이지는 등록된 사용자만 이용할 수 있습니다.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_email": {
+    "message": "이메일",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_password": {
+    "message": "암호",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_remember_me": {
+    "message": "사용자 저장",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_reset_password": {
+    "message": "암호를 잊어버리셨나요?",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_submit": {
+    "message": "등록",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_show_password": {
+    "message": "표시",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_contact_admin": {
+    "message": "문제가 있나요? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">사이트 관리자에게 문의</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_heading": {
+    "message": "로그아웃하셨습니다.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_button": {
+    "message": "다시 로그인",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_alt": {
+    "message": "또는 <a href=\"{{ '//' ~ request.domain }}\">홈페이지</a>로 돌아가기",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_heading": {
+    "message": "암호 설정",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_subheading": {
+    "message": "환영합니다! 암호를 설정하여 등록을 완료하십시오.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_email": {
+    "message": "이메일",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_confirm_password": {
+    "message": "암호 확인",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_password": {
+    "message": "암호",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_save_password": {
+    "message": "암호 저장",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_show_password": {
+    "message": "표시",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_contact_admin": {
+    "message": "문제가 있나요? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">사이트 관리자에게 문의</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_heading": {
+    "message": "이메일 주소가 확인되었습니다.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_description": {
+    "message": "이메일 주소를 확인해 주셔서 감사합니다. 이제 본인 계정에 로그인하여 독점 콘텐츠에 액세스할 수 있습니다.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_button": {
+    "message": "등록",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_contact_admin": {
+    "message": "문제가 있나요? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">사이트 관리자에게 문의</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_heading": {
+    "message": "새 암호 만들기",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_subheading": {
+    "message": "새 암호는 이전에 사용한 암호와 달라야 합니다.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_new_password": {
+    "message": "새 암호",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_confirm_password": {
+    "message": "새 암호 확인",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_save_password": {
+    "message": "암호 저장",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_show_password": {
+    "message": "표시",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_contact_admin": {
+    "message": "문제가 있나요? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">사이트 관리자에게 문의</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_heading": {
+    "message": "암호 재설정",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_subheading": {
+    "message": "등록에 사용했던 이메일 주소를 입력하시면 암호를 재설정하기 위한 링크가 포함된 이메일을 보내드리겠습니다.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_email": {
+    "message": "이메일",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_submit": {
+    "message": "재설정 이메일 전송",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_alt": {
+    "message": "생각이 나셨나요? <a href=\"/_hcms/mem/login\">로그인</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_contact_admin": {
+    "message": "문제가 있나요? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">사이트 관리자에게 문의</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_heading": {
+    "message": "이메일 주소 확인",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_description": {
+    "message": "가입해주셔서 감사합니다! 이메일을 확인하고 확정 링크를 클릭하여 등록을 완료하십시오.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_contact_admin": {
+    "message": "문제가 있나요? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">사이트 관리자에게 문의</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_one": {
+    "message": "정보",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two": {
+    "message": "유료 컨설팅을 통한 비즈니스 성장",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two_update": {
+    "message": "유료 컨설팅을 통한 비즈니스 성장",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_three": {
+    "message": "자유롭게 사용할 수 있는 도구 집합",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_heading": {
+    "message": "서비스",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_description": {
+    "message": "제공하는 서비스를 요약하십시오. 고객에게 제공할 수 있는 가치에 대한 메시지를 추가하십시오.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_four": {
+    "message": "추천",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_one": {
+    "message": "고객에게 가치를 제공하는 방법을 설명하는 부제목 추가",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_two": {
+    "message": "본인이 회사에서 맡고 있는 직무에 대해 간단한 설명을 추가하십시오. 클라이언트의 주의를 끌 수 있도록 전문 분야를 중점적으로 내세우는 것이 좋습니다. 유로 컨설팅을 통해 제공할 수 있는 가치에 대해 언급하십시오.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_list_content": {
+    "message": "&ldquo;서비스를 보증할 추천장을 추가하십시오. 현재 고객들이 당신의 서비스에 열광하는 이유는 무엇인가요?&rdquo;",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_image_alt_text": {
+    "message": "성장 테마 플레이스홀더 이미지",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_button_text": {
+    "message": "상담 예약",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_heading": {
+    "message": "암호 필수",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_subheading": {
+    "message": "이 페이지를 보려면 암호를 입력하십시오.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_one": {
+    "message": "가격",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_plans_and_pricing_heading": {
+    "message": "요금제 및 가격",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_two": {
+    "message": "자주 묻는 질문",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_heading": {
+    "message": "모든 플랜에 포함되는 항목",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_content_heading": {
+    "message": "제품 특징",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_heading": {
+    "message": "고객에게 제품과 서비스 안내",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_button_text": {
+    "message": "자세히 알아보기",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_question": {
+    "message": "아코디언 제목",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_one": {
+    "message": "제품",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_two": {
+    "message": "고객을 배려하여 제작됨",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_heading": {
+    "message": "추가 서비스",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_content_heading": {
+    "message": "제품 특징",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_one": {
+    "message": "빨리 시작하기",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_two": {
+    "message": "간단하고 사용하기 쉬움",
+    "description": "",
+    "placeholders": null
+  },
+  "products_image_alt_text": {
+    "message": "제품 특징",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_heading": {
+    "message": "고객에게 제품과 서비스 안내",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_button_text": {
+    "message": "자세히 알아보기",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_heading": {
+    "message": "성장 테마",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_button_text": {
+    "message": "시작하기",
+    "description": "",
+    "placeholders": null
+  },
+  "home_logos_heading": {
+    "message": "만족스러워 하는 일부 고객",
+    "description": "",
+    "placeholders": null
+  },
+  "home_heading": {
+    "message": "고객을 배려하여 제작됨",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_one": {
+    "message": "빠른 설정",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_two": {
+    "message": "사용 편의성",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_three": {
+    "message": "사용자 정의 가능",
+    "description": "",
+    "placeholders": null
+  },
+  "home_video_heading": {
+    "message": "작동 항목 보기",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_heading": {
+    "message": "자유롭게 사용할 수 있는 도구 집합",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_content_heading": {
+    "message": "제품 이름",
+    "description": "",
+    "placeholders": null
+  },
+  "home_image_alt_text": {
+    "message": "제품 이름",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_button_text": {
+    "message": "자세히 알아보기",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_content": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan velit sit amet sagittis malesuada.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_customer": {
+    "message": "Shaun Benson, Agriflora Inc. 마케팅 관리자",
+    "description": "",
+    "placeholders": null
+  },
+  "home_blog_post_heading": {
+    "message": "최신 게시물",
+    "description": "",
+    "placeholders": null
+  },
+  "home_contact": {
+    "message": "문의",
+    "description": "",
+    "placeholders": null
+  },
+  "home_button_text": {
+    "message": "시작하기",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_heading": {
+    "message": "지금 무료 디지털 리소스 다운로드하기",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_p_one": {
+    "message": "이 리소스의 콘텐츠를 안내하는 매력적인 소개글을 작성하십시오. 독자의 과제 또는 목표를 제시하고 전자책이 이를 해결하는 데 어떤 도움이 될지에 대해 설명하십시오.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_one_heading": {
+    "message": "혜택 #1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_two_heading": {
+    "message": "혜택 #2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_three_heading": {
+    "message": "혜택 #3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_content": {
+    "message": "독자가 배우게 될 내용 설명",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_highlight": {
+    "message": "혜택 강조:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_preface": {
+    "message": "당사를 선택해야 할 이유",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_heading": {
+    "message": "비즈니스 성장에 도움이 될 새로운 솔루션을 제공합니다.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_content": {
+    "message": "당사의 혁신적이고 만족스러운 솔루션으로 삶을 변화시킨 수많은 사용자의 대열에 합류하십시오.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_button_text": {
+    "message": "자세히 알아보기",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_logo_heading": {
+    "message": "선도적인 기업들의 신뢰를 받는 회사",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_heading": {
+    "message": "기능 이름",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_content": {
+    "message": "귀사의 오퍼가 제공하는 가치를 명확히 알리고 방문자가 행동을 취하도록 독려하는 혜택 중심의 설득력 있는 카피를 작성하십시오. 귀사의 오퍼가 어떻게 방문자의 문제를 해결하거나 요구 사항을 충족시키는 지를 중점적으로 작성하십시오.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_preface": {
+    "message": "우리 말에만 의존하지 마시길 바랍니다.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_heading": {
+    "message": "우리 팀원 중 한 명과 함께 이러한 기능이 실행되는 상황 확인하기",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_button_text": {
+    "message": "데모 가져오기",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_heading": {
+    "message": "데모 예약하기",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_p_one": {
+    "message": "편의에 따라 우리 팀원 중 한 명과 데모를 예약하십시오. 귀사의 잠재 고객이 배우게 될 내용이 무엇인지에 대한 간단한 설명을 추가하십시오.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_highlight": {
+    "message": "논의할 사항:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_one_heading": {
+    "message": "주제 #1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_two_heading": {
+    "message": "주제 #2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_three_heading": {
+    "message": "주제 #3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_content": {
+    "message": "데모에서 다루게 될 내용 설명",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_heading": {
+    "message": "자리 확보하기: 이 독점 이벤트에 지금 등록하십시오.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_content": {
+    "message": "라이브 컨퍼런스, 웨비나 또는 이벤트에서 다루는 내용 및 참가 멤버가 등록해야 하는 이유에 대해 간단한 소개글을 추가하십시오.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_button_text": {
+    "message": "지금 등록",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_partners_content": {
+    "message": "당사의 파트너 커뮤니티에 참여하기",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_preface": {
+    "message": "이벤트 정보",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_heading": {
+    "message": "최고 전문가의 인사이트 얻기",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_highlight": {
+    "message": "이벤트 하이라이트:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_one_heading": {
+    "message": "하이라이트 #1",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_two_heading": {
+    "message": "하이라이트 #2",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_three_heading": {
+    "message": "하이라이트 #3",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_content": {
+    "message": "참석자가 강의를 통해 얻게 될 내용",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_heading": {
+    "message": "빠른 통계",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_one": {
+    "message": "20 이상",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_two": {
+    "message": "150 이상",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_three": {
+    "message": "10",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_description": {
+    "message": "통계에 대한 간략한 설명",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_heading": {
+    "message": "이벤트 둘러보기",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_content": {
+    "message": "티저 비디오를 통해 영감을 주는 키노트, 대화식 워크샵, 앞으로의 네트워킹 기회 등을 살짝 엿보고, 앞으로 다가올 일을 미리 확인하실 수 있습니다. 부디 참여하셔서 잊을 수 없는 경험을 해보시길 바랍니다.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_preface": {
+    "message": "우리 말에만 의존하지 마시길 바랍니다.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_heading": {
+    "message": "기회를 놓치지 마시고 지금 예약하십시오.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_button_text": {
+    "message": "지금 등록",
+    "description": "",
+    "placeholders": null
+  },
+  "search_results_heading": {
+    "message": "\"[[search_term]]\"에 대한 검색 결과",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_heading": {
+    "message": "정보",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_sub_heading": {
+    "message": "우리의 회사",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_image_alt_text": {
+    "message": "우리의 이야기",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_list_heading": {
+    "message": "최신 게시물",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_heading": {
+    "message": "최신 게시물",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_heading": {
+    "message": "고객에게 제품과 서비스 안내",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_button_text": {
+    "message": "자세히 알아보기",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_full_heading": {
+    "message": "연락처",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_heading": {
+    "message": "연락처",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_address": {
+    "message": "State, City, 123 메인 스트리트 11111",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_email": {
+    "message": "contact@businessname.com",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_phone_number": {
+    "message": "+1 234-567-8901",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_heading": {
+    "message": "제품",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_description_heading": {
+    "message": "설명",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_button_text": {
+    "message": "문의",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_image_alt_text": {
+    "message": "제품",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_heading": {
+    "message": "갤러리",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_one": {
+    "message": "제품",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_two": {
+    "message": "회사",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_three": {
+    "message": "가격",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_four": {
+    "message": "제품 특징",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_five": {
+    "message": "이미지 캡션",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_caption": {
+    "message": "이미지 캡션",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_heading": {
+    "message": "갤러리",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_one": {
+    "message": "제품",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_two": {
+    "message": "회사",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_three": {
+    "message": "가격",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_four": {
+    "message": "제품 특징",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_five": {
+    "message": "가격",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_hover_message": {
+    "message": "호버 메시지",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_heading": {
+    "message": "성장 테마",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_button_text": {
+    "message": "문의",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_heading": {
+    "message": "성장 테마",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_button_text": {
+    "message": "시작하기",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_heading": {
+    "message": "성공 비결",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_one": {
+    "message": "빠른 설정",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_two": {
+    "message": "사용 편의성",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_three": {
+    "message": "사용자 정의 가능",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_heading": {
+    "message": "만족스러워 하는 일부 고객",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_image_alt_text": {
+    "message": "고객 로고",
+    "description": "",
+    "placeholders": null
+  },
+  "section_meetings_banner_heading": {
+    "message": "무료 컨설팅을 받기 위한 회의 예약",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_heading": {
+    "message": "우리 팀",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_one_title": {
+    "message": "CEO",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_two_title": {
+    "message": "COO(운영 책임자)",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_three_title": {
+    "message": "CFO(재정 책임자)",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_description": {
+    "message": "팀원의 고유한 전문 지식, 경험, 관심 분야를 강조해 보십시오. 팀원이 보유한 전문적인 경력과 탁월한 역량을 간결하면서도 흥미롭게 선보이십시오.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_heading": {
+    "message": "우리의 이야기",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_image_alt_text": {
+    "message": "우리의 이야기",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_button_text": {
+    "message": "자세히 알아보기",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_heading": {
+    "message": "플랜에 포함되는 항목",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_description_heading": {
+    "message": "제품 특징",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_image_alt_text": {
+    "message": "계획 특징",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_heading": {
+    "message": "뉴스레터를 구독하십시오!",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_subheading": {
+    "message": "최근 업데이트에 대한 정보 제공를 받아보십시오",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_heading": {
+    "message": "자유롭게 사용할 수 있는 도구 집합",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_card_heading": {
+    "message": "고객에게 제품과 서비스 안내",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_button_text": {
+    "message": "문의",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_image_alt_text": {
+    "message": "서비스",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_heading": {
+    "message": "요금제 및 가격",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_heading": {
+    "message": "스타터",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_price": {
+    "message": "$50/월",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_content": {
+    "message": "지금 스타터 구입",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_button_text": {
+    "message": "지금 스타터 구입",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_heading": {
+    "message": "Professional",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_price": {
+    "message": "$200/월",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_content": {
+    "message": "지금 Professional 구매",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_button_text": {
+    "message": "지금 Professional 구매",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_heading": {
+    "message": "기업",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_price": {
+    "message": "$600/월",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_content": {
+    "message": "지금 Enterprise 구매",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_button_text": {
+    "message": "지금 Enterprise 구매",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_sub_heading": {
+    "message": "핵심 기능 일부",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_heading": {
+    "message": "제품",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_image_alt_text": {
+    "message": "우리의 이야기",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_description_heading": {
+    "message": "제품 이름",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_button_text": {
+    "message": "문의",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_heading": {
+    "message": "서비스",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_description_heading": {
+    "message": "서비스 이름",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_one": {
+    "message": "우리의 이야기",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_two": {
+    "message": "우리의 가치",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_three": {
+    "message": "우리의 역사",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_button_text": {
+    "message": "문의",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_heading": {
+    "message": "추천",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_team_member_title_one": {
+    "message": "VP 제품",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_heading": {
+    "message": "고객 의견 보기",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_one": {
+    "message": "VP 제품",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_two": {
+    "message": "SVP 판매",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_three": {
+    "message": "CMO",
+    "description": "",
+    "placeholders": null
+  },
+  "section_video_heading": {
+    "message": "작동 항목 보기",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading": {
+    "message": "서비스",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_one_alt": {
+    "message": "컴퓨터 앞에 있는 두 사람",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_two_alt": {
+    "message": "전화기를 보고 있는 두 사람",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_three_alt": {
+    "message": "벽에 스티커 메모 작업을 하는 두 사람",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_one": {
+    "message": "Base",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_two": {
+    "message": "Pro",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_three": {
+    "message": "기업",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_button_text": {
+    "message": "자세히 알아보기",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_description": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_heading": {
+    "message": "서비스",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_image_alt": {
+    "message": "계단에 앉아 있는 사람들",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_heading": {
+    "message": "브랜드 ID 개발",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_content": {
+    "message": "HubSpot 팀은 고객사의 본질을 포착한 독특하고 기억하기 쉬운 브랜드 ID를 만듭니다. 시선을 사로잡는 로고를 만들고, 조화로운 색상 조합을 선택하고, 일관성 있는 시각적 스타일을 개발하여 돋보이는 브랜드를 만들어 드리겠습니다.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_image_alt": {
+    "message": "노트북을 보고 있는 젊은 비즈니스 전문가들",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_heading": {
+    "message": "UX/UI 디자인 향상",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_content": {
+    "message": "HubSpot의 UX/UI 디자인 전문 기술에 대한 사용자 만족도와 참여도를 높이십시오. 고객의 디지털 제품을 철저히 분석하고, 불편한 점을 파악하고, 사용자 중심의 솔루션을 구현하여 전체적인 사용자 경험을 개선해 드리겠습니다.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_image_alt": {
+    "message": "마당에서 노트북을 손에 들고 대화하고 있는 젊은 마케팅 전문가들",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_heading": {
+    "message": "마케팅 콜레트럴 디자인",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_content": {
+    "message": "잊을 수 없는 인상을 남기는 멋진 콜레트럴로 마케팅 방법을 개선하십시오. 브로셔와 전단지부터 소셜 미디어 그래픽에 이르기까지 대상 고객의 마음을 사로잡고 결과를 도출할 멋진 홍보 자료를 디자인해 드립니다.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_button_text": {
+    "message": "자세히 알아보기",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_banner_image_alt": {
+    "message": "카메라를 똑바로 바라보며 웃고 있는 사람들",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_heading": {
+    "message": "로컬 푸드 팬트리 후원",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_content_area_one": {
+    "message": "HutSpot의 로컬 푸드 팬트리를 후원하여 이웃 사람들의 일상에 변화를 주는 데 참여하십시오. 여러분의 기부는 바로 이곳 지역 사회에서 식량 부족 상황에 직면해 있는 개인과 가족에게 필수적인 영양을 공급하는 데 도움이 될 것입니다.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_one_alt": {
+    "message": "유리에 붙은 스티커 메모를 보고 있는 두 사람",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_two_alt": {
+    "message": "결제 처리 장치에 연결되어 있는 전화기",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_three_alt": {
+    "message": "승객석에 두 개의 짐이 실린 밴을 운전하는 남성",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_heading": {
+    "message": "지금 기부하기",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_message_and_amount": {
+    "message": "권장 액수: $15.00",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_one_text": {
+    "message": "$15.00 기부",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_two_text": {
+    "message": "사용자 정의 금액",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_three_text": {
+    "message": "공유",
+    "description": "",
+    "placeholders": null
+  }
+}

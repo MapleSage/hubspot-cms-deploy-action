@@ -1,0 +1,1662 @@
+{
+  "partial_header_skip_to_content": {
+    "message": "Liigu sisu juurde",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_address": {
+    "message": "123 Main Street, City, State 11111",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_copyright": {
+    "message": "Autoriõigused © {{ year }}, {{ site_settings.company_name }}",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_one": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_two": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_three": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "about_banner_heading": {
+    "message": "Meist",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_one": {
+    "message": "Meie lugu",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_two": {
+    "message": "Meie väärtused",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_three": {
+    "message": "Meie ajalugu",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_four": {
+    "message": "Meie meeskond",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_five": {
+    "message": "Meie kultuur",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_six": {
+    "message": "Ettevõtte uudised",
+    "description": "",
+    "placeholders": null
+  },
+  "about_image_alt_text": {
+    "message": "Ettevõte",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_one_title": {
+    "message": "Tegevjuht ja asutaja",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_two_title": {
+    "message": "Tegevdirektor",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_three_title": {
+    "message": "Tehnoloogiajuht",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_four_title": {
+    "message": "Finantsjuht",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_five_title": {
+    "message": "Peadisainer",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_six_title": {
+    "message": "Personalijuht",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_description": {
+    "message": "Tõstke esile oma meeskonnaliikme unikaalsed teadmised, kogemused ja huvid. Hoidke see lühidalt, kuid kaasahaaravalt, tutvustades nende ametialast teekonda ja väärtuslikke oskusi, mida nad kaasa toovad.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_index_heading": {
+    "message": "Blogi",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_heading": {
+    "message": "Blogi kommentaarid",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_heading": {
+    "message": "Kasvukonverents",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_date": {
+    "message": "5. - 8. september",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_text": {
+    "message": "Hankige piletid",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_content": {
+    "message": "Hankige piletid",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_one": {
+    "message": "Osta kohe",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_two": {
+    "message": "Osta piletid",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_one": {
+    "message": "Meist",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_two": {
+    "message": "Kõneleja paneel",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_three": {
+    "message": "Sponsorid",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_four": {
+    "message": "Lisage oma videole hüüdlause",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_five": {
+    "message": "Soovitused",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_six": {
+    "message": "Piletid",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_one": {
+    "message": "Kasvukonverents on mall, mida saab kasutada selleks, et näidata klientidele väärtust, mida teie organisatsiooni konverents või üritus võib neile pakkuda. Kirjeldage oma konverentsi teemat ja seda, miks kliendid peaksid pileteid ostma.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_two": {
+    "message": "Lisage siia oma kõnelejate lühikirjeldused. Miks peaks teie publik neid kuulama? Kas on teema, mida nad kõik oma kõnedes käsitlevad? Mis teeb nad ainulaadseks? Kasutage seda ruumi, et anda lugejale aimu, miks just neid esinejaid soovite esitleda.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_three": {
+    "message": "Võtke siinkohal kokku oma kõneleja elulookirjeldus. Võite lisada ka lause tema ettekande teema kohta.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_four": {
+    "message": "&ldquo;See on teie võimalus anda sotsiaalset tõestust selle kohta, kui suurepärane on teie üritus. Lisage iseloomustused, mis aitavad inimestel mõista teie ürituse väärtust.&rdquo;",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_five": {
+    "message": "Kirjeldage oma konverentsi teemat, andke oma potentsiaalsetele klientidele aimu konverentsil toimuvast ja miks nad peaksid pileti soetama. Kasutage oma ürituse muretuks piletimüügiks neid malle.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_heading": {
+    "message": "Üldine sissepääs",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_price": {
+    "message": "199 dollarit",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_heading": {
+    "message": "VIP",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_price": {
+    "message": "449 dollarit",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_one": {
+    "message": "Loetlege kõik põnevad eelised, mida teie klient saab, kui ta pileti sellesse sektsiooni ostab.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_two": {
+    "message": "Millised võrgustike loomise ja õppimise võimalused on neile konverentsil kättesaadavad?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_three": {
+    "message": "Millistele konverentsi osadele on neil juurdepääs?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_four": {
+    "message": "Kas neil on juurdepääs salvestatud programmidele?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_five": {
+    "message": "Millised on nende toidu-, transpordi- ja majutusvõimalused?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_six": {
+    "message": "Loetlege kõik põnevad eelised, mida teie VIP-klient saab, kui ta pileti sellesse sektsiooni ostab.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_one": {
+    "message": "Tegevjuht ja asutaja",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_two": {
+    "message": "Tegevdirektor",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_three": {
+    "message": "Tehnoloogiajuht",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_content": {
+    "message": "Osta piletid",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_image_alt_text": {
+    "message": "Kõneleja foto",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_one": {
+    "message": "Võta meiega ühendust",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_two": {
+    "message": "Meie asukohad",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_three": {
+    "message": "Võta ühendust",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_four": {
+    "message": "Korduma kippuvad küsimused",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_heading": {
+    "message": "Sisukogu",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_content": {
+    "message": "Ressursside ja digitaalsete vahendite kogu, mis aitab teil õppida ja areneda.",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_one": {
+    "message": "<h3>San Francisco</h3><p>3870 Twin Oaks Drive<br> San Francisco, CA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_two": {
+    "message": "<h3>Chicago</h3><p>2140 Roguski Road<br> Chicago, IL</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_three": {
+    "message": "<h3>Boston</h3><p>123 Waverly Place<br> Boston, MA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_question": {
+    "message": "Akordioni pealkiri",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_heading": {
+    "message": "Lehte ei leitud",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_description": {
+    "message": "Me ei leidnud teie otsitavat lehte.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_button": {
+    "message": "Avage avaleht",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_heading": {
+    "message": "See leht ei tööta",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_description": {
+    "message": "Esines siseserveri viga, kuid me tegeleme sellega!",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_button": {
+    "message": "Avage avaleht",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_heading": {
+    "message": "Vabandust, kuid teil puudub ligipääs",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_description": {
+    "message": "Teil ei ole õigust seda lehekülge vaadata. Küsimuste korral võtke ühendust lehe administraatoriga.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_button": {
+    "message": "Avage avaleht",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_heading": {
+    "message": "Logi sisse",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_subheading": {
+    "message": "Lehekülg, mida soovite vaadata, on saadaval vaid registreeritud kasutajatele.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_email": {
+    "message": "Meiliaadress",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_password": {
+    "message": "Parool",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_remember_me": {
+    "message": "Jäta mind meelde",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_reset_password": {
+    "message": "Unustasite parooli?",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_submit": {
+    "message": "Logi sisse",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_show_password": {
+    "message": "Kuva",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_contact_admin": {
+    "message": "Kas on probleeme? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Võtke ühendust lehe administraatoriga</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_heading": {
+    "message": "Olete välja logitud",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_button": {
+    "message": "Logi uuesti sisse",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_alt": {
+    "message": "Või naaske <a href=\"{{ '//' ~ request.domain }}\">avalehele</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_heading": {
+    "message": "Seadistage oma parool",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_subheading": {
+    "message": "Tere tulemast! Lõpetage oma registreerimine, seadistades oma parool.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_email": {
+    "message": "Meiliaadress",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_confirm_password": {
+    "message": "Kinnitage parool",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_password": {
+    "message": "Parool",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_save_password": {
+    "message": "Salvesta parool",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_show_password": {
+    "message": "Kuva",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_contact_admin": {
+    "message": "Kas on probleeme? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Võtke ühendust lehe administraatoriga</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_heading": {
+    "message": "Teie meiliaadress on kinnitatud",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_description": {
+    "message": "Täname teid meiliaadressi kinnitamise eest. Nüüd saate oma kontole sisse logida ja pääseda ligi oma eksklusiivsele sisule.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_button": {
+    "message": "Logi sisse",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_contact_admin": {
+    "message": "Kas on probleeme? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Võtke ühendust lehe administraatoriga</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_heading": {
+    "message": "Looge uus parool",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_subheading": {
+    "message": "Teie uus parool peab erinema teie eelnevalt kasutatud paroolist.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_new_password": {
+    "message": "Uus parool",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_confirm_password": {
+    "message": "Kinnitage uus parool",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_save_password": {
+    "message": "Salvesta parool",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_show_password": {
+    "message": "Kuva",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_contact_admin": {
+    "message": "Kas on probleeme? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Võtke ühendust lehe administraatoriga</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_heading": {
+    "message": "Lähtestage oma parool",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_subheading": {
+    "message": "Sisestage meiliaadress, mida kasutasite registreerimisel, ja me saadame teile oma parooli lähtestamiseks meili lingi.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_email": {
+    "message": "Meiliaadress",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_submit": {
+    "message": "Saada lähtestamise meil",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_alt": {
+    "message": "Kas see tuli teile meelde? <a href=\"/_hcms/mem/login\">Logi sisse</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_contact_admin": {
+    "message": "Kas on probleeme? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Võtke ühendust lehe administraatoriga</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_heading": {
+    "message": "Kinnitage oma meiliaadress",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_description": {
+    "message": "Täname registreerumise eest! Palun kontrollige oma meili ja klõpsake kinnituse lingile, et registreerimine lõpule viia.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_contact_admin": {
+    "message": "Kas on probleeme? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Võtke ühendust lehe administraatoriga</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_one": {
+    "message": "Meist",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two": {
+    "message": "Oma ettevõtte kasvatamine tasuliste konsultatsioonidega",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two_update": {
+    "message": "Oma ettevõtte kasvatamine tasuliste konsultatsioonidega",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_three": {
+    "message": "Teie käsutuses on terve rida tööriistu",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_heading": {
+    "message": "Teenus",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_description": {
+    "message": "Tehke kokkuvõte teie pakutavast teenusest. Lisage sõnum väärtuse kohta, mida saate oma klientidele pakkuda.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_four": {
+    "message": "Soovitused",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_one": {
+    "message": "Lisage alapealkiri, mis selgitab, kuidas te oma klientidele väärtust pakute.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_two": {
+    "message": "Lisage lühike kirjeldus oma ettevõttes tehtava töö kohta. Püüdke kitsendada oma eriala, et saaksite klientide tähelepanu köita. Rääkige väärtusest, mida saate pakkuda tasulise konsultatsiooni kaudu.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_list_content": {
+    "message": "&ldquo;Lisage arvustus, et garanteerida oma teenuste kvaliteet. Miks on teie praegused kliendid teie pakutavast vaimustuses?&rdquo;",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_image_alt_text": {
+    "message": "Kasvuteema kohahoidja pilt",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_button_text": {
+    "message": "Broneeri konsultatsioon",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_heading": {
+    "message": "Parool kohustuslik",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_subheading": {
+    "message": "Palun sisestage lehe vaatamiseks parool.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_one": {
+    "message": "Hinnad",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_plans_and_pricing_heading": {
+    "message": "Plaanid ja hinnakujundus",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_two": {
+    "message": "Korduma kippuvad küsimused",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_heading": {
+    "message": "Kõik plaanid sisaldavad",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_content_heading": {
+    "message": "Toote omadus",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_heading": {
+    "message": "Viige inimesed oma toodete ja teenuste juurde",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_button_text": {
+    "message": "Vaadake lisaks",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_question": {
+    "message": "Akordioni pealkiri",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_one": {
+    "message": "Tooted",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_two": {
+    "message": "Loodud teid silmas pidades",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_heading": {
+    "message": "Pluss veel rohkem",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_content_heading": {
+    "message": "Toote omadus",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_one": {
+    "message": "Alusta kiiresti",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_two": {
+    "message": "Lihtne ja hõlpsasti kasutatav",
+    "description": "",
+    "placeholders": null
+  },
+  "products_image_alt_text": {
+    "message": "Toote omadus",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_heading": {
+    "message": "Viige inimesed oma toodete ja teenuste juurde",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_button_text": {
+    "message": "Vaadake lisaks",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_heading": {
+    "message": "Kasvuteema",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_button_text": {
+    "message": "Alustage",
+    "description": "",
+    "placeholders": null
+  },
+  "home_logos_heading": {
+    "message": "Mõned meie rahulolevad kliendid",
+    "description": "",
+    "placeholders": null
+  },
+  "home_heading": {
+    "message": "Loodud teid silmas pidades",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_one": {
+    "message": "Kiirseadistus",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_two": {
+    "message": "Lihtne kasutada",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_three": {
+    "message": "Kohandatav",
+    "description": "",
+    "placeholders": null
+  },
+  "home_video_heading": {
+    "message": "Vaadake asju tegevuses",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_heading": {
+    "message": "Teie käsutuses on terve rida tööriistu",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_content_heading": {
+    "message": "Toote nimi",
+    "description": "",
+    "placeholders": null
+  },
+  "home_image_alt_text": {
+    "message": "Toote nimi",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_button_text": {
+    "message": "Vaadake lisaks",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_content": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan velit sit amet sagittis malesuada.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_customer": {
+    "message": "Shaun Benson, turundusjuht, Agriflora Inc.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_blog_post_heading": {
+    "message": "Hiljutised postitused",
+    "description": "",
+    "placeholders": null
+  },
+  "home_contact": {
+    "message": "Võta meiega ühendust",
+    "description": "",
+    "placeholders": null
+  },
+  "home_button_text": {
+    "message": "Alustage",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_heading": {
+    "message": "Laadige oma tasuta digitaalne ressurss alla juba täna",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_p_one": {
+    "message": "Kirjutage kaasahaarav sissejuhatus, mis paneb paika selle ressursi sisu. Pöörduge lugeja probleemide või eesmärkide poole ja selgitage, kuidas e-raamat aitab neid lahendada.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_one_heading": {
+    "message": "Eelis #1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_two_heading": {
+    "message": "Eelis #2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_three_heading": {
+    "message": "Eelis #3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_content": {
+    "message": "Selgitage, mida lugejad õpivad",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_highlight": {
+    "message": "Ärge unustage esile tõsta eeliseid:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_preface": {
+    "message": "Miks valida meid?",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_heading": {
+    "message": "Pakume kaasaegseid lahendusi teie ettevõtte kasvatamiseks",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_content": {
+    "message": "Ühinege tuhandete rahulolevate kasutajatega, kes on meie innovaatiliste lahendustega oma elu muutnud.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_button_text": {
+    "message": "Vaadake lisaks",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_logo_heading": {
+    "message": "Juhtivad ettevõtted usaldavad meid",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_heading": {
+    "message": "Funktsiooni nimi",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_content": {
+    "message": "Kirjutage veenev, kasu ajendav tekst, mis edastab selgelt teie pakkumise väärtuse ja julgustab külastajaid tegutsema. Keskenduge sellele, kuidas teie pakkumine lahendab nende probleeme või täidab nende vajadusi.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_preface": {
+    "message": "Ärge lähtuge vaid meie sõnast",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_heading": {
+    "message": "Vaadake neid funktsioone praktikas koos ühe meie meeskonnaliikmega",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_button_text": {
+    "message": "Hankige demo",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_heading": {
+    "message": "Ajastage demo",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_p_one": {
+    "message": "Ajastage ühe meie meeskonnaliikmega meelepärane demo. Lisage lühikirjeldus, mida teie potentsiaalsed kliendid võivad eeldatavasti õppida.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_highlight": {
+    "message": "Me arutame:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_one_heading": {
+    "message": "Teema #1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_two_heading": {
+    "message": "Teema #2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_three_heading": {
+    "message": "Teema #3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_content": {
+    "message": "Selgitage, mida teie demo hõlmab",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_heading": {
+    "message": "Kindlustage oma koht: registreeruge sellele eksklusiivsele üritusele kohe",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_content": {
+    "message": "Lisage lühike sissejuhatus, milles kirjeldatakse, mis on konverentsi, veebiseminari või ürituse teema ja miks teie sihtrühma liikmed peaksid registreeruma.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_button_text": {
+    "message": "Registreeru kohe",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_partners_content": {
+    "message": "Liituge meie partnerite kogukonnaga",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_preface": {
+    "message": "Teave ürituse kohta",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_heading": {
+    "message": "Saage teadmisi tippekspertidelt",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_highlight": {
+    "message": "Ürituse esiletõstud:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_one_heading": {
+    "message": "Esiletõst #1",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_two_heading": {
+    "message": "Esiletõst #2",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_three_heading": {
+    "message": "Esiletõst #3",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_content": {
+    "message": "Mida osalejad võivad oodata",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_heading": {
+    "message": "Kiirstatistikad",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_one": {
+    "message": "20+",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_two": {
+    "message": "150+",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_three": {
+    "message": "10",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_description": {
+    "message": "Statistika lühikirjeldus",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_heading": {
+    "message": "Uurige ürituse kohta lähemalt",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_content": {
+    "message": "Vaadake meie teaser-videot, et saada aimu inspireerivatest peaesitlustest, interaktiivsetest töötubadest ja võrgustike loomise võimalustest, mis teid ootavad. Ärge jätke seda eelvaadet vahele - liituge meiega, et saada unustamatu kogemus.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_preface": {
+    "message": "Ärge lähtuge vaid meie sõnast",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_heading": {
+    "message": "Avage võimalused ja broneerige oma koht juba täna",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_button_text": {
+    "message": "Registreeru kohe",
+    "description": "",
+    "placeholders": null
+  },
+  "search_results_heading": {
+    "message": "Otsingutulemused päringule \"[[search_term]]\"",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_heading": {
+    "message": "Meist",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_sub_heading": {
+    "message": "Meie ettevõte",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_image_alt_text": {
+    "message": "Meie lugu",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_list_heading": {
+    "message": "Värsked postitused",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_heading": {
+    "message": "Värsked postitused",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_heading": {
+    "message": "Viige inimesed oma toodete ja teenuste juurde",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_button_text": {
+    "message": "Vaadake lisaks",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_full_heading": {
+    "message": "Kontakt",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_heading": {
+    "message": "Kontakt",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_address": {
+    "message": "123 Main Street, City, State 11111",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_email": {
+    "message": "contact@businessname.com",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_phone_number": {
+    "message": "+1 234-567-8901",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_heading": {
+    "message": "Toode",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_description_heading": {
+    "message": "Toote kirjeldus",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_button_text": {
+    "message": "Võta meiega ühendust",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_image_alt_text": {
+    "message": "Toode",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_heading": {
+    "message": "Galerii",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_one": {
+    "message": "Tooted",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_two": {
+    "message": "Ettevõte",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_three": {
+    "message": "Hinnad",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_four": {
+    "message": "Toote omadus",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_five": {
+    "message": "Pildi pealkiri",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_caption": {
+    "message": "Pildi pealkiri",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_heading": {
+    "message": "Galerii",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_one": {
+    "message": "Tooted",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_two": {
+    "message": "Ettevõte",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_three": {
+    "message": "Hinnad",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_four": {
+    "message": "Toote omadus",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_five": {
+    "message": "Hinnad",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_hover_message": {
+    "message": "Hõljuv sõnum",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_heading": {
+    "message": "Kasvuteema",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_button_text": {
+    "message": "Võta meiega ühendust",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_heading": {
+    "message": "Kasvuteema",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_button_text": {
+    "message": "Alustage",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_heading": {
+    "message": "Miks me silma paistame",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_one": {
+    "message": "Kiirseadistus",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_two": {
+    "message": "Lihtne kasutada",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_three": {
+    "message": "Kohandatav",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_heading": {
+    "message": "Mõned meie rahulolevad kliendid",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_image_alt_text": {
+    "message": "Kliendi logo",
+    "description": "",
+    "placeholders": null
+  },
+  "section_meetings_banner_heading": {
+    "message": "Broneerige kohtumine tasuta konsultatsiooni saamiseks",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_heading": {
+    "message": "Meie meeskond",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_one_title": {
+    "message": "Tegevjuht",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_two_title": {
+    "message": "Tegevdirektor",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_three_title": {
+    "message": "Finantsjuht",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_description": {
+    "message": "Tõstke esile oma meeskonnaliikme unikaalsed teadmised, kogemused ja huvid. Hoidke see lühidalt, kuid kaasahaaravalt, tutvustades nende ametialast teekonda ja väärtuslikke oskusi, mida nad kaasa toovad.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_heading": {
+    "message": "Meie lugu",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_image_alt_text": {
+    "message": "Meie lugu",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_button_text": {
+    "message": "Vaadake lisaks",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_heading": {
+    "message": "Plaanid sisaldavad",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_description_heading": {
+    "message": "Toote omadus",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_image_alt_text": {
+    "message": "Plaani omadus",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_heading": {
+    "message": "Tellige meie uudiskiri!",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_subheading": {
+    "message": "Registreeru, et olla kursis viimaste värskendustega",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_heading": {
+    "message": "Teie käsutuses on terve rida tööriistu",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_card_heading": {
+    "message": "Viige inimesed oma toodete ja teenuste juurde",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_button_text": {
+    "message": "Võta meiega ühendust",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_image_alt_text": {
+    "message": "Teenus",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_heading": {
+    "message": "Plaanid ja hinnakujundus",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_heading": {
+    "message": "Starter",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_price": {
+    "message": "$50/kuu",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_content": {
+    "message": "Ostke stardikomplekt",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_button_text": {
+    "message": "Ostke stardikomplekt",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_heading": {
+    "message": "Professional",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_price": {
+    "message": "200 dollarit/kuu",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_content": {
+    "message": "Ostke professional kohe",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_button_text": {
+    "message": "Ostke professional kohe",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_heading": {
+    "message": "Enterprise",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_price": {
+    "message": "600 dollarit/kuu",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_content": {
+    "message": "Ostke enterprise kohe",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_button_text": {
+    "message": "Ostke enterprise kohe",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_sub_heading": {
+    "message": "Mõned põhiomadused",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_heading": {
+    "message": "Tooted",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_image_alt_text": {
+    "message": "Meie lugu",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_description_heading": {
+    "message": "Toote nimi",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_button_text": {
+    "message": "Võta meiega ühendust",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_heading": {
+    "message": "Teenused",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_description_heading": {
+    "message": "Teenuse nimi",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_one": {
+    "message": "Meie lugu",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_two": {
+    "message": "Meie väärtused",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_three": {
+    "message": "Meie ajalugu",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_button_text": {
+    "message": "Võta meiega ühendust",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_heading": {
+    "message": "Soovitus",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_team_member_title_one": {
+    "message": "VP toode",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_heading": {
+    "message": "Vaadake, mida inimesed ütlevad",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_one": {
+    "message": "VP toode",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_two": {
+    "message": "SVP müügid",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_three": {
+    "message": "Turundusjuht",
+    "description": "",
+    "placeholders": null
+  },
+  "section_video_heading": {
+    "message": "Vaadake asju tegevuses",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading": {
+    "message": "Teenused",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_one_alt": {
+    "message": "Kaks inimest arvutis",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_two_alt": {
+    "message": "Kaks inimest telefoni vaatamas",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_three_alt": {
+    "message": "Kaks inimest töötavad seinal olevate märkmepaberitega",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_one": {
+    "message": "Base",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_two": {
+    "message": "Pro",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_three": {
+    "message": "Enterprise",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_button_text": {
+    "message": "Vaadake lisaks",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_description": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_heading": {
+    "message": "Teenused",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_image_alt": {
+    "message": "Inimesed trepil istumas",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_heading": {
+    "message": "Brändi identiteedi arendus",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_content": {
+    "message": "Meie tiim loob ainulaadse ja meeldejääva brändi identiteedi, mis kajastab teie ettevõtte olemust. Loome mõjuva logo, valime harmoonilise värvipaleti ja töötame välja ühtse visuaalse stiili, mis tõstab teie brändi esile.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_image_alt": {
+    "message": "Noored ettevõtjad sülearvutit vaatamas",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_heading": {
+    "message": "UX/UI disaini täiendamine",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_content": {
+    "message": "Suurendage kasutajate rahulolu ja kaasatust meie UX/UI disainialaste teadmistega. Teostame teie digitoodete põhjaliku analüüsi, tuvastame valupunktid ja rakendame kasutajakeskseid lahendusi üldise kasutuskogemuse parandamiseks.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_image_alt": {
+    "message": "Noor turundusspetsialist räägib sisehoovis, tahvelarvuti käes",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_heading": {
+    "message": "Turundusega tagatise disain",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_content": {
+    "message": "Suurendage oma turundustegevust suurepärase tagatisega, mis jätab püsiva mulje. Alates brošüüridest ja flaieritest kuni sotsiaalmeedia disainini kujundame pilkupüüdvaid materjale, mis sobivad teie sihtrühmaga ja toovad tulemusi.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_button_text": {
+    "message": "Vaadake lisaks",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_banner_image_alt": {
+    "message": "Rühm naeratavaid inimesi, kes vaatavad otse kaamerasse",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_heading": {
+    "message": "Kohaliku toidusahvri tugi",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_content_area_one": {
+    "message": "Liituge meiega, et muuta oma naabrite elu, toetades meie kohalikku toidusahvrit. Teie annetus aitab pakkuda hädavajalikku toitu üksikisikutele ja peredele, kes seisavad silmitsi toidu puudumisega siinsamas meie kogukonnas.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_one_alt": {
+    "message": "Kaks inimest vaatavad klaasil olevaid märkmepabereid",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_two_alt": {
+    "message": "Telefoni hoitakse maksetöötleja ees",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_three_alt": {
+    "message": "Mees juhib kaubikut, mille kõrvalistmel on kaks pakki",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_heading": {
+    "message": "Anneta kohe",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_message_and_amount": {
+    "message": "Soovitatud summa: 15.00 dollarit",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_one_text": {
+    "message": "Anneta 15.00 dollarit",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_two_text": {
+    "message": "Kohandatud summa",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_three_text": {
+    "message": "Jaga",
+    "description": "",
+    "placeholders": null
+  }
+}

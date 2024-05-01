@@ -1,0 +1,282 @@
+{
+  "content.content.default" : {
+    "message" : "<h3 style=\"text-align:center;\"><strong>Serbisyo</strong></h3><p>Ibinubuod ang serbisyong ibinibigay mo. Magdagdag ng mensahe tungkol sa value na maibibigay mo sa iyong mga customer.</p>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "content.content.label" : {
+    "message" : "Content",
+    "description" : "",
+    "placeholders" : null
+  },
+  "content.label" : {
+    "message" : "Content",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.accessibility_options.label" : {
+    "message" : "Mga opsyon sa accessibility",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.accessibility_options.purpose.choices.decorative" : {
+    "message" : "Di-pinansin ng screen reader",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.accessibility_options.purpose.choices.semantic" : {
+    "message" : "Binasa ng screen reader",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.accessibility_options.purpose.help_text" : {
+    "message" : "Ikategorya ang gamit ng icon na ito para sa mga screen reader. <a href='https://www.w3.org/WAI/tutorials/images/' target='_blank' rel='noopener noreferrer'>Alamin Pa</a>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.accessibility_options.purpose.label" : {
+    "message" : "Layunin",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.accessibility_options.title.help_text" : {
+    "message" : "Babasahin ng mga screen reader ang tekstong ito para ilarawan ang icon.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.accessibility_options.title.label" : {
+    "message" : "Pamagat",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.icon.label" : {
+    "message" : "Icon",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.label" : {
+    "message" : "Icon",
+    "description" : "",
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "Card ng serbisyo",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.background.color.label" : {
+    "message" : "Kulay",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.background.label" : {
+    "message" : "Background",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.border.border.label" : {
+    "message" : "Border",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.border.label" : {
+    "message" : "Border",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.corner.label" : {
+    "message" : "Corner",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.corner.radius.label" : {
+    "message" : "Radius",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.height.label" : {
+    "message" : "Taas",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.height.min_height.label" : {
+    "message" : "Minimum na taas",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.label" : {
+    "message" : "Card",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.dark" : {
+    "message" : "Madilim",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.light" : {
+    "message" : "Light",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.plain" : {
+    "message" : "Plain",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.label" : {
+    "message" : "Estilo ng card",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.help_text" : {
+    "message" : "Gumamit ng mga preset para mabilis na masaayos ang hitsura ng piniling item sa mga paunang tinukoy na value.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.label" : {
+    "message" : "Mga Preset",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.spacing.label" : {
+    "message" : "Agwat",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.spacing.spacing.label" : {
+    "message" : "Agwat",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.alignment.alignment.default.horizontal_align" : {
+    "message" : "SENTRO",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.alignment.alignment.label" : {
+    "message" : "Alignment",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.alignment.label" : {
+    "message" : "Alignment",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.background.color.label" : {
+    "message" : "Kulay",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.background.label" : {
+    "message" : "Background",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.corner.label" : {
+    "message" : "Corner",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.corner.radius.label" : {
+    "message" : "Radius",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.fill.color.label" : {
+    "message" : "Kulay",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.fill.label" : {
+    "message" : "I-fill",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.label" : {
+    "message" : "Icon",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.help_text" : {
+    "message" : "Gumamit ng mga preset para mabilis na masaayos ang hitsura ng piniling item sa mga paunang tinukoy na value.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_color.choices.dark" : {
+    "message" : "Madilim",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_color.choices.light" : {
+    "message" : "Light",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_color.label" : {
+    "message" : "Kulay ng icon",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_shape.choices.circle" : {
+    "message" : "Bilog",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_shape.choices.square" : {
+    "message" : "Parisukat",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_shape.label" : {
+    "message" : "Hugis ng icon",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_size.choices.large" : {
+    "message" : "Malaki",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_size.choices.regular" : {
+    "message" : "Regular",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_size.choices.small" : {
+    "message" : "Maliit",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_size.label" : {
+    "message" : "Laki ng icon",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.label" : {
+    "message" : "Mga Preset",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.size.label" : {
+    "message" : "Laki",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.spacing.label" : {
+    "message" : "Agwat",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.spacing.spacing.label" : {
+    "message" : "Agwat",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "Mga estilo",
+    "description" : "",
+    "placeholders" : null
+  }
+}

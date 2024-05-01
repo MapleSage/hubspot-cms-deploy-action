@@ -1,0 +1,11 @@
+{
+  "global" : false,
+  "content_types" : [ "LANDING_PAGE", "SITE_PAGE", "BLOG_LISTING", "BLOG_POST" ],
+  "master_language" : "en",
+  "categories" : [ "design" ],
+  "icon" : "../../../mV0_d-cms-growth-theme_hubspot/growth/images/module-icons/down.svg",
+  "host_template_types" : [ "PAGE", "BLOG_LISTING", "BLOG_POST" ],
+  "module_id" : 165985916831,
+  "label" : "Accordion",
+  "is_available_for_new_content" : true
+}

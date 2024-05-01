@@ -1,0 +1,162 @@
+{
+  "author.content.default" : {
+    "message" : "<span>Shaun Benson, Agriflora Inc. 마케팅 관리자</span>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "author.content.label" : {
+    "message" : "콘텐츠",
+    "description" : "",
+    "placeholders" : null
+  },
+  "author.image.default.alt" : {
+    "message" : "Agriflora Inc. 마케팅 관리자 Shaun Benson의 사진",
+    "description" : "",
+    "placeholders" : null
+  },
+  "author.image.label" : {
+    "message" : "이미지",
+    "description" : "",
+    "placeholders" : null
+  },
+  "author.include_image.label" : {
+    "message" : "이미지 포함",
+    "description" : "",
+    "placeholders" : null
+  },
+  "author.label" : {
+    "message" : "작성자",
+    "description" : "",
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "추천",
+    "description" : "",
+    "placeholders" : null
+  },
+  "quote_text.default" : {
+    "message" : "<span>\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan velit sit amet sagittis malesuada.\"</span>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "quote_text.label" : {
+    "message" : "견적서 텍스트",
+    "description" : "",
+    "placeholders" : null
+  },
+  "show_author.label" : {
+    "message" : "작성자 표시",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.author.alignment.alignment.label" : {
+    "message" : "정렬",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.author.alignment.label" : {
+    "message" : "정렬",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.author.image.corner.label" : {
+    "message" : "코너",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.author.image.corner.radius.label" : {
+    "message" : "반경",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.author.image.label" : {
+    "message" : "이미지",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.author.label" : {
+    "message" : "작성자",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "스타일",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.background.color.label" : {
+    "message" : "색상",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.background.label" : {
+    "message" : "배경",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.border.border.label" : {
+    "message" : "테두리",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.border.label" : {
+    "message" : "테두리",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.corner.label" : {
+    "message" : "코너",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.corner.radius.label" : {
+    "message" : "반경",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.label" : {
+    "message" : "추천",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.presets.card_style.choices.dark" : {
+    "message" : "어둡게",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.presets.card_style.choices.light" : {
+    "message" : "조명",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.presets.card_style.choices.plain" : {
+    "message" : "플레인",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.presets.card_style.label" : {
+    "message" : "카드 스타일",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.presets.help_text" : {
+    "message" : "선택한 항목의 모양을 미리 정의된 값에 맞추어 빠르게 조정하려면 사전 설정을 사용하십시오.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.presets.label" : {
+    "message" : "사전 설정",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.spacing.label" : {
+    "message" : "간격",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.spacing.spacing.label" : {
+    "message" : "간격",
+    "description" : "",
+    "placeholders" : null
+  }
+}

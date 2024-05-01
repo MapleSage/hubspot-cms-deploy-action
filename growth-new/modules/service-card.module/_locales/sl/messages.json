@@ -1,0 +1,282 @@
+{
+  "content.content.default" : {
+    "message" : "<h3 style=\"text-align:center;\"><strong>Storitev</strong></h3><p>Naredite povzetek storitve, ki jo nudite. Dodajte sporočilo o vrednosti, ki jo lahko zagotovite svojim strankam.</p>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "content.content.label" : {
+    "message" : "Vsebina",
+    "description" : "",
+    "placeholders" : null
+  },
+  "content.label" : {
+    "message" : "Vsebina",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.accessibility_options.label" : {
+    "message" : "Možnosti dostopnosti",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.accessibility_options.purpose.choices.decorative" : {
+    "message" : "Prezre bralnik zaslona",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.accessibility_options.purpose.choices.semantic" : {
+    "message" : "Prebere bralnik zaslona",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.accessibility_options.purpose.help_text" : {
+    "message" : "Kategorizirajte namen te ikone za bralnike zaslona. <a href='https://www.w3.org/WAI/tutorials/images/' target='_blank' rel='noopener noreferrer'>Izvedi več</a>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.accessibility_options.purpose.label" : {
+    "message" : "Namen",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.accessibility_options.title.help_text" : {
+    "message" : "Bralci zaslona bodo to besedilo prebrali, za opis ikone.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.accessibility_options.title.label" : {
+    "message" : "Naslov",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.icon.label" : {
+    "message" : "Ikona",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.label" : {
+    "message" : "Ikona",
+    "description" : "",
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "Storitvena kartica",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.background.color.label" : {
+    "message" : "Barva",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.background.label" : {
+    "message" : "Ozadje",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.border.border.label" : {
+    "message" : "Obroba",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.border.label" : {
+    "message" : "Obroba",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.corner.label" : {
+    "message" : "Kot",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.corner.radius.label" : {
+    "message" : "Polmer",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.height.label" : {
+    "message" : "Višina",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.height.min_height.label" : {
+    "message" : "Minimalna višina",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.label" : {
+    "message" : "Kartica",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.dark" : {
+    "message" : "Temno",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.light" : {
+    "message" : "Svetloba",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.plain" : {
+    "message" : "Običajen",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.label" : {
+    "message" : "Slog kartice",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.help_text" : {
+    "message" : "S prednastavitvami hitro prilagodite videz izbranega elementa vnaprej določenim vrednostim.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.label" : {
+    "message" : "Prednastavitve",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.spacing.label" : {
+    "message" : "Razmik",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.spacing.spacing.label" : {
+    "message" : "Razmik",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.alignment.alignment.default.horizontal_align" : {
+    "message" : "SREDIŠČE",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.alignment.alignment.label" : {
+    "message" : "Poravnava",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.alignment.label" : {
+    "message" : "Poravnava",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.background.color.label" : {
+    "message" : "Barva",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.background.label" : {
+    "message" : "Ozadje",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.corner.label" : {
+    "message" : "Kot",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.corner.radius.label" : {
+    "message" : "Polmer",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.fill.color.label" : {
+    "message" : "Barva",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.fill.label" : {
+    "message" : "Izpolni",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.label" : {
+    "message" : "Ikona",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.help_text" : {
+    "message" : "S prednastavitvami hitro prilagodite videz izbranega elementa vnaprej določenim vrednostim.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_color.choices.dark" : {
+    "message" : "Temno",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_color.choices.light" : {
+    "message" : "Svetloba",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_color.label" : {
+    "message" : "Barva ikone",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_shape.choices.circle" : {
+    "message" : "Krog",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_shape.choices.square" : {
+    "message" : "Kvadrat",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_shape.label" : {
+    "message" : "Oblika ikone",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_size.choices.large" : {
+    "message" : "Veliko",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_size.choices.regular" : {
+    "message" : "Običajno",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_size.choices.small" : {
+    "message" : "Majhno",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_size.label" : {
+    "message" : "Velikost ikone",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.label" : {
+    "message" : "Prednastavitve",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.size.label" : {
+    "message" : "Velikost",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.spacing.label" : {
+    "message" : "Razmik",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.spacing.spacing.label" : {
+    "message" : "Razmik",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "Stili",
+    "description" : "",
+    "placeholders" : null
+  }
+}

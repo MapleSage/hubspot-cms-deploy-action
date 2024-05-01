@@ -1,0 +1,162 @@
+{
+  "author.content.default" : {
+    "message" : "<span>شون بنسون، مدير التسويق بشركة Agriflora Inc.</span>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "author.content.label" : {
+    "message" : "المحتوى",
+    "description" : "",
+    "placeholders" : null
+  },
+  "author.image.default.alt" : {
+    "message" : "صورة لشون بنسون، مدير التسويق بشركة Agriflora Inc.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "author.image.label" : {
+    "message" : "الصورة",
+    "description" : "",
+    "placeholders" : null
+  },
+  "author.include_image.label" : {
+    "message" : "تضمين صورة",
+    "description" : "",
+    "placeholders" : null
+  },
+  "author.label" : {
+    "message" : "المؤلف",
+    "description" : "",
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "توصية",
+    "description" : "",
+    "placeholders" : null
+  },
+  "quote_text.default" : {
+    "message" : "<span>\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan velit sit amet sagittis malesuada.\"</span>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "quote_text.label" : {
+    "message" : "نص عرض السعر",
+    "description" : "",
+    "placeholders" : null
+  },
+  "show_author.label" : {
+    "message" : "عرض المؤلف",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.author.alignment.alignment.label" : {
+    "message" : "محاذاة",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.author.alignment.label" : {
+    "message" : "محاذاة",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.author.image.corner.label" : {
+    "message" : "الزاوية",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.author.image.corner.radius.label" : {
+    "message" : "نصف قطر",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.author.image.label" : {
+    "message" : "الصورة",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.author.label" : {
+    "message" : "المؤلف",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "الأنماط",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.background.color.label" : {
+    "message" : "اللون",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.background.label" : {
+    "message" : "الخلفية",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.border.border.label" : {
+    "message" : "الحد",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.border.label" : {
+    "message" : "الحد",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.corner.label" : {
+    "message" : "الزاوية",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.corner.radius.label" : {
+    "message" : "نصف قطر",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.label" : {
+    "message" : "توصية",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.presets.card_style.choices.dark" : {
+    "message" : "داكن",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.presets.card_style.choices.light" : {
+    "message" : "فاتح",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.presets.card_style.choices.plain" : {
+    "message" : "عادي",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.presets.card_style.label" : {
+    "message" : "نمط البطاقة",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.presets.help_text" : {
+    "message" : "استخدم إعدادات الضبط المسبقة لضبط مظهر العنصر المحدد بسرعة على القيم المحددة مسبقًا.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.presets.label" : {
+    "message" : "عمليات الضبط المسبقة",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.spacing.label" : {
+    "message" : "التباعد",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.spacing.spacing.label" : {
+    "message" : "التباعد",
+    "description" : "",
+    "placeholders" : null
+  }
+}

@@ -1,0 +1,113 @@
+{# Module styles #}
+
+{% require_css %}
+<style>
+{% scope_css %}
+
+  {# Heading #}
+
+  .speaker-card__heading {
+    {% if module.styles.heading.background.color %}
+      background-color: rgba({{ module.styles.heading.background.color.color|convert_rgb }}, {{ module.styles.heading.background.color.opacity / 100 }});
+    {% endif %}
+    {{ module.styles.heading.spacing.spacing.css }}
+  }
+
+  {# Card #}
+
+  .speaker-card {
+    {% if module.styles.card.background.color.color %}
+      background-color: rgba({{ module.styles.card.background.color.color|convert_rgb }}, {{ module.styles.card.background.color.opacity / 100 }});
+    {% endif %}
+    {{ module.styles.card.border.border.css }}
+    {% if module.styles.card.corner.radius >= 0 %}
+      border-radius: {{ module.styles.card.corner.radius ~ "px" }};
+    {% endif %}
+    {% if module.styles.card.height.min_height %}
+      min-height: {{ module.styles.card.height.min_height ~ "px" }};
+    {% endif %}
+    {% if module.styles.card.spacing.spacing.margin.bottom %}
+      margin-bottom: {{ module.styles.card.spacing.spacing.margin.bottom.value ~ module.styles.card.spacing.spacing.margin.bottom.units }};
+    {% endif %}
+    {% if module.styles.card.spacing.spacing.margin.top %}
+      margin-top: {{ module.styles.card.spacing.spacing.margin.top.value ~ module.styles.card.spacing.spacing.margin.top.units }};
+    {% endif %}
+  }
+
+  {% if module.styles.card.spacing.spacing.padding %}
+    .speaker-card__content {
+      {% if module.styles.card.spacing.spacing.padding.bottom %}
+        padding-bottom: {{ module.styles.card.spacing.spacing.padding.bottom.value ~ module.styles.card.spacing.spacing.padding.bottom.units }};
+      {% endif %}
+      {% if module.styles.card.spacing.spacing.padding.top %}
+        padding-top: {{ module.styles.card.spacing.spacing.padding.top.value ~ module.styles.card.spacing.spacing.padding.top.units }};
+      {% endif %}
+      {% if module.styles.card.spacing.spacing.padding.left %}
+        padding-bottom: {{ module.styles.card.spacing.spacing.padding.left.value ~ module.styles.card.spacing.spacing.padding.left.units }};
+      {% endif %}
+      {% if module.styles.card.spacing.spacing.padding.right %}
+        padding-top: {{ module.styles.card.spacing.spacing.padding.right.value ~ module.styles.card.spacing.spacing.padding.right.units }};
+      {% endif %}
+    }
+  {% elif !card_style %}
+    .speaker-card__content {
+      padding: 1.4rem;
+    }
+  {% endif %}
+
+  {# Speaker image #}
+
+  {% if module.speaker.photo.src && module.styles.photo.corner.radius >= 0 %}
+    .speaker-card__photo-image {
+      border-radius: {{ module.styles.photo.corner.radius ~ "px" }}
+    }
+  {% endif %}
+
+{% end_scope_css %}
+</style>
+{% end_require_css %}
+
+{# Sets CSS classes based on style field options #}
+
+{% if module.styles.card.presets.card_style == "dark" %}
+  {% set card_style = "card--dark" %}
+{% elif module.styles.card.presets.card_style == "light" %}
+  {% set card_style = "card--light" %}
+{% endif %}
+
+<section class="speaker-card">
+    {# Speaker card content #}
+    <div class="speaker-card__content card {{ card_style }}">
+
+      {# Photo #}
+
+      {# Sets testimonial author image loading attribute #}
+
+      {% set loadingAttr = module.speaker.photo.loading != "disabled" ? 'loading="{{ module.speaker.photo.loading }}"' : "" %}
+
+      {% if module.speaker.photo %}
+        <div class="speaker-card__photo">
+          <img class="speaker-card__photo-image" src="{{ module.speaker.photo.src }}" alt="{{ module.speaker.photo.alt }}" {{ loadingAttr }}>
+        </div>
+      {% endif %}
+
+      {% if module.speaker.speaker_name %}
+      <div class="speaker-card__speaker-name">
+        {{ module.speaker.speaker_name }}
+      </div>
+      {% endif %}
+
+      {% if module.speaker.speaker_title %}
+      <div class="speaker-card__speaker-title">
+        {{ module.speaker.speaker_title }}
+      </div>
+      {% endif %}
+
+      {% if module.speaker.bio %}
+      <div class="speaker-card__speaker-bio">
+        {{ module.speaker.bio }}
+      </div>
+      {% endif %}
+
+    </div>
+</section>

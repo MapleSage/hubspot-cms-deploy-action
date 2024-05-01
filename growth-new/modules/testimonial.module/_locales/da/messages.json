@@ -1,0 +1,162 @@
+{
+  "author.content.default" : {
+    "message" : "<span>Shaun Benson, Marketingchef, Agriflora Inc.</span>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "author.content.label" : {
+    "message" : "Indhold",
+    "description" : "",
+    "placeholders" : null
+  },
+  "author.image.default.alt" : {
+    "message" : "Et billede af Shaun Benson, Marketingchef, Agriflora Inc.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "author.image.label" : {
+    "message" : "Billede",
+    "description" : "",
+    "placeholders" : null
+  },
+  "author.include_image.label" : {
+    "message" : "Inkluder billede",
+    "description" : "",
+    "placeholders" : null
+  },
+  "author.label" : {
+    "message" : "Forfatter",
+    "description" : "",
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "Anbefalelse",
+    "description" : "",
+    "placeholders" : null
+  },
+  "quote_text.default" : {
+    "message" : "<span>\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan velit sit amet sagittis malesuada.\"</span>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "quote_text.label" : {
+    "message" : "Tilbudstekst",
+    "description" : "",
+    "placeholders" : null
+  },
+  "show_author.label" : {
+    "message" : "Vis forfatter",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.author.alignment.alignment.label" : {
+    "message" : "Justering",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.author.alignment.label" : {
+    "message" : "Justering",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.author.image.corner.label" : {
+    "message" : "Hjørne",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.author.image.corner.radius.label" : {
+    "message" : "Radius",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.author.image.label" : {
+    "message" : "Billede",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.author.label" : {
+    "message" : "Forfatter",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "Stile",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.background.color.label" : {
+    "message" : "Farve",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.background.label" : {
+    "message" : "Baggrund",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.border.border.label" : {
+    "message" : "Kant",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.border.label" : {
+    "message" : "Kant",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.corner.label" : {
+    "message" : "Hjørne",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.corner.radius.label" : {
+    "message" : "Radius",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.label" : {
+    "message" : "Anbefalelse",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.presets.card_style.choices.dark" : {
+    "message" : "Mørk",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.presets.card_style.choices.light" : {
+    "message" : "Lys",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.presets.card_style.choices.plain" : {
+    "message" : "Almindelig",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.presets.card_style.label" : {
+    "message" : "Korttype",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.presets.help_text" : {
+    "message" : "Brug forudindstillinger til hurtigt at justere udseendet af det valgte element til forudindstillede værdier.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.presets.label" : {
+    "message" : "Forudindstillinger",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.spacing.label" : {
+    "message" : "Mellemrum",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.testimonial.spacing.spacing.label" : {
+    "message" : "Mellemrum",
+    "description" : "",
+    "placeholders" : null
+  }
+}

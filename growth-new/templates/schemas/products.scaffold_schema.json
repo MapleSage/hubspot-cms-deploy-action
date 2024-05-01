@@ -1,0 +1,220 @@
+[
+  {
+    "name": "banner",
+    "type": "group",
+    "children": [
+      {
+        "name": "background_image",
+        "type": "image",
+        "description": "A banner background image that is related to the products that the company offers.",
+        "width": 1792,
+        "height": 1024
+      },
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that describes the products that the company offers."
+      },
+      {
+        "name": "subheading",
+        "type": "text",
+        "description": "A subheading that gives a brief description (2-3 sentences) about the products that the company offers."
+      }
+    ]
+  },
+  {
+    "name": "products",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that is above a section that talks about the different products the company sells."
+      },
+      {
+        "name": "subheading",
+        "type": "text",
+        "description": "A subheading that is above a section that talks about the different products the company sells."
+      },
+      {
+        "name": "product_one",
+        "type": "group",
+        "children": [
+          {
+            "name": "image",
+            "type": "image",
+            "description": "An image of the first product that the company sells.",
+            "width": 500,
+            "height": 500
+          },
+          {
+            "name": "name",
+            "type": "text",
+            "description": "The name of the first product that the company sells."
+          },
+          {
+            "name": "description",
+            "type": "text",
+            "description": "A brief description (2-3 sentences) about the first product that the company sells."
+          }
+        ]
+      },
+      {
+        "name": "product_two",
+        "type": "group",
+        "children": [
+          {
+            "name": "name",
+            "type": "text",
+            "description": "The name of the second product that the company sells."
+          },
+          {
+            "name": "description",
+            "type": "text",
+            "description": "A brief description (2-3 sentences) about the second product that the company sells."
+          },
+          {
+            "name": "image",
+            "type": "image",
+            "description": "An image of the second product that the company sells.",
+            "width": 500,
+            "height": 500
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "product_features",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that shows above a section that discusses the different features of the company's products."
+      },
+      {
+        "name": "subheading",
+        "type": "text",
+        "description": "A subheading that shows above a section that discusses the different features of the company's products."
+      },
+      {
+        "name": "feature_one",
+        "type": "group",
+        "children": [
+          {
+            "name": "heading",
+            "type": "text",
+            "description": "The name of the first product feature."
+          },
+          {
+            "name": "description",
+            "type": "text",
+            "description": "A brief description (2-3 sentences) that describes the first product feature."
+          }
+        ]
+      },
+      {
+        "name": "feature_two",
+        "type": "group",
+        "children": [
+          {
+            "name": "heading",
+            "type": "text",
+            "description": "The name of the second product feature."
+          },
+          {
+            "name": "description",
+            "type": "text",
+            "description": "A brief description (2-3 sentences) that describes the second product feature."
+          }
+        ]
+      },
+      {
+        "name": "feature_three",
+        "type": "group",
+        "children": [
+          {
+            "name": "heading",
+            "type": "text",
+            "description": "The name of the third product feature."
+          },
+          {
+            "name": "description",
+            "type": "text",
+            "description": "A brief description (2-3 sentences) that describes the third product feature."
+          }
+        ]
+      },
+      {
+        "name": "feature_four",
+        "type": "group",
+        "children": [
+          {
+            "name": "heading",
+            "type": "text",
+            "description": "The name of the fourth product feature."
+          },
+          {
+            "name": "description",
+            "type": "text",
+            "description": "A brief description (2-3 sentences) that describes the fourth product feature."
+          }
+        ]
+      },
+      {
+        "name": "feature_five",
+        "type": "group",
+        "children": [
+          {
+            "name": "heading",
+            "type": "text",
+            "description": "The name of the fifth product feature."
+          },
+          {
+            "name": "description",
+            "type": "text",
+            "description": "A brief description (2-3 sentences) that describes the fifth product feature."
+          }
+        ]
+      },
+      {
+        "name": "feature_six",
+        "type": "group",
+        "children": [
+          {
+            "name": "heading",
+            "type": "text",
+            "description": "The name of the sixth product feature."
+          },
+          {
+            "name": "description",
+            "type": "text",
+            "description": "A brief description (2-3 sentences) that describes the sixth product feature."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "cta",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that describes the call to action the user should take on the page regarding the different products the company offers."
+      },
+      {
+        "name": "subheading",
+        "type": "text",
+        "description": "A subheading that describes the call to action the user should take on the page regarding the different products the company offers."
+      },
+      {
+        "name": "button_text",
+        "type": "text",
+        "description": "The button text that describes the call to action the user should take on the page regarding the different products the company offers."
+      }
+    ]
+  }
+]

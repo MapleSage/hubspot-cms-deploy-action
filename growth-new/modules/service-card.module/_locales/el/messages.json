@@ -1,0 +1,282 @@
+{
+  "content.content.default" : {
+    "message" : "<h3 style=\"text-align:center;\"><strong>Υπηρεσία</strong></h3><p>Συνοψίστε την υπηρεσία που παρέχετε. Προσθέστε ένα μήνυμα σχετικά με την αξία που μπορείτε να παρέχετε στους πελάτες σας.</p>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "content.content.label" : {
+    "message" : "Περιεχόμενο",
+    "description" : "",
+    "placeholders" : null
+  },
+  "content.label" : {
+    "message" : "Περιεχόμενο",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.accessibility_options.label" : {
+    "message" : "Επιλογές προσβασιμότητας",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.accessibility_options.purpose.choices.decorative" : {
+    "message" : "Παραβλέφθηκε από το πρόγραμμα ανάγνωσης οθόνης",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.accessibility_options.purpose.choices.semantic" : {
+    "message" : "Διαβάστηκε από το πρόγραμμα ανάγνωσης οθόνης",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.accessibility_options.purpose.help_text" : {
+    "message" : "Κατηγοριοποιήστε τον σκοπό αυτού του εικονιδίου για αναγνώστες οθόνης. <a href='https://www.w3.org/WAI/tutorials/images/' target='_blank' rel='noopener noreferrer'>Μάθετε περισσότερα</a>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.accessibility_options.purpose.label" : {
+    "message" : "Σκοπός",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.accessibility_options.title.help_text" : {
+    "message" : "Αυτό το κείμενο θα διαβάζεται από αναγνώστες οθόνης για να περιγράφει το εικονίδιο.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.accessibility_options.title.label" : {
+    "message" : "Tίτλος",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.icon.label" : {
+    "message" : "Εικονίδιο",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.label" : {
+    "message" : "Εικονίδιο",
+    "description" : "",
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "Κάρτα υπηρεσίας",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.background.color.label" : {
+    "message" : "Χρώμα",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.background.label" : {
+    "message" : "Φόντο",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.border.border.label" : {
+    "message" : "Περιθώριο",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.border.label" : {
+    "message" : "Περιθώριο",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.corner.label" : {
+    "message" : "Γωνία",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.corner.radius.label" : {
+    "message" : "Ακτίνα καμπυλότητας",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.height.label" : {
+    "message" : "Ύψος",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.height.min_height.label" : {
+    "message" : "Ελάχιστο ύψος",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.label" : {
+    "message" : "Κάρτα",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.dark" : {
+    "message" : "Σκοτεινό",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.light" : {
+    "message" : "Φωτεινό",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.choices.plain" : {
+    "message" : "Απλό",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.card_style.label" : {
+    "message" : "Στυλ κάρτας",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.help_text" : {
+    "message" : "Χρησιμοποιήστε τις προεπιλογές για να προσαρμόσετε γρήγορα την εμφάνιση του επιλεγμένου στοιχείου σε προκαθορισμένες τιμές.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.presets.label" : {
+    "message" : "Προεπιλογές",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.spacing.label" : {
+    "message" : "Διάκενο",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.card.spacing.spacing.label" : {
+    "message" : "Διάκενο",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.alignment.alignment.default.horizontal_align" : {
+    "message" : "CENTER",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.alignment.alignment.label" : {
+    "message" : "Στοίχιση",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.alignment.label" : {
+    "message" : "Στοίχιση",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.background.color.label" : {
+    "message" : "Χρώμα",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.background.label" : {
+    "message" : "Φόντο",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.corner.label" : {
+    "message" : "Γωνία",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.corner.radius.label" : {
+    "message" : "Ακτίνα καμπυλότητας",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.fill.color.label" : {
+    "message" : "Χρώμα",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.fill.label" : {
+    "message" : "Γέμισμα",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.label" : {
+    "message" : "Εικονίδιο",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.help_text" : {
+    "message" : "Χρησιμοποιήστε τις προεπιλογές για να προσαρμόσετε γρήγορα την εμφάνιση του επιλεγμένου στοιχείου σε προκαθορισμένες τιμές.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_color.choices.dark" : {
+    "message" : "Σκοτεινό",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_color.choices.light" : {
+    "message" : "Φωτεινό",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_color.label" : {
+    "message" : "Χρώμα εικονιδίου",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_shape.choices.circle" : {
+    "message" : "Κύκλος",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_shape.choices.square" : {
+    "message" : "Τετράγωνο",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_shape.label" : {
+    "message" : "Σχήμα εικονιδίου",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_size.choices.large" : {
+    "message" : "Μεγάλο",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_size.choices.regular" : {
+    "message" : "Κανονικό",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_size.choices.small" : {
+    "message" : "Μικρό",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.icon_size.label" : {
+    "message" : "Μέγεθος εικονιδίου",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.presets.label" : {
+    "message" : "Προεπιλογές",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.size.label" : {
+    "message" : "Μέγεθος",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.spacing.label" : {
+    "message" : "Διάκενο",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.icon.spacing.spacing.label" : {
+    "message" : "Διάκενο",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "Στυλ",
+    "description" : "",
+    "placeholders" : null
+  }
+}

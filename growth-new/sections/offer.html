@@ -1,0 +1,176 @@
+<!--
+  templateType: section
+  label: Offer
+  isAvailableForNewContent: true
+  screenshotPath: ../images/section-previews/offer.png
+  description: "Middle centered title and subtitle above three offer cards, containing logo, title, text and button each."
+-->
+{% set template_translations = load_translations('../templates/_locales', html_lang, 'en') %}
+{% set anchor_tag = '<a id="{{ context.anchor_id }}" data-hs-anchor="true"></a>' %}
+
+{% dnd_section
+  background_color={{ context.background_color }}
+%}
+  {% dnd_column %}
+    {% dnd_row
+      margin={
+        "bottom": 22
+      }
+    %}
+      {% dnd_module path="@hubspot/rich_text" %}
+        {% module_attribute "html" %}
+          <div style="text-align: center;">
+            {{ anchor_tag if context.anchor_id }}
+            <h2>{{ context.heading or template_translations.section_offer_heading.message }}</h2>
+            <p>{{ context.content or template_translations.placeholder_content_one.message }}</p>
+          </div>
+        {% end_module_attribute %}
+      {% end_dnd_module %}
+    {% end_dnd_row %}
+    {% dnd_row %}
+      {% dnd_module
+        path="../modules/offer-card",
+        content={
+          "content": context.cards[0].heading and context.cards[0].content
+            ? "<h3>" ~ context.cards[0].heading ~ "</h3>" ~ "<p>" ~ context.cards[0].content ~ "</p>"
+            : "<h3>" ~ template_translations.section_offer_card_heading.message ~ "</h3><p>" ~ template_translations.placeholder_content_two.message ~ "</p>"
+        }
+        icon={
+          "icon": {
+            "name": context.cards[0].icon or "arrow-alt-circle-up"
+          }
+        }
+        group_image={
+          "image": {
+            "src": context.cards[0].image.src or get_asset_url('../images/industry-images/feature-one.jpg'),
+            "alt": context.cards[0].image.alt or template_translations.section_offer_card_image_alt_text.message,
+            "loading": "lazy"
+          }
+        }
+        image_or_icon={{ context.cards[0].image_or_icon or "icon" }}
+        show_button={{ context.cards[0].show_button }}
+        button={
+          "button_text": context.cards[0].button.text or template_translations.section_offer_button_text.message,
+          "button_link": {
+            "url": {
+              "href": context.cards[0].button.href or ""
+            }
+          }
+        }
+        styles={
+          "group_image": {
+            "group_size": {
+              "aspect_ratio": context.image.aspect_ratio or "auto"
+            }
+          },
+          "card": {
+            "spacing": {
+              "spacing": {
+                "margin": {
+                  "bottom": {
+                    "value": 22,
+                    "units": "px"
+                  }
+                }
+              }
+            }
+          }
+        },
+        width=4
+      %}
+      {% end_dnd_module %}
+      {% dnd_module
+        path="../modules/offer-card",
+        content={
+          "content": context.cards[1].heading and context.cards[1].content
+            ? "<h3>" ~ context.cards[1].heading ~ "</h3>" ~ "<p>" ~ context.cards[1].content ~ "</p>"
+            : "<h3>" ~ template_translations.section_offer_card_heading.message ~ "</h3><p>" ~ template_translations.placeholder_content_two.message ~ "</p>"
+        }
+        icon={
+          "icon": {
+            "name": context.cards[1].icon or "arrow-alt-circle-up"
+          }
+        }
+        group_image={
+          "image": {
+            "src": context.cards[1].image.src or get_asset_url('../images/industry-images/feature-two.jpg'),
+            "alt": context.cards[1].image.alt or template_translations.section_offer_card_image_alt_text.message,
+            "loading": "lazy"
+          }
+        }
+        image_or_icon={{ context.cards[1].image_or_icon or "icon" }}
+        show_button={{ context.cards[1].show_button }}
+        button={
+          "button_text": context.cards[1].button.text or template_translations.section_offer_button_text.message,
+          "button_link": {
+            "url": {
+              "href": context.cards[1].button.href or ""
+            }
+          }
+        },
+        offset=4,
+        styles={
+          "group_image": {
+            "group_size": {
+              "aspect_ratio": context.image.aspect_ratio or "auto"
+            }
+          },
+          "card": {
+            "spacing": {
+              "spacing": {
+                "margin": {
+                  "bottom": {
+                    "value": 22,
+                    "units": "px"
+                  }
+                }
+              }
+            }
+          }
+        },
+        width=4
+      %}
+      {% end_dnd_module %}
+      {% dnd_module
+        path="../modules/offer-card",
+        content={
+          "content": context.cards[2].heading and context.cards[2].content
+            ? "<h3>" ~ context.cards[2].heading ~ "</h3>" ~ "<p>" ~ context.cards[2].content ~ "</p>"
+            : "<h3>" ~ template_translations.section_offer_card_heading.message ~ "</h3><p>" ~ template_translations.placeholder_content_two.message ~ "</p>"
+        }
+        icon={
+          "icon": {
+            "name": context.cards[2].icon or "arrow-alt-circle-up"
+          }
+        }
+        group_image={
+          "image": {
+            "src": context.cards[2].image.src or get_asset_url('../images/industry-images/feature-three.jpg'),
+            "alt": context.cards[2].image.alt or template_translations.section_offer_card_image_alt_text.message,
+            "loading": "lazy"
+          }
+        }
+        image_or_icon={{ context.cards[2].image_or_icon or "icon" }}
+        show_button={{ context.cards[2].show_button }}
+        button={
+          "button_text": context.cards[2].button.text or template_translations.section_offer_button_text.message,
+          "button_link": {
+            "url": {
+              "href": context.cards[2].button.href or ""
+            }
+          }
+        },
+        styles={
+          "group_image": {
+            "group_size": {
+              "aspect_ratio": context.image.aspect_ratio or "auto"
+            }
+          }
+        },
+        offset=8,
+        width=4
+      %}
+      {% end_dnd_module %}
+    {% end_dnd_row %}
+  {% end_dnd_column %}
+{% end_dnd_section %}

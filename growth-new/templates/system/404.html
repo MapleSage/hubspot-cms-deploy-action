@@ -1,0 +1,39 @@
+<!--
+  templateType: error_page
+  isAvailableForNewContent: true
+  label: Growth - 404 error
+  screenshotPath: ../../images/template-previews/404.png
+-->
+{% set template_css = "../../css/templates/error.css" %}
+{% extends "../layouts/base.html" %}
+
+{% block body %}
+<section class="content-wrapper">
+  <div class="error-page" data-error="404">
+
+    {% module_block module "error_heading" path="@hubspot/rich_text" %}
+      {% module_attribute "html" %}
+        <h1>{{ template_translations.error_404_heading.message }}</h1>
+      {% end_module_attribute %}
+    {% end_module_block %}
+
+    {% module_block module "error_description" path="@hubspot/rich_text" %}
+      {% module_attribute "html" %}
+        <p>{{ template_translations.error_404_description.message }}</p>
+      {% end_module_attribute %}
+    {% end_module_block %}
+
+    {% module "button"
+      path="../../modules/button",
+      button_text={{ template_translations.error_404_button.message }},
+      button_link={
+        "url": {
+          "type": "EXTERNAL",
+          "href": "/"
+        }
+      }
+    %}
+
+  </div>
+</section>
+{% endblock body %}

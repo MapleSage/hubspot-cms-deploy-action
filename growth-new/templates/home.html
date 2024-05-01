@@ -1,0 +1,512 @@
+<!--
+  templateType: page
+  isAvailableForNewContent: true
+  label: Home
+  screenshotPath: ../images/template-previews/home.png
+  scaffoldSchemaPath: ./schemas/home.scaffold_schema.json
+-->
+{% extends "./layouts/base.html" %}
+
+{# Template variables #}
+
+{# Default content for accordions #}
+{% set testimonial_content = "<span>&ldquo;{{ scaffold_content.testimonial.text or template_translations.home_testimonial_content.message }}&rdquo;</span>" %}
+{% set testimonial_customer = "<span>{{ scaffold_content.testimonial.customer_name or template_translations.home_testimonial_customer.message }}</span>" %}
+
+{% block body %}
+{% dnd_area "dnd_area"
+  label="Main section"
+%}
+
+  {# Banner #}
+
+  {% include_dnd_partial path="../sections/hero-banner.html"
+    context={
+      background_image: {
+        "src": scaffold_content.banner.background_image.src or get_asset_url("../images/industry-images/home-banner.jpg")
+      },
+      heading: scaffold_content.banner.heading or template_translations.home_banner_heading.message,
+      content: scaffold_content.banner.subheading or template_translations.placeholder_content_one.message,
+      button: {
+        "text": scaffold_content.banner.button_text or template_translations.home_banner_button_text.message
+      }
+    }
+  %}
+
+  {# Customer logos #}
+
+  {% include_dnd_partial path="../sections/logo-gallery.html"
+    context={
+      "heading": scaffold_content.customers.heading or template_translations.home_logos_heading.message,
+      "background_color": "#F5F8FA",
+      "logos": [
+        {
+          "image": {
+            "src": scaffold_content.customers.logo_one.src or get_asset_url("../images/industry-images/customer-logo-one.png"),
+            "alt": scaffold_content.customers.logo_one.alt or "Logo placeholder one"
+          }
+        },
+        {
+          "image": {
+            "src": scaffold_content.customers.logo_two.src or get_asset_url("../images/industry-images/customer-logo-two.png"),
+            "alt": scaffold_content.customers.logo_two.alt or "Logo placeholder two"
+          }
+        },
+        {
+          "image": {
+            "src": scaffold_content.customers.logo_three.src or get_asset_url("../images/industry-images/customer-logo-three.png"),
+            "alt": scaffold_content.customers.logo_three.alt or "Logo placeholder three"
+          }
+        },
+        {
+          "image": {
+            "src": scaffold_content.customers.logo_four.src or get_asset_url("../images/industry-images/customer-logo-four.png"),
+            "alt": scaffold_content.customers.logo_four.alt or "Logo placeholder four"
+          }
+        }
+      ]
+    }
+  %}
+
+  {# Icons and copy #}
+
+  {% dnd_section %}
+    {% dnd_column %}
+      {% dnd_row
+        margin={
+          "bottom": 22
+        }
+      %}
+        {% dnd_module path="@hubspot/rich_text" %}
+          {% module_attribute "html" %}
+            <div style="text-align: center;">
+              <h2>{{ scaffold_content.benefits.heading or template_translations.home_heading.message }}</h2>
+              <p>{{ scaffold_content.benefits.subheading or template_translations.placeholder_content_one.message }}</p>
+            </div>
+          {% end_module_attribute %}
+        {% end_dnd_module %}
+      {% end_dnd_row %}
+      {% dnd_row
+        margin={
+          "bottom": 22
+        }
+      %}
+        {% dnd_column
+          width=4
+        %}
+          {% dnd_row %}
+            {% dnd_module
+              path="../modules/icon",
+              styles={
+                "alignment": {
+                  "alignment": {
+                    "horizontal_align": "CENTER"
+                  }
+                },
+                "spacing": {
+                  "spacing": {
+                    "margin": {
+                      "bottom": {
+                        "value": 22,
+                        "units": "px"
+                      }
+                    }
+                  }
+                }
+              }
+            %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+          {% dnd_row %}
+            {% dnd_module path="@hubspot/rich_text" %}
+              {% module_attribute "html" %}
+                <div style="text-align: center;">
+                  <h3>{{ scaffold_content.benefits.benefit_one.name or template_translations.home_description_heading_one.message }}</h3>
+                  <p>{{ scaffold_content.benefits.benefit_one.description or template_translations.placeholder_content_one.message }}</p>
+                </div>
+              {% end_module_attribute %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+        {% dnd_column
+          offset=4,
+          width=4
+        %}
+          {% dnd_row %}
+            {% dnd_module
+              path="../modules/icon",
+              styles={
+                "alignment": {
+                  "alignment": {
+                    "horizontal_align": "CENTER"
+                  }
+                },
+                "spacing": {
+                  "spacing": {
+                    "margin": {
+                      "bottom": {
+                        "value": 22,
+                        "units": "px"
+                      }
+                    }
+                  }
+                }
+              }
+            %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+          {% dnd_row %}
+            {% dnd_module path="@hubspot/rich_text" %}
+              {% module_attribute "html" %}
+                <div style="text-align: center;">
+                  <h3>{{ scaffold_content.benefits.benefit_two.name or template_translations.home_description_heading_two.message }}</h3>
+                  <p>{{ scaffold_content.benefits.benefit_two.description or template_translations.placeholder_content_one.message }}</p>
+                </div>
+              {% end_module_attribute %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+        {% dnd_column
+          offset=8,
+          width=4
+        %}
+          {% dnd_row %}
+            {% dnd_module
+              path="../modules/icon",
+              styles={
+                "alignment": {
+                  "alignment": {
+                    "horizontal_align": "CENTER"
+                  }
+                },
+                "spacing": {
+                  "spacing": {
+                    "margin": {
+                      "bottom": {
+                        "value": 22,
+                        "units": "px"
+                      }
+                    }
+                  }
+                }
+              }
+            %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+          {% dnd_row %}
+            {% dnd_module path="@hubspot/rich_text" %}
+              {% module_attribute "html" %}
+                <div style="text-align: center;">
+                  <h3>{{ scaffold_content.benefits.benefit_three.name or template_translations.home_description_heading_three.message }}</h3>
+                  <p>{{ scaffold_content.benefits.benefit_three.description or template_translations.placeholder_content_one.message }}</p>
+                </div>
+              {% end_module_attribute %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+      {% end_dnd_row %}
+      {% dnd_row %}
+        {% dnd_module
+          path="../modules/button",
+          button_text={{ scaffold_content.benefits.button_text or template_translations.home_button_text.message }},
+          styles={
+            "alignment": {
+              "alignment": {
+                "horizontal_align": "CENTER"
+              }
+            }
+          }
+        %}
+        {% end_dnd_module %}
+      {% end_dnd_row %}
+    {% end_dnd_column %}
+  {% end_dnd_section %}
+
+  {# Video #}
+
+  {% include_dnd_partial path="../sections/video.html"
+    context={
+      "heading": scaffold_content.video.heading or template_translations.home_video_heading.message,
+      "content": scaffold_content.video.subheading or template_translations.placeholder_content_one.message,
+      "background_color": "#F5F8FA"
+    }
+  %}
+
+  {# Two column image and text #}
+
+  {% dnd_section %}
+    {% dnd_column %}
+      {% dnd_row
+        margin={
+          "bottom": 22
+        }
+      %}
+        {% dnd_module path="@hubspot/rich_text" %}
+          {% module_attribute "html" %}
+            <div style="text-align: center;">
+              <h3>{{ scaffold_content.products.heading or template_translations.home_product_heading.message }}</h3>
+              <p>{{ scaffold_content.products.subheading or template_translations.placeholder_content_one.message }}</p>
+            </div>
+          {% end_module_attribute %}
+        {% end_dnd_module %}
+      {% end_dnd_row %}
+      {% dnd_row
+        margin={
+          "bottom": 44
+        }
+      %}
+        {% dnd_column
+          margin={
+            "bottom": 22
+          },
+          width=5
+        %}
+          {% dnd_row %}
+            {% dnd_module
+              path="@hubspot/linked_image",
+              img={
+                "alt": scaffold_content.products.product_one.image.alt or template_translations.home_product_content_heading.message,
+                "loading": "lazy",
+                "max_height": scaffold_content.products.product_one.image.height or  300,
+                "max_width": scaffold_content.products.product_one.image.width or 500,
+                "size_type": "auto_custom_max",
+                "src": scaffold_content.products.product_one.image.src or get_asset_url("../images/industry-images/feature-one.jpg")
+              }
+            %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+        {% dnd_column
+          offset=5,
+          width=1
+        %}
+          {% dnd_row %}
+            {% dnd_module path="@hubspot/horizontal_spacer" %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+        {% dnd_column
+          offset=6,
+          width=6
+        %}
+          {% dnd_row %}
+            {% dnd_module path="@hubspot/rich_text" %}
+              {% module_attribute "html" %}
+                <div style="text-align: center;">
+                  <h3>{{ scaffold_content.products.product_one.name or template_translations.home_product_content_heading.message }}</h3>
+                  <p>{{ scaffold_content.products.product_one.description or template_translations.placeholder_content_one.message }}</p>
+                </div>
+              {% end_module_attribute %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+          {% dnd_row %}
+            {% dnd_module
+              path="../modules/button",
+              button_text={{ scaffold_content.products.product_one.button_text or template_translations.home_product_button_text.message }}
+            %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+      {% end_dnd_row %}
+      {% dnd_row
+        margin={
+          "bottom": 44
+        }
+      %}
+        {% dnd_column
+          width=6
+        %}
+          {% dnd_row %}
+            {% dnd_module path="@hubspot/rich_text" %}
+              {% module_attribute "html" %}
+                <div style="text-align: center;">
+                  <h3>{{ scaffold_content.products.product_two.name or template_translations.home_product_content_heading.message }}</h3>
+                  <p>{{ scaffold_content.products.product_two.description or template_translations.placeholder_content_one.message }}</p>
+                </div>
+              {% end_module_attribute %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+          {% dnd_row %}
+            {% dnd_module
+              path="../modules/button",
+              button_text={{ scaffold_content.products.product_two.button_text or template_translations.home_product_button_text.message }}
+              styles={
+                "spacing": {
+                  "spacing": {
+                    "margin": {
+                      "bottom": {
+                        "value": 22,
+                        "units": "px"
+                      }
+                    }
+                  }
+                }
+              }
+            %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+        {% dnd_column
+          offset=6,
+          width=1
+        %}
+          {% dnd_row %}
+            {% dnd_module path="@hubspot/horizontal_spacer" %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+        {% dnd_column
+          offset=7,
+          width=5
+        %}
+          {% dnd_row %}
+            {% dnd_module
+              path="@hubspot/linked_image",
+              horizontal_alignment="RIGHT",
+              img={
+                "alt": scaffold_content.product_two.image.alt or template_translations.home_product_content_heading.message,
+                "loading": "lazy",
+                "max_height": scaffold_content.product_two.image.height or 300,
+                "max_width": scaffold_content.product_two.image.width or 500,
+                "size_type": "auto_custom_max",
+                "src": scaffold_content.product_two.image.src or get_asset_url("../images/industry-images/feature-two.jpg")
+              }
+            %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+      {% end_dnd_row %}
+      {% dnd_row %}
+        {% dnd_column
+          margin={
+            "bottom": 22
+          },
+          width=5
+        %}
+          {% dnd_row %}
+            {% dnd_module
+              path="@hubspot/linked_image",
+              img={
+                "alt": scaffold_content.product_three.image.alt or template_translations.home_product_content_heading.message,
+                "loading": "lazy",
+                "max_height": scaffold_content.product_three.image.height or 300,
+                "max_width": scaffold_content.product_three.image.width or 500,
+                "size_type": "auto_custom_max",
+                "src": scaffold_content.product_three.image.src or get_asset_url("../images/industry-images/feature-three.jpg")
+              }
+            %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+        {% dnd_column
+          offset=5,
+          width=1
+        %}
+          {% dnd_row %}
+            {% dnd_module path="@hubspot/horizontal_spacer" %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+        {% dnd_column
+          offset=6,
+          width=6
+        %}
+          {% dnd_row %}
+            {% dnd_module path="@hubspot/rich_text" %}
+              {% module_attribute "html" %}
+                <div style="text-align: center;">
+                  <h3>{{ scaffold_content.products.product_three.name or template_translations.home_product_content_heading.message }}</h3>
+                  <p>{{ scaffold_content.products.product_three.description or template_translations.placeholder_content_one.message }}</p>
+                </div>
+              {% end_module_attribute %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+          {% dnd_row %}
+            {% dnd_module
+              path="../modules/button",
+              button_text={{ scaffold_content.products.product_three.button_text or template_translations.home_product_button_text.message }}
+            %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+      {% end_dnd_row %}
+    {% end_dnd_column %}
+  {% end_dnd_section %}
+
+  {# Testimonial #}
+
+  {% dnd_section
+    background_color="#F5F8FA",
+    max_width=750
+  %}
+    {% dnd_module
+      path="../modules/testimonial",
+      quote_text={{ testimonial_content|render }},
+      author={
+        "image": {
+          "alt": scaffold_content.testimonial.customer_image.alt or template_translations.home_testimonial_customer.message,
+          "src": scaffold_content.testimonial.customer_image.src or get_asset_url("../images/testimonial.jpg")
+        },
+        "content": testimonial_customer|render
+      }
+    %}
+    {% end_dnd_module %}
+  {% end_dnd_section %}
+
+  {# Latest posts #}
+
+  {% dnd_section %}
+    {% dnd_column %}
+      {% dnd_row
+        margin={
+          "bottom": 22
+        }
+      %}
+      {% dnd_module path="@hubspot/rich_text" %}
+        {% module_attribute "html" %}
+          <div style="text-align: center;">
+            <h2>{{ scaffold_content.blog_posts.heading or template_translations.home_blog_post_heading.message }}</h2>
+            <p>{{ scaffold_content.blog_posts.subheading or template_translations.placeholder_content_one.message }}</p>
+          </div>
+        {% end_module_attribute %}
+      {% end_dnd_module %}
+      {% end_dnd_row %}
+      {% dnd_row %}
+        {% dnd_module path="../modules/recent-posts" %}
+        {% end_dnd_module %}
+      {% end_dnd_row %}
+    {% end_dnd_column %}
+  {% end_dnd_section %}
+
+  {# Contact form #}
+
+  {% dnd_section
+    background_color="#F5F8FA"
+  %}
+    {% dnd_column %}
+      {% dnd_row %}
+        {% dnd_module path="@hubspot/rich_text" %}
+          {% module_attribute "html" %}
+            <div style="text-align: center;">
+              <h2>{{ scaffold_content.contact.heading or template_translations.home_contact.message }}</h2>
+              <p>{{ scaffold_content.contact.subheading or template_translations.placeholder_content_one.message }}</p>
+            </div>
+          {% end_module_attribute %}
+        {% end_dnd_module %}
+      {% end_dnd_row %}
+      {% dnd_row %}
+        {% dnd_module
+          path="@hubspot/form",
+          form={
+            "form_id": scaffold_content.contact.form.form_id or "",
+            "response_type": scaffold_content.contact.form.response_type or "redirect",
+            "message": scaffold_content.contact.form.message or ""
+          }
+        %}
+        {% end_dnd_module %}
+      {% end_dnd_row %}
+    {% end_dnd_column %}
+  {% end_dnd_section %}
+
+{% end_dnd_area %}
+{% endblock body %}

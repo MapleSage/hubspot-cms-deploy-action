@@ -1,0 +1,271 @@
+<!--
+  templateType: page
+  isAvailableForNewContent: true
+  label: Products
+  screenshotPath: ../images/template-previews/products.png
+  scaffoldSchemaPath: ./schemas/products.scaffold_schema.json
+-->
+{% extends "./layouts/base.html" %}
+
+{# Template variables #}
+
+{# Default content for features #}
+{% set features = [
+    {
+      "heading": "{{ scaffold_content.product_features.feature_one.heading or template_translations.products_list_content_heading.message }}",
+      "description": "{{ scaffold_content.product_features.feature_one.description or template_translations.placeholder_content_two.message }}"
+    },
+    {
+      "heading": "{{ scaffold_content.product_features.feature_two.heading or template_translations.products_list_content_heading.message }}",
+      "description": "{{ scaffold_content.product_features.feature_two.description or template_translations.placeholder_content_two.message }}"
+    },
+    {
+      "heading": "{{ scaffold_content.product_features.feature_three.heading or template_translations.products_list_content_heading.message }}",
+      "description": "{{ scaffold_content.product_features.feature_three.description or template_translations.placeholder_content_two.message }}"
+    },
+    {
+      "heading": "{{ scaffold_content.product_features.feature_four.heading or template_translations.products_list_content_heading.message }}",
+      "description": "{{ scaffold_content.product_features.feature_four.description or template_translations.placeholder_content_two.message }}"
+    },
+    {
+      "heading": "{{ scaffold_content.product_features.feature_five.heading or template_translations.products_list_content_heading.message }}",
+      "description": "{{ scaffold_content.product_features.feature_five.description or template_translations.placeholder_content_two.message }}"
+    },
+    {
+      "heading": "{{ scaffold_content.product_features.feature_six.heading or template_translations.products_list_content_heading.message }}",
+      "description": "{{ scaffold_content.product_features.feature_six.description or template_translations.placeholder_content_two.message }}"
+    }
+  ]
+%}
+{% set features_content = [] %}
+{% for feature in features %}
+  {% do features_content.append("<h3>" ~ feature.heading ~ "</h3><p>" ~ feature.description ~ "</p>") %}
+{% endfor %}
+
+{% block body %}
+{% dnd_area "dnd_area"
+  label="Main section"
+%}
+
+  {# Banner #}
+
+  {% dnd_section
+    background_image={
+      "backgroundPosition": "MIDDLE_CENTER",
+      "backgroundSize": "cover",
+      "imageUrl": scaffold_content.banner.background_image.src or get_asset_url("../images/industry-images/products-banner.jpg")
+    },
+    max_width=750,
+    padding={
+      "top": 132,
+      "bottom": 132
+    }
+  %}
+    {% dnd_module path="@hubspot/rich_text" %}
+      {% module_attribute "html" %}
+        <div style="text-align: center;">
+          <h1 style="color: #fff;">{{ scaffold_content.banner.heading or template_translations.products_heading_one.message }}</h1>
+          <p style="color: #fff;">{{ scaffold_content.banner.subheading or template_translations.placeholder_content_two.message }}</p>
+        </div>
+      {% end_module_attribute %}
+    {% end_dnd_module %}
+  {% end_dnd_section %}
+
+  {# Two column image and text #}
+
+  {% dnd_section %}
+    {% dnd_column %}
+      {% dnd_row
+        margin={
+          "bottom": 22
+        }
+      %}
+        {% dnd_module path="@hubspot/rich_text" %}
+          {% module_attribute "html" %}
+            <div style="text-align: center;">
+              <h2>{{ scaffold_content.products.heading or template_translations.products_heading_two.message }}</h2>
+              <p>{{ scaffold_content.products.subheading or template_translations.placeholder_content_one.message }}</p>
+            </div>
+          {% end_module_attribute %}
+        {% end_dnd_module %}
+      {% end_dnd_row %}
+      {% dnd_row
+        margin={
+          "bottom": 44
+        }
+      %}
+        {% dnd_column
+          margin={
+            "bottom": 22
+          },
+          width=5
+        %}
+          {% dnd_row %}
+            {% dnd_module
+              path="@hubspot/linked_image",
+              img={
+                "alt": scaffold_content.products.product_one.image.alt or template_translations.products_image_alt_text.message,
+                "loading": "lazy",
+                "max_height": scaffold_content.products.product_one.image.height or 500,
+                "max_width": scaffold_content.products.product_one.image.width or 500,
+                "size_type": "auto_custom_max",
+                "src": scaffold_content.products.product_one.image.src or get_asset_url("../images/industry-images/products-feature-one.jpg")
+              }
+            %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+        {% dnd_column
+          offset=5,
+          width=1
+        %}
+          {% dnd_row %}
+            {% dnd_module path="@hubspot/horizontal_spacer" %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+        {% dnd_column
+          offset=6,
+          width=6
+        %}
+          {% dnd_row %}
+            {% dnd_module path="@hubspot/rich_text" %}
+              {% module_attribute "html" %}
+                <div style="text-align: center;">
+                  <h3>{{ scaffold_content.products.product_one.name or template_translations.products_description_heading_one.message }}</h3>
+                  <p>{{ scaffold_content.products.product_one.description or template_translations.placeholder_content_one.message }}</p>
+                </div>
+              {% end_module_attribute %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+      {% end_dnd_row %}
+      {% dnd_row %}
+        {% dnd_column
+          width=6
+        %}
+          {% dnd_row %}
+            {% dnd_module path="@hubspot/rich_text" %}
+              {% module_attribute "html" %}
+                <div style="text-align: center;">
+                  <h3>{{ scaffold_content.products.product_two.name or template_translations.products_description_heading_two.message }}</h3>
+                  <p>{{ scaffold_content.products.product_two.description or template_translations.placeholder_content_one.message }}</p>
+                </div>
+              {% end_module_attribute %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+        {% dnd_column
+          offset=6,
+          width=1
+        %}
+          {% dnd_row %}
+            {% dnd_module path="@hubspot/horizontal_spacer" %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+        {% dnd_column
+          offset=7,
+          width=5
+        %}
+          {% dnd_row %}
+            {% dnd_module
+              path="@hubspot/linked_image",
+              horizontal_alignment="RIGHT",
+              img={
+                "alt": scaffold_content.products.product_two.image.alt or template_translations.products_image_alt_text.message,
+                "loading": "lazy",
+                "max_height": scaffold_content.products.product_two.image.height or 500,
+                "max_width": scaffold_content.products.product_two.image.width or 500,
+                "size_type": "auto_custom_max",
+                "src": scaffold_content.products.product_two.image.src or get_asset_url("../images/industry-images/products-feature-two.jpg")
+              }
+            %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+      {% end_dnd_row %}
+    {% end_dnd_column %}
+  {% end_dnd_section %}
+
+  {# Feature lists #}
+
+  {% dnd_section %}
+    {% dnd_column %}
+      {% dnd_row
+        margin={
+          "bottom": 22
+        }
+      %}
+        {% dnd_module path="@hubspot/rich_text" %}
+          {% module_attribute "html" %}
+            <div style="text-align: center;">
+              <h2>{{ scaffold_content.product_features.heading or  template_translations.products_list_heading.message }}</h2>
+              <p>{{ scaffold_content.product_features.subheading or template_translations.placeholder_content_one.message }}</p>
+            </div>
+          {% end_module_attribute %}
+        {% end_dnd_module %}
+      {% end_dnd_row %}
+      {% dnd_row %}
+        {% dnd_column
+          width=6
+        %}
+          {% dnd_row %}
+            {% dnd_module
+              path="../modules/list",
+              list_items=[
+                {
+                  "content": features_content[0]|render
+                },
+                {
+                  "content": features_content[1]|render
+                },
+                {
+                  "content": features_content[2]|render
+                }
+              ]
+            %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+        {% dnd_column
+          offset=6,
+          width=6
+        %}
+          {% dnd_row %}
+            {% dnd_module
+              path="../modules/list",
+              list_items=[
+                {
+                "content": features_content[3]|render
+                },
+                {
+                  "content": features_content[4]|render
+                },
+                {
+                  "content": features_content[5]|render
+                }
+              ]
+            %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+      {% end_dnd_row %}
+    {% end_dnd_column %}
+  {% end_dnd_section %}
+
+  {# Call to action #}
+
+  {% include_dnd_partial path="../sections/call-to-action.html"
+    context={
+      "background_color": "#F5F8FA",
+      "heading": scaffold_content.cta.heading or template_translations.products_cta_heading.message,
+      "content": scaffold_content.cta.subheading or template_translations.products_cta_subheading.message,
+      "button": {
+        "text": scaffold_content.cta.button_text or template_translations.products_cta_button_text.message
+      }
+    }
+%}
+
+{% end_dnd_area %}
+{% endblock body %}

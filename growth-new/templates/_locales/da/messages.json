@@ -1,0 +1,1662 @@
+{
+  "partial_header_skip_to_content": {
+    "message": "Gå til indhold",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_address": {
+    "message": "Hovedgaden 123, Postnummer, By",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_copyright": {
+    "message": "Copyright © {{ year }}, {{ site_settings.company_name }}",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_one": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_two": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_three": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "about_banner_heading": {
+    "message": "Om os",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_one": {
+    "message": "Vores historie",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_two": {
+    "message": "Vores værdier",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_three": {
+    "message": "Vores historie",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_four": {
+    "message": "Vores team",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_five": {
+    "message": "Vores kultur",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_six": {
+    "message": "Virksomhedsnyheder",
+    "description": "",
+    "placeholders": null
+  },
+  "about_image_alt_text": {
+    "message": "Virksomhed",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_one_title": {
+    "message": "CEO og stifter",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_two_title": {
+    "message": "Chief Operating Officer",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_three_title": {
+    "message": "Chief Technology Officer",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_four_title": {
+    "message": "Økonomidirektør",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_five_title": {
+    "message": "Designchef",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_six_title": {
+    "message": "Chief People Officer",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_description": {
+    "message": "Fremhæv dit teammedlems unikke ekspertise, erfaring og interesser. Gør det kort, men interessant med fokus på medlemmets professionelle karriere og de værdifulde færdigheder, personen bidrager med.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_index_heading": {
+    "message": "Blog",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_heading": {
+    "message": "Blogkommentarer",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_heading": {
+    "message": "Vækstkonference",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_date": {
+    "message": "5.-8. september",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_text": {
+    "message": "Hent tickets",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_content": {
+    "message": "Hent tickets",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_one": {
+    "message": "Køb nu",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_two": {
+    "message": "Køb tickets",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_one": {
+    "message": "Om",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_two": {
+    "message": "Talerpanel",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_three": {
+    "message": "Sponsorer",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_four": {
+    "message": "Tilføj et slogan til din video",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_five": {
+    "message": "Anbefalinger",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_six": {
+    "message": "Tickets",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_one": {
+    "message": "Vækstkonference er en skabelon, der kan bruges til at vise kunderne den værdi, som din organisations konference eller event kan give dem. Beskriv temaet for din konference, og hvorfor kunderne bør købe billetter.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_two": {
+    "message": "Tilføj en kort beskrivelse af dine talere her. Hvorfor bør dit publikum høre dem? Taler de alle om det samme tema i deres indlæg? Hvad gør dem unikke? Brug denne plads til at give læseren en fornemmelse af, hvorfor du præsenterer netop disse talere.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_three": {
+    "message": "Sammenfat din talers biografi her. Du kan også tilføje en sætning om præsentationsemnet.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_four": {
+    "message": "&ldquo;Dette er din chance for at give bevis på de sociale medier af, hvor fantastisk din event er. Tilføj nogle udtalelser, der hjælper folk med at forstå værdien af din event.&rdquo;",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_five": {
+    "message": "Beskriv temaet for din konference, giv dine potentielle kunder en idé om, hvad der skal ske på konferencen, og og fortæl dem, hvorfor de bør købe billetter. Brug skabelonen til berøringsfrit salg af billetter til din event.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_heading": {
+    "message": "Entré",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_price": {
+    "message": "199 USD",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_heading": {
+    "message": "VIP",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_price": {
+    "message": "449 USD",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_one": {
+    "message": "Angiv alle de spændende fordele, som dine kunder vil få, hvis de køber dette niveau.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_two": {
+    "message": "Hvilke netværks- og læringsmuligheder er tilgængelige for dem på konferencen?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_three": {
+    "message": "Hvilke dele af konferencen får de adgang til?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_four": {
+    "message": "Får de adgang til optagede programmer?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_five": {
+    "message": "Hvilke muligheder har de med hensyn til måltider, transport og overnatning?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_six": {
+    "message": "Angiv alle de eksklusive fordele, som dine VIP-kunder vil få, hvis de køber dette niveau.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_one": {
+    "message": "Adm. direktør og stifter",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_two": {
+    "message": "Chief Operating Officer",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_three": {
+    "message": "Chief Technology Officer",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_content": {
+    "message": "Køb tickets",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_image_alt_text": {
+    "message": "Talerfoto",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_one": {
+    "message": "Kontakt os",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_two": {
+    "message": "Vores placeringer",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_three": {
+    "message": "Kontakt os",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_four": {
+    "message": "Ofte stillede spørgsmål",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_heading": {
+    "message": "Indholdsbibliotek",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_content": {
+    "message": "Et bibliotek med ressourcer og digitale aktiver, du kan bruge til at skabe vækst og lære.",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_one": {
+    "message": "<h3>San Francisco</h3><p>3870 Twin Oaks Drive<br> San Francisco, CA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_two": {
+    "message": "<h3>Chicago</h3><p>2140 Roguski Road<br> Chicago, IL</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_three": {
+    "message": "<h3>Boston</h3><p>123 Waverly Place<br> Boston, MA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_question": {
+    "message": "Harmonikatitel",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_heading": {
+    "message": "Side ikke fundet",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_description": {
+    "message": "Vi kan ikke finde den side, du leder efter.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_button": {
+    "message": "Gå til hjemmeside",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_heading": {
+    "message": "Denne side fungerer ikke",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_description": {
+    "message": "Der opstod en intern serverfejl, men vi arbejder på at løse problemet.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_button": {
+    "message": "Gå til hjemmeside",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_heading": {
+    "message": "Beklager, men du har ikke adgang",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_description": {
+    "message": "Du har ikke tilladelse til at få vist denne side. Kontakt webstedets administrator, hvis du har spørgsmål.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_button": {
+    "message": "Gå til hjemmeside",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_heading": {
+    "message": "Log på",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_subheading": {
+    "message": "Siden, du prøver at få vist er kun tilgængelig for registrerede brugere.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_email": {
+    "message": "E-mail",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_password": {
+    "message": "Adgangskode",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_remember_me": {
+    "message": "Husk mig",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_reset_password": {
+    "message": "Har du glemt din adgangskode?",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_submit": {
+    "message": "Log på",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_show_password": {
+    "message": "Vis",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_contact_admin": {
+    "message": "Har du problemer? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Kontakt webstedets administrator</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_heading": {
+    "message": "Du er logget ud",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_button": {
+    "message": "Log på igen",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_alt": {
+    "message": "Eller gå tilbage til <a href=\"{{ '//' ~ request.domain }}\">startsiden</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_heading": {
+    "message": "Opret din adgangskode",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_subheading": {
+    "message": "Velkommen! Fuldend din registrering ved at oprette din adgangskode.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_email": {
+    "message": "E-mail",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_confirm_password": {
+    "message": "Bekræft adgangskoden",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_password": {
+    "message": "Adgangskode",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_save_password": {
+    "message": "Gem adgangskode",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_show_password": {
+    "message": "Vis",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_contact_admin": {
+    "message": "Har du problemer? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Kontakt webstedets administrator</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_heading": {
+    "message": "Din e-mailadresse er bekræftet",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_description": {
+    "message": "Tak, fordi du bekræftede din e-mailadresse. Du kan nu logge på din konto og få adgang til dit eksklusive indhold.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_button": {
+    "message": "Log på",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_contact_admin": {
+    "message": "Har du problemer? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Kontakt webstedets administrator</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_heading": {
+    "message": "Opret ny adgangskode",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_subheading": {
+    "message": "Din nye adgangskode skal være anderledes end din tidligere brugte adgangskode.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_new_password": {
+    "message": "Ny adgangskode",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_confirm_password": {
+    "message": "Bekræft ny adgangskode",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_save_password": {
+    "message": "Gem adgangskode",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_show_password": {
+    "message": "Vis",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_contact_admin": {
+    "message": "Har du problemer? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Kontakt webstedets administrator</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_heading": {
+    "message": "Nulstil din adgangskode",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_subheading": {
+    "message": "Indtast den e-mailadresse, som du brugte til at registrere dig. Så sender vi en e-mail til dig med et link til at nulstille din adgangskode.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_email": {
+    "message": "E-mail",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_submit": {
+    "message": "Send e-mail til nulstilling",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_alt": {
+    "message": "Fik du den tilbage? <a href=\"/_hcms/mem/login\">Log på</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_contact_admin": {
+    "message": "Har du problemer? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Kontakt webstedets administrator</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_heading": {
+    "message": "Bekræft din e-mailadresse",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_description": {
+    "message": "Tak, fordi du har tilmeldt dig. Tjek din e-mail, og klik på bekræftelseslinket for at fuldende registreringen.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_contact_admin": {
+    "message": "Har du problemer? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Kontakt webstedets administrator</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_one": {
+    "message": "Om",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two": {
+    "message": "Øget vækst i virksomheden med betalt rådgivning",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two_update": {
+    "message": "Øget vækst i virksomheden med betalt rådgivning",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_three": {
+    "message": "Et sæt værktøjer til rådighed for dig",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_heading": {
+    "message": "Service",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_description": {
+    "message": "Opsummer den ydelse, du leverer. Tilføj en besked om den værdi, du kan tilføre dine kunder.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_four": {
+    "message": "Anbefalinger",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_one": {
+    "message": "Tilføj en undertitel, der forklarer, hvordan du vil skabe værdi for dine kunder.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_two": {
+    "message": "Tilføj en kort beskrivelse af det arbejde, du udfører i din virksomhed. Prøv at komme nærmere ind på dit speciale, så du kan fange dine kunders opmærksomhed. Fortæl, hvilken værdi du kan levere med en betalt konsultation.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_list_content": {
+    "message": "&ldquo;Tilføj en udtalelse, der viser, at du står inde for dine tjenester. Hvorfor er dine nuværende kunder begejstrede for det, du har at tilbyde?&rdquo;",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_image_alt_text": {
+    "message": "Pladsholderbillede til væksttema",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_button_text": {
+    "message": "Book en konsultation",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_heading": {
+    "message": "Adgangskode påkrævet",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_subheading": {
+    "message": "indtast din adgangskode for at se denne side.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_one": {
+    "message": "Prisfastsættelse",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_plans_and_pricing_heading": {
+    "message": "Abonnementer og priser",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_two": {
+    "message": "Ofte stillede spørgsmål",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_heading": {
+    "message": "Alle abonnementer inkluderer",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_content_heading": {
+    "message": "Produktegenskab",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_heading": {
+    "message": "Få folk til at besøge dine produkter og tjenester",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_button_text": {
+    "message": "Se mere",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_question": {
+    "message": "Harmonikatitel",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_one": {
+    "message": "Produkter",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_two": {
+    "message": "Bygget med dig i tankerne",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_heading": {
+    "message": "Plus endnu mere",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_content_heading": {
+    "message": "Produktegenskab",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_one": {
+    "message": "Kom hurtigt i gang",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_two": {
+    "message": "Nem og brugervenlig",
+    "description": "",
+    "placeholders": null
+  },
+  "products_image_alt_text": {
+    "message": "Produktegenskab",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_heading": {
+    "message": "Få folk til at besøge dine produkter og tjenester",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_button_text": {
+    "message": "Se mere",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_heading": {
+    "message": "Væksttema",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_button_text": {
+    "message": "Kom i gang",
+    "description": "",
+    "placeholders": null
+  },
+  "home_logos_heading": {
+    "message": "Nogle af vores glade kunder",
+    "description": "",
+    "placeholders": null
+  },
+  "home_heading": {
+    "message": "Bygget med dig i tankerne",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_one": {
+    "message": "Hurtig opsætning",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_two": {
+    "message": "Brugervenlig",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_three": {
+    "message": "Kan tilpasses",
+    "description": "",
+    "placeholders": null
+  },
+  "home_video_heading": {
+    "message": "Se ting i handling",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_heading": {
+    "message": "Et sæt værktøjer til rådighed for dig",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_content_heading": {
+    "message": "Produktets navn",
+    "description": "",
+    "placeholders": null
+  },
+  "home_image_alt_text": {
+    "message": "Produktets navn",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_button_text": {
+    "message": "Se mere",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_content": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan velit sit amet sagittis malesuada.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_customer": {
+    "message": "Shaun Benson, marketingchef, Agriflora Inc.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_blog_post_heading": {
+    "message": "Seneste indlæg",
+    "description": "",
+    "placeholders": null
+  },
+  "home_contact": {
+    "message": "Kontakt os",
+    "description": "",
+    "placeholders": null
+  },
+  "home_button_text": {
+    "message": "Kom godt i gang",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_heading": {
+    "message": "Download din gratis digitale ressource i dag",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_p_one": {
+    "message": "Skriv en fængende indledning, som sætter scenen for indholdet i denne ressource. Nævn din læsers udfordringer eller mål, og forklar, hvordan e-bogen vil kunne løse dem.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_one_heading": {
+    "message": "Fordel nr. 1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_two_heading": {
+    "message": "Fordel nr. 2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_three_heading": {
+    "message": "Fordel nr. 3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_content": {
+    "message": "Forklar, hvad læserne vil lære",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_highlight": {
+    "message": "Husk at fremhæve fordelene:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_preface": {
+    "message": "Hvorfor vælge os?",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_heading": {
+    "message": "Vi tilbyder moderne løsninger til at skabe vækst for din virksomhed",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_content": {
+    "message": "Bliv en af de tusinder af tilfredse brugere, som har ændret deres liv med vores innovative løsninger.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_button_text": {
+    "message": "Læs mere",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_logo_heading": {
+    "message": "Betroet af førende virksomheder",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_heading": {
+    "message": "Funktionsnavn",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_content": {
+    "message": "Skriv en overbevisende tekst med fokus på fordelene, hvor du tydeligt kommunikerer værdien af det, du tilbyder, og opfordrer besøgende til at gøre noget. Fokuser på, hvordan det, du tilbyder, løser deres problemer eller opfylder deres behov.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_preface": {
+    "message": "Tag ikke bare vores ord for det",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_heading": {
+    "message": "Se funktionerne i brug med et medlem af vores team",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_button_text": {
+    "message": "Få en demonstration",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_heading": {
+    "message": "Planlæg demonstration",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_p_one": {
+    "message": "Planlæg en demonstration med et medlem af vores team, når det passer dig. Tilføj en kort beskrivelse af, hvad dine potentielle kunder kan forvente at lære.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_highlight": {
+    "message": "Vi skal drøfte:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_one_heading": {
+    "message": "Emne nr. 1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_two_heading": {
+    "message": "Emne nr. 2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_three_heading": {
+    "message": "Emne nr. 3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_content": {
+    "message": "Forklar, hvad din demonstration omfatter",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_heading": {
+    "message": "Sørg for at få plads: Tilmeld dig nu til denne eksklusive begivenhed",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_content": {
+    "message": "Tilføj en kort introduktion, der fortæller, hvad livekonferencen, webinaret eller eventet handler om, og hvorfor dit publikum bør tilmelde sig.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_button_text": {
+    "message": "Tilmeld dig nu",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_partners_content": {
+    "message": "Slut dig til os og vores fællesskab af partnere",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_preface": {
+    "message": "Om eventen",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_heading": {
+    "message": "Få indsigt fra eksperterne",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_highlight": {
+    "message": "Eventhøjdepunkter:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_one_heading": {
+    "message": "Højdepunkt nr. 1",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_two_heading": {
+    "message": "Højdepunkt nr. 2",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_three_heading": {
+    "message": "Højdepunkt nr. 3",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_content": {
+    "message": "Hvad deltagere kan forvente at få ud af det",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_heading": {
+    "message": "Hurtig statistik",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_one": {
+    "message": "20+",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_two": {
+    "message": "150+",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_three": {
+    "message": "10",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_description": {
+    "message": "Kort beskrivelse af statistikken",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_heading": {
+    "message": "Tag et smugkig på eventen",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_content": {
+    "message": "Se vores teaser for at få et lille indblik i de inspirerende taler, interaktive workshops og netværksmuligheder, der venter. Grib chancen for et smugkig på, hvad der venter – kom og få en uforglemmelig oplevelse.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_preface": {
+    "message": "Tag ikke bare vores ord for det",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_heading": {
+    "message": "Åbn op for muligheder, og reserver din plads i dag",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_button_text": {
+    "message": "Tilmeld dig nu",
+    "description": "",
+    "placeholders": null
+  },
+  "search_results_heading": {
+    "message": "Søgeresultater for \"[[search_term]]\"",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_heading": {
+    "message": "Om",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_sub_heading": {
+    "message": "Vores virksomhed",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_image_alt_text": {
+    "message": "Vores historie",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_list_heading": {
+    "message": "Seneste indlæg",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_heading": {
+    "message": "Seneste indlæg",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_heading": {
+    "message": "Få folk til at besøge dine produkter og tjenester",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_button_text": {
+    "message": "Læs mere",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_full_heading": {
+    "message": "Kontakt",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_heading": {
+    "message": "Kontakt",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_address": {
+    "message": "Hovedgaden 123, Postnummer, By",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_email": {
+    "message": "kontakt@virksomhedsnavn.com",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_phone_number": {
+    "message": "+45 1234 5678",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_heading": {
+    "message": "Produkt",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_description_heading": {
+    "message": "Beskrivelse",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_button_text": {
+    "message": "Kontakt os",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_image_alt_text": {
+    "message": "Produkt",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_heading": {
+    "message": "Galleri",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_one": {
+    "message": "Produkter",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_two": {
+    "message": "Virksomhed",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_three": {
+    "message": "Prisfastsættelse",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_four": {
+    "message": "Produktegenskab",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_five": {
+    "message": "Billedtekst",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_caption": {
+    "message": "Billedtekst",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_heading": {
+    "message": "Galleri",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_one": {
+    "message": "Produkter",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_two": {
+    "message": "Virksomhed",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_three": {
+    "message": "Prisfastsættelse",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_four": {
+    "message": "Produktegenskab",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_five": {
+    "message": "Prisfastsættelse",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_hover_message": {
+    "message": "Svævende besked",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_heading": {
+    "message": "Væksttema",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_button_text": {
+    "message": "Kontakt os",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_heading": {
+    "message": "Væksttema",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_button_text": {
+    "message": "Kom godt i gang",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_heading": {
+    "message": "Derfor er vi anderledes",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_one": {
+    "message": "Hurtig opsætning",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_two": {
+    "message": "Brugervenlig",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_three": {
+    "message": "Kan tilpasses",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_heading": {
+    "message": "Nogle af vores glade kunder",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_image_alt_text": {
+    "message": "Kundelogo",
+    "description": "",
+    "placeholders": null
+  },
+  "section_meetings_banner_heading": {
+    "message": "Book et møde for at få en gratis konsultation",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_heading": {
+    "message": "Vores team",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_one_title": {
+    "message": "CEO",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_two_title": {
+    "message": "Chief Operating Officer",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_three_title": {
+    "message": "Økonomidirektør",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_description": {
+    "message": "Fremhæv dit teammedlems unikke ekspertise, erfaring og interesser. Gør det kort, men interessant med fokus på medlemmets professionelle karriere og de værdifulde færdigheder, personen bidrager med.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_heading": {
+    "message": "Vores historie",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_image_alt_text": {
+    "message": "Vores historie",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_button_text": {
+    "message": "Læs mere",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_heading": {
+    "message": "Abonnementer inkluderer",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_description_heading": {
+    "message": "Produktegenskab",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_image_alt_text": {
+    "message": "Abonnementfunktion",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_heading": {
+    "message": "Abonner på vores nyhedsbrev!",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_subheading": {
+    "message": "Tilmeld dig i dag for at holde dig orienteret om sidste nyt",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_heading": {
+    "message": "Et sæt værktøjer til rådighed for dig",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_card_heading": {
+    "message": "Få folk til at besøge dine produkter og tjenester",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_button_text": {
+    "message": "Kontakt os",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_image_alt_text": {
+    "message": "Service",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_heading": {
+    "message": "Abonnementer og priser",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_heading": {
+    "message": "Starter",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_price": {
+    "message": "50 USD/måned",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_content": {
+    "message": "Køb starter nu",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_button_text": {
+    "message": "Køb starter nu",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_heading": {
+    "message": "Professional",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_price": {
+    "message": "200 USD/måned",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_content": {
+    "message": "Køb Professional nu",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_button_text": {
+    "message": "Køb Professional nu",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_heading": {
+    "message": "Enterprise",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_price": {
+    "message": "600 USD/måned",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_content": {
+    "message": "Køb Enterprise nu",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_button_text": {
+    "message": "Køb Enterprise nu",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_sub_heading": {
+    "message": "Nogle nøglefunktioner",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_heading": {
+    "message": "Produkter",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_image_alt_text": {
+    "message": "Vores historie",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_description_heading": {
+    "message": "Produktets navn",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_button_text": {
+    "message": "Kontakt os",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_heading": {
+    "message": "Services",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_description_heading": {
+    "message": "Servicenavn",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_one": {
+    "message": "Vores historie",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_two": {
+    "message": "Vores værdier",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_three": {
+    "message": "Vores historie",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_button_text": {
+    "message": "Kontakt os",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_heading": {
+    "message": "Anbefaling",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_team_member_title_one": {
+    "message": "VP Product",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_heading": {
+    "message": "Se, hvad folk siger",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_one": {
+    "message": "VP Product",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_two": {
+    "message": "SVP Sales",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_three": {
+    "message": "CMO",
+    "description": "",
+    "placeholders": null
+  },
+  "section_video_heading": {
+    "message": "Se ting i handling",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading": {
+    "message": "Tjenester",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_one_alt": {
+    "message": "To personer ved en computer",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_two_alt": {
+    "message": "To personer kigger over en telefon",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_three_alt": {
+    "message": "To personer arbejder med post-its på en væg",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_one": {
+    "message": "Base",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_two": {
+    "message": "Pro",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_three": {
+    "message": "Enterprise",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_button_text": {
+    "message": "Få mere at vide",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_description": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_heading": {
+    "message": "Tjenester",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_image_alt": {
+    "message": "Mennesker, der sidder på trappe",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_heading": {
+    "message": "Udvikling af brandidentitet",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_content": {
+    "message": "Vores team skaber en unik og mindeværdig brandidentitet, som fanger essensen af din virksomhed. Vi laver et fængende logo, vælger en harmonisk farvepalet og udvikler en konsekvent visuel stil, der får dit brand til at skille sig ud.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_image_alt": {
+    "message": "Unge erhvervsfolk, der ser på bærbar",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_heading": {
+    "message": "Forbedring af UX/UI-design",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_content": {
+    "message": "Få større brugertilfredshed og engagement med vores ekspertise i UX/UI-design. Vi laver en grundig analyse af dine digitale produkter, identificerer svagheder og implementerer løsninger med brugeren i centrum for at forbedre brugeroplevelsen generelt.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_image_alt": {
+    "message": "Ung marketingmedarbejder, der taler på en gårdsplads med tablet i hånden",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_heading": {
+    "message": "Design af marketingmateriale",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_content": {
+    "message": "Optimer din marketingindsats med spektakulært materiale, der efterlader et varigt indtryk. Lige fra brochurer og pamfletter til grafik på sociale medier kan vi designe materiale, der fanger opmærksomheden hos din målgruppe og skaber resultater.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_button_text": {
+    "message": "Få mere at vide",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_banner_image_alt": {
+    "message": "Gruppe med smilende mennesker, der ser lige mod kameraet",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_heading": {
+    "message": "Fødevarehjælp i lokalsamfundet",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_content_area_one": {
+    "message": "Vær med til at gøre en forskel i vores lokalsamfund ved at støtte vores lokale fødevarehjælp. En donation fra dig er med til at give essentielle fødevarer til personer og familier, der er i en usikker situation lige her i vores lokalsamfund.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_one_alt": {
+    "message": "To personer, der ser på post-its på rude",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_two_alt": {
+    "message": "Telefon, der bliver holdt op ved en betalingsbehandler",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_three_alt": {
+    "message": "Mand, der kører i en varevogn med to pakker på passagersædet",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_heading": {
+    "message": "Giv donation",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_message_and_amount": {
+    "message": "Anbefalet beløb: 15,00 USD",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_one_text": {
+    "message": "Doner 15,00 USD",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_two_text": {
+    "message": "Brugertilpasset beløb",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_three_text": {
+    "message": "Del",
+    "description": "",
+    "placeholders": null
+  }
+}

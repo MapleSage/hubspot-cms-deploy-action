@@ -1,0 +1,1662 @@
+{
+  "partial_header_skip_to_content": {
+    "message": "বিষয়বস্তুতে চলে যান",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_address": {
+    "message": "123 প্রধান রাস্তা, শহর, রাজ্য 11111",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_copyright": {
+    "message": "কপিরাইট © {{ year }}, {{ site_settings.company_name }}",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_one": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_two": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_three": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "about_banner_heading": {
+    "message": "আমাদের সম্পর্কে",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_one": {
+    "message": "আমাদের স্টোরি",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_two": {
+    "message": "আমাদের মূল্যবোধ",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_three": {
+    "message": "আমাদের ইতিহাস",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_four": {
+    "message": "আমাদের টিম",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_five": {
+    "message": "আমাদের সংস্কৃতি",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_six": {
+    "message": "কোম্পানির খবর",
+    "description": "",
+    "placeholders": null
+  },
+  "about_image_alt_text": {
+    "message": "কোম্পানি",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_one_title": {
+    "message": "প্রধান নির্বাহী কর্মকর্তা এবং প্রতিষ্ঠাতা",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_two_title": {
+    "message": "প্রধান পরিচালন কর্মকর্তা",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_three_title": {
+    "message": "মুখ্য প্রযুক্তিবিদ্যা অফিসার",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_four_title": {
+    "message": "প্রধান ফিন্যান্সিয়াল অফিসার",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_five_title": {
+    "message": "প্রধান ডিজাইন অফিসার",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_six_title": {
+    "message": "চিফ পিপল অফিসার",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_description": {
+    "message": "আপনার টিমের সদস্যের অনন্য দক্ষতা, অভিজ্ঞতা এবং আগ্রহগুলি হাইলাইট করুন। তাদের পেশা সংক্রান্ত যাত্রা এবং তারা যে মূল্যবান দক্ষতাগুলি সামনে নিয়ে আসেন তা প্রদর্শন করে এটি সংক্ষিপ্ত কিন্তু আকর্ষক রাখুন।",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_index_heading": {
+    "message": "ব্লগ",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_heading": {
+    "message": "ব্লগ মন্তব্য",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_heading": {
+    "message": "গ্রোথ কনফারেন্স",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_date": {
+    "message": "সেপ্টেম্বর 5 - 8",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_text": {
+    "message": "টিকিট নিন",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_content": {
+    "message": "টিকিট নিন",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_one": {
+    "message": "এখন কিনুন",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_two": {
+    "message": "টিকিট কিনুন",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_one": {
+    "message": "সম্পর্কে",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_two": {
+    "message": "বক্তাদের প্যানেল",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_three": {
+    "message": "স্পনসর",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_four": {
+    "message": "আপনার ভিডিওর জন্য একটি ক্যাচফ্রেজ যোগ করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_five": {
+    "message": "প্রশংসাপত্র",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_six": {
+    "message": "টিকিট",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_one": {
+    "message": "গ্রোথ কনফারেন্স হল একটি টেমপ্লেট যা গ্রাহকদের সেই মূল্য দেখানোর জন্য ব্যবহার করা যেতে পারে যা আপনার প্রতিষ্ঠানের ইভেন্টের সম্মেলন তাদের প্রদান করতে পারে। আপনার সম্মেলনের থিম এবং কেন গ্রাহকদের টিকিট কেনা উচিত বর্ণনা করুন।",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_two": {
+    "message": "এখানে আপনার বক্তাদের একটি সংক্ষিপ্ত বিবরণ যোগ করুন। কেন আপনার শ্রোতাদের তাদের কাছ থেকে শোনা উচিত? এমন কি কোনো থিম আছে যা তারা সকলেই তাদের আলোচনায় কভার করবে? কী তাদের অনন্য করে তোলে? কেন এই বক্তাদের আপনি প্রদর্শন করতে চান তা পাঠককে বোঝাতে এই স্থানটি ব্যবহার করুন৷",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_three": {
+    "message": "এখানে আপনার বক্তাদের জীবনী সংক্ষিপ্ত করুন। আপনি তাদের উপস্থাপনা বিষয় সম্পর্কে একটি বাক্য যোগ করতে পারেন।",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_four": {
+    "message": "&ldquo;আপনার ইভেন্টটি কতটা দুর্দান্ত সে সম্পর্কে সামাজিক প্রমাণ দেওয়ার এটি আপনার সুযোগ। প্রশংসাপত্র যোগ করুন যা লোকেদের আপনার ইভেন্টের মূল্য বুঝতে সাহায্য করে৷&rdquo;",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_five": {
+    "message": "আপনার কনফারেন্সের থিম বর্ণনা করুন, কনফারেন্সে কী ঘটছে সে সম্পর্কে আপনার সম্ভাব্যদের ধারণা দিন এবং কেন তাদের টিকিট কেনা উচিত তা বলুন। স্পর্শহীনভাবে আপনার ইভেন্টে টিকিট বিক্রি করতে এই টেমপ্লেটগুলি ব্যবহার করুন।",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_heading": {
+    "message": "সাধারণ ভর্তি",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_price": {
+    "message": "$199",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_heading": {
+    "message": "ভিআইপি",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_price": {
+    "message": "$449",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_one": {
+    "message": "আপনার গ্রাহক এই স্তরটি ক্রয় করলে যে সমস্ত উত্তেজনাপূর্ণ সুবিধা পাবেন তার তালিকা করুন।",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_two": {
+    "message": "সম্মেলনে তাদের জন্য কোন নেটওয়ার্কিং এবং শেখার সুযোগ রয়েছে?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_three": {
+    "message": "সম্মেলনের কোন অংশ তারা অ্যাক্সেস করতে পারেন?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_four": {
+    "message": "তাদের কি কোনো রেকর্ড করা প্রোগ্রামিং-এর অ্যাক্সেস আছে?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_five": {
+    "message": "তাদের খাদ্য, পরিবহন, এবং বাসস্থান বিকল্প কি?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_six": {
+    "message": "আপনার ভিআইপি গ্রাহকরা এই স্তরটি কিনলে যে সমস্ত একচেটিয়া সুবিধা পাবেন তার সমস্ত তালিকা করুন৷",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_one": {
+    "message": "CEO এবং প্রতিষ্ঠাতা",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_two": {
+    "message": "প্রধান পরিচালন অফিসার",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_three": {
+    "message": "মুখ্য প্রযুক্তিবিদ্যা অফিসার",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_content": {
+    "message": "টিকিট কিনুন",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_image_alt_text": {
+    "message": "স্পিকারের ছবি",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_one": {
+    "message": "আমাদের যোগাযোগ করুন ",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_two": {
+    "message": "আমাদের অবস্থানসমূহ",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_three": {
+    "message": "যোগাযোগ করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_four": {
+    "message": "প্রায়শই জিজ্ঞাসিত প্রশ্নাবলী",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_heading": {
+    "message": "কনটেন্ট লাইব্রেরি",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_content": {
+    "message": "আপনাকে শিখতে ও  উন্নতি করতে সাহায্য করার জন্য রিসোর্স এবং ডিজিটাল অ্যাসেট একটি লাইব্রেরি।",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_one": {
+    "message": "<h3>সানফ্রান্সিসকো</h3><p>3870 টুইন ওকস ড্রাইভ<br>সান ফ্রান্সিসকো, CA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_two": {
+    "message": "<h3>শিকাগো</h3><p>2140 রোগুস্কি রোড<br>শিকাগো, আইএল</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_three": {
+    "message": "<h3>বোস্টন</h3><p>123 ওয়েভারলি প্লেস<br>বোস্টন, এমএ</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_question": {
+    "message": "অ্যাকর্ডিয়ন টাইটেল",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_heading": {
+    "message": "পেজ পাওয়া যায়নি",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_description": {
+    "message": "আপনি যে পেজটি খুঁজছিলেন আমরা তা খুঁজে পাচ্ছি না।",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_button": {
+    "message": "হোমপেজে যান",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_heading": {
+    "message": "এই পেজ কাজ করছে না",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_description": {
+    "message": "একটি অভ্যন্তরীণ সার্ভার ত্রুটি ঘটেছে, কিন্তু আমরা কেসটা দেখছি!",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_button": {
+    "message": "হোমপেজে যান",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_heading": {
+    "message": "দুঃখিত, আপনার অ্যাক্সেস নেই",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_description": {
+    "message": "আপনার এই পেজটি দেখার অনুমতি নেই। প্রশ্নের জন্য সাইটের অ্যাডমিনিস্ট্রেটরের সাথে যোগাযোগ করুন।",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_button": {
+    "message": "হোমপেজে যান",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_heading": {
+    "message": "সাইন ইন",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_subheading": {
+    "message": "আপনি যে পেজটি দেখার চেষ্টা করছেন তা শুধুমাত্র নিবন্ধিত ব্যবহারকারীদের জন্য উপলভ্য।",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_email": {
+    "message": "ইমেল",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_password": {
+    "message": "পাসওয়ার্ড",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_remember_me": {
+    "message": "আমাকে মনে রেখো",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_reset_password": {
+    "message": "পাসওয়ার্ড ভুলে গেছেন কি?",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_submit": {
+    "message": "সাইন ইন",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_show_password": {
+    "message": "দেখান",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_contact_admin": {
+    "message": "সমস্যা হচ্ছে? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">সাইটের অ্যাডমিনিস্ট্রেটরের সাথে যোগাযোগ করুন</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_heading": {
+    "message": "আপনি সাইন আউট হয়ে গেছেন",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_button": {
+    "message": "আবার সাইন ইন করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_alt": {
+    "message": "অথবা <a href=\"{{ '//' ~ request.domain }}\">হোম পেজে</a> ফিরে যান",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_heading": {
+    "message": "আপনার পাসওয়ার্ড সেট আপ করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_subheading": {
+    "message": "স্বাগত! আপনার পাসওয়ার্ড সেট আপ করে আপনার নিবন্ধন সম্পূর্ণ করুন।",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_email": {
+    "message": "ইমেল",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_confirm_password": {
+    "message": "পাসওয়ার্ড নিশ্চিত করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_password": {
+    "message": "পাসওয়ার্ড",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_save_password": {
+    "message": "পাসওয়ার্ড সেভ করা হবে",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_show_password": {
+    "message": "দেখান",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_contact_admin": {
+    "message": "সমস্যা হচ্ছে? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">সাইটের অ্যাডমিনিস্ট্রেটরের সাথে যোগাযোগ করুন</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_heading": {
+    "message": "আপনার ইমেল ঠিকানা নিশ্চিত করা হয়েছে",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_description": {
+    "message": "আপনার ইমেল ঠিকানা যাচাই করার জন্য ধন্যবাদ। আপনি এখন আপনার অ্যাকাউন্টে সাইন ইন করতে এবং আপনার এক্সক্লুসিভ কন্টেন্ট অ্যাক্সেস করতে পারবেন।",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_button": {
+    "message": "সাইন ইন",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_contact_admin": {
+    "message": "সমস্যা হচ্ছে? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">সাইটের অ্যাডমিনিস্ট্রেটরের সাথে যোগাযোগ করুন</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_heading": {
+    "message": "নতুন পাসওয়ার্ড তৈরি করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_subheading": {
+    "message": "আপনার নতুন পাসওয়ার্ড আপনার পূর্বে ব্যবহৃত পাসওয়ার্ড থেকে আলাদা হতে হবে।",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_new_password": {
+    "message": "নতুন পাসওয়ার্ড",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_confirm_password": {
+    "message": "নতুন পাসওয়ার্ড নিশ্চিত করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_save_password": {
+    "message": "পাসওয়ার্ড সেভ করা হবে",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_show_password": {
+    "message": "দেখান",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_contact_admin": {
+    "message": "সমস্যা হচ্ছে? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">সাইটের অ্যাডমিনিস্ট্রেটরের সাথে যোগাযোগ করুন</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_heading": {
+    "message": "আপনার পাসওয়ার্ড রিসেট করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_subheading": {
+    "message": "আপনি যে ইমেল অ্যাড্রেসটি নিবন্ধন করতে ব্যবহার করেছিলেন তা লিখুন এবং আমরা আপনাকে আপনার পাসওয়ার্ড পুনরায় সেট করার জন্য একটি লিঙ্ক সহ একটি ইমেল পাঠাব।",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_email": {
+    "message": "ইমেল",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_submit": {
+    "message": "রিসেট করার ইমেল পাঠানো হবে",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_alt": {
+    "message": "এটা কি আপনার কাছে ফিরে এসেছে? <a href=\"/_hcms/mem/login\">সাইন ইন করুন</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_contact_admin": {
+    "message": "সমস্যা হচ্ছে? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">সাইটের অ্যাডমিনিস্ট্রেটরের সাথে যোগাযোগ করুন</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_heading": {
+    "message": "আপনার ইমেল ঠিকানা যাচাই করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_description": {
+    "message": "সাইন আপ করার জন্য ধন্যবাদ! অনুগ্রহ করে আপনার ইমেল দেখুন এবং আপনার নিবন্ধীকরণ সম্পূর্ণ করার জন্য নিশ্চিতকরণ লিঙ্কটির ওপর ক্লিক করুন।",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_contact_admin": {
+    "message": "সমস্যা হচ্ছে? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">সাইটের অ্যাডমিনিস্ট্রেটরের সাথে যোগাযোগ করুন</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_one": {
+    "message": "সম্পর্কে",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two": {
+    "message": "পেড কন্সালটেশনের মাধ্যমে আপনার ব্যবসা বৃদ্ধি করা",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two_update": {
+    "message": "পেড কন্সালটেশনের মাধ্যমে আপনার ব্যবসা বৃদ্ধি করা",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_three": {
+    "message": "আপনার কাজের জন্য টুলের একটি স্যুট",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_heading": {
+    "message": "পরিষেবা",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_description": {
+    "message": "আপনি যে পরিষেবাটি প্রদান করেন সেটির সারসংক্ষেপ দিন। আপনি আপনার গ্রাহকদের যে মান প্রদান করতে পারেন যেটির সম্পর্কে একটি মেসেজ যোগ করুন।",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_four": {
+    "message": "প্রশংসাপত্র",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_one": {
+    "message": "একটি সাবটাইটেল যোগ করুন যা ব্যাখ্যা করবে কিভাবে আপনি আপনার গ্রাহকদের মান প্রদান করবেন",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_two": {
+    "message": "আপনি আপনার কোম্পানিতে যে কাজ করেন সে সম্পর্কে একটি সংক্ষিপ্ত বিবরণ যোগ করুন। আপনার বিশেষীকরণ গুছিয়ে আনার চেষ্টা করুন যাতে আপনি আপনার ক্লায়েন্টদের মনোযোগ আকর্ষণ করতে পারেন। পেড পরামর্শের মাধ্যমে আপনি যে মান প্রদান করতে পারেন সে সম্পর্কে কথা বলুন।",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_list_content": {
+    "message": "&ldquo;আপনার পরিষেবার প্রমাণ দিতে একটি প্রশংসাপত্র যোগ করুন৷ আপনার বর্তমান গ্রাহকরা আপনি যা অফার করেন তা নিয়ে উত্তেজিত কেন?&rdquo;",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_image_alt_text": {
+    "message": "গ্রোথ থিম প্লেসহোল্ডার ইমেজ",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_button_text": {
+    "message": "একটি পরামর্শ বুক করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_heading": {
+    "message": "পাসওয়ার্ড প্রয়োজন ",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_subheading": {
+    "message": "এই পেজটি দেখতে অনুগ্রহ করে আপনার পাসওয়ার্ড লিখুন।",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_one": {
+    "message": "মূল্য নির্ধারণ",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_plans_and_pricing_heading": {
+    "message": "প্ল্যান এবং মূল্য",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_two": {
+    "message": "প্রায়শই জিজ্ঞাসিত প্রশ্নাবলী",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_heading": {
+    "message": "সব প্ল্যান অন্তর্ভুক্ত",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_content_heading": {
+    "message": "পণ্যের বৈশিষ্ট্য",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_heading": {
+    "message": "লোকেদের আপনার পণ্য এবং পরিষেবাগুলির দিকে চালিত করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_button_text": {
+    "message": "আরও জানুন",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_question": {
+    "message": "অ্যাকর্ডিয়ন টাইটেল",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_one": {
+    "message": "পণ্য",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_two": {
+    "message": "আপনাকে মাথায় রেখেই তৈরি করা হয়েছে",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_heading": {
+    "message": "তাছাড়া আরও বেশি",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_content_heading": {
+    "message": "পণ্যের বৈশিষ্ট্য",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_one": {
+    "message": "দ্রুত শুরু করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_two": {
+    "message": "সরল এবং ব্যবহার করা সহজ",
+    "description": "",
+    "placeholders": null
+  },
+  "products_image_alt_text": {
+    "message": "পণ্যের বৈশিষ্ট্য",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_heading": {
+    "message": "লোকেদের আপনার পণ্য এবং পরিষেবাগুলির দিকে চালিত করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_button_text": {
+    "message": "আরও জানুন",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_heading": {
+    "message": "গ্রোথ থিম",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_button_text": {
+    "message": "শুরু করা যাক",
+    "description": "",
+    "placeholders": null
+  },
+  "home_logos_heading": {
+    "message": "আমাদের কিছু খুশি গ্রাহক",
+    "description": "",
+    "placeholders": null
+  },
+  "home_heading": {
+    "message": "আপনাকে মাথায় রেখেই তৈরি করা হয়েছে",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_one": {
+    "message": "দ্রুত সেটআপ",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_two": {
+    "message": "ব্যবহার করা সহজ",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_three": {
+    "message": "কাস্টমাইজযোগ্য",
+    "description": "",
+    "placeholders": null
+  },
+  "home_video_heading": {
+    "message": "জিনিসগুলিকে কাজে দেখুন",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_heading": {
+    "message": "আপনার কাজের জন্য টুলের একটি স্যুট",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_content_heading": {
+    "message": "পণ্যের নাম",
+    "description": "",
+    "placeholders": null
+  },
+  "home_image_alt_text": {
+    "message": "পণ্যের নাম",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_button_text": {
+    "message": "আরও জানুন",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_content": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan velit sit amet sagittis malesuada.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_customer": {
+    "message": "Shaun Benson, Marketing Manager, Agriflora Inc.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_blog_post_heading": {
+    "message": "সাম্প্রতিক পোস্ট",
+    "description": "",
+    "placeholders": null
+  },
+  "home_contact": {
+    "message": "আমাদের যোগাযোগ করুন ",
+    "description": "",
+    "placeholders": null
+  },
+  "home_button_text": {
+    "message": "শুরু করা যাক",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_heading": {
+    "message": "আপনার বিনামূল্যের ডিজিটাল রিসোর্স আজ ডাউনলোড করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_p_one": {
+    "message": "একটি চিত্তাকর্ষক ভূমিকা লিখুন যা এই রিসোর্সের বিষয়বস্তুর জন্য পর্যায় সেট করে। আপনার পাঠকের চ্যালেঞ্জ বা লক্ষ্যগুলি সম্বোধন করুন এবং ব্যাখ্যা করুন কীভাবে ইবুক তাদের সমাধান করতে সাহায্য করবে।",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_one_heading": {
+    "message": "বেনিফিট #1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_two_heading": {
+    "message": "বেনিফিট #2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_three_heading": {
+    "message": "বেনিফিট #3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_content": {
+    "message": "পাঠকরা কী শিখবে তা ব্যাখ্যা করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_highlight": {
+    "message": "বেনিফিটগুলি হাইলাইট করার বিষয়টি মনে রাখবেন:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_preface": {
+    "message": "কেন আমাদের নির্বাচন করেছেন?",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_heading": {
+    "message": "আমরা আপনার ব্যবসা বৃদ্ধির জন্য আধুনিক সমাধান প্রদান করি",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_content": {
+    "message": "প্রচুর সন্তুষ্ট ব্যবহারকারীদের সাথে যোগ দিন যারা আমাদের উদ্ভাবনী সমাধান প্রদান করে তাদের জীবন পরিবর্তন করেছেন।",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_button_text": {
+    "message": "আরও জানুন",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_logo_heading": {
+    "message": "নেতৃস্থানীয় কোম্পানিগুলি বিশ্বাস রেখেছে",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_heading": {
+    "message": "বৈশিষ্ট্যের নাম",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_content": {
+    "message": "প্ররোচিতমূলক, সুবিধা-চালিত কপি লিখুন যা আপনার অফারের মূল্য স্পষ্টভাবে জানায় এবং দর্শকদের পদক্ষেপ নিতে উত্সাহিত করে। কীভাবে আপনার অফার তাদের সমস্যা সমাধান করে বা তাদের চাহিদা পূরণ করে তার উপর ফোকাস করুন।",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_preface": {
+    "message": "এটার জন্য শুধু আমাদের শব্দই গ্রহণ করবেন না",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_heading": {
+    "message": "আমাদের দলের সদস্যদের সঙ্গে কাজ করার এই বৈশিষ্ট্যগুলি দেখুন",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_button_text": {
+    "message": "ডেমো দেখুন",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_heading": {
+    "message": "একটি ডেমো নির্ধারণ করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_p_one": {
+    "message": "আপনার সুবিধামত আমাদের দলের একজন সদস্যের সাথে একটি ডেমো নির্ধারণ করুন। আপনার পূর্বানুমানগুলি সম্বন্ধে কী শেখা যায় তার একটি সংক্ষিপ্ত বিবরণ যোগ করুন।",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_highlight": {
+    "message": "আমরা আলোচনা করব:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_one_heading": {
+    "message": "টপিক #1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_two_heading": {
+    "message": "টপিক #2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_three_heading": {
+    "message": "টপিক #3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_content": {
+    "message": "আপনার ডেমোতে কি অন্তর্ভুক্ত থাকবে তা ব্যাখ্যা করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_heading": {
+    "message": "আপনার স্থান সুরক্ষিত করুন: এই স্বতন্ত্র ইভেন্টের জন্য এখনই নিবন্ধন করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_content": {
+    "message": "লাইভ কনফারেন্স, ওয়েবিনার বা ইভেন্টটি কী এবং কেন আপনার দর্শকদের নিবন্ধন করা উচিত তা অন্তর্ভুক্ত করে একটি সংক্ষিপ্ত ভূমিকা যুক্ত করুন।",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_button_text": {
+    "message": "এখন নিবন্ধন করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_partners_content": {
+    "message": "আমাদের পার্টনারদের কমিউনিটিতে আমাদের সাথে যোগ দিন",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_preface": {
+    "message": "ঘটনা সম্পর্কে",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_heading": {
+    "message": "শীর্ষ বিশেষজ্ঞদের কাছ থেকে অন্তর্দৃষ্টি লাভ করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_highlight": {
+    "message": "ইভেন্ট হাইলাইটগুলি:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_one_heading": {
+    "message": "হাইলাইট #1",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_two_heading": {
+    "message": "হাইলাইট #2",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_three_heading": {
+    "message": "হাইলাইট #3",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_content": {
+    "message": "অংশগ্রহণকারীরা কি প্রাপ্তির আশা করতে পারেন",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_heading": {
+    "message": "দ্রুত পরিসংখ্যান",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_one": {
+    "message": "20+",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_two": {
+    "message": "150+",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_three": {
+    "message": "10",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_description": {
+    "message": "পরিসংখ্যানের ক্ষুদ্র বিবরণ",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_heading": {
+    "message": "ইভেন্টের এক ঝলক দেখুন",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_content": {
+    "message": "অনুপ্রেরণামূলক কীনোট, ইন্টারেক্টিভ ওয়ার্কশপ, এবং নেটওয়ার্কিং সুযোগের জন্য কি অপেক্ষা করছে তার এক ঝলকের জন্য আমাদের টিজার ভিডিওটি দেখুন। কি হতে চলেছে সেটির এই প্রিভিউ দেখা বাদ দেবেন না – একটি অবিস্মরণীয় অভিজ্ঞতার জন্য আমাদের সাথে যোগ দিন।",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_preface": {
+    "message": "এটার জন্য শুধু আমাদের শব্দই গ্রহণ করবেন না",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_heading": {
+    "message": "সুযোগগুলি আনলক করুন এবং আজই আপনার জায়গাটি সংরক্ষণ করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_button_text": {
+    "message": "এখন নিবন্ধন করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "search_results_heading": {
+    "message": "\"[[search_term]]\"-এর জন্য সার্চের ফলাফল",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_heading": {
+    "message": "সম্পর্কে",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_sub_heading": {
+    "message": "আমাদের কোম্পানি",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_image_alt_text": {
+    "message": "আমাদের স্টোরি",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_list_heading": {
+    "message": "সাম্প্রতিক পোস্ট",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_heading": {
+    "message": "সাম্প্রতিক পোস্ট",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_heading": {
+    "message": "লোকেদের আপনার পণ্য এবং পরিষেবাগুলির দিকে চালিত করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_button_text": {
+    "message": "আরও জানুন",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_full_heading": {
+    "message": "যোগাযোগ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_heading": {
+    "message": "যোগাযোগ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_address": {
+    "message": "123 প্রধান রাস্তা, শহর, রাজ্য 11111",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_email": {
+    "message": "contact@businessname.com",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_phone_number": {
+    "message": "+1 234-567-8901",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_heading": {
+    "message": "পণ্য",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_description_heading": {
+    "message": "বর্ননা",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_button_text": {
+    "message": "আমাদের যোগাযোগ করুন ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_image_alt_text": {
+    "message": "পণ্য",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_heading": {
+    "message": "গ্যালারি",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_one": {
+    "message": "পণ্য",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_two": {
+    "message": "কোম্পানি",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_three": {
+    "message": "মূল্য নির্ধারণ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_four": {
+    "message": "পণ্যের বৈশিষ্ট্য",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_five": {
+    "message": "ছবির ক্যাপশন",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_caption": {
+    "message": "ছবির ক্যাপশন",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_heading": {
+    "message": "গ্যালারি",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_one": {
+    "message": "পণ্য",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_two": {
+    "message": "কোম্পানি",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_three": {
+    "message": "মূল্য নির্ধারণ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_four": {
+    "message": "পণ্যের বৈশিষ্ট্য",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_five": {
+    "message": "মূল্য নির্ধারণ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_hover_message": {
+    "message": "হোভার করা মেসেজ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_heading": {
+    "message": "গ্রোথ থিম",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_button_text": {
+    "message": "আমাদের যোগাযোগ করুন ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_heading": {
+    "message": "গ্রোথ থিম",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_button_text": {
+    "message": "শুরু করা যাক",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_heading": {
+    "message": "কেন আমরা আলাদা",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_one": {
+    "message": "দ্রুত সেটআপ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_two": {
+    "message": "ব্যবহার করা সহজ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_three": {
+    "message": "কাস্টমাইজযোগ্য",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_heading": {
+    "message": "আমাদের কিছু খুশি গ্রাহক",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_image_alt_text": {
+    "message": "গ্রাহক লোগো",
+    "description": "",
+    "placeholders": null
+  },
+  "section_meetings_banner_heading": {
+    "message": "একটি বিনামূল্যে পরামর্শ পেতে একটি মিটিং বুক করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_heading": {
+    "message": "আমাদের টিম",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_one_title": {
+    "message": "CEO",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_two_title": {
+    "message": "প্রধান পরিচালন অফিসার",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_three_title": {
+    "message": "প্রধান ফিন্যান্সিয়াল অফিসার",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_description": {
+    "message": "আপনার টিমের সদস্যের অনন্য দক্ষতা, অভিজ্ঞতা এবং আগ্রহগুলি হাইলাইট করুন। তাদের পেশা সংক্রান্ত যাত্রা এবং তারা যে মূল্যবান দক্ষতাগুলি সামনে নিয়ে আসেন তা প্রদর্শন করে এটি সংক্ষিপ্ত কিন্তু আকর্ষক রাখুন।",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_heading": {
+    "message": "আমাদের স্টোরি",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_image_alt_text": {
+    "message": "আমাদের স্টোরি",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_button_text": {
+    "message": "আরও জানুন",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_heading": {
+    "message": "প্লানের অন্তর্ভুক্ত",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_description_heading": {
+    "message": "পণ্যের বৈশিষ্ট্য",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_image_alt_text": {
+    "message": "প্ল্যান বৈশিষ্ট্য",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_heading": {
+    "message": "আমাদের নিউজলেটারে সাবস্ক্রাইব করুন!",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_subheading": {
+    "message": "সাম্প্রতিক আপডেট সম্পর্কে লুপে থাকার জন্য সাইন আপ করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_heading": {
+    "message": "আপনার কাজের জন্য সরঞ্জামের একটি স্যুট",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_card_heading": {
+    "message": "লোকেদের আপনার পণ্য এবং পরিষেবাগুলির দিকে চালিত করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_button_text": {
+    "message": "আমাদের যোগাযোগ করুন ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_image_alt_text": {
+    "message": "পরিষেবা",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_heading": {
+    "message": "প্ল্যান এবং মূল্য",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_heading": {
+    "message": "স্টার্টার",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_price": {
+    "message": "$50/মাস",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_content": {
+    "message": "এখনই স্টার্টার কিনুন",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_button_text": {
+    "message": "এখনই স্টার্টার কিনুন",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_heading": {
+    "message": "পেশাদার",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_price": {
+    "message": "$200/মাস",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_content": {
+    "message": "এখন পেশাদার কিনুন",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_button_text": {
+    "message": "এখন পেশাদার কিনুন",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_heading": {
+    "message": "এন্টারপ্রাইজ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_price": {
+    "message": "$600/মাস",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_content": {
+    "message": "এখন এন্টারপ্রাইজ কিনুন",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_button_text": {
+    "message": "এখন এন্টারপ্রাইজ কিনুন",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_sub_heading": {
+    "message": "কিছু মূল বৈশিষ্ট্য",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_heading": {
+    "message": "পণ্য",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_image_alt_text": {
+    "message": "আমাদের স্টোরি",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_description_heading": {
+    "message": "পণ্যের নাম",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_button_text": {
+    "message": "আমাদের যোগাযোগ করুন ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_heading": {
+    "message": "পরিষেবা",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_description_heading": {
+    "message": "পরিষেবার নাম",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_one": {
+    "message": "আমাদের গল্প",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_two": {
+    "message": "আমাদের মূল্যবোধ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_three": {
+    "message": "আমাদের ইতিহাস",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_button_text": {
+    "message": "আমাদের যোগাযোগ করুন ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_heading": {
+    "message": "প্রশংসাপত্র",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_team_member_title_one": {
+    "message": "সহ-সভাপতি পণ্য",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_heading": {
+    "message": "দেখুন মানুষ কী বলছে",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_one": {
+    "message": "সহ-সভাপতি পণ্য",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_two": {
+    "message": "ঊর্ধ্বতন সহ-সভাপতি, সেলস",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_three": {
+    "message": "প্রধান বিপণন কর্মকর্তা",
+    "description": "",
+    "placeholders": null
+  },
+  "section_video_heading": {
+    "message": "জিনিসগুলিকে কাজে দেখুন",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading": {
+    "message": "পরিষেবা",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_one_alt": {
+    "message": "কম্পিউটারে দুই জন ব্যক্তি",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_two_alt": {
+    "message": "দুজন লোক ফোনের দিকে তাকিয়ে আছে",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_three_alt": {
+    "message": "ওয়ালে স্টিকি নোট নিয়ে কাজ করছেন দুই জন ব্যক্তি",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_one": {
+    "message": "বেস",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_two": {
+    "message": "প্রো",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_three": {
+    "message": "এন্টারপ্রাইজ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_button_text": {
+    "message": "আরো জানুন",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_description": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_heading": {
+    "message": "পরিষেবা",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_image_alt": {
+    "message": "সিঁড়িতে বসে থাকা মানুষগুলো",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_heading": {
+    "message": "ব্র্যান্ড পরিচয় উন্নয়ন",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_content": {
+    "message": "আমাদের টিম একটি অনন্য এবং স্মরণীয় ব্র্যান্ড পরিচয় তৈরি করবে যা আপনার কোম্পানির সারমর্মকে ক্যাপচার করবে। আমরা একটি আকর্ষণীয় লোগো তৈরি করব, একটি সুসংগত রঙের প্যালেট নির্বাচন করব এবং আপনার ব্র্যান্ডকে আলাদা করতে একটি সামঞ্জস্যপূর্ণ ভিজ্যুয়াল স্টাইল তৈরি করব।",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_image_alt": {
+    "message": "তরুণ ব্যবসা পেশাদাররা ল্যাপটপের দিকে তাকিয়ে আছে",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_heading": {
+    "message": "UX/UI ডিজাইন এনহ্যান্সমেন্ট",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_content": {
+    "message": "আমাদের UX/UI ডিজাইন দক্ষতার সাথে ব্যবহারকারীর সন্তুষ্টি এবং নিয়োজিত থাকাকে উন্নত করুন। আমরা আপনার ডিজিটাল পণ্যগুলির একটি পুঙ্খানুপুঙ্খ বিশ্লেষণ পরিচালনা করব, ব্যথা বিন্দুগুলি চিহ্নিত করব এবং সামগ্রিক ব্যবহারকারীর অভিজ্ঞতা উন্নত করতে ব্যবহারকারী-কেন্দ্রিক সমাধানগুলি প্রয়োগ করব।",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_image_alt": {
+    "message": "তরুণ মার্কেটিং পেশাদার হাতে ট্যাবলেট নিয়ে চত্বরে কথা বলছেন",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_heading": {
+    "message": "বিপণন কোল্যাটারাল ডিজাইন",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_content": {
+    "message": "অত্যাশ্চর্য কোল্যাটারাল দিয়ে আপনার বিপণন প্রচেষ্টাকে উন্নত করুন যা একটি স্থায়ী ছাপ ফেলে। ব্রোশিওর এবং ফ্লায়ার থেকে সোশ্যাল মিডিয়া গ্রাফিক্স পর্যন্ত, আমরা চোখ ধাঁধানো উপকরণ ডিজাইন করব যা আপনার লক্ষ্য শ্রোতাদের ক্ষেত্রে অর্থবহ হবে এবং ফলাফল এনে দেবে।",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_button_text": {
+    "message": "আরো জানুন",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_banner_image_alt": {
+    "message": "হাস্যোজ্জ্বল মানুষের দল সরাসরি ক্যামেরার দিকে তাকিয়ে আছে",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_heading": {
+    "message": "স্থানীয় খাদ্য প্যান্ট্রি সমর্থন",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_content_area_one": {
+    "message": "আমাদের স্থানীয় খাদ্য প্যান্ট্রিকে সমর্থন করে আমাদের প্রতিবেশীদের জীবনে একটি পার্থক্য তৈরি করতে আমাদের সাথে যোগ দিন। আপনার দান আমাদের সম্প্রদায়ের খাদ্য নিরাপত্তাহীনতার সম্মুখীন ব্যক্তি এবং পরিবারগুলিকে প্রয়োজনীয় পুষ্টি সরবরাহ করতে সাহায্য করবে।",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_one_alt": {
+    "message": "দুই জন ব্যক্তি কাঁচের স্টিকি নোটের দিকে তাকিয়ে আছে",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_two_alt": {
+    "message": "একটি পেমেন্ট প্রসেসরের কাছে ফোন রাখা হচ্ছে",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_three_alt": {
+    "message": "যাত্রীর আসনে দুটি প্যাকেজ রেখে  ভ্যান চালাচ্ছেন একজন মানুষ।",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_heading": {
+    "message": "এখনই দান করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_message_and_amount": {
+    "message": "প্রস্তাবিত পরিমাণ: $15.00",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_one_text": {
+    "message": "দান করুন: $15.00",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_two_text": {
+    "message": "কাস্টম পরিমাণ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_three_text": {
+    "message": "শেয়ার করুন",
+    "description": "",
+    "placeholders": null
+  }
+}

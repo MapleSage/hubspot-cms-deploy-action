@@ -1,0 +1,182 @@
+{
+  "accessibility_options.label" : {
+    "message" : "可访问性选项",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accessibility_options.purpose.choices.decorative" : {
+    "message" : "由屏幕阅读器忽略",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accessibility_options.purpose.choices.semantic" : {
+    "message" : "由屏幕阅读器阅读",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accessibility_options.purpose.help_text" : {
+    "message" : "划分此图标在屏幕阅读器中的使用目的。<a href='https://www.w3.org/WAI/tutorials/images/' target='_blank' rel='noopener noreferrer'>了解详情</a>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accessibility_options.purpose.label" : {
+    "message" : "目的",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accessibility_options.title.help_text" : {
+    "message" : "此文本将由屏幕阅读器读取，用于描述图标。",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accessibility_options.title.label" : {
+    "message" : "职位",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.label" : {
+    "message" : "图标",
+    "description" : "",
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "图标",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.alignment.alignment.label" : {
+    "message" : "对齐方式",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.alignment.label" : {
+    "message" : "对齐方式",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.background.color.label" : {
+    "message" : "颜色",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.background.label" : {
+    "message" : "背景",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.corner.label" : {
+    "message" : "圆角",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.corner.radius.label" : {
+    "message" : "半径",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.fill.color.label" : {
+    "message" : "颜色",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.fill.label" : {
+    "message" : "填充",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "样式",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.help_text" : {
+    "message" : "使用预设可快速根据预定值调整选定项的外观。",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_color.choices.dark" : {
+    "message" : "深色",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_color.choices.light" : {
+    "message" : "浅色",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_color.label" : {
+    "message" : "图标颜色",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_shape.choices.circle" : {
+    "message" : "圆形",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_shape.choices.square" : {
+    "message" : "正方形",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_shape.label" : {
+    "message" : "图标形状",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_size.choices.large" : {
+    "message" : "大",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_size.choices.regular" : {
+    "message" : "常规",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_size.choices.small" : {
+    "message" : "小",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_size.label" : {
+    "message" : "图标大小",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.label" : {
+    "message" : "预设",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.size.label" : {
+    "message" : "大小",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.size.size.label" : {
+    "message" : "大小",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.spacing.force_full_width.help_text" : {
+    "message" : "强制按钮占据其所能占据的所有水平空间。该按钮仍将遵循下面设置的填充样式和边距。",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.spacing.force_full_width.label" : {
+    "message" : "强制全宽",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.spacing.label" : {
+    "message" : "间距",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.spacing.spacing.label" : {
+    "message" : "间距",
+    "description" : "",
+    "placeholders" : null
+  }
+}

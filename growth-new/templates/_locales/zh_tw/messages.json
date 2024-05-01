@@ -1,0 +1,1662 @@
+{
+  "partial_header_skip_to_content": {
+    "message": "跳到內容",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_address": {
+    "message": "11111 OO 縣 OO 市 OO 路 123 號",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_copyright": {
+    "message": "版權所有 © {{ year }}，{{ site_settings.company_name }}",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_one": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_two": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_three": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "about_banner_heading": {
+    "message": "關於我們",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_one": {
+    "message": "我們的故事",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_two": {
+    "message": "我們的價值",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_three": {
+    "message": "我們的歷史",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_four": {
+    "message": "我們的團隊",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_five": {
+    "message": "我們的文化",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_six": {
+    "message": "公司新聞",
+    "description": "",
+    "placeholders": null
+  },
+  "about_image_alt_text": {
+    "message": "公司",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_one_title": {
+    "message": "執行長暨創辦人",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_two_title": {
+    "message": "營運長",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_three_title": {
+    "message": "技術長",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_four_title": {
+    "message": "財務長",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_five_title": {
+    "message": "設計長",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_six_title": {
+    "message": "人資長",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_description": {
+    "message": "突顯你團隊成員獨有的專業知識、經驗和興趣。保持精簡但引人入勝，展現其職業歷程以及所帶來的寶貴技能。",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_index_heading": {
+    "message": "部落格",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_heading": {
+    "message": "部落格留言",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_heading": {
+    "message": "成長會議",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_date": {
+    "message": "9 月 5 日至 8 日",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_text": {
+    "message": "取得門票",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_content": {
+    "message": "取得門票",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_one": {
+    "message": "立即購買",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_two": {
+    "message": "購票",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_one": {
+    "message": "關於",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_two": {
+    "message": "講者面板",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_three": {
+    "message": "贊助商",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_four": {
+    "message": "為你的影片加上標語",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_five": {
+    "message": "心得見證",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_six": {
+    "message": "服務票證",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_one": {
+    "message": "「成長會議」是一個範本，可向客戶展示你組織的活動會議如何為他們帶來價值。說明會議的主題，以及客戶為何應購票入場。",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_two": {
+    "message": "在此處加入講者的簡短描述。為什麼你的受眾應該聽聽他們說法？他們在演講中會一直討論一項主題嗎？他們獨一無二的原因何在？利用這個空間讓讀者了解為什麼你要展示這些講者。",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_three": {
+    "message": "在此處總結你的講者背景。你還可加上關於其簡報主題的金句。",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_four": {
+    "message": "「這是你向社會證明你的活動有多精彩的機會。附上見證，幫助人們了解你活動的價值。」",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_five": {
+    "message": "描述你的會議主題，讓準客戶了解會議上發生的事情，並告訴他們為什麼應該購買門票。使用此範本以非接觸式方式銷售活動門票。",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_heading": {
+    "message": "一般許可",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_price": {
+    "message": "USD 199",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_heading": {
+    "message": "VIP",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_price": {
+    "message": "USD 449",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_one": {
+    "message": "列出客戶購買此層級後將獲得的所有莫大好處。",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_two": {
+    "message": "他們在會議上可以獲得哪些交流和學習的機會？",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_three": {
+    "message": "他們可以存取會議的哪些部分？",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_four": {
+    "message": "他們可以觀看任何錄製的節目嗎？",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_five": {
+    "message": "他們的食宿交通有哪些選擇？",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_six": {
+    "message": "列出你的 VIP 客戶購買此層級後將獲得的所有專屬優惠。",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_one": {
+    "message": "執行長暨創辦人",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_two": {
+    "message": "營運長",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_three": {
+    "message": "技術長",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_content": {
+    "message": "購票",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_image_alt_text": {
+    "message": "講者照片",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_one": {
+    "message": "連絡我們",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_two": {
+    "message": "我們的位置",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_three": {
+    "message": "取得連絡",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_four": {
+    "message": "常見問題",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_heading": {
+    "message": "內容資料庫",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_content": {
+    "message": "協助你學習和成長的資源與數位資產資料庫。",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_one": {
+    "message": "<h3>舊金山</h3><p>3870 Twin Oaks Drive<br> San Francisco, CA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_two": {
+    "message": "<h3>芝加哥</h3><p>2140 Roguski Road<br> Chicago, IL</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_three": {
+    "message": "<h3>波士頓</h3><p>123 Waverly Place<br> Boston, MA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_question": {
+    "message": "摺疊標題",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_heading": {
+    "message": "找不到頁面",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_description": {
+    "message": "我們找不到你正在尋找的頁面。",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_button": {
+    "message": "前往首頁",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_heading": {
+    "message": "此頁面無法運作",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_description": {
+    "message": "發生內部伺服器錯誤，我們正在加以處理！",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_button": {
+    "message": "前往首頁",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_heading": {
+    "message": "很抱歉，你沒有存取權",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_description": {
+    "message": "你沒有檢視此頁面的權限。如有問題，請連絡網站管理員。",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_button": {
+    "message": "前往首頁",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_heading": {
+    "message": "登入",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_subheading": {
+    "message": "你嘗試檢視的頁面僅適用於已註冊的使用者。",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_email": {
+    "message": "電子郵件",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_password": {
+    "message": "密碼",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_remember_me": {
+    "message": "記住我",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_reset_password": {
+    "message": "是否忘記密碼？",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_submit": {
+    "message": "登入",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_show_password": {
+    "message": "顯示",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_contact_admin": {
+    "message": "遇到問題？<a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">連絡網站管理員</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_heading": {
+    "message": "你已登出",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_button": {
+    "message": "重新登入",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_alt": {
+    "message": "或返回<a href=\"{{ '//' ~ request.domain }}\">首頁</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_heading": {
+    "message": "設定密碼",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_subheading": {
+    "message": "歡迎！請設定密碼來完成註冊。",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_email": {
+    "message": "電子郵件",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_confirm_password": {
+    "message": "確認密碼",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_password": {
+    "message": "密碼",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_save_password": {
+    "message": "儲存密碼",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_show_password": {
+    "message": "顯示",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_contact_admin": {
+    "message": "遇到問題？<a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">連絡網站管理員</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_heading": {
+    "message": "你的電子郵件地址已通過確認",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_description": {
+    "message": "感謝你驗證電子郵件地址。你現在可以登入帳戶，並存取你的獨享內容。",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_button": {
+    "message": "登入",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_contact_admin": {
+    "message": "遇到問題？<a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">連絡網站管理員</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_heading": {
+    "message": "建立新密碼",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_subheading": {
+    "message": "新密碼必須與先前使用的密碼不同。",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_new_password": {
+    "message": "新密碼",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_confirm_password": {
+    "message": "確認新密碼",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_save_password": {
+    "message": "儲存密碼",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_show_password": {
+    "message": "顯示",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_contact_admin": {
+    "message": "遇到問題？<a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">連絡網站管理員</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_heading": {
+    "message": "重設你的密碼",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_subheading": {
+    "message": "輸入用於註冊的電子郵件地址，我們會傳送電子郵件給你，其中包含重設密碼的連結。",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_email": {
+    "message": "電子郵件",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_submit": {
+    "message": "傳送重設電子郵件",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_alt": {
+    "message": "它剛回到你手上嗎？<a href=\"/_hcms/mem/login\">登入</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_contact_admin": {
+    "message": "遇到問題？<a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">連絡網站管理員</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_heading": {
+    "message": "驗證你的電子郵件地址",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_description": {
+    "message": "謝謝你的註冊！請檢查你的電子郵件，並點擊確認連結來完成註冊。",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_contact_admin": {
+    "message": "遇到問題？<a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">連絡網站管理員</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_one": {
+    "message": "關於",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two": {
+    "message": "透過付費諮詢拓展你的業務",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two_update": {
+    "message": "透過付費諮詢拓展你的業務",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_three": {
+    "message": "趁手的成套工具",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_heading": {
+    "message": "服務",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_description": {
+    "message": "摘要說明你所提供的服務。新增相關訊息，說明你能為客戶提供價值的服務。",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_four": {
+    "message": "心得見證",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_one": {
+    "message": "加上副標題，說明如何為客戶提供價值",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_two": {
+    "message": "添加有關你在公司所做工作的簡短描述。試著濃縮你的專業職掌，藉以吸引客戶關注。談談透過付費諮詢所能提供的價值。",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_list_content": {
+    "message": "「附上可擔保你所提供服務的見證。你的現有客戶為什麼樂於接納你提供的產品？」",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_image_alt_text": {
+    "message": "成長主題預留位置圖片",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_button_text": {
+    "message": "預約諮詢",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_heading": {
+    "message": "需有密碼",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_subheading": {
+    "message": "請輸入密碼以檢視此頁面。",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_one": {
+    "message": "價格",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_plans_and_pricing_heading": {
+    "message": "方案和價格",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_two": {
+    "message": "常見問題",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_heading": {
+    "message": "各類方案內容",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_content_heading": {
+    "message": "產品特色",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_heading": {
+    "message": "吸引人們使用你的產品和服務",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_button_text": {
+    "message": "了解詳情",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_question": {
+    "message": "摺疊標題",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_one": {
+    "message": "產品",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_two": {
+    "message": "專為你打造",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_heading": {
+    "message": "還有更多",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_content_heading": {
+    "message": "產品特色",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_one": {
+    "message": "快速入門",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_two": {
+    "message": "簡單好用",
+    "description": "",
+    "placeholders": null
+  },
+  "products_image_alt_text": {
+    "message": "產品特色",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_heading": {
+    "message": "吸引人們使用你的產品和服務",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_button_text": {
+    "message": "了解詳情",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_heading": {
+    "message": "成長主題",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_button_text": {
+    "message": "開始使用",
+    "description": "",
+    "placeholders": null
+  },
+  "home_logos_heading": {
+    "message": "我們的一些滿意客戶",
+    "description": "",
+    "placeholders": null
+  },
+  "home_heading": {
+    "message": "專為你打造",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_one": {
+    "message": "設定便捷",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_two": {
+    "message": "容易上手",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_three": {
+    "message": "可量身裁製",
+    "description": "",
+    "placeholders": null
+  },
+  "home_video_heading": {
+    "message": "查看實際情況",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_heading": {
+    "message": "趁手的成套工具",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_content_heading": {
+    "message": "產品名稱",
+    "description": "",
+    "placeholders": null
+  },
+  "home_image_alt_text": {
+    "message": "產品名稱",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_button_text": {
+    "message": "了解詳情",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_content": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan velit sit amet sagittis malesuada.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_customer": {
+    "message": "Shaun Benson，Agriflora Inc. 的行銷經理。",
+    "description": "",
+    "placeholders": null
+  },
+  "home_blog_post_heading": {
+    "message": "最新文章",
+    "description": "",
+    "placeholders": null
+  },
+  "home_contact": {
+    "message": "連絡我們",
+    "description": "",
+    "placeholders": null
+  },
+  "home_button_text": {
+    "message": "開始使用",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_heading": {
+    "message": "立即下載你的免費數位資源",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_p_one": {
+    "message": "撰寫引人入勝的介紹，為此資源的內容奠定基礎。解決讀者的挑戰或目標，並說明電子書將如何協助解決這些問題。",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_one_heading": {
+    "message": "優點 #1：",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_two_heading": {
+    "message": "優點 #2：",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_three_heading": {
+    "message": "優點 #3：",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_content": {
+    "message": "說明讀者將學到什麼",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_highlight": {
+    "message": "務必要突顯優點：",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_preface": {
+    "message": "為什麼選擇我們？",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_heading": {
+    "message": "我們提供的現代化解決方案能讓你的業務蒸蒸日上",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_content": {
+    "message": "加入成千上萬滿意的使用者行列，透過我們的創新解決方案改變生活面貌。",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_button_text": {
+    "message": "了解詳情",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_logo_heading": {
+    "message": "廣受一流企業信賴",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_heading": {
+    "message": "功能名稱",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_content": {
+    "message": "撰寫以利益為導向的高說服力文案，清楚傳達產品價值並鼓勵訪客採取行動。側重你的產品如何解決客戶問題或滿足其需求。",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_preface": {
+    "message": "不要只聽一面之詞",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_heading": {
+    "message": "與我們的團隊成員之一共同查驗這些功能的實際應用",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_button_text": {
+    "message": "獲得示範",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_heading": {
+    "message": "安排示範",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_p_one": {
+    "message": "在你方便的時候安排由我們的團隊成員之一進行示範。加入關於你潛在商機客戶期望學習什麼內容的簡短說明。",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_highlight": {
+    "message": "我們會討論：",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_one_heading": {
+    "message": "主題 #1：",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_two_heading": {
+    "message": "主題 #2：",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_three_heading": {
+    "message": "主題 #3：",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_content": {
+    "message": "說明示範所涵蓋的內容",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_heading": {
+    "message": "確保你的席位：立即註冊參加此獨家活動",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_content": {
+    "message": "加入簡短介紹，講述現場會議、網路研討會或活動的內容以及受眾應即註冊的原因。",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_button_text": {
+    "message": "立即註冊",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_partners_content": {
+    "message": "加入我們的合作夥伴社群",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_preface": {
+    "message": "關於此活動",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_heading": {
+    "message": "獲取頂尖專家的見解",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_highlight": {
+    "message": "活動焦點：",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_one_heading": {
+    "message": "焦點 #1",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_two_heading": {
+    "message": "焦點 #2",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_three_heading": {
+    "message": "焦點 #3",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_content": {
+    "message": "出席者可以期望獲得什麼",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_heading": {
+    "message": "快速統計資料",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_one": {
+    "message": "20+",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_two": {
+    "message": "150+",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_three": {
+    "message": "10",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_description": {
+    "message": "統計資料小說明",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_heading": {
+    "message": "關注活動預告",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_content": {
+    "message": "觀看我們的預告影片，了解即將舉行的啟發性主題演講、互動工作坊和交流機會。不要錯過預先一窺即將發生的盛事 - 加入我們，享受難忘的體驗。",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_preface": {
+    "message": "不要只聽一面之詞",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_heading": {
+    "message": "立即解鎖機會並預訂席位",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_button_text": {
+    "message": "立即註冊",
+    "description": "",
+    "placeholders": null
+  },
+  "search_results_heading": {
+    "message": "「[[search_term]]」的搜尋結果",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_heading": {
+    "message": "關於",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_sub_heading": {
+    "message": "我們公司",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_image_alt_text": {
+    "message": "我們的故事",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_list_heading": {
+    "message": "最近的貼文",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_heading": {
+    "message": "最近的貼文",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_heading": {
+    "message": "吸引人們使用你的產品和服務",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_button_text": {
+    "message": "了解詳情",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_full_heading": {
+    "message": "連絡人",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_heading": {
+    "message": "連絡人",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_address": {
+    "message": "11111 OO 縣 OO 市 OO 路 123 號",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_email": {
+    "message": "contact@businessname.com",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_phone_number": {
+    "message": "+1 234-567-8901",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_heading": {
+    "message": "產品",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_description_heading": {
+    "message": "產品說明",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_button_text": {
+    "message": "連絡我們",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_image_alt_text": {
+    "message": "產品",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_heading": {
+    "message": "圖庫",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_one": {
+    "message": "產品",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_two": {
+    "message": "公司",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_three": {
+    "message": "價格",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_four": {
+    "message": "產品特色",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_five": {
+    "message": "圖片說明文字",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_caption": {
+    "message": "圖片說明文字",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_heading": {
+    "message": "圖庫",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_one": {
+    "message": "產品",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_two": {
+    "message": "公司",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_three": {
+    "message": "價格",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_four": {
+    "message": "產品特色",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_five": {
+    "message": "價格",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_hover_message": {
+    "message": "暫留訊息",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_heading": {
+    "message": "成長主題",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_button_text": {
+    "message": "連絡我們",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_heading": {
+    "message": "成長主題",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_button_text": {
+    "message": "開始使用",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_heading": {
+    "message": "我們為何脫穎而出",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_one": {
+    "message": "快速設定",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_two": {
+    "message": "方便好用",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_three": {
+    "message": "可量身裁製",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_heading": {
+    "message": "我們的一些滿意客戶",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_image_alt_text": {
+    "message": "客戶標誌",
+    "description": "",
+    "placeholders": null
+  },
+  "section_meetings_banner_heading": {
+    "message": "預約會議以獲得免費諮詢",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_heading": {
+    "message": "我們的團隊",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_one_title": {
+    "message": "執行長",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_two_title": {
+    "message": "營運長",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_three_title": {
+    "message": "財務長",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_description": {
+    "message": "突顯你團隊成員獨有的專業知識、經驗和興趣。保持精簡但引人入勝，展現其職業歷程以及所帶來的寶貴技能。",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_heading": {
+    "message": "我們的案例故事",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_image_alt_text": {
+    "message": "我們的故事",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_button_text": {
+    "message": "了解詳情",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_heading": {
+    "message": "方案內容",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_description_heading": {
+    "message": "產品特色",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_image_alt_text": {
+    "message": "方案特色",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_heading": {
+    "message": "訂閱我們的電子報！",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_subheading": {
+    "message": "註冊以隨時了解最新更新",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_heading": {
+    "message": "趁手的成套工具",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_card_heading": {
+    "message": "吸引人們使用你的產品和服務",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_button_text": {
+    "message": "連絡我們",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_image_alt_text": {
+    "message": "服務",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_heading": {
+    "message": "方案和價格",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_heading": {
+    "message": "Starter",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_price": {
+    "message": "每月 $50",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_content": {
+    "message": "立即購買入門",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_button_text": {
+    "message": "立即購買入門",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_heading": {
+    "message": "Professional",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_price": {
+    "message": "每月 USD 200",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_content": {
+    "message": "立即購買 Professional 版",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_button_text": {
+    "message": "立即購買 Professional 版",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_heading": {
+    "message": "Enterprise",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_price": {
+    "message": "每月 USD 600",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_content": {
+    "message": "立即購買 Enterprise 版",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_button_text": {
+    "message": "立即購買 Enterprise 版",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_sub_heading": {
+    "message": "部分關鍵功能",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_heading": {
+    "message": "產品",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_image_alt_text": {
+    "message": "我們的故事",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_description_heading": {
+    "message": "產品名稱",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_button_text": {
+    "message": "連絡我們",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_heading": {
+    "message": "服務",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_description_heading": {
+    "message": "服務名稱",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_one": {
+    "message": "我們的故事",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_two": {
+    "message": "我們的價值",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_three": {
+    "message": "我們的歷史",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_button_text": {
+    "message": "連絡我們",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_heading": {
+    "message": "感言",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_team_member_title_one": {
+    "message": "產品副總",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_heading": {
+    "message": "查看使用者在說什麼",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_one": {
+    "message": "產品副總",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_two": {
+    "message": "資深銷售副總",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_three": {
+    "message": "行銷長",
+    "description": "",
+    "placeholders": null
+  },
+  "section_video_heading": {
+    "message": "查看實際情況",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading": {
+    "message": "服務",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_one_alt": {
+    "message": "兩個人在電腦前",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_two_alt": {
+    "message": "兩個人正在看手機",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_three_alt": {
+    "message": "兩個人在牆上使用便利貼工作",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_one": {
+    "message": "資料庫 (Base)",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_two": {
+    "message": "Pro",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_three": {
+    "message": "Enterprise",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_button_text": {
+    "message": "了解詳情",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_description": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_heading": {
+    "message": "服務",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_image_alt": {
+    "message": "人們坐在階梯上",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_heading": {
+    "message": "品牌形象開發",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_content": {
+    "message": "我們的團隊將打造一個獨特且難忘的品牌形象，來契合你公司的本質。我們會創建引人入勝的標誌，選取和諧的色調組合，並開發出一致的視覺風格，讓你的品牌脫穎而出。",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_image_alt": {
+    "message": "年輕的商業專業人士正在看著筆記型電腦",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_heading": {
+    "message": "UX/UI 設計增強",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_content": {
+    "message": "運用我們的 UX/UI 專業設計知識，提升使用者滿意度和互動度。我們將對你的數位產品進行全面分析，找出問題點所在，並導入以使用者為中心的解決方案，來增強整體使用者體驗。",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_image_alt": {
+    "message": "手持平板電腦的年輕行銷專業人士在庭院中發言",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_heading": {
+    "message": "行銷文宣設計",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_content": {
+    "message": "打造令人印象深刻的精美文宣，藉以提升你的行銷力度。從小冊子和傳單到社群媒體圖形，我們將設計引人注目的材料，與你的目標受眾產生共鳴，並帶來成果。",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_button_text": {
+    "message": "了解詳情",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_banner_image_alt": {
+    "message": "一群面帶微笑的人直視鏡頭",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_heading": {
+    "message": "支持本地食品分發站",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_content_area_one": {
+    "message": "與我們一起透過支持本地的食品分發站來改變鄰居的生活。你的捐款將有助於為我們社區裡面臨三餐不濟的個人和家庭提供必要的營養。",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_one_alt": {
+    "message": "兩個人看著玻璃上的便利貼",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_two_alt": {
+    "message": "握持手機朝向付款處理器",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_three_alt": {
+    "message": "男子駕駛一輛貨車，乘客座上有兩個包裹",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_heading": {
+    "message": "立即捐款",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_message_and_amount": {
+    "message": "建議金額：NTD 469",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_one_text": {
+    "message": "捐款 NTD 469",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_two_text": {
+    "message": "自訂金額",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_three_text": {
+    "message": "分享",
+    "description": "",
+    "placeholders": null
+  }
+}

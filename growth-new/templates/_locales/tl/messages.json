@@ -1,0 +1,1662 @@
+{
+  "partial_header_skip_to_content": {
+    "message": "Lumaktaw papunta sa content",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_address": {
+    "message": "123 Main Street, City, State 11111",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_copyright": {
+    "message": "Copyright © {{ year }}, {{ site_settings.company_name }}",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_one": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_two": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_three": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "about_banner_heading": {
+    "message": "Tungkol sa amin",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_one": {
+    "message": "Aming kwento",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_two": {
+    "message": "Aming pinahahalagahan",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_three": {
+    "message": "Aming kasaysayan",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_four": {
+    "message": "Aming team",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_five": {
+    "message": "Ang Aming Kultura",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_six": {
+    "message": "Mga balita ng kompanya",
+    "description": "",
+    "placeholders": null
+  },
+  "about_image_alt_text": {
+    "message": "Kompanya",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_one_title": {
+    "message": "CEO at Founder",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_two_title": {
+    "message": "Chief Operating Officer",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_three_title": {
+    "message": "Chief Technology Officer",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_four_title": {
+    "message": "Chief Financial Officer",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_five_title": {
+    "message": "Chief Design Officer",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_six_title": {
+    "message": "Chief People Officer",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_description": {
+    "message": "I-highlight ang natatanging expertise, experience, at interest ng iyong team member. Panatilihing maikli ito ngunit nakakaengganyo, na nagpapakita sa kanilang propesyonal na paglalakbay, at mahahalagang kakayahan na maibibigay nila.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_index_heading": {
+    "message": "Blog",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_heading": {
+    "message": "Mga komento sa blog",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_heading": {
+    "message": "Growth conference",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_date": {
+    "message": "Setyempre 5 - 8",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_text": {
+    "message": "Kumuha ng mga tiket",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_content": {
+    "message": "Kumuha ng mga tiket",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_one": {
+    "message": "Bumili na",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_two": {
+    "message": "Bumili ng mga tiket",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_one": {
+    "message": "Tungkol sa",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_two": {
+    "message": "Panel ng speaker",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_three": {
+    "message": "Mga Sponsor",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_four": {
+    "message": "Magdagdag ng mga nakakatawag-pansin na salita para sa iyong video",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_five": {
+    "message": "Mga Testimonya",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_six": {
+    "message": "Mga Ticket",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_one": {
+    "message": "Ang Growth Conference ay isang template na magagamit para ipakita sa mga customer ang halaga na maibibigay sa kanila ng event na conference ng iyong organisasyon. Ilarawan ang tema ng iyong conference at kung bakit dapat bumili ng mga tiket ang mga customer.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_two": {
+    "message": "Magdagdag ng maikling paglalarawan sa mga speaker mo dito. Bakit kailangang mapakinggan sila ng mga audience mo? Ano ang theme na tatalakayin nilang lahat sa kanilang pagsasalita? Ano ang natatangi sa kanila? Gamitin ang espasyong ito para bigyan ang mambabasa ng ideya kung bakit ito ang mga speaker na gusto mong ipakita.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_three": {
+    "message": "Ibuod ang talambuhay ng speaker mo dito. Pwede ka ring magdagdag ng pangungusap tungkol sa paksa ng kanilang presentasyon.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_four": {
+    "message": "&ldquo;Ito ang pagkakataon mo para magbigay ng social proof tungkol sa kung gaano kaganda ang event mo. Magdagdag ng mga testimonya na makakatulong na maintindihan ng mga tao ang kahalagahan ng event mo.&rdquo;",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_five": {
+    "message": "Ilarawan ang theme ng conference, bigyan ng ideya ang mga prospect mo sa kung ano ang mangyayari sa conference, at sabihin sa kanila kung bakit dapat silang bumili ng mga tiket. Touchless na gamitin ang mga template na ito para sa event mo.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_heading": {
+    "message": "General Admission",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_price": {
+    "message": "$199",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_heading": {
+    "message": "VIP",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_price": {
+    "message": "$449",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_one": {
+    "message": "Ilista ang lahat ng kapana-panabik na beneposyo na makukuha ng customer mo kapag binili nila ang tier na ito.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_two": {
+    "message": "Anong mga pagkakataon sa networking at pag-aaral ang available sa kanila sa conference?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_three": {
+    "message": "Anong bahagi ng conference ang puwede nilang ma-access?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_four": {
+    "message": "May access ba sila sa anumang naka-record na programming?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_five": {
+    "message": "Ano ang kanilang mga opsyon sa pagkain, transportasyon at akomodasyon?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_six": {
+    "message": "Ilista ang lahat ng makukuhang eksklusibong benepisyo ng VIP customer mo kapag binili nila ang tier na ito.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_one": {
+    "message": "CEO at Founder",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_two": {
+    "message": "Chief Operating Officer",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_three": {
+    "message": "Chief Technology Officer",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_content": {
+    "message": "Bumili ng mga tiket",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_image_alt_text": {
+    "message": "Larawan ng speaker",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_one": {
+    "message": "Makipag-ugnayan sa amin",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_two": {
+    "message": "Mga lokasyon namin",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_three": {
+    "message": "Makipag-ugnayan",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_four": {
+    "message": "Mga madalas itanong",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_heading": {
+    "message": "Content Library",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_content": {
+    "message": "Isang library ng mga digital asset at mapagkukunan na makakatulong sa iyong matuto at lumago.",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_one": {
+    "message": "<h3>San Francisco</h3><p>3870 Twin Oaks Drive<br> San Francisco, CA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_two": {
+    "message": "<h3>Chicago</h3><p>2140 Roguski Road<br> Chicago, IL</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_three": {
+    "message": "<h3>Boston</h3><p>123 Waverly Place<br> Boston, MA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_question": {
+    "message": "Pamagat ng accordion",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_heading": {
+    "message": "Hindi nahanap ang page",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_description": {
+    "message": "Hindi namin makita ang page na hinahap mo.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_button": {
+    "message": "Pumunta sa home page",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_heading": {
+    "message": "Hindi gumagana ang page na ito",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_description": {
+    "message": "Nagkaroon ng panloob na service error, pero inaayos na namin ito!",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_button": {
+    "message": "Pumunta sa home page",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_heading": {
+    "message": "Pasensya na, wala kang access",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_description": {
+    "message": "Wala kang pahintulot na tingnan ang page na ito. Makipag-ugnayan sa tagapangasiwa ng site para sa mga tanong.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_button": {
+    "message": "Pumunta sa home page",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_heading": {
+    "message": "Mag-sign in",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_subheading": {
+    "message": "Ang page na sinusubukan mong tingnan ay available lang sa mga rehistradong user.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_email": {
+    "message": "Email",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_password": {
+    "message": "Password",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_remember_me": {
+    "message": "Tandaan ako",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_reset_password": {
+    "message": "Nakalimutan ang password?",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_submit": {
+    "message": "Mag-sign in",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_show_password": {
+    "message": "Ipakita",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_contact_admin": {
+    "message": "Nagkakaproblema? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Makipag-ugnayan sa tagapangasiwa ng site</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_heading": {
+    "message": "Na-sign out ka",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_button": {
+    "message": "Mag-sign in ulit",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_alt": {
+    "message": "O bumalik sa <a href=\"{{ '//' ~ request.domain }}\">home page</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_heading": {
+    "message": "Magtakda ng iyong password",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_subheading": {
+    "message": "Welcome! Kumpletuhin ang iyong pagrerehistro sa pamamagitan ng pagtatakda ng password mo.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_email": {
+    "message": "Email",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_confirm_password": {
+    "message": "Kumpirmahin ang password",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_password": {
+    "message": "Password",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_save_password": {
+    "message": "I-save ang password",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_show_password": {
+    "message": "Ipakita",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_contact_admin": {
+    "message": "Nagkakaproblema? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Makipag-ugnayan sa tagapangasiwa ng site</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_heading": {
+    "message": "Nakumpirma na ang iyong email address",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_description": {
+    "message": "Salamat sa pag-verify sa email address mo. Puwede ka na ngayong mag-sign in sa iyong account at ma-access ang eksklusibong content.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_button": {
+    "message": "Mag-sign in",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_contact_admin": {
+    "message": "Nagkakaproblema? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Makipag-ugnayan sa tagapangasiwa ng site</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_heading": {
+    "message": "Gumawa ng bagong password",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_subheading": {
+    "message": "Dapat hindi kapareho ng iyong naunang ginamit na password ang iyong bagong password.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_new_password": {
+    "message": "Bagong password",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_confirm_password": {
+    "message": "Kumpirmahin ang bagong password",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_save_password": {
+    "message": "I-save ang password",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_show_password": {
+    "message": "Ipakita",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_contact_admin": {
+    "message": "Nagkakaproblema? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Makipag-ugnayan sa tagapangasiwa ng site</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_heading": {
+    "message": "I-reset ang iyong password",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_subheading": {
+    "message": "Ilagay ag email address na ginamit sa pagpaparehistro at magpapadala kami sa iyo ng email na may link para i-reset ang password mo.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_email": {
+    "message": "Email",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_submit": {
+    "message": "Magpadala ng email para sa pag-reset",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_alt": {
+    "message": "Bumalik lang ba? <a href=\"/_hcms/mem/login\">Mag-sign in</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_contact_admin": {
+    "message": "Nagkakaproblema? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Makipag-ugnayan sa tagapangasiwa ng site</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_heading": {
+    "message": "I-verify ang email address mo",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_description": {
+    "message": "Salamat sa pag-sign up! Pakisuri ang iyong email at i-click ang link ng kumpirmasyon para matapos ang iyong pagrerehistro.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_contact_admin": {
+    "message": "Nagkakaproblema? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Makipag-ugnayan sa tagapangasiwa ng site</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_one": {
+    "message": "Tungkol sa",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two": {
+    "message": "Palaguin ang iyong negosyo gamit ang mga may bayad na konsultasyon",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two_update": {
+    "message": "Palaguin ang iyong negosyo gamit ang mga may bayad na konsultasyon",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_three": {
+    "message": "Isang hanay ng mga tool na magagamit mo",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_heading": {
+    "message": "Serbisyo",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_description": {
+    "message": "Ibuod ang serbisyong ibinibigay mo. Magdagdag ng mensahe tungkol sa halaga na maaari mong ibigay sa iyong mga customer.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_four": {
+    "message": "Mga Testimonya",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_one": {
+    "message": "Magdagdag ng subtitle na magpapaliwanag sa iyo kung paano ka makakapagbigay ng value sa mga customer mo",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_two": {
+    "message": "Magdagdag ng maikling paglalarawan tungkol sa trabahong ginagawa mo sa kompanya. Paikliin ang iyong espesyalisasyon upang makuha mo ang atensyon ng iyong mga kliyente. Talakayin ang value na maibibigay mo sa pamamagitan ng may bayad na konsultasyon.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_list_content": {
+    "message": "&ldquo;Magdagdag ng testimonya na naggagarantiya sa mga serbisyo mo. Bakit nasasabik ang iyong mga kasalukuyang customer tungkol sa kung ano ang inaalok mo?&rdquo;",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_image_alt_text": {
+    "message": "Placeholder na larawan ng theme na Paglago",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_button_text": {
+    "message": "Mag-book ng konsultasyon",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_heading": {
+    "message": "Kailangan ng password",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_subheading": {
+    "message": "Pakilagay ang iyong password para makita ang page na ito",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_one": {
+    "message": "Pagpepresyo",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_plans_and_pricing_heading": {
+    "message": "Mga plano at pagpepresyo",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_two": {
+    "message": "Mga madalas itanong",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_heading": {
+    "message": "Kasama ang lahat ng plano",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_content_heading": {
+    "message": "Feature ng produkto",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_heading": {
+    "message": "Dalhin ang mga tao papunta sa mga produkto at serbisyo mo",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_button_text": {
+    "message": "Alamin pa",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_question": {
+    "message": "Pamagat ng accordion",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_one": {
+    "message": "Mga produkto",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_two": {
+    "message": "Binuo nang iniisip ka",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_heading": {
+    "message": "At may kasama pang iba",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_content_heading": {
+    "message": "Feature ng produkto",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_one": {
+    "message": "Magsimula nang mabilis",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_two": {
+    "message": "Simple at madaling gamitin",
+    "description": "",
+    "placeholders": null
+  },
+  "products_image_alt_text": {
+    "message": "Feature ng produkto",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_heading": {
+    "message": "Dalhin ang mga tao papunta sa mga produkto at serbisyo mo",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_button_text": {
+    "message": "Alamin pa",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_heading": {
+    "message": "Growth theme",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_button_text": {
+    "message": "Magsimula",
+    "description": "",
+    "placeholders": null
+  },
+  "home_logos_heading": {
+    "message": "Ilan sa aming mga masasayang customer",
+    "description": "",
+    "placeholders": null
+  },
+  "home_heading": {
+    "message": "Binuo nang iniisip ka",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_one": {
+    "message": "Mabilisang pag-set up",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_two": {
+    "message": "Madaling gamitin",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_three": {
+    "message": "Nacu-customize",
+    "description": "",
+    "placeholders": null
+  },
+  "home_video_heading": {
+    "message": "Aktwal na tingnan",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_heading": {
+    "message": "Isang hanay ng mga tool na magagamit mo",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_content_heading": {
+    "message": "Pangalan ng produkto",
+    "description": "",
+    "placeholders": null
+  },
+  "home_image_alt_text": {
+    "message": "Pangalan ng produkto",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_button_text": {
+    "message": "Alamin pa",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_content": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan velit sit amet sagittis malesuada.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_customer": {
+    "message": "Shaun Benson, Marketing Manager, Agriflora Inc.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_blog_post_heading": {
+    "message": "Pinakabagong mga post",
+    "description": "",
+    "placeholders": null
+  },
+  "home_contact": {
+    "message": "Makipag-ugnayan sa amin",
+    "description": "",
+    "placeholders": null
+  },
+  "home_button_text": {
+    "message": "Magsimula",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_heading": {
+    "message": "I-download ang iyong libreng digital na resource ngayon",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_p_one": {
+    "message": "Sumulat ng isang kaakit-akit na introduksyon na nagtatakda sa stage para sa nilalaman ng resource na ito. Tugunan ang mga hamon o layunin ng inyong mambabasa at ipaliwanag kung paano makakatulong ang ebook na malutas ang mga ito.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_one_heading": {
+    "message": "Benepisyo #1",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_two_heading": {
+    "message": "Benepisyo #2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_three_heading": {
+    "message": "Benepisyo #3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_content": {
+    "message": "Ipaliwanag kung ano ang matututunan ng mga mambabasa",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_highlight": {
+    "message": "Tandaan na i-highlight ang mga benepisyo:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_preface": {
+    "message": "Bakit kami ang pipiliin?",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_heading": {
+    "message": "Nag-aalok kami ng mga modernong solusyon para sa pagpapalago ng iyong negosyo",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_content": {
+    "message": "Sumali sa libu-libong nasisiyahang user kung saan nagbago ang kanilang buhay gamit ang aming mga makabagong solusyon.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_button_text": {
+    "message": "Alamin pa",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_logo_heading": {
+    "message": "Pinagkakatiwalaan ng mga nangungunang kompanya",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_heading": {
+    "message": "Pangalan ng feature",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_content": {
+    "message": "Sumulat ng mapanghikayat, kopyang hinihimok ng benepisyo kung saan malinaw na ipinapahayag ang halaga ng iyong alok at hinihikayat ang mga bisita na kumilos. Tutukan kung paano malulutas ng iyong alok ang kanilang mga problema o natutugunan ang kanilang mga pangangailangan.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_preface": {
+    "message": "Huwag lang umasa sa kung ano ang sinasabi namin",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_heading": {
+    "message": "Tingnan ang mga feature na ito na kumikilos kasama ng isa sa aming mga miyembro ng team",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_button_text": {
+    "message": "Kumuha ng demo",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_heading": {
+    "message": "Mag-iskedyul ng demo",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_p_one": {
+    "message": "Mag-iskedyul ng demo kasama ang isa sa aming mga miyembro ng team kung kailan kombinyente para sa iyo. Magdagdag ng maikling paglalarawan sa kung ano ang maaaring asahan na matutunan ng iyong mga prospect.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_highlight": {
+    "message": "Tatalakayin natin ang:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_one_heading": {
+    "message": "Paksa #1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_two_heading": {
+    "message": "Paksa #2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_three_heading": {
+    "message": "Paksa #3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_content": {
+    "message": "Ipaliwanag kung ano ang saklaw ng iyong demo",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_heading": {
+    "message": "I-secure ang iyong spot: Magparehistro ngayon para sa eksklusibong event na ito",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_content": {
+    "message": "Magdagdag ng maikling introduksyon na sumasaklaw sa kung ano ang live na kumperensya, webinar, o event at kung bakit dapat magparehistro ang mga miyembro ng iyong audience.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_button_text": {
+    "message": "Magrehistro na",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_partners_content": {
+    "message": "Samahan kami sa aming komunidad ng mga kasosyo",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_preface": {
+    "message": "Tungkol sa event",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_heading": {
+    "message": "Makakuha ng mga insight mula sa mga nangungunang eksperto",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_highlight": {
+    "message": "Mga highlight ng event:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_one_heading": {
+    "message": "Highlight #1",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_two_heading": {
+    "message": "Highlight #2",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_three_heading": {
+    "message": "Highlight #3",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_content": {
+    "message": "Ano ang maaaring asahang makuha ng mga dadalo",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_heading": {
+    "message": "Madaliang estadistika",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_one": {
+    "message": "20+",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_two": {
+    "message": "150+",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_three": {
+    "message": "10",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_description": {
+    "message": "Kaunting paglalarawan ng estadistika",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_heading": {
+    "message": "Abangan ang sneak peek ng event",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_content": {
+    "message": "Panoorin ang aming teaser video para sa isang sulyap sa mga nagbibigay-inspirasyon na keynote, interactive na workshop, at naghihintay na mga pagkakataon sa networking. Huwag palampasin ang preview na ito sa kung ano ang darating – samahan kami para sa isang hindi malilimutang karanasan.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_preface": {
+    "message": "Huwag lang umasa sa kung ano ang sinasabi namin",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_heading": {
+    "message": "I-unlock ang mga pagkakataon at ireserba ang iyong spot ngayon ",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_button_text": {
+    "message": "Magrehistro na",
+    "description": "",
+    "placeholders": null
+  },
+  "search_results_heading": {
+    "message": "Maghanap ng mga resulta para sa \"[[search_term]]\"",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_heading": {
+    "message": "Tungkol sa",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_sub_heading": {
+    "message": "Aming kompanya",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_image_alt_text": {
+    "message": "Aming kwento",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_list_heading": {
+    "message": "Mga kamakailan na post",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_heading": {
+    "message": "Mga kamakailan na post",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_heading": {
+    "message": "Dalhin ang mga tao papunta sa mga produkto at serbisyo mo",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_button_text": {
+    "message": "Alamin pa",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_full_heading": {
+    "message": "Contact",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_heading": {
+    "message": "Contact",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_address": {
+    "message": "123 Main Street, City, State 11111",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_email": {
+    "message": "contact@businessname.com",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_phone_number": {
+    "message": "+1 234-567-8901",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_heading": {
+    "message": "Produkto",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_description_heading": {
+    "message": "Paglalarawan ng produkto",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_button_text": {
+    "message": "Makipag-ugnayan sa amin",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_image_alt_text": {
+    "message": "Produkto",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_heading": {
+    "message": "Galeriya",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_one": {
+    "message": "Mga produkto",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_two": {
+    "message": "Kompanya",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_three": {
+    "message": "Pagpepresyo",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_four": {
+    "message": "Feature ng produkto",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_five": {
+    "message": "Caption ng larawan",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_caption": {
+    "message": "Caption ng larawan",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_heading": {
+    "message": "Galeriya",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_one": {
+    "message": "Mga produkto",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_two": {
+    "message": "Kompanya",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_three": {
+    "message": "Pagpepresyo",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_four": {
+    "message": "Feature ng produkto",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_five": {
+    "message": "Pagpepresyo",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_hover_message": {
+    "message": "Mag-hover sa mensahe",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_heading": {
+    "message": "Growth theme",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_button_text": {
+    "message": "Makipag-ugnayan sa amin",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_heading": {
+    "message": "Growth theme",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_button_text": {
+    "message": "Magsimula",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_heading": {
+    "message": "Bakit naninindigan kami",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_one": {
+    "message": "Mabilisang pag-set up",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_two": {
+    "message": "Madaling gamitin",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_three": {
+    "message": "Nacu-customize",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_heading": {
+    "message": "Ilan sa aming mga masasayang customer",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_image_alt_text": {
+    "message": "Logo ng customer",
+    "description": "",
+    "placeholders": null
+  },
+  "section_meetings_banner_heading": {
+    "message": "Mag-book ng pagpupulong para makakuha ng libreng konsultasyon",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_heading": {
+    "message": "Aming team",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_one_title": {
+    "message": "CEO",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_two_title": {
+    "message": "Chief Operating Officer",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_three_title": {
+    "message": "Chief Financial Officer",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_description": {
+    "message": "I-highlight ang natatanging expertise, experience, at interest ng iyong team member. Panatilihing maikli ito ngunit nakakaengganyo, na nagpapakita sa kanilang propesyonal na paglalakbay, at mahahalagang kakayahan na maibibigay nila.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_heading": {
+    "message": "Aming kwento",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_image_alt_text": {
+    "message": "Aming kwento",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_button_text": {
+    "message": "Alamin pa",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_heading": {
+    "message": "Mga kasamang plano",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_description_heading": {
+    "message": "Feature ng produkto",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_image_alt_text": {
+    "message": "Feature ng plano",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_heading": {
+    "message": "Mag-subscribe sa aming newsletter!",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_subheading": {
+    "message": "Mag-sign up para manatili sa loob tungkol sa mga pinakabagong update",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_heading": {
+    "message": "Isang hanay ng mga tool na magagamit mo",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_card_heading": {
+    "message": "Dalhin ang mga tao papunta sa mga produkto at serbisyo mo",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_button_text": {
+    "message": "Makipag-ugnayan sa amin",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_image_alt_text": {
+    "message": "Serbisyo",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_heading": {
+    "message": "Mga plano at pagpepresyo",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_heading": {
+    "message": "Starter",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_price": {
+    "message": "$50/buwan",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_content": {
+    "message": "Bumili ng starter ngayon",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_button_text": {
+    "message": "Bumili ng starter ngayon",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_heading": {
+    "message": "Professional",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_price": {
+    "message": "$200/buwan",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_content": {
+    "message": "Bilhin na ang professional",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_button_text": {
+    "message": "Bilhin na ang professional",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_heading": {
+    "message": "Enterprise",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_price": {
+    "message": "$600/buwan",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_content": {
+    "message": "Bilhin na ang enterprise",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_button_text": {
+    "message": "Bilhin na ang enterprise",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_sub_heading": {
+    "message": "Ilang mahahalagang feature",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_heading": {
+    "message": "Mga produkto",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_image_alt_text": {
+    "message": "Aming kwento",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_description_heading": {
+    "message": "Pangalan ng produkto",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_button_text": {
+    "message": "Makipag-ugnayan sa amin",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_heading": {
+    "message": "Mga Serbisyo",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_description_heading": {
+    "message": "Pangalan ng serbisyo",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_one": {
+    "message": "Aming kwento",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_two": {
+    "message": "Aming pinahahalagahan",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_three": {
+    "message": "Aming kasaysayan",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_button_text": {
+    "message": "Makipag-ugnayan sa amin",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_heading": {
+    "message": "Testimonya",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_team_member_title_one": {
+    "message": "VP Product",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_heading": {
+    "message": "Tingnan kung ano ang sinasabi ng mga tao",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_one": {
+    "message": "VP Product",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_two": {
+    "message": "SVP Sales",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_three": {
+    "message": "CMO",
+    "description": "",
+    "placeholders": null
+  },
+  "section_video_heading": {
+    "message": "Aktwal na tingnan",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading": {
+    "message": "Mga Serbisyo",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_one_alt": {
+    "message": "Dalawang tao sa computer",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_two_alt": {
+    "message": "Dalawang tao ang nakatingin sa telepono",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_three_alt": {
+    "message": "Dalawang taong nagtatrabaho sa mga malagkit na tala sa dingding",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_one": {
+    "message": "Base",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_two": {
+    "message": "Pro",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_three": {
+    "message": "Enterprise",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_button_text": {
+    "message": "Alamin pa",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_description": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_heading": {
+    "message": "Mga Serbisyo",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_image_alt": {
+    "message": "Mga taong nakaupo sa hagdan",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_heading": {
+    "message": "Pag-unlad ng pagkakakilanlan ng tatak",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_content": {
+    "message": "Gagawa ang aming team ng isang natatangi at di malilimutang pagkakakilanlan ng tatak na sumasalamin sa pinakadiwa ng iyong kompanya. Lilikha kami ng isang nakakahimok na logo, pipili ng magkakatugma na paleta ng kulay, at bubuo ng pare-parehong visual na istilo upang maihiwalay ang iyong tatak sa iba.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_image_alt": {
+    "message": "Ang mga batang propesyonal sa negosyo ay tumitingin sa laptop",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_heading": {
+    "message": "Pagpapahusay ng disenyo ng UX/UI",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_content": {
+    "message": "Pataasin ang kasiyahan at pakikipag-ugnayan ng user sa pagiging dalubhasa namin sa disenyo ng UX/UI. Magsasagawa kami ng masusing pagsusuri sa iyong mga digital na produkto, tutukuyin ang mga pain point, at ipapatupad ang mga solusyong nakasentro sa user upang mapahusay ang pangkalahatang karanasan ng user.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_image_alt": {
+    "message": "Batang propesyonal sa marketing na nagsasalita sa looban na may hawak na tablet",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_heading": {
+    "message": "Collateral na disenyo sa marketing",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_content": {
+    "message": "Pataasin ang iyong mga pagsusumikap sa marketing gamit ang nakamamanghang collateral na nag-iiwan ng pangmatagalang impresyon. Mula sa mga polyeto at flyer hanggang sa mga graphics ng social media, magdidisenyo kami ng mga kapansin-pansing materyal na tumutugma sa iyong target na madla at magdadala ng mga resulta.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_button_text": {
+    "message": "Alamin pa",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_banner_image_alt": {
+    "message": "Grupo ng mga nakangiting tao na nakatingin nang diretso sa harapan ng kamera",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_heading": {
+    "message": "Suporta sa lokal na food pantry",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_content_area_one": {
+    "message": "Samahan kami sa paggawa ng pagbabago sa buhay ng aming mga kapitbahay sa pamamagitan ng pagsuporta sa aming lokal na food pantry. Makakatulong ang iyong donasyon sa pagbibigay ng mahahalagang kinakailangang nutrisyon sa mga indibidwal at pamilyang nahaharap na mawalan ng pagkain dito mismo sa ating komunidad.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_one_alt": {
+    "message": "Dalawang indibidwal na tumitingin sa mga sticky note sa salamin",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_two_alt": {
+    "message": "Hinahawakan ang telepono sa isang processor ng pagbabayad",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_three_alt": {
+    "message": "Lalaking nagmamaneho ng isang van na may dalawang pakete na nakapatong sa pampasaherong upuan",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_heading": {
+    "message": "Mag-donate ngayon",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_message_and_amount": {
+    "message": "Inirerekomendang halaga: $15.00",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_one_text": {
+    "message": "Mag-donate ng $15.00",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_two_text": {
+    "message": "Custom na halaga",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_three_text": {
+    "message": "Ibahagi",
+    "description": "",
+    "placeholders": null
+  }
+}

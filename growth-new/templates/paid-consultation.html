@@ -1,0 +1,329 @@
+<!--
+  templateType: page
+  isAvailableForNewContent: true
+  label: Paid consultation
+  screenshotPath: ../images/template-previews/paid-consultation.png
+  scaffoldSchemaPath: ./schemas/paid_consultation.scaffold_schema.json
+-->
+{% extends "./layouts/base.html" %}
+
+{# Template variables #}
+
+{# Default content for service cards #}
+{% set services = [
+    {
+      "heading": "{{ scaffold_content.services.service_one.heading or template_translations.paid_consultation_service_heading.message }}",
+      "description": "{{ scaffold_content.services.service_one.description or template_translations.paid_consultation_service_description.message }}"
+    },
+    {
+      "heading": "{{ scaffold_content.services.service_two.heading or template_translations.paid_consultation_service_heading.message }}",
+      "description": "{{ scaffold_content.services.service_two.description or template_translations.paid_consultation_service_description.message }}"
+    },
+    {
+      "heading": "{{ scaffold_content.services.service_three.heading or template_translations.paid_consultation_service_heading.message }}",
+      "description": "{{ scaffold_content.services.service_three.description or template_translations.paid_consultation_service_description.message }}"
+    }
+  ]
+%}
+{% set services_content = [] %}
+{% for service in services %}
+  {% do services_content.append("<h3 style='text-align:center;'>" ~ service.heading ~ "</h3><p>" ~ service.description ~ "</p>") %}
+{% endfor %}
+
+{% block body %}
+
+{# Default content for buttons #}
+{% set buy_button_label = template_translations.paid_consultation_button_text.message %}
+{% set booking_anchor = "#book" %}
+
+  {% dnd_area "dnd_area"
+    label="Main section" %}
+
+
+    {# Meetings banner #}
+
+    {% include_dnd_partial path="../sections/meetings-banner.html"
+      context={
+        "anchor_id": "book",
+        "heading": scaffold_content.banner.heading or template_translations.paid_consultation_heading_two_update.message,
+        "content": scaffold_content.banner.subheading or template_translations.paid_consultation_content_one.message
+      }
+    %}
+
+    {# About description with photo section #}
+
+    {% dnd_section
+      background_color="#F5F8FA"
+    %}
+      {% dnd_column
+        padding={
+          "left": 82,
+          "right": 82
+        }
+      %}
+        {% dnd_row %}
+          {% dnd_module path="@hubspot/rich_text" %}
+            {% module_attribute "html" %}
+              <div style='text-align:center;'>
+                <h2><strong>{{ scaffold_content.consultation.heading or template_translations.paid_consultation_heading_one.message }}</strong></h2>
+              </div>
+            {% end_module_attribute %}
+          {% end_dnd_module %}
+        {% end_dnd_row %}
+        {% dnd_row %}
+          {% dnd_column
+            width=6,
+            offset=0
+          %}
+            {% dnd_row
+              margin={ bottom: 22 }
+            %}
+              {% dnd_module path="@hubspot/linked_image"
+                horizontal_alignment="CENTER",
+                style="margin-bottom: 22px;",
+                img={
+                  "loading": "lazy",
+                  "src": scaffold_content.consultation.image.src or get_asset_url("../images/service-one.jpg"),
+                  "alt": scaffold_content.consultation.image.alt or "Growth theme placeholder image",
+                  "max_width": scaffold_content.consultation.image.width or 500,
+                  "max_height": scaffold_content.consultation.image.height or 500,
+                  "size_type": "auto_custom_max",
+                }
+              %}
+              {% end_dnd_module %}
+            {% end_dnd_row %}
+          {% end_dnd_column %}
+          {% dnd_column
+            width=6,
+            offset=6
+          %}
+            {% dnd_row %}
+              {% dnd_module path="@hubspot/rich_text" %}
+                {% module_attribute "html" %}
+                  <p>{{ scaffold_content.consultation.description or template_translations.paid_consultation_content_two.message }}</p>
+                {% end_module_attribute %}
+              {% end_dnd_module %}
+            {% end_dnd_row %}
+          {% end_dnd_column %}
+        {% end_dnd_row %}
+        {% dnd_row %}
+          {% dnd_module
+            path="../modules/button",
+            button_text={{ scaffold_content.consultation.button_text or buy_button_label }},
+            button_link={
+              "url": {
+                "href": booking_anchor
+              }
+            }
+            styles={
+              "alignment": {
+                "alignment": {
+                  "horizontal_align": "CENTER"
+                }
+              }
+            }
+          %}
+          {% end_dnd_module %}
+        {% end_dnd_row %}
+      {% end_dnd_column %}
+    {% end_dnd_section %}
+
+    {# Services section #}
+
+    {% dnd_section background_color="#FFF" %}
+      {% dnd_column %}
+        {% dnd_row
+          margin={
+            "bottom": 22
+          }
+        %}
+          {% dnd_module path="@hubspot/rich_text" %}
+            {% module_attribute "html" %}
+              <a id="services" data-hs-anchor="true"></a>
+              <div style="text-align: center;">
+                <h2>{{ scaffold_content.services.heading or template_translations.paid_consultation_heading_three.message }}</h2>
+                <p>{{ scaffold_content.services.subheading or template_translations.placeholder_content_one.message }}</p>
+              </div>
+            {% end_module_attribute %}
+          {% end_dnd_module %}
+
+        {% end_dnd_row %}
+        {% dnd_row %}
+          {% dnd_module
+            path="../modules/service-card",
+            icon={
+              "icon": {
+                "name": "balance-scale",
+                "type" : "SOLID",
+                "unicode": "f24e"
+              }
+            },
+            content={
+              "content": services_content[0]|render
+            },
+            styles={
+              "card": {
+                "spacing": {
+                  "spacing": {
+                    "margin": {
+                      "bottom": {
+                        "value": 22,
+                        "units": "px"
+                      }
+                    }
+                  }
+                }
+              },
+              "icon": {
+                "background": {
+                  "color": {
+                    "color": "#494a52",
+                    "opacity": 100
+                  }
+                }
+              }
+            },
+            width=4
+          %}
+          {% end_dnd_module %}
+          {% dnd_module
+            path="../modules/service-card",
+            offset=4,
+            icon={
+              "icon": {
+                "name": "industry",
+                "type" : "SOLID",
+                "unicode": "f275"
+              }
+            },
+            content={
+              "content": services_content[1]|render
+            },
+            styles={
+              "card": {
+                "spacing": {
+                  "spacing": {
+                    "margin": {
+                      "bottom": {
+                        "value": 22,
+                        "units": "px"
+                      }
+                    }
+                  }
+                }
+              },
+              "icon": {
+                "background": {
+                  "color": {
+                    "color": "#494a52",
+                    "opacity": 100
+                  }
+                }
+              }
+            },
+            width=4
+          %}
+          {% end_dnd_module %}
+          {% dnd_module
+            path="../modules/service-card",
+            icon={
+              "icon": {
+                "name": "server",
+                "type" : "SOLID",
+                "unicode": "f233"
+              }
+            },
+            content={
+              "content": services_content[2]|render
+            },
+            styles={
+              "card": {
+                "spacing": {
+                  "spacing": {
+                    "margin": {
+                      "bottom": {
+                        "value": 22,
+                        "units": "px"
+                      }
+                    }
+                  }
+                }
+              },
+              "icon": {
+                "background": {
+                  "color": {
+                    "color": "#494a52",
+                    "opacity": 100
+                  }
+                }
+              }
+            },
+            offset=8,
+            width=4
+          %}
+          {% end_dnd_module %}
+        {% end_dnd_row %}
+        {% dnd_row %}
+          {% dnd_module path="../modules/button"
+            button_text={{ scaffold_content.services.button_text or buy_button_label }},
+            button_link={
+              "url": {
+                "href": booking_anchor
+              }
+            },
+            styles={
+              "alignment": {
+                "alignment": {
+                  "horizontal_align": "CENTER"
+                }
+              }
+            }
+          %}
+          {% end_dnd_module %}
+        {% end_dnd_row %}
+      {% end_dnd_column %}
+    {% end_dnd_section %}
+
+
+    {# Testimonials #}
+
+    {% include_dnd_partial path="../sections/testimonials.html"
+      context={
+        "background_color": "#F5F8FA",
+        "heading": scaffold_content.testimonials.heading or template_translations.paid_consultation_heading_four.message,
+        "content": scaffold_content.testimonials.subheading or template_translations.placeholder_content_one.message,
+        "testimonials": [
+          {
+            "content": scaffold_content.testimonials.testimonial_one.text or template_translations.paid_consultation_list_content.message,
+            "author": {
+              "name": scaffold_content.testimonials.testimonial_one.customer_name,
+              "image": {
+                "src": scaffold_content.testimonials.testimonial_one_customer.image.src or get_asset_url("../images/testimonial-one.jpg")
+              }
+            }
+          },
+          {
+            "content": scaffold_content.testimonials.testimonial_two.text or template_translations.paid_consultation_list_content.message,
+            "author": {
+              "name": scaffold_content.testimonials.testimonial_two.customer_name,
+              "image": {
+                "src": scaffold_content.testimonials.testimonial_two_customer.image.src or get_asset_url("../images/testimonial-two.jpg")
+              }
+            }
+          },
+          {
+            "content": scaffold_content.testimonials.testimonial_three.text or template_translations.paid_consultation_list_content.message,
+            "author": {
+              "name": scaffold_content.testimonials.testimonial_three.customer_name,
+              "image": {
+                "src": scaffold_content.testimonials.testimonial_three_customer.image.src or get_asset_url("../images/testimonial-three.jpg")
+              }
+            }
+          }
+        ],
+        "margin_bottom": 0
+      }
+    %}
+
+  {% end_dnd_area %}
+{% endblock body %}

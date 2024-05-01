@@ -1,0 +1,1662 @@
+{
+  "partial_header_skip_to_content": {
+    "message": "Ugrás a tartalomhoz",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_address": {
+    "message": "1111 Város, Fő utca 123.",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_copyright": {
+    "message": "Szerzői jog © {{ year }}, {{ site_settings.company_name }}",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_one": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_two": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_three": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "about_banner_heading": {
+    "message": "Névjegy",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_one": {
+    "message": "A sztorink",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_two": {
+    "message": "Az értékeink",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_three": {
+    "message": "A történetünk",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_four": {
+    "message": "A csapatunk",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_five": {
+    "message": "A kultúránk",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_six": {
+    "message": "Vállalati hírek",
+    "description": "",
+    "placeholders": null
+  },
+  "about_image_alt_text": {
+    "message": "Vállalat",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_one_title": {
+    "message": "Vezérigazgató és alapító",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_two_title": {
+    "message": "Műveleti igazgató",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_three_title": {
+    "message": "Technológiai igazgató",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_four_title": {
+    "message": "Pénzügyi igazgató",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_five_title": {
+    "message": "Tervezési igazgató",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_six_title": {
+    "message": "Személyzeti igazgató",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_description": {
+    "message": "Emelje ki a csapattag egyedi szakértelmét, tapasztalatait és érdeklődési körét. Törekedjen a rövid, tartalmas, a figyelmet lekötő szövegre, amely bemutatja az illető szakmai életútját és az értékes készségeket, melyekkel gazdagítja a csapatot.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_index_heading": {
+    "message": "Blog",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_heading": {
+    "message": "Bloghozzászólások",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_heading": {
+    "message": "Növekedési konferencia",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_date": {
+    "message": "Szeptember 5–8.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_text": {
+    "message": "Jegyek beszerzése",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_content": {
+    "message": "Jegyek beszerzése",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_one": {
+    "message": "Vásárlás most",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_two": {
+    "message": "Jegyvásárlás",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_one": {
+    "message": "Névjegy",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_two": {
+    "message": "Előadói panel",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_three": {
+    "message": "Szponzorok",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_four": {
+    "message": "Jelmondat hozzáadása a videóhoz",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_five": {
+    "message": "Vélemények",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_six": {
+    "message": "Bejelentések",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_one": {
+    "message": "A Növekedési konferencia sablonnal megmutathatja a vásárlóknak, milyen értéket nyújthat a szervezete konferenciarendezvénye. Ismertesse a konferencia témáját és hogy miért érdemes a vásárlóknak jegyet venniük rá.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_two": {
+    "message": "Itt adja hozzá az előadók rövid bemutatását. Miért érdemes meghallgatnia őket a közönségnek? Van olyan átfogó téma, amelyet mindannyian érintenek a beszédeikben? Mitől különlegesek? Ezen a helyen megindokolhatja az olvasónak, miért ezeket az előadókat akarja bemutatni.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_three": {
+    "message": "Itt foglalja össze az előadók életútját. A prezentációjuk témájáról is írhat egy mondatot.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_four": {
+    "message": "„Itt adhat közösségi bizonyítékot arról, milyen kiváló a rendezvénye. Véleményekkel támassza alá és értesse meg az emberekkel az esemény értékét.”",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_five": {
+    "message": "Ismertesse a konferencia témáját, tájékoztassa az érdeklődőket, hogy mi zajlik a konferencián, és mondja el nekik, hogy miért érdemes jegyet vásárolniuk. Ezekkel a sablonokkal érintésmentesen értékesíthet jegyeket az eseményére.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_heading": {
+    "message": "Általános belépődíj",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_price": {
+    "message": "$199",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_heading": {
+    "message": "VIP",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_price": {
+    "message": "$449",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_one": {
+    "message": "Sorolja fel mindazokat az izgalmas előnyöket, amelyekhez hozzájuthat a vásárló, ha megveszi ezt a csomagot.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_two": {
+    "message": "Milyen kapcsolatépítési és tanulási lehetőségek állnak rendelkezésükre a konferencián?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_three": {
+    "message": "A konferencia mely részeihez férhetnek hozzá?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_four": {
+    "message": "Kapnak hozzáférést rögzített programhoz?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_five": {
+    "message": "Milyen étkezési, közlekedési és szálláslehetőségeik vannak?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_six": {
+    "message": "Sorolja fel mindazokat az exkluzív előnyöket, amelyekhez hozzájuthat a VIP vásárló, ha megveszi ezt a csomagot.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_one": {
+    "message": "Vezérigazgató és alapító",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_two": {
+    "message": "Műveleti igazgató",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_three": {
+    "message": "Technológiai igazgató",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_content": {
+    "message": "Jegyvásárlás",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_image_alt_text": {
+    "message": "Előadói fotó",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_one": {
+    "message": "Kapcsolat",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_two": {
+    "message": "Helyszíneink",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_three": {
+    "message": "Kapcsolatfelvétel",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_four": {
+    "message": "Gyakori kérdések",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_heading": {
+    "message": "Tartalomkönyvtár",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_content": {
+    "message": "A tanulást és személyes fejlődést segítő erőforrásokkal és digitális tartalmakkal teli könyvtár.",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_one": {
+    "message": "<h3>San Francisco</h3><p>3870 Twin Oaks Drive<br> San Francisco, CA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_two": {
+    "message": "<h3>Chicago</h3><p>2140 Roguski Road<br> Chicago, IL</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_three": {
+    "message": "<h3>Boston</h3><p>123 Waverly Place<br> Boston, MA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_question": {
+    "message": "Harmonika címe",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_heading": {
+    "message": "Az oldal nem található",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_description": {
+    "message": "Nem találtuk a keresett oldalt.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_button": {
+    "message": "Ugrás a kezdőoldalra",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_heading": {
+    "message": "Az oldal nem működik",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_description": {
+    "message": "Belső kiszolgálóhiba történt, de már foglalkozunk az üggyel!",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_button": {
+    "message": "Ugrás a kezdőoldalra",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_heading": {
+    "message": "Sajnos nincs hozzáférése",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_description": {
+    "message": "Nincs engedélye az oldal megtekintésére. Kérdés esetén forduljon az oldal rendszergazdájához.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_button": {
+    "message": "Ugrás a kezdőoldalra",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_heading": {
+    "message": "Bejelentkezés",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_subheading": {
+    "message": "A megtekinteni próbált oldalhoz csak regisztrált felhasználók férhetnek hozzá.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_email": {
+    "message": "E-mail-cím",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_password": {
+    "message": "Jelszó",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_remember_me": {
+    "message": "Emlékezzen rám",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_reset_password": {
+    "message": "Elfelejtette a jelszót?",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_submit": {
+    "message": "Bejelentkezés",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_show_password": {
+    "message": "Megjelenítés",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_contact_admin": {
+    "message": "Problémát tapasztal? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Forduljon az oldal rendszergazdájához</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_heading": {
+    "message": "Kijelentkezett",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_button": {
+    "message": "Jelentkezzen be újra",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_alt": {
+    "message": "Vagy térjen vissza a <a href=\"{{ '//' ~ request.domain }}\">kezdőlapra</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_heading": {
+    "message": "Jelszó beállítása",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_subheading": {
+    "message": "Üdvözöljük! A regisztráció befejezéséhez állítsa be a jelszavát.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_email": {
+    "message": "E-mail-cím",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_confirm_password": {
+    "message": "Jelszó megerősítése",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_password": {
+    "message": "Jelszó",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_save_password": {
+    "message": "Jelszó mentése",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_show_password": {
+    "message": "Megjelenítés",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_contact_admin": {
+    "message": "Problémát tapasztal? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Forduljon az oldal rendszergazdájához</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_heading": {
+    "message": "E-mail-címe megerősítése megtörtént",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_description": {
+    "message": "Köszönjük, hogy visszaigazolta e-mail-címét. Most már bejelentkezhet fiókjába, és hozzáférhet az exkluzív tartalomhoz.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_button": {
+    "message": "Bejelentkezés",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_contact_admin": {
+    "message": "Problémát tapasztal? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Forduljon az oldal rendszergazdájához</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_heading": {
+    "message": "Új jelszó létrehozása",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_subheading": {
+    "message": "Az új jelszó nem lehet azonos a korábban használt jelszóval.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_new_password": {
+    "message": "Új jelszó",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_confirm_password": {
+    "message": "Új jelszó megerősítése",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_save_password": {
+    "message": "Jelszó mentése",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_show_password": {
+    "message": "Megjelenítés",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_contact_admin": {
+    "message": "Problémát tapasztal? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Forduljon az oldal rendszergazdájához</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_heading": {
+    "message": "Jelszó visszaállítása",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_subheading": {
+    "message": "Adja meg a regisztrációhoz használt e-mail-címet, és új jelszó beállítására szolgáló hivatkozást küldünk Önnek.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_email": {
+    "message": "E-mail-cím",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_submit": {
+    "message": "Visszaállító e-mail küldése",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_alt": {
+    "message": "Eszébe jutott? <a href=\"/_hcms/mem/login\">Jelentkezzen be</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_contact_admin": {
+    "message": "Problémát tapasztal? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Forduljon az oldal rendszergazdájához</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_heading": {
+    "message": "Igazolja vissza e-mail-címét",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_description": {
+    "message": "Köszönjük regisztrációját! Kérjük, nézze meg e-mailjeit, és kattintson a megerősítő linkre a regisztráció befejezéséhez.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_contact_admin": {
+    "message": "Problémát tapasztal? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Forduljon az oldal rendszergazdájához</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_one": {
+    "message": "Névjegy",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two": {
+    "message": "Vállalkozás bővítése fizetett konzultációkkal",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two_update": {
+    "message": "Vállalkozás bővítése fizetett konzultációkkal",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_three": {
+    "message": "Egész eszköztár áll rendelkezésére",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_heading": {
+    "message": "Szolgáltatás",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_description": {
+    "message": "Foglalja össze a kínált szolgáltatást. Adjon hozzá üzenetet arról, milyen értéket tud nyújtani az ügyfeleknek.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_four": {
+    "message": "Vélemények",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_one": {
+    "message": "Adjon hozzá feliratot, amely elmagyarázza, hogyan közvetít értéket a vásárlóinak",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_two": {
+    "message": "Adjon hozzá rövid ismertetőt a vállalatnál végzett munkájáról. Próbálja leszűkíteni a szakterületére, hogy meg tudja ragadni az ügyfelei figyelmét. Beszéljen arról, milyen értéket tud nyújtani fizetett konzultáció formájában.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_list_content": {
+    "message": "„Adjon hozzá a szolgáltatásairól kezeskedő véleményt. Miért lelkesednek a jelenlegi vásárlói a kínálatával kapcsolatban?",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_image_alt_text": {
+    "message": "Növekedési téma helyőrzőjének képe",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_button_text": {
+    "message": "Konzultáció foglalása",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_heading": {
+    "message": "Jelszó szükséges",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_subheading": {
+    "message": "Adja meg a jelszavát az oldal megtekintéséhez.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_one": {
+    "message": "Árazás",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_plans_and_pricing_heading": {
+    "message": "Csomagok és árak",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_two": {
+    "message": "Gyakori kérdések",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_heading": {
+    "message": "Minden csomag része",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_content_heading": {
+    "message": "Termékjellemző",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_heading": {
+    "message": "Vonzza az embereket termékeihez és szolgáltatásaihoz",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_button_text": {
+    "message": "További információ",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_question": {
+    "message": "Harmonika címe",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_one": {
+    "message": "Termékek",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_two": {
+    "message": "Kifejezetten Önnek készült",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_heading": {
+    "message": "És még sok minden",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_content_heading": {
+    "message": "Termékjellemző",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_one": {
+    "message": "Gyorsan elindítható",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_two": {
+    "message": "Egyszerű és könnyen használható",
+    "description": "",
+    "placeholders": null
+  },
+  "products_image_alt_text": {
+    "message": "Termékjellemző",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_heading": {
+    "message": "Vonzza az embereket termékeihez és szolgáltatásaihoz",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_button_text": {
+    "message": "További információ",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_heading": {
+    "message": "Növekedési téma",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_button_text": {
+    "message": "Kezdjünk hozzá!",
+    "description": "",
+    "placeholders": null
+  },
+  "home_logos_heading": {
+    "message": "Elégedett vásárlóink közül néhányan",
+    "description": "",
+    "placeholders": null
+  },
+  "home_heading": {
+    "message": "Kifejezetten Önnek készült",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_one": {
+    "message": "Gyors beállítás",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_two": {
+    "message": "Könnyen használható",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_three": {
+    "message": "Testreszabható",
+    "description": "",
+    "placeholders": null
+  },
+  "home_video_heading": {
+    "message": "Nézze meg működés közben",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_heading": {
+    "message": "Egész eszköztár áll rendelkezésére",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_content_heading": {
+    "message": "Név",
+    "description": "",
+    "placeholders": null
+  },
+  "home_image_alt_text": {
+    "message": "Név",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_button_text": {
+    "message": "További információ",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_content": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan velit sit amet sagittis malesuada.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_customer": {
+    "message": "Shaun Benson marketingvezető, Agriflora Inc.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_blog_post_heading": {
+    "message": "Legutóbbi bejegyzések",
+    "description": "",
+    "placeholders": null
+  },
+  "home_contact": {
+    "message": "Kapcsolat",
+    "description": "",
+    "placeholders": null
+  },
+  "home_button_text": {
+    "message": "Kezdjünk hozzá!",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_heading": {
+    "message": "Töltse le díjmentes digitális erőforrását még ma",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_p_one": {
+    "message": "Írjon magával ragadó bevezetőt, amely leírja ennek az erőforrásnak a tartalmát. Foglalkozzon az olvasókat érintő kihívásokkal vagy célokkal, és fejtse ki, hogyan segít majd ez az e-könyv megoldani azokat,",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_one_heading": {
+    "message": "1. előny:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_two_heading": {
+    "message": "2. előny:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_three_heading": {
+    "message": "3. előny:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_content": {
+    "message": "Fejtse ki, mit fognak elsajátítani az olvasók",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_highlight": {
+    "message": "Ne feledje kiemelni az előnyöket:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_preface": {
+    "message": "Miért érdemes minket választani?",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_heading": {
+    "message": "Modern megoldásokat kínálunk növekvő vállalkozása számára",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_content": {
+    "message": "Csatlakozzon több ezer elégedett felhasználóhoz, akik innovatív megoldásaink segítségével átformálták életüket.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_button_text": {
+    "message": "További információ",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_logo_heading": {
+    "message": "A vezető szerepet betöltő vállalatok is ezt választják",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_heading": {
+    "message": "Funkciónév",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_content": {
+    "message": "Írjon meggyőző, az előnyöket kiemelő szöveget, amely egyértelműen megfogalmazza az ajánlata által képviselt értéket, és cselekvésre ösztönzi a látogatókat. Fókuszáljon arra, hogyan oldja meg az ajánlata a problémáikat, illetve hogyan elégíti ki az igényeiket.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_preface": {
+    "message": "Ne hagyatkozzon csak a mi véleményünkre",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_heading": {
+    "message": "Nézze meg ezeket a funkciókat élőben, az egyik munkatársunk segítségével",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_button_text": {
+    "message": "Demó igénylése",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_heading": {
+    "message": "Demó ütemezése",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_p_one": {
+    "message": "Egy Önnek megfelelő időpontra ütemezzen be egy demót az egyik munkatársunkkal. Adjon rövid leírást arra vonatkozóan, hogy az érdeklődői mi minden elsajátítására számíthatnak.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_highlight": {
+    "message": "A következőkről lesz szó:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_one_heading": {
+    "message": "1. téma:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_two_heading": {
+    "message": "2. téma:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_three_heading": {
+    "message": "3. téma:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_content": {
+    "message": "Fejtse ki, miről lesz szó a demójában",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_heading": {
+    "message": "Menjen biztosra: regisztráljon most erre az exkluzív eseményre",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_content": {
+    "message": "Adjon hozzá rövid bevezetőt, amely kifejti, miről szól az élő konferencia, webinárium vagy esemény, és miért érdemes a közönség tagjainak regisztrálni erre.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_button_text": {
+    "message": "Regisztráljon most!",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_partners_content": {
+    "message": "Csatlakozzon hozzánk és közösségi partnereinkhez",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_preface": {
+    "message": "Az esemény részletei",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_heading": {
+    "message": "Elismert szakértőktől tanulhat",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_highlight": {
+    "message": "Az esemény fénypontjai:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_one_heading": {
+    "message": "1. fénypont:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_two_heading": {
+    "message": "2. fénypont:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_three_heading": {
+    "message": "3. fénypont:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_content": {
+    "message": "A résztvevők ezzel lesznek gazdagabbak",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_heading": {
+    "message": "Gyors statisztika",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_one": {
+    "message": "20+",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_two": {
+    "message": "150+",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_three": {
+    "message": "10",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_description": {
+    "message": "A statisztika rövid leírása",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_heading": {
+    "message": "Tekintse meg, hogy bepillantást nyerjen az eseménybe",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_content": {
+    "message": "Nézze meg kedvcsináló videónkat, bepillantást nyerve az inspiráló vitaindító beszédekbe, az interaktív workshopokba és az Önre váró kapcsolatépítési lehetőségekbe. Ne hagyja ki ezt a lehetőséget: nézze meg, mi várja, és csatlakozzon hozzánk egy feledhetetlen élményért.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_preface": {
+    "message": "Ne hagyatkozzon csak a mi véleményünkre",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_heading": {
+    "message": "Oldja fel a lehetőségeket, és foglalja le a helyét még ma",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_button_text": {
+    "message": "Regisztráljon most!",
+    "description": "",
+    "placeholders": null
+  },
+  "search_results_heading": {
+    "message": "Keresési eredmények a(z) „[[search_term]]” kifejezésre",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_heading": {
+    "message": "Névjegy",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_sub_heading": {
+    "message": "A vállalatunk",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_image_alt_text": {
+    "message": "A sztorink",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_list_heading": {
+    "message": "Legújabb bejegyzések",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_heading": {
+    "message": "Legújabb bejegyzések",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_heading": {
+    "message": "Vonzza az embereket termékeihez és szolgáltatásaihoz",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_button_text": {
+    "message": "További tudnivalók",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_full_heading": {
+    "message": "Kapcsolat",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_heading": {
+    "message": "Kapcsolat",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_address": {
+    "message": "1111 Város, Fő utca 123.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_email": {
+    "message": "contact@businessname.com",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_phone_number": {
+    "message": "+1 234-567-8901",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_heading": {
+    "message": "Termék",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_description_heading": {
+    "message": "Leírás",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_button_text": {
+    "message": "Kapcsolat",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_image_alt_text": {
+    "message": "Termék",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_heading": {
+    "message": "Galéria",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_one": {
+    "message": "Termékek",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_two": {
+    "message": "Vállalat",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_three": {
+    "message": "Árazás",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_four": {
+    "message": "Termékjellemző",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_five": {
+    "message": "Képaláírás",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_caption": {
+    "message": "Képaláírás",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_heading": {
+    "message": "Galéria",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_one": {
+    "message": "Termékek",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_two": {
+    "message": "Vállalat",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_three": {
+    "message": "Árazás",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_four": {
+    "message": "Termékjellemző",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_five": {
+    "message": "Árazás",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_hover_message": {
+    "message": "Rámutatáskor látható üzenet",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_heading": {
+    "message": "Növekedési téma",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_button_text": {
+    "message": "Kapcsolat",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_heading": {
+    "message": "Növekedési téma",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_button_text": {
+    "message": "Kezdjünk hozzá!",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_heading": {
+    "message": "Miben tűnünk ki",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_one": {
+    "message": "Gyors beállítás",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_two": {
+    "message": "Könnyen használható",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_three": {
+    "message": "Testreszabható",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_heading": {
+    "message": "Elégedett vásárlóink közül néhányan",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_image_alt_text": {
+    "message": "Ügyfél logója",
+    "description": "",
+    "placeholders": null
+  },
+  "section_meetings_banner_heading": {
+    "message": "Foglaljon időpontot díjmentes konzultációra",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_heading": {
+    "message": "A csapatunk",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_one_title": {
+    "message": "Vezérigazgató",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_two_title": {
+    "message": "Műveleti igazgató",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_three_title": {
+    "message": "Pénzügyi igazgató",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_description": {
+    "message": "Emelje ki a csapattag egyedi szakértelmét, tapasztalatait és érdeklődési körét. Törekedjen a rövid, tartalmas, a figyelmet lekötő szövegre, amely bemutatja az illető szakmai életútját és az értékes készségeket, melyekkel gazdagítja a csapatot.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_heading": {
+    "message": "A sztorink",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_image_alt_text": {
+    "message": "A sztorink",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_button_text": {
+    "message": "További tudnivalók",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_heading": {
+    "message": "Csomagok tartalma",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_description_heading": {
+    "message": "Termékjellemző",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_image_alt_text": {
+    "message": "Csomagjellemző",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_heading": {
+    "message": "Iratkozzon fel hírlevelünkre!",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_subheading": {
+    "message": "Regisztráljon, hogy ne maradjon le a legújabb frissítésekről",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_heading": {
+    "message": "Egész eszköztár áll rendelkezésére",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_card_heading": {
+    "message": "Vonzza az embereket termékeihez és szolgáltatásaihoz",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_button_text": {
+    "message": "Kapcsolat",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_image_alt_text": {
+    "message": "Szolgáltatás",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_heading": {
+    "message": "Csomagok és árak",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_heading": {
+    "message": "Starter",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_price": {
+    "message": "50 $/hó",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_content": {
+    "message": "Induló termékcsomag vásárlása most ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_button_text": {
+    "message": "Induló termékcsomag vásárlása most ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_heading": {
+    "message": "Professzionális",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_price": {
+    "message": "200 $/hó",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_content": {
+    "message": "Vegyen most professzionális csomagot",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_button_text": {
+    "message": "Vegyen most professzionális csomagot",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_heading": {
+    "message": "Vállalati",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_price": {
+    "message": "600 $/hó",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_content": {
+    "message": "Vegyen most nagyvállalati csomagot",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_button_text": {
+    "message": "Vegyen most nagyvállalati csomagot",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_sub_heading": {
+    "message": "Fő funkciók",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_heading": {
+    "message": "Termékek",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_image_alt_text": {
+    "message": "A sztorink",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_description_heading": {
+    "message": "Név",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_button_text": {
+    "message": "Kapcsolat",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_heading": {
+    "message": "Szolgáltatások",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_description_heading": {
+    "message": "Szolgáltatás neve",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_one": {
+    "message": "A sztorink",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_two": {
+    "message": "Az értékeink",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_three": {
+    "message": "A történetünk",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_button_text": {
+    "message": "Kapcsolat",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_heading": {
+    "message": "Vélemény",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_team_member_title_one": {
+    "message": "Termékekért felelős alelnök",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_heading": {
+    "message": "Tekintse meg, mit mondanak az emberek",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_one": {
+    "message": "Termékekért felelős alelnök",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_two": {
+    "message": "Értékesítési senior alelnök",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_three": {
+    "message": "Marketingigazgató",
+    "description": "",
+    "placeholders": null
+  },
+  "section_video_heading": {
+    "message": "Nézze meg működés közben",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading": {
+    "message": "Szolgáltatások",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_one_alt": {
+    "message": "Két ember egy számítógépnél",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_two_alt": {
+    "message": "Két ember nézi a telefon kijelzőjét",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_three_alt": {
+    "message": "Két ember öntapadós cetlikkel dolgozik a falon",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_one": {
+    "message": "Alap",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_two": {
+    "message": "Pro",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_three": {
+    "message": "Vállalati",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_button_text": {
+    "message": "További tudnivalók",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_description": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_heading": {
+    "message": "Szolgáltatások",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_image_alt": {
+    "message": "Két ember ül a lépcsőn",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_heading": {
+    "message": "Márkaidentitás-fejlesztés",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_content": {
+    "message": "Csapatunk egyedi, könnyen megjegyezhető márkaidentitást hoz létre, amely közvetíti vállalata esszenciáját. Magával ragadó logót, harmonikus színpalettát és következetes vizuális stílust ötvözünk, amely megkülönbözteti és kiemeli a márkáját.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_image_alt": {
+    "message": "Fiatal üzletemberek néznek egy laptopot",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_heading": {
+    "message": "UX/UI tervezési továbbfejlesztés",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_content": {
+    "message": "UX/UI tervezési szakértelmünket kihasználva javíthatja a felhasználói elégedettséget és aktivitást. Mélyrehatóan kielemezzük digitális termékeit, azonosítjuk a problémás pontokat, és felhasználóközpontú megoldásokat implementálunk a felhasználói élmény javítására.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_image_alt": {
+    "message": "Fiatal marketingszakember beszél egy udvaron, táblagéppel a kezében",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_heading": {
+    "message": "Marketinganyagok tervezése",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_content": {
+    "message": "Emelje magasabb szintre a marketinges erőfeszítéseit lenyűgöző anyagokkal, amelyek tartós benyomást hagynak a nézőben. Prospektusok, szórólapok, közösségi médiás grafikák? Mutatós anyagokat tervezünk, amelyek megragadják a célközönség figyelmét, és serkentik az eredményeket.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_button_text": {
+    "message": "További tudnivalók",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_banner_image_alt": {
+    "message": "Egy csoportnyi mosolygó ember, aki egyenesen előre, a kamerába néz",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_heading": {
+    "message": "Helyi éléskamra-támogatás",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_content_area_one": {
+    "message": "Csatlakozzon hozzánk, és segítse Ön is szomszédai életminőségének javítását a helyi éléskamránk támogatásával. Adománya segít alapvető élelmiszerekkel ellátni a közösségünkben élelmiszerhiánnyal küzdő egyéneket és családokat.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_one_alt": {
+    "message": "Üvegre helyezett öntapadós cetliket nézegető két személy",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_two_alt": {
+    "message": "Kártyás fizetési terminálhoz közelített telefon",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_three_alt": {
+    "message": "Furgont vezető férfi, az első ülésen két csomaggal",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_heading": {
+    "message": "Adományozzon most",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_message_and_amount": {
+    "message": "Javasolt összeg: USD 15,00",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_one_text": {
+    "message": "Adományozzon USD 15,00 összeget",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_two_text": {
+    "message": "Egyéni összeg",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_three_text": {
+    "message": "Megosztás",
+    "description": "",
+    "placeholders": null
+  }
+}

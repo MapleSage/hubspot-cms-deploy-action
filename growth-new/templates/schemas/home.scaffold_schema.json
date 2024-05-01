@@ -1,0 +1,314 @@
+[
+  {
+    "name": "banner",
+    "type": "group",
+    "children": [
+      {
+        "name": "background_image",
+        "type": "image",
+        "description": "A banner background image that shows what the company does.",
+        "width": 1792,
+        "height": 1024
+      },
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that describes the company. This is what shows at the top of the home page of the website"
+      },
+      {
+        "name": "subheading",
+        "type": "text",
+        "description": "A subheading that gives a brief description (2-3 sentences) about what the company does."
+      },
+      {
+        "name": "button_text",
+        "type": "text",
+        "description": "The button text that describes the call to action the user should take on the page regarding learning more about the company."
+      }
+    ]
+  },
+  {
+    "name": "customers",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that shows above logos of some of the company's customers."
+      },
+      {
+        "name": "logo_one",
+        "type": "image",
+        "description": "A logo of the first company that uses this company's products.",
+        "width": 266,
+        "height": 152
+      },
+      {
+        "name": "logo_two",
+        "type": "image",
+        "description": "A logo of the second company that uses this company's products.",
+        "width": 266,
+        "height": 152
+      },
+      {
+        "name": "logo_three",
+        "type": "image",
+        "description": "A logo of the third company that uses this company's products.",
+        "width": 266,
+        "height": 152
+      },
+      {
+        "name": "logo_four",
+        "type": "image",
+        "description": "A logo of the fourth company that uses this company's products.",
+        "width": 266,
+        "height": 152
+      }
+    ]
+  },
+  {
+    "name": "benefits",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that shows above a section that describes some of the different benefits that a user can expect to get when they work with the company."
+      },
+      {
+        "name": "subheading",
+        "type": "text",
+        "description": "A subheading that shows above a section that describes some of the different benefits that a user can expect to get when they work with the company."
+      },
+      {
+        "name": "benefit_one",
+        "type": "group",
+        "children": [
+          {
+            "name": "name",
+            "type": "text",
+            "description": "The first benefit of using this company's products."
+          },
+          {
+            "name": "description",
+            "type": "text",
+            "description": "A paragraph describing the first benefit of using this company's products."
+          }
+        ]
+      },
+      {
+        "name": "benefit_two",
+        "type": "group",
+        "children": [
+          {
+            "name": "name",
+            "type": "text",
+            "description": "The second benefit of using this company's products."
+          },
+          {
+            "name": "description",
+            "type": "text",
+            "description": "A paragraph describing the second benefit of using this company's products."
+          }
+        ]
+      },
+      {
+        "name": "benefit_three",
+        "type": "group",
+        "children": [
+          {
+            "name": "name",
+            "type": "text",
+            "description": "The third benefit of using this company's products."
+          },
+          {
+            "name": "description",
+            "type": "text",
+            "description": "A paragraph describing the third benefit of using this company's products."
+          }
+        ]
+      },
+      {
+        "name": "button_text",
+        "type": "text",
+        "description": "The button text that describes the call to action the user should take on the page regarding learning more about the benefits of using this company's products."
+      }
+    ]
+  },
+  {
+    "name": "video",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that shows above a video that provides more information about what the company does."
+      },
+      {
+        "name": "subheading",
+        "type": "text",
+        "description": "A subheading that shows above a video that provides more information about what the company does."
+      }
+    ]
+  },
+  {
+    "name": "products",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading above a section that describes the different products the company offers."
+      },
+      {
+        "name": "subheading",
+        "type": "text",
+        "description": "A subheading above a section that describes the different products the company offers."
+      },
+      {
+        "name": "product_one",
+        "type": "group",
+        "children": [
+          {
+            "name": "image",
+            "type": "image",
+            "description": "An image that shows the first product that the company offers.",
+            "width": 497,
+            "height": 284
+          },
+          {
+            "name": "name",
+            "type": "text",
+            "description": "The name of the first product that the company offers."
+          },
+          {
+            "name": "description",
+            "type": "text",
+            "description": "A description of the first product that the company offers."
+          },
+          {
+            "name": "button_text",
+            "type": "text",
+            "description": "The button text that describes the call to action the user should take on the page regarding learning more about the company's first product."
+          }
+        ]
+      },
+      {
+        "name": "product_two",
+        "type": "group",
+        "children": [
+          {
+            "name": "name",
+            "type": "text",
+            "description": "The name of the second product that the company offers."
+          },
+          {
+            "name": "description",
+            "type": "text",
+            "description": "A description of the second product that the company offers."
+          },
+          {
+            "name": "image",
+            "type": "image",
+            "description": "An image that shows the second product that the company offers.",
+            "width": 497,
+            "height": 284
+          },
+          {
+            "name": "button_text",
+            "type": "text",
+            "description": "The button text that describes the call to action the user should take on the page regarding learning more about the company's second product."
+          }
+        ]
+      },
+      {
+        "name": "product_three",
+        "type": "group",
+        "children": [
+          {
+            "name": "image",
+            "type": "image",
+            "description": "An image that shows the third product that the company offers.",
+            "width": 497,
+            "height": 284
+          },
+          {
+            "name": "name",
+            "type": "text",
+            "description": "The name of the third product that the company offers."
+          },
+          {
+            "name": "description",
+            "type": "text",
+            "description": "A description of the third product that the company offers."
+          },
+          {
+            "name": "button_text",
+            "type": "text",
+            "description": "The button text that describes the call to action the user should take on the page regarding learning more about the company's third product."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "blog_posts",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that shows above a section that shows off the company's latest blog posts."
+      },
+      {
+        "name": "subheading",
+        "type": "text",
+        "description": "A subheading that shows above a section that shows off the company's latest blog posts."
+      }
+    ]
+  },
+  {
+    "name": "testimonial",
+    "type": "group",
+    "children": [
+      {
+        "name": "text",
+        "type": "text",
+        "description": "A testimonial that a customer wrote about the business."
+      },
+      {
+        "name": "customer_image",
+        "type": "image",
+        "description": "An image of the customer who wrote the testimonial.",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "name": "customer_name",
+        "type": "text",
+        "description": "The name of the customer who wrote the testimonial."
+      }
+    ]
+  },
+  {
+    "name": "contact",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that shows above a section that has a form that a user can fill out to get in contact with the company."
+      },
+      {
+        "name": "subheading",
+        "type": "text",
+        "description": "A subheading that shows above a section that has a form that a user can fill out to get in contact with the company."
+      },
+      {
+        "name": "form",
+        "type": "form",
+        "description": "This is a form that users would fill out to get in contact with the company."
+      }
+    ]
+  }
+]

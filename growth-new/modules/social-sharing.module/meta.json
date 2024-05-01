@@ -1,0 +1,12 @@
+{
+  "global" : true,
+  "content_types" : [ "LANDING_PAGE", "SITE_PAGE", "BLOG_LISTING", "BLOG_POST" ],
+  "master_language" : "en",
+  "smart_type" : "NOT_SMART",
+  "categories" : [ "social" ],
+  "icon" : "../../../mV0_d-cms-growth-theme_hubspot/growth/images/module-icons/social-posts.svg",
+  "host_template_types" : [ "PAGE", "BLOG_LISTING", "BLOG_POST" ],
+  "module_id" : 165984892040,
+  "label" : "Social sharing",
+  "is_available_for_new_content" : true
+}

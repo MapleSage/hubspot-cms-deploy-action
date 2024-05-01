@@ -1,0 +1,1632 @@
+{
+  "name": {
+    "message": "ग्रोथ",
+    "description": "",
+    "placeholders": null
+  },
+  "colors.accent_one.label": {
+    "message": "एक्सेंट 1",
+    "description": "",
+    "placeholders": null
+  },
+  "colors.accent_two.label": {
+    "message": "एक्सेंट 2",
+    "description": "",
+    "placeholders": null
+  },
+  "colors.body_background_color.label": {
+    "message": "बॉडी बैकग्राउंड कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "colors.label": {
+    "message": "कलर्स",
+    "description": "",
+    "placeholders": null
+  },
+  "colors.primary.label": {
+    "message": "प्राइमरी",
+    "description": "",
+    "placeholders": null
+  },
+  "colors.secondary.label": {
+    "message": "सेकंडरी",
+    "description": "",
+    "placeholders": null
+  },
+  "fonts.label": {
+    "message": "फ़ॉन्ट्स",
+    "description": "",
+    "placeholders": null
+  },
+  "fonts.primary.label": {
+    "message": "प्राइमरी",
+    "description": "",
+    "placeholders": null
+  },
+  "fonts.secondary.label": {
+    "message": "सेकंडरी",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.label": {
+    "message": "बटन",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.primary.background.color.label": {
+    "message": "कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.primary.background.label": {
+    "message": "बैकग्राउंड",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.primary.border.border.label": {
+    "message": "बॉर्डर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.primary.border.label": {
+    "message": "बॉर्डर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.primary.corner.label": {
+    "message": "कॉर्नर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.primary.corner.radius.label": {
+    "message": "रेडियस",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.primary.hover.background.color.label": {
+    "message": "कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.primary.hover.background.label": {
+    "message": "बैकग्राउंड",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.primary.hover.border.border.label": {
+    "message": "बॉर्डर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.primary.hover.border.label": {
+    "message": "बॉर्डर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.primary.hover.label": {
+    "message": "होवर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.primary.hover.text.font.label": {
+    "message": "फ़ॉन्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.primary.hover.text.label": {
+    "message": "टेक्स्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.primary.label": {
+    "message": "प्राइमरी",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.primary.text.font.label": {
+    "message": "फ़ॉन्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.primary.text.label": {
+    "message": "टेक्स्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.primary.text.transform.choices.capitalize": {
+    "message": "कैपिटलाइज़",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.primary.text.transform.choices.lowercase": {
+    "message": "लोअरकेस",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.primary.text.transform.choices.none": {
+    "message": "कोई नहीं",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.primary.text.transform.choices.uppercase": {
+    "message": "अपरकेस",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.primary.text.transform.label": {
+    "message": "बदलाव करें",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.secondary.background.color.label": {
+    "message": "कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.secondary.background.label": {
+    "message": "बैकग्राउंड",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.secondary.border.border.label": {
+    "message": "बॉर्डर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.secondary.border.label": {
+    "message": "बॉर्डर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.secondary.corner.label": {
+    "message": "कॉर्नर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.secondary.corner.radius.label": {
+    "message": "रेडियस",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.secondary.hover.background.color.label": {
+    "message": "कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.secondary.hover.background.label": {
+    "message": "बैकग्राउंड",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.secondary.hover.border.border.label": {
+    "message": "बॉर्डर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.secondary.hover.border.label": {
+    "message": "बॉर्डर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.secondary.hover.label": {
+    "message": "होवर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.secondary.hover.text.font.label": {
+    "message": "फ़ॉन्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.secondary.hover.text.label": {
+    "message": "टेक्स्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.secondary.label": {
+    "message": "सेकंडरी",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.secondary.text.font.label": {
+    "message": "फ़ॉन्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.secondary.text.label": {
+    "message": "टेक्स्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.secondary.text.transform.choices.capitalize": {
+    "message": "कैपिटलाइज़",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.secondary.text.transform.choices.lowercase": {
+    "message": "लोअरकेस",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.secondary.text.transform.choices.none": {
+    "message": "कोई नहीं",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.secondary.text.transform.choices.uppercase": {
+    "message": "अपरकेस",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.secondary.text.transform.label": {
+    "message": "बदलाव करें",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.size.label": {
+    "message": "साइज़",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.size.large.font_size.label": {
+    "message": "फ़ॉन्ट साइज़",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.size.large.label": {
+    "message": "बड़ा",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.size.large.spacing.label": {
+    "message": "स्पेसिंग",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.size.regular.font_size.label": {
+    "message": "फ़ॉन्ट साइज़",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.size.regular.label": {
+    "message": "रेगुलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.size.regular.spacing.label": {
+    "message": "स्पेसिंग",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.size.small.font_size.label": {
+    "message": "फ़ॉन्ट साइज़",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.size.small.label": {
+    "message": "छोटा",
+    "description": "",
+    "placeholders": null
+  },
+  "global.buttons.size.small.spacing.label": {
+    "message": "स्पेसिंग",
+    "description": "",
+    "placeholders": null
+  },
+  "global.cards.dark.background.color.label": {
+    "message": "कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.cards.dark.background.label": {
+    "message": "बैकग्राउंड",
+    "description": "",
+    "placeholders": null
+  },
+  "global.cards.dark.border.border.label": {
+    "message": "बॉर्डर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.cards.dark.border.label": {
+    "message": "बॉर्डर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.cards.dark.corner.label": {
+    "message": "कॉर्नर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.cards.dark.corner.radius.label": {
+    "message": "रेडियस",
+    "description": "",
+    "placeholders": null
+  },
+  "global.cards.dark.label": {
+    "message": "डार्क",
+    "description": "",
+    "placeholders": null
+  },
+  "global.cards.dark.text.color.label": {
+    "message": "कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.cards.dark.text.label": {
+    "message": "टेक्स्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.cards.label": {
+    "message": "कार्ड",
+    "description": "",
+    "placeholders": null
+  },
+  "global.cards.light.background.color.label": {
+    "message": "कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.cards.light.background.label": {
+    "message": "बैकग्राउंड",
+    "description": "",
+    "placeholders": null
+  },
+  "global.cards.light.border.border.label": {
+    "message": "बॉर्डर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.cards.light.border.label": {
+    "message": "बॉर्डर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.cards.light.corner.label": {
+    "message": "कॉर्नर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.cards.light.corner.radius.label": {
+    "message": "रेडियस",
+    "description": "",
+    "placeholders": null
+  },
+  "global.cards.light.label": {
+    "message": "लाइट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.cards.light.text.color.label": {
+    "message": "कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.cards.light.text.label": {
+    "message": "टेक्स्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.footer.background.color.label": {
+    "message": "कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.footer.background.label": {
+    "message": "बैकग्राउंड",
+    "description": "",
+    "placeholders": null
+  },
+  "global.footer.label": {
+    "message": "वेबसाइट का फुटर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.footer.menu.active.font.label": {
+    "message": "फ़ॉन्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.footer.menu.active.label": {
+    "message": "सक्रिय है",
+    "description": "",
+    "placeholders": null
+  },
+  "global.footer.menu.hover.font.label": {
+    "message": "फ़ॉन्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.footer.menu.hover.label": {
+    "message": "होवर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.footer.menu.label": {
+    "message": "मेन्यू",
+    "description": "",
+    "placeholders": null
+  },
+  "global.footer.menu.text.font.label": {
+    "message": "फ़ॉन्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.footer.menu.text.label": {
+    "message": "टेक्स्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.footer.menu.text.transform.choices.capitalize": {
+    "message": "कैपिटलाइज़",
+    "description": "",
+    "placeholders": null
+  },
+  "global.footer.menu.text.transform.choices.lowercase": {
+    "message": "लोअरकेस",
+    "description": "",
+    "placeholders": null
+  },
+  "global.footer.menu.text.transform.choices.none": {
+    "message": "कोई नहीं",
+    "description": "",
+    "placeholders": null
+  },
+  "global.footer.menu.text.transform.choices.uppercase": {
+    "message": "अपरकेस",
+    "description": "",
+    "placeholders": null
+  },
+  "global.footer.menu.text.transform.label": {
+    "message": "बदलाव करें",
+    "description": "",
+    "placeholders": null
+  },
+  "global.footer.text.color.label": {
+    "message": "कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.footer.text.label": {
+    "message": "टेक्स्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.button.label": {
+    "message": "बटन",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.button.presets.button_size.choices.large": {
+    "message": "बड़ा",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.button.presets.button_size.choices.regular": {
+    "message": "रेगुलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.button.presets.button_size.choices.small": {
+    "message": "छोटा",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.button.presets.button_size.label": {
+    "message": "बटन साइज़",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.button.presets.button_style.choices.primary": {
+    "message": "प्राइमरी",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.button.presets.button_style.choices.secondary": {
+    "message": "सेकंडरी",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.button.presets.button_style.choices.simple": {
+    "message": "सामान्य",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.button.presets.button_style.label": {
+    "message": "बटन स्टाइल",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.button.presets.help_text": {
+    "message": "चुने हुए आइटम की दिखावट को पूर्वनिर्धारित वैल्यू में त्वरित रूप से समायोजित करने के लिए प्रीसेट का उपयोग करें।",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.button.presets.label": {
+    "message": "प्रीसेट्स",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.fields.gdpr_text.font.label": {
+    "message": "फ़ॉन्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.fields.gdpr_text.help_text": {
+    "message": "GDPR फ़ील्ड्स के पैराग्राफ कॉन्टेंट को नियंत्रित करता है",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.fields.gdpr_text.label": {
+    "message": "GDPR टेक्स्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.fields.inputs.background.color.label": {
+    "message": "कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.fields.inputs.background.label": {
+    "message": "बैकग्राउंड",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.fields.inputs.border.border.label": {
+    "message": "बॉर्डर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.fields.inputs.border.label": {
+    "message": "बॉर्डर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.fields.inputs.corner.label": {
+    "message": "कॉर्नर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.fields.inputs.corner.radius.label": {
+    "message": "रेडियस",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.fields.inputs.label": {
+    "message": "इनपुट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.fields.inputs.placeholder.color.label": {
+    "message": "कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.fields.inputs.placeholder.label": {
+    "message": "प्लेसहोल्डर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.fields.inputs.spacing.label": {
+    "message": "स्पेसिंग",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.fields.inputs.spacing.spacing.label": {
+    "message": "स्पेसिंग",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.fields.inputs.text.font.label": {
+    "message": "फ़ॉन्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.fields.inputs.text.label": {
+    "message": "टेक्स्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.fields.label": {
+    "message": "फ़ील्ड",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.fields.rich_text.font.label": {
+    "message": "टेक्स्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.fields.rich_text.help_text": {
+    "message": "कंट्रोल्स फ़ॉर्म रिच टेक्स्ट फ़ील्ड",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.fields.rich_text.label": {
+    "message": "रिच टेक्स्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.fields.rich_text.links.label": {
+    "message": "लिंक",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.form.background.color.label": {
+    "message": "कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.form.background.label": {
+    "message": "बैकग्राउंड",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.form.border.border.label": {
+    "message": "बॉर्डर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.form.border.label": {
+    "message": "बॉर्डर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.form.corner.label": {
+    "message": "कॉर्नर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.form.corner.radius.label": {
+    "message": "रेडियस",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.form.label": {
+    "message": "फ़ॉर्म",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.form.spacing.label": {
+    "message": "स्पेसिंग",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.form.spacing.spacing.label": {
+    "message": "स्पेसिंग",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.help_text.label": {
+    "message": "हेल्प टेक्स्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.help_text.text.font.label": {
+    "message": "फ़ॉन्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.help_text.text.label": {
+    "message": "टेक्स्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.label": {
+    "message": "फ़ॉर्म",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.labels.label": {
+    "message": "लेबल",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.labels.spacing.label": {
+    "message": "स्पेसिंग",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.labels.spacing.spacing.label": {
+    "message": "स्पेसिंग",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.labels.text.font.label": {
+    "message": "फ़ॉन्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.labels.text.label": {
+    "message": "टेक्स्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.title.background.color.label": {
+    "message": "कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.title.background.label": {
+    "message": "बैकग्राउंड",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.title.border.border.label": {
+    "message": "बॉर्डर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.title.border.label": {
+    "message": "बॉर्डर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.title.corner.label": {
+    "message": "कॉर्नर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.title.corner.radius.label": {
+    "message": "रेडियस",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.title.label": {
+    "message": "टाइटल",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.title.spacing.label": {
+    "message": "स्पेसिंग",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.title.spacing.spacing.label": {
+    "message": "स्पेसिंग",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.title.text.font.label": {
+    "message": "फ़ॉन्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.title.text.label": {
+    "message": "टेक्स्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.title.text.transform.choices.capitalize": {
+    "message": "कैपिटलाइज़",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.title.text.transform.choices.lowercase": {
+    "message": "लोअरकेस",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.title.text.transform.choices.none": {
+    "message": "कोई नहीं",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.title.text.transform.choices.uppercase": {
+    "message": "अपरकेस",
+    "description": "",
+    "placeholders": null
+  },
+  "global.forms.title.text.transform.label": {
+    "message": "बदलाव करें",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.background.color.label": {
+    "message": "कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.background.label": {
+    "message": "बैकग्राउंड",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.label": {
+    "message": "वेबसाइट का हेडर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.language_switcher.drop_downs.background.color.label": {
+    "message": "कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.language_switcher.drop_downs.background.label": {
+    "message": "बैकग्राउंड",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.language_switcher.drop_downs.hover.background.color.label": {
+    "message": "कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.language_switcher.drop_downs.hover.background.label": {
+    "message": "बैकग्राउंड",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.language_switcher.drop_downs.hover.label": {
+    "message": "होवर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.language_switcher.drop_downs.hover.text.color.label": {
+    "message": "कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.language_switcher.drop_downs.hover.text.label": {
+    "message": "टेक्स्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.language_switcher.drop_downs.label": {
+    "message": "ड्रॉप डाउन",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.language_switcher.drop_downs.text.color.label": {
+    "message": "कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.language_switcher.drop_downs.text.label": {
+    "message": "टेक्स्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.language_switcher.hover.font.label": {
+    "message": "फ़ॉन्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.language_switcher.hover.label": {
+    "message": "होवर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.language_switcher.label": {
+    "message": "भाषा स्विचर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.language_switcher.text.font.label": {
+    "message": "फ़ॉन्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.language_switcher.text.label": {
+    "message": "टेक्स्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.language_switcher.text.transform.choices.capitalize": {
+    "message": "कैपिटलाइज़",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.language_switcher.text.transform.choices.lowercase": {
+    "message": "लोअरकेस",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.language_switcher.text.transform.choices.none": {
+    "message": "कोई नहीं",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.language_switcher.text.transform.choices.uppercase": {
+    "message": "अपरकेस",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.language_switcher.text.transform.label": {
+    "message": "बदलाव करें",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.menu.active.font.label": {
+    "message": "फ़ॉन्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.menu.active.label": {
+    "message": "सक्रिय है",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.menu.drop_downs.active.background.color.label": {
+    "message": "कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.menu.drop_downs.active.background.label": {
+    "message": "बैकग्राउंड",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.menu.drop_downs.active.label": {
+    "message": "सक्रिय है",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.menu.drop_downs.active.text.font_color.label": {
+    "message": "फ़ॉन्ट कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.menu.drop_downs.active.text.label": {
+    "message": "टेक्स्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.menu.drop_downs.background.color.label": {
+    "message": "कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.menu.drop_downs.background.label": {
+    "message": "बैकग्राउंड",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.menu.drop_downs.hover.background.color.label": {
+    "message": "कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.menu.drop_downs.hover.background.label": {
+    "message": "बैकग्राउंड",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.menu.drop_downs.hover.label": {
+    "message": "होवर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.menu.drop_downs.hover.text.color.label": {
+    "message": "कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.menu.drop_downs.hover.text.label": {
+    "message": "टेक्स्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.menu.drop_downs.label": {
+    "message": "ड्रॉप डाउन",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.menu.drop_downs.text.color.label": {
+    "message": "कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.menu.drop_downs.text.label": {
+    "message": "टेक्स्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.menu.hover.font.label": {
+    "message": "फ़ॉन्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.menu.hover.label": {
+    "message": "होवर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.menu.label": {
+    "message": "मेन्यू",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.menu.text.font.label": {
+    "message": "फ़ॉन्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.menu.text.label": {
+    "message": "टेक्स्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.menu.text.transform.choices.capitalize": {
+    "message": "कैपिटलाइज़",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.menu.text.transform.choices.lowercase": {
+    "message": "लोअरकेस",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.menu.text.transform.choices.none": {
+    "message": "कोई नहीं",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.menu.text.transform.choices.uppercase": {
+    "message": "अपरकेस",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.menu.text.transform.label": {
+    "message": "बदलाव करें",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.text.color.label": {
+    "message": "कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.text.label": {
+    "message": "टेक्स्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.top_bar.background.color.label": {
+    "message": "कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.top_bar.background.label": {
+    "message": "बैकग्राउंड",
+    "description": "",
+    "placeholders": null
+  },
+  "global.header.top_bar.label": {
+    "message": "टॉप बार",
+    "description": "",
+    "placeholders": null
+  },
+  "global.icons.dark.background.color.label": {
+    "message": "कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.icons.dark.background.label": {
+    "message": "बैकग्राउंड",
+    "description": "",
+    "placeholders": null
+  },
+  "global.icons.dark.fill.color.label": {
+    "message": "कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.icons.dark.fill.label": {
+    "message": "फिल",
+    "description": "",
+    "placeholders": null
+  },
+  "global.icons.dark.label": {
+    "message": "डार्क",
+    "description": "",
+    "placeholders": null
+  },
+  "global.icons.label": {
+    "message": "आइकॉन",
+    "description": "",
+    "placeholders": null
+  },
+  "global.icons.light.background.color.label": {
+    "message": "कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.icons.light.background.label": {
+    "message": "बैकग्राउंड",
+    "description": "",
+    "placeholders": null
+  },
+  "global.icons.light.fill.color.label": {
+    "message": "कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.icons.light.fill.label": {
+    "message": "फिल",
+    "description": "",
+    "placeholders": null
+  },
+  "global.icons.light.label": {
+    "message": "लाइट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.icons.size.label": {
+    "message": "साइज़",
+    "description": "",
+    "placeholders": null
+  },
+  "global.icons.size.large.label": {
+    "message": "बड़ा",
+    "description": "",
+    "placeholders": null
+  },
+  "global.icons.size.large.size.label": {
+    "message": "साइज़",
+    "description": "",
+    "placeholders": null
+  },
+  "global.icons.size.large.spacing.label": {
+    "message": "स्पेसिंग",
+    "description": "",
+    "placeholders": null
+  },
+  "global.icons.size.regular.label": {
+    "message": "रेगुलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.icons.size.regular.size.label": {
+    "message": "साइज़",
+    "description": "",
+    "placeholders": null
+  },
+  "global.icons.size.regular.spacing.label": {
+    "message": "स्पेसिंग",
+    "description": "",
+    "placeholders": null
+  },
+  "global.icons.size.small.label": {
+    "message": "छोटा",
+    "description": "",
+    "placeholders": null
+  },
+  "global.icons.size.small.size.label": {
+    "message": "साइज़",
+    "description": "",
+    "placeholders": null
+  },
+  "global.icons.size.small.spacing.label": {
+    "message": "स्पेसिंग",
+    "description": "",
+    "placeholders": null
+  },
+  "global.label": {
+    "message": "ज़्यादा सेटिंग",
+    "description": "",
+    "placeholders": null
+  },
+  "global.tables.label": {
+    "message": "टेबल",
+    "description": "",
+    "placeholders": null
+  },
+  "global.tables.table_body.background.color.label": {
+    "message": "कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.tables.table_body.background.label": {
+    "message": "बैकग्राउंड",
+    "description": "",
+    "placeholders": null
+  },
+  "global.tables.table_body.label": {
+    "message": "टेबल बॉडी",
+    "description": "",
+    "placeholders": null
+  },
+  "global.tables.table_body.text.color.label": {
+    "message": "कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.tables.table_body.text.label": {
+    "message": "टेक्स्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.tables.table_cells.border.border.label": {
+    "message": "बॉर्डर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.tables.table_cells.border.label": {
+    "message": "बॉर्डर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.tables.table_cells.label": {
+    "message": "टेबल सैल्स",
+    "description": "",
+    "placeholders": null
+  },
+  "global.tables.table_cells.spacing.label": {
+    "message": "स्पेसिंग",
+    "description": "",
+    "placeholders": null
+  },
+  "global.tables.table_cells.spacing.spacing.label": {
+    "message": "स्पेसिंग",
+    "description": "",
+    "placeholders": null
+  },
+  "global.tables.table_footer.background.color.label": {
+    "message": "कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.tables.table_footer.background.label": {
+    "message": "बैकग्राउंड",
+    "description": "",
+    "placeholders": null
+  },
+  "global.tables.table_footer.label": {
+    "message": "टेबल फुटर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.tables.table_footer.text.color.label": {
+    "message": "कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.tables.table_footer.text.label": {
+    "message": "टेक्स्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.tables.table_header.background.color.label": {
+    "message": "कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.tables.table_header.background.label": {
+    "message": "बैकग्राउंड",
+    "description": "",
+    "placeholders": null
+  },
+  "global.tables.table_header.label": {
+    "message": "टेबल हैडर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.tables.table_header.text.color.label": {
+    "message": "कलर",
+    "description": "",
+    "placeholders": null
+  },
+  "global.tables.table_header.text.label": {
+    "message": "टेक्स्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.blockquotes.font.label": {
+    "message": "फ़ॉन्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.blockquotes.label": {
+    "message": "ब्लॉकक्वोट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.body_font.font.label": {
+    "message": "फ़ॉन्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.body_font.label": {
+    "message": "बॉडी",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h1.font.label": {
+    "message": "फ़ॉन्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h1.label": {
+    "message": "पहला हेडिंग (H1)",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h1.transform.choices.capitalize": {
+    "message": "कैपिटलाइज़",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h1.transform.choices.lowercase": {
+    "message": "लोअरकेस",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h1.transform.choices.none": {
+    "message": "कोई नहीं",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h1.transform.choices.uppercase": {
+    "message": "अपरकेस",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h1.transform.label": {
+    "message": "बदलाव करें",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h2.font.label": {
+    "message": "फ़ॉन्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h2.label": {
+    "message": "दूसरा हेडिंग (H2)",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h2.transform.choices.capitalize": {
+    "message": "कैपिटलाइज़",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h2.transform.choices.lowercase": {
+    "message": "लोअरकेस",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h2.transform.choices.none": {
+    "message": "कोई नहीं",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h2.transform.choices.uppercase": {
+    "message": "अपरकेस",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h2.transform.label": {
+    "message": "बदलाव करें",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h3.font.label": {
+    "message": "फ़ॉन्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h3.label": {
+    "message": "तीसरा हेडिंग (H3)",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h3.transform.choices.capitalize": {
+    "message": "कैपिटलाइज़",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h3.transform.choices.lowercase": {
+    "message": "लोअरकेस",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h3.transform.choices.none": {
+    "message": "कोई नहीं",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h3.transform.choices.uppercase": {
+    "message": "अपरकेस",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h3.transform.label": {
+    "message": "बदलाव करें",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h4.font.label": {
+    "message": "फ़ॉन्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h4.label": {
+    "message": "चौथा हेडिंग (H4)",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h4.transform.choices.capitalize": {
+    "message": "कैपिटलाइज़",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h4.transform.choices.lowercase": {
+    "message": "लोअरकेस",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h4.transform.choices.none": {
+    "message": "कोई नहीं",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h4.transform.choices.uppercase": {
+    "message": "अपरकेस",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h4.transform.label": {
+    "message": "बदलाव करें",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h5.font.label": {
+    "message": "फ़ॉन्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h5.label": {
+    "message": "पाँचवां हेडिंग (H5)",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h5.transform.choices.capitalize": {
+    "message": "कैपिटलाइज़",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h5.transform.choices.lowercase": {
+    "message": "लोअरकेस",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h5.transform.choices.none": {
+    "message": "कोई नहीं",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h5.transform.choices.uppercase": {
+    "message": "अपरकेस",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h5.transform.label": {
+    "message": "बदलाव करें",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h6.font.label": {
+    "message": "फ़ॉन्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h6.label": {
+    "message": "छठा हेडिंग (H6)",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h6.transform.choices.capitalize": {
+    "message": "कैपिटलाइज़",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h6.transform.choices.lowercase": {
+    "message": "लोअरकेस",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h6.transform.choices.none": {
+    "message": "कोई नहीं",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h6.transform.choices.uppercase": {
+    "message": "अपरकेस",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.h6.transform.label": {
+    "message": "बदलाव करें",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.label": {
+    "message": "टेक्स्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.links.font.label": {
+    "message": "फ़ॉन्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.links.hover_font.label": {
+    "message": "होवर फ़ॉन्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "global.text.links.label": {
+    "message": "लिंक",
+    "description": "",
+    "placeholders": null
+  },
+  "spacing.custom_maximum_content_width.label": {
+    "message": "कॉन्टेंट की अधिकतम चौड़ाई",
+    "description": "",
+    "placeholders": null
+  },
+  "spacing.custom_vertical_spacing.label": {
+    "message": "कस्टम वर्टिकल स्पेसिंग",
+    "description": "",
+    "placeholders": null
+  },
+  "spacing.label": {
+    "message": "स्पेसिंग",
+    "description": "",
+    "placeholders": null
+  },
+  "spacing.maximum_content_width.choices.comfortable": {
+    "message": "कम्फर्टेबले (1200 px)",
+    "description": "",
+    "placeholders": null
+  },
+  "spacing.maximum_content_width.choices.compact": {
+    "message": "कॉम्पैक्ट (900 px)",
+    "description": "",
+    "placeholders": null
+  },
+  "spacing.maximum_content_width.choices.custom": {
+    "message": "कस्टम",
+    "description": "",
+    "placeholders": null
+  },
+  "spacing.maximum_content_width.choices.default": {
+    "message": "डिफ़ॉल्ट (1000px)",
+    "description": "",
+    "placeholders": null
+  },
+  "spacing.maximum_content_width.label": {
+    "message": "कॉन्टेंट की अधिकतम चौड़ाई",
+    "description": "",
+    "placeholders": null
+  },
+  "spacing.vertical_spacing.choices.comfortable": {
+    "message": "कम्फर्टेबले (80px)",
+    "description": "",
+    "placeholders": null
+  },
+  "spacing.vertical_spacing.choices.compact": {
+    "message": "कॉम्पैक्ट (48px)",
+    "description": "",
+    "placeholders": null
+  },
+  "spacing.vertical_spacing.choices.custom": {
+    "message": "कस्टम",
+    "description": "",
+    "placeholders": null
+  },
+  "spacing.vertical_spacing.choices.default": {
+    "message": "डिफ़ॉल्ट (60px)",
+    "description": "",
+    "placeholders": null
+  },
+  "spacing.vertical_spacing.label": {
+    "message": "वर्टिकल स्पेसिंग",
+    "description": "",
+    "placeholders": null
+  }
+}

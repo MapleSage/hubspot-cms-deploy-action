@@ -1,0 +1,182 @@
+{
+  "accessibility_options.label" : {
+    "message" : "خيارات الوصول",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accessibility_options.purpose.choices.decorative" : {
+    "message" : "تم التجاهل بواسطة قارئ الشاشة",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accessibility_options.purpose.choices.semantic" : {
+    "message" : "تمت القراءة بواسطة قارئ الشاشة",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accessibility_options.purpose.help_text" : {
+    "message" : "تصنيف الغرض من هذه الأيقونة لقارئات الشاشة. <a href='https://www.w3.org/WAI/tutorials/images/' target='_blank' rel='noopener noreferrer'>معرفة المزيد</a>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accessibility_options.purpose.label" : {
+    "message" : "الغرض",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accessibility_options.title.help_text" : {
+    "message" : "ستتم قراءة هذا النص بواسطة قارئات الشاشة لوصف الأيقونة.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accessibility_options.title.label" : {
+    "message" : "العنوان",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.label" : {
+    "message" : "الأيقونة",
+    "description" : "",
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "الأيقونة",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.alignment.alignment.label" : {
+    "message" : "محاذاة",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.alignment.label" : {
+    "message" : "محاذاة",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.background.color.label" : {
+    "message" : "اللون",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.background.label" : {
+    "message" : "الخلفية",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.corner.label" : {
+    "message" : "الزاوية",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.corner.radius.label" : {
+    "message" : "نصف قطر",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.fill.color.label" : {
+    "message" : "اللون",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.fill.label" : {
+    "message" : "ملء",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "الأنماط",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.help_text" : {
+    "message" : "استخدم إعدادات الضبط المسبقة لضبط مظهر العنصر المحدد بسرعة على القيم المحددة مسبقًا.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_color.choices.dark" : {
+    "message" : "داكن",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_color.choices.light" : {
+    "message" : "فاتح",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_color.label" : {
+    "message" : "لون الأيقونة",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_shape.choices.circle" : {
+    "message" : "دائرة",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_shape.choices.square" : {
+    "message" : "مربع",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_shape.label" : {
+    "message" : "شكل الأيقونة",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_size.choices.large" : {
+    "message" : "كبير",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_size.choices.regular" : {
+    "message" : "عادي",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_size.choices.small" : {
+    "message" : "صغير",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_size.label" : {
+    "message" : "حجم الأيقونة",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.label" : {
+    "message" : "عمليات الضبط المسبقة",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.size.label" : {
+    "message" : "الحجم",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.size.size.label" : {
+    "message" : "الحجم",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.spacing.force_full_width.help_text" : {
+    "message" : "يجعل الزر يشغل كل المساحة الأفقية الممكنة. سيستمر الزر في الحفاظ على المساحة المتروكة والهامش الموضحين أدناه.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.spacing.force_full_width.label" : {
+    "message" : "قوة العرض الكامل",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.spacing.label" : {
+    "message" : "التباعد",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.spacing.spacing.label" : {
+    "message" : "التباعد",
+    "description" : "",
+    "placeholders" : null
+  }
+}

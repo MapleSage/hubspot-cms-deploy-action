@@ -1,0 +1,187 @@
+{
+  "name" : {
+    "message" : "Faner",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.content.label" : {
+    "message" : "Innhold",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.content.spacing.label" : {
+    "message" : "Avstand",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.content.spacing.spacing.label" : {
+    "message" : "Avstand",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "Stiler",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.active.background.color.label" : {
+    "message" : "Farge",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.active.background.label" : {
+    "message" : "Bakgrunn",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.active.border.bottom.label" : {
+    "message" : "Bunn",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.active.border.label" : {
+    "message" : "Kantlinje",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.active.label" : {
+    "message" : "Aktiv",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.active.text.font.label" : {
+    "message" : "Skrifttype",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.active.text.label" : {
+    "message" : "Tekst",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.hover.background.color.label" : {
+    "message" : "Farge",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.hover.background.label" : {
+    "message" : "Bakgrunn",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.hover.border.bottom.label" : {
+    "message" : "Bunn",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.hover.border.label" : {
+    "message" : "Kantlinje",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.hover.label" : {
+    "message" : "Sveve",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.hover.text.font.label" : {
+    "message" : "Skrifttype",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.hover.text.label" : {
+    "message" : "Tekst",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.inactive.background.color.label" : {
+    "message" : "Farge",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.inactive.background.label" : {
+    "message" : "Bakgrunn",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.inactive.border.bottom.label" : {
+    "message" : "Bunn",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.inactive.border.label" : {
+    "message" : "Kantlinje",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.inactive.label" : {
+    "message" : "Inaktiv",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.inactive.text.font.label" : {
+    "message" : "Skrifttype",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.inactive.text.label" : {
+    "message" : "Tekst",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.label" : {
+    "message" : "Faner",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.spacing.label" : {
+    "message" : "Avstand",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs.spacing.spacing.label" : {
+    "message" : "Avstand",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs_module.label" : {
+    "message" : "Fanemodul",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs_module.spacing.label" : {
+    "message" : "Avstand",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.tabs_module.spacing.spacing.label" : {
+    "message" : "Avstand",
+    "description" : "",
+    "placeholders" : null
+  },
+  "tabs.content.default" : {
+    "message" : "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan velit sit amet sagittis malesuada.</p>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "tabs.content.label" : {
+    "message" : "Innhold",
+    "description" : "",
+    "placeholders" : null
+  },
+  "tabs.label" : {
+    "message" : "Faner",
+    "description" : "",
+    "placeholders" : null
+  },
+  "tabs.tab_label.default" : {
+    "message" : "Faneelement",
+    "description" : "",
+    "placeholders" : null
+  },
+  "tabs.tab_label.label" : {
+    "message" : "Etikett",
+    "description" : "",
+    "placeholders" : null
+  }
+}

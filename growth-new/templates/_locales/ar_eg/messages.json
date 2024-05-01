@@ -1,0 +1,1662 @@
+{
+  "partial_header_skip_to_content": {
+    "message": "تخطى الى المحتوى",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_address": {
+    "message": "123 Main Street, City, State 11111",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_copyright": {
+    "message": "حقوق النشر © {{ year }}، {{ site_settings.company_name }}",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_one": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_two": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_three": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "about_banner_heading": {
+    "message": "نبذة عنا",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_one": {
+    "message": "قصتنا",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_two": {
+    "message": "قيمنا",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_three": {
+    "message": "تاريخنا",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_four": {
+    "message": "فريقنا",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_five": {
+    "message": "ثقافتنا",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_six": {
+    "message": "أخبار الشركة",
+    "description": "",
+    "placeholders": null
+  },
+  "about_image_alt_text": {
+    "message": "الشركة",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_one_title": {
+    "message": "الرئيس التنفيذي والمؤسس",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_two_title": {
+    "message": "رئيس موظفي العمليات",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_three_title": {
+    "message": "رئيس موظفي التكنولوجيا",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_four_title": {
+    "message": "رئيس موظفي الشؤون المالية",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_five_title": {
+    "message": "رئيس موظفي التصميم",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_six_title": {
+    "message": "رئيس شؤون الموظفين",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_description": {
+    "message": "سلط الضوء على الخبرات والتجارب والاهتمامات الفريدة لعضو فريقك. اجعل هذه الفقرة موجزة وجذابة، واعرض مسيرته المهنية والمهارات القيمة التي يقدمها للفريق.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_index_heading": {
+    "message": "المدونة",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_heading": {
+    "message": "تعليقات المدونة",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_heading": {
+    "message": "مؤتمر النمو",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_date": {
+    "message": "5 - 8 سبتمبر",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_text": {
+    "message": "احصل على بطاقات",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_content": {
+    "message": "احصل على بطاقات",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_one": {
+    "message": "بادر بالشراء الآن",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_two": {
+    "message": "شراء البطاقات",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_one": {
+    "message": "نبذة",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_two": {
+    "message": "لوحة المتحدث",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_three": {
+    "message": "الرعاة",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_four": {
+    "message": "أضف عبارة مشهورة للفيديو الخاص بك",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_five": {
+    "message": "التوصيات",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_six": {
+    "message": "البطاقات",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_one": {
+    "message": "مؤتمر النمو هو نموذج يمكن استخدامه لإظهار القيمة للعملاء التي يمكن أن يوفرها مؤتمر الحدث الخاص بمؤسستك. صف موضوع المؤتمر الخاص بك ولماذا يجب على العملاء شراء البطاقات.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_two": {
+    "message": "أضف وصفًا موجزًا للمتحدثين هنا. لماذا يجب أن يسمع جمهورك منهم؟ هل هناك موضوع سيغطونه جميعًا في محادثاتهم؟ ما الذي يجعلها فريدة من نوعها؟ استخدم هذه المساحة لإعطاء القارئ فكرة عن سبب كون هؤلاء هم المتحدثون الذين تريد عرضهم.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_three": {
+    "message": "لخص سيرة المتحدث الخاص بك هنا. يمكنك أيضًا إضافة جملة حول موضوع العرض التقديمي.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_four": {
+    "message": "هذه هي فرصتك لتقديم دليل اجتماعي حول مدى روعة حدثك. أضف الشهادات التي تساعد الناس على فهم قيمة الحدث الخاص بك.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_five": {
+    "message": "صِف موضوع المؤتمر الخاص بك، وامنح العملاء المحتملين فكرة عما سيحدث في المؤتمر، وأخبرهم لماذا يجب عليهم شراء البطاقات. يمكنك استخدام هذه القوالب لبيع بطاقات حضور الحدث الخاص بك دون الحاجة إلى التواجد الفعلي.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_heading": {
+    "message": "القبول العام",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_price": {
+    "message": "199 دولار",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_heading": {
+    "message": "شخصية ذات أهمية",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_price": {
+    "message": "449 دولار",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_one": {
+    "message": "ضع قائمة بجميع المزايا المثيرة التي سيحصل عليها عملاؤك إذا قاموا بشراء هذه الفئة.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_two": {
+    "message": "ما فرص التواصل والتعلم المتاحة لهم في المؤتمر؟",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_three": {
+    "message": "ما أجزاء المؤتمر التي يمكنهم الوصول إليها؟",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_four": {
+    "message": "هل لديهم حق الوصول إلى أي برمجة مسجلة؟",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_five": {
+    "message": "ما خيارات الطعام والمواصلات والإقامة الخاصة بهم؟",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_six": {
+    "message": "ضع قائمة بجميع المزايا الحصرية التي سيحصل عليها عملاء VIP لديك إذا اشتروا هذه الفئة.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_one": {
+    "message": "الرئيس التنفيذي والمؤسس",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_two": {
+    "message": "الرئيس التنفيذي للعمليات",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_three": {
+    "message": "رئيس موظفي التكنولوجيا",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_content": {
+    "message": "شراء البطاقات",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_image_alt_text": {
+    "message": "صورة المتحدث",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_one": {
+    "message": "اتصل بنا",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_two": {
+    "message": "مواقعنا",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_three": {
+    "message": "تواصل معنا",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_four": {
+    "message": "أسئلة شائعة",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_heading": {
+    "message": "مكتبة المحتوى",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_content": {
+    "message": "مكتبة من الموارد والأصول الرقمية لمساعدتك على التعلم والنمو.",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_one": {
+    "message": "<h3>سان فرانسيسكو</h3><p>3870 Twin Oaks Drive<br> سان فرانسيسكو، كاليفورنيا</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_two": {
+    "message": "<h3>شيكاغو</h3><p>2140 Roguski Road<br> شيكاغو، إلينوي</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_three": {
+    "message": "<h3>بوسطن</h3><p>123 Waverly Place<br> بوسطن، ماساتشوستس</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_question": {
+    "message": "عنوان الأكورديون",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_heading": {
+    "message": "تعذر العثور على الصفحة",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_description": {
+    "message": "لا يمكننا العثور على الصفحة التي تبحث عنها.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_button": {
+    "message": "الانتقال إلى الصفحة الرئيسية",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_heading": {
+    "message": "هذه الصفحة لا تعمل",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_description": {
+    "message": "حدث خطأ داخلي في الخادم، لكننا نعمل على معالجة الأمر!",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_button": {
+    "message": "الانتقال إلى الصفحة الرئيسية",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_heading": {
+    "message": "عذرًا، ليس لديك حق الوصول",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_description": {
+    "message": "ليس لديك إذن لعرض هذه الصفحة. اتصل بمسؤول الموقع لطرح الأسئلة.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_button": {
+    "message": "الانتقال إلى الصفحة الرئيسية",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_heading": {
+    "message": "تسجيل الدخول",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_subheading": {
+    "message": "الصفحة التي تحاول عرضها متاحة فقط للمستخدمين المسجلين.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_email": {
+    "message": "البريد الإلكتروني",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_password": {
+    "message": "كلمة المرور",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_remember_me": {
+    "message": "تذكر بياناتي",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_reset_password": {
+    "message": "هل نسيت كلمة المرور؟",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_submit": {
+    "message": "تسجيل الدخول",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_show_password": {
+    "message": "عرض",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_contact_admin": {
+    "message": "هل تواجه مشكلة؟ <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">اتصل بمسؤول الموقع</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_heading": {
+    "message": "تم تسجيل خروجك",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_button": {
+    "message": "تسجيل الدخول مرة أخرى",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_alt": {
+    "message": "أو العودة إلى <a href=\"{{ '//' ~ request.domain }}\">الصفحة الرئيسية</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_heading": {
+    "message": "تعيين كلمة المرور الخاصة بك",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_subheading": {
+    "message": "مرحبًا! أكمل التسجيل بتعيين كلمة المرور الخاصة بك.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_email": {
+    "message": "البريد الإلكتروني",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_confirm_password": {
+    "message": "تأكيد كلمة المرور",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_password": {
+    "message": "كلمة المرور",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_save_password": {
+    "message": "حفظ كلمة المرور",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_show_password": {
+    "message": "عرض",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_contact_admin": {
+    "message": "هل تواجه مشكلة؟ <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">اتصل بمسؤول الموقع</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_heading": {
+    "message": "تم تأكيد عنوان بريدك الإلكتروني",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_description": {
+    "message": "شكرًا لك على التحقق من عنوان البريد الإلكتروني الخاص بك. يمكنك الآن تسجيل الدخول إلى حسابك والوصول إلى المحتوى الحصري الخاص بك.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_button": {
+    "message": "تسجيل الدخول",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_contact_admin": {
+    "message": "هل تواجه مشكلة؟ <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">اتصل بمسؤول الموقع</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_heading": {
+    "message": "إنشاء كلمة مرور جديدة",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_subheading": {
+    "message": "يجب أن تكون كلمة المرور الجديدة مختلفة عن كلمة المرور المستخدمة مسبقًا.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_new_password": {
+    "message": "كلمة المرور الجديدة",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_confirm_password": {
+    "message": "تأكيد كلمة المرور الجديدة",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_save_password": {
+    "message": "حفظ كلمة المرور",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_show_password": {
+    "message": "عرض",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_contact_admin": {
+    "message": "هل تواجه مشكلة؟ <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">اتصل بمسؤول الموقع</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_heading": {
+    "message": "إعادة تعيين كلمة المرور الخاصة بك",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_subheading": {
+    "message": "أدخل عنوان البريد الإلكتروني الذي استخدمته للتسجيل وسنرسل لك بريدًا إلكترونيًا يحتوي على رابط لإعادة تعيين كلمة المرور الخاصة بك.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_email": {
+    "message": "البريد الإلكتروني",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_submit": {
+    "message": "إرسال بريد إلكتروني لإعادة تعيين كلمة المرور",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_alt": {
+    "message": "هل تذكرتها للتو؟ <a href=\"/_hcms/mem/login\">قم بتسجيل الدخول</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_contact_admin": {
+    "message": "هل تواجه مشكلة؟ <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">اتصل بمسؤول الموقع</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_heading": {
+    "message": "تحقق من عنوان بريدك الإلكتروني",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_description": {
+    "message": "شكرًا لك على التسجيل! يُرجى التحقق من بريدك الإلكتروني والنقر فوق رابط التأكيد لإكمال التسجيل الخاص بك.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_contact_admin": {
+    "message": "هل تواجه مشكلة؟ <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">اتصل بمسؤول الموقع</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_one": {
+    "message": "نبذة",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two": {
+    "message": "تنمية عملك من خلال الاستشارات المدفوعة",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two_update": {
+    "message": "تنمية عملك من خلال الاستشارات المدفوعة",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_three": {
+    "message": "مجموعة من الأدوات تحت تصرفك",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_heading": {
+    "message": "الخدمة",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_description": {
+    "message": "قم بتلخيص الخدمة التي تقدمها. أضف رسالة حول القيمة التي يمكنك تقديمها لعملائك.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_four": {
+    "message": "التوصيات",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_one": {
+    "message": "أضف عنوانًا فرعيًا يشرح كيف ستقدم قيمة لعملائك",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_two": {
+    "message": "أضف وصفًا موجزًا للعمل الذي تقوم به في شركتك. حاول تضييق نطاق تخصصك حتى تتمكن من جذب انتباه عملائك. تحدث عن القيمة التي يمكنك تقديمها من خلال استشارة مدفوعة الأجر.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_list_content": {
+    "message": "&ldquo;أضف شهادة لتضمن خدماتك. لماذا يتحمس عملاؤك الحاليون لما تقدمه؟&rdquo;",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_image_alt_text": {
+    "message": "صورة العنصر النائب لموضوع النمو",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_button_text": {
+    "message": "احجز استشارة",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_heading": {
+    "message": "كلمة المرور مطلوبة",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_subheading": {
+    "message": "يُرجى إدخال كلمة المرور الخاصة بك لعرض هذه الصفحة.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_one": {
+    "message": "التسعير",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_plans_and_pricing_heading": {
+    "message": "الخطط والأسعار",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_two": {
+    "message": "أسئلة شائعة",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_heading": {
+    "message": "تشمل جميع الخطط",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_content_heading": {
+    "message": "ميزة المنتج",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_heading": {
+    "message": "شجع الناس على استخدام منتجاتك وخدماتك",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_button_text": {
+    "message": "معرفة المزيد",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_question": {
+    "message": "عنوان الأكورديون",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_one": {
+    "message": "المنتجات",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_two": {
+    "message": "مصمم خصيصًا لك",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_heading": {
+    "message": "وغير ذلك المزيد",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_content_heading": {
+    "message": "ميزة المنتج",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_one": {
+    "message": "البدء بسرعة",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_two": {
+    "message": "بسيط وسهل الاستخدام",
+    "description": "",
+    "placeholders": null
+  },
+  "products_image_alt_text": {
+    "message": "ميزة المنتج",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_heading": {
+    "message": "شجع الناس على استخدام منتجاتك وخدماتك",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_button_text": {
+    "message": "معرفة المزيد",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_heading": {
+    "message": "موضوع النمو",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_button_text": {
+    "message": "البدء",
+    "description": "",
+    "placeholders": null
+  },
+  "home_logos_heading": {
+    "message": "بعض عملائنا السعداء",
+    "description": "",
+    "placeholders": null
+  },
+  "home_heading": {
+    "message": "مصمم خصيصًا لك",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_one": {
+    "message": "إعداد سريع",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_two": {
+    "message": "سهل الاستخدام",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_three": {
+    "message": "قابل للتخصيص",
+    "description": "",
+    "placeholders": null
+  },
+  "home_video_heading": {
+    "message": "شاهد طريقة سير الأمور",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_heading": {
+    "message": "مجموعة من الأدوات تحت تصرفك",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_content_heading": {
+    "message": "اسم المنتج",
+    "description": "",
+    "placeholders": null
+  },
+  "home_image_alt_text": {
+    "message": "اسم المنتج",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_button_text": {
+    "message": "معرفة المزيد",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_content": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan velit sit amet sagittis malesuada.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_customer": {
+    "message": "شون بنسون، مدير التسويق، بشركة Agriflora Inc.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_blog_post_heading": {
+    "message": "آخر المشاركات",
+    "description": "",
+    "placeholders": null
+  },
+  "home_contact": {
+    "message": "اتصل بنا",
+    "description": "",
+    "placeholders": null
+  },
+  "home_button_text": {
+    "message": "البدء",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_heading": {
+    "message": "قم بتنزيل موردك الرقمي المجاني اليوم",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_p_one": {
+    "message": "اكتب مقدمة جذابة تمهد الطريق لمحتوى هذا المورد. تناول تحديات القارئ أو أهدافه واشرح كيف سيساعد الكتاب الإلكتروني في حلها.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_one_heading": {
+    "message": "الفائدة رقم 1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_two_heading": {
+    "message": "الفائدة رقم 2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_three_heading": {
+    "message": "الفائدة رقم 3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_content": {
+    "message": "اشرح ما سيتعلمه القراء",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_highlight": {
+    "message": "تذكر أن تسلط الضوء على الفوائد:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_preface": {
+    "message": "لماذا تختارنا؟",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_heading": {
+    "message": "نحن نقدم حلولاً حديثة لتنمية أعمالك",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_content": {
+    "message": "انضم إلى الآلاف من المستخدمين الراضين الذين غيروا حياتهم من خلال حلولنا المبتكرة.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_button_text": {
+    "message": "معرفة المزيد",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_logo_heading": {
+    "message": "موثوق بها من قِبل الشركات الرائدة",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_heading": {
+    "message": "اسم الميزة",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_content": {
+    "message": "اكتب نسخة مقنعة وقائمة على المنفعة تنقل بوضوح قيمة عرضك وتشجع الزائرين على اتخاذ الإجراءات اللازمة. ركز على كيفية حل عرضك لمشاكلهم أو تلبية احتياجاتهم.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_preface": {
+    "message": "لا تكتفي برأينا عن نفسنا فقط",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_heading": {
+    "message": "شاهد هذه الميزات أثناء العمل مع أحد أعضاء فريقنا",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_button_text": {
+    "message": "احصل على عرض توضيحي",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_heading": {
+    "message": "جدولة عرض توضيحي",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_p_one": {
+    "message": "قم بجدولة عرض توضيحي مع أحد أعضاء فريقنا في الوقت المناسب لك. أضف وصفًا موجزًا لما يمكن أن يتوقع عملاؤك المحتملون تعلمه.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_highlight": {
+    "message": "سنناقش:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_one_heading": {
+    "message": "الموضوع رقم 1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_two_heading": {
+    "message": "الموضوع رقم 2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_three_heading": {
+    "message": "الموضوع رقم 3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_content": {
+    "message": "اشرح ما سيغطيه العرض التوضيحي الخاص بك",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_heading": {
+    "message": "احتفظ بمكانك: سجل الآن في هذه الفعالية الحصرية",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_content": {
+    "message": "أضف مقدمة مختصرة تغطي موضوع المؤتمر المباشر أو الندوة عبر الإنترنت أو الفعالية ولماذا يجب على أعضاء جمهورك التسجيل.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_button_text": {
+    "message": "قم بالتسجيل الآن",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_partners_content": {
+    "message": "انضم إلينا عبر مجتمع شركائنا",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_preface": {
+    "message": "نبذة عن الفعالية",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_heading": {
+    "message": "احصل على وجهات نظر من كبار الخبراء",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_highlight": {
+    "message": "أهم الأحداث في الفعالية:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_one_heading": {
+    "message": "الحدث المهم رقم 1",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_two_heading": {
+    "message": "الحدث المهم رقم 2",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_three_heading": {
+    "message": "الحدث المهم رقم 3",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_content": {
+    "message": "ما يمكن للحاضرين أن يتوقعوا اكتسابه",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_heading": {
+    "message": "إحصائيات سريعة",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_one": {
+    "message": "20+",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_two": {
+    "message": "150+",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_three": {
+    "message": "10",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_description": {
+    "message": "وصف صغير للإحصائية",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_heading": {
+    "message": "ترقبوا نظرة خاطفة على الفعالية",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_content": {
+    "message": "شاهد الفيديو التشويقي لدينا للحصول على لمحة عن الكلمات الأساسية الملهمة وورش العمل التفاعلية وفرص التواصل التي تنتظرك. لا تفوت هذا العرض التقديمي الذي يوضح الفعاليات القادمة - انضم إلينا للاستمتاع بتجربة لا تُنسى.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_preface": {
+    "message": "لا تكتفي برأينا عن نفسنا فقط",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_heading": {
+    "message": "أطلق العنان للفرص واحجز مكانك اليوم",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_button_text": {
+    "message": "قم بالتسجيل الآن",
+    "description": "",
+    "placeholders": null
+  },
+  "search_results_heading": {
+    "message": "نتائج البحث عن \"[[search_term]]\"",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_heading": {
+    "message": "نبذة",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_sub_heading": {
+    "message": "شركتنا",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_image_alt_text": {
+    "message": "قصتنا",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_list_heading": {
+    "message": "المنشورات الحديثة",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_heading": {
+    "message": "المنشورات الحديثة",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_heading": {
+    "message": "شجع الناس على استخدام منتجاتك وخدماتك",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_button_text": {
+    "message": "معرفة المزيد",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_full_heading": {
+    "message": "جهة الاتصال",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_heading": {
+    "message": "جهة الاتصال",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_address": {
+    "message": "123 Main Street, City, State 11111",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_email": {
+    "message": "contact@businessname.com",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_phone_number": {
+    "message": "+1 234-567-8901",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_heading": {
+    "message": "منتج",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_description_heading": {
+    "message": "وصف المنتج",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_button_text": {
+    "message": "اتصل بنا",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_image_alt_text": {
+    "message": "المنتج",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_heading": {
+    "message": "معرض",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_one": {
+    "message": "المنتجات",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_two": {
+    "message": "الشركة",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_three": {
+    "message": "التسعير",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_four": {
+    "message": "ميزة المنتج",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_five": {
+    "message": "التسمية التوضيحية للصورة",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_caption": {
+    "message": "التسمية التوضيحية للصورة",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_heading": {
+    "message": "المعرض",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_one": {
+    "message": "المنتجات",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_two": {
+    "message": "الشركة",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_three": {
+    "message": "التسعير",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_four": {
+    "message": "ميزة المنتج",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_five": {
+    "message": "التسعير",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_hover_message": {
+    "message": "رسالة التمرير",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_heading": {
+    "message": "موضوع النمو",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_button_text": {
+    "message": "اتصل بنا",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_heading": {
+    "message": "موضوع النمو",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_button_text": {
+    "message": "البدء",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_heading": {
+    "message": "السر وراء تميزنا",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_one": {
+    "message": "إعداد سريع",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_two": {
+    "message": "سهل الاستخدام",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_three": {
+    "message": "قابل للتخصيص",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_heading": {
+    "message": "بعض عملائنا السعداء",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_image_alt_text": {
+    "message": "شعار العملاء",
+    "description": "",
+    "placeholders": null
+  },
+  "section_meetings_banner_heading": {
+    "message": "احجز اجتماعًا لتحصل على استشارة مجانية",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_heading": {
+    "message": "فريقنا",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_one_title": {
+    "message": "الرئيس التنفيذي",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_two_title": {
+    "message": "الرئيس التنفيذي للعمليات",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_three_title": {
+    "message": "رئيس موظفي الشؤون المالية",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_description": {
+    "message": "سلط الضوء على الخبرات والتجارب والاهتمامات الفريدة لعضو فريقك. اجعل هذه الفقرة موجزة وجذابة، واعرض مسيرته المهنية والمهارات القيمة التي يقدمها للفريق.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_heading": {
+    "message": "قصتنا",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_image_alt_text": {
+    "message": "قصتنا",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_button_text": {
+    "message": "معرفة المزيد",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_heading": {
+    "message": "تشمل الخطط",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_description_heading": {
+    "message": "ميزة المنتج",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_image_alt_text": {
+    "message": "ميزة الخطة",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_heading": {
+    "message": "اشترك في نشرتنا الإخبارية!",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_subheading": {
+    "message": "اشترك للبقاء على اطلاع بآخر التحديثات",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_heading": {
+    "message": "مجموعة من الأدوات تحت تصرفك",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_card_heading": {
+    "message": "شجع الناس على استخدام منتجاتك وخدماتك",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_button_text": {
+    "message": "اتصل بنا",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_image_alt_text": {
+    "message": "الخدمة",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_heading": {
+    "message": "الخطط والأسعار",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_heading": {
+    "message": "المستهل",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_price": {
+    "message": "50 دولارًا في الشهر",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_content": {
+    "message": "بادر بشراء البادئ الآن",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_button_text": {
+    "message": "بادر بشراء البادئ الآن",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_heading": {
+    "message": "النسخة الاحترافية",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_price": {
+    "message": "200 دولار في الشهر",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_content": {
+    "message": "شراء النسخة الاحترافية الآن",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_button_text": {
+    "message": "شراء النسخة الاحترافية الآن",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_heading": {
+    "message": "الشركة",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_price": {
+    "message": "600 دولار في الشهر",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_content": {
+    "message": "شراء نسخة الشركات الآن",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_button_text": {
+    "message": "شراء نسخة الشركات الآن",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_sub_heading": {
+    "message": "بعض الميزات الرئيسية",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_heading": {
+    "message": "المنتجات",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_image_alt_text": {
+    "message": "قصتنا",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_description_heading": {
+    "message": "اسم المنتج",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_button_text": {
+    "message": "اتصل بنا",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_heading": {
+    "message": "الخدمات",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_description_heading": {
+    "message": "اسم الخدمة",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_one": {
+    "message": "قصتنا",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_two": {
+    "message": "قيمنا",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_three": {
+    "message": "تاريخنا",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_button_text": {
+    "message": "اتصل بنا",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_heading": {
+    "message": "توصية",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_team_member_title_one": {
+    "message": "منتج VP",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_heading": {
+    "message": "شاهد ما يقوله الناس",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_one": {
+    "message": "منتج VP",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_two": {
+    "message": "مبيعات SVP",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_three": {
+    "message": "CMO",
+    "description": "",
+    "placeholders": null
+  },
+  "section_video_heading": {
+    "message": "شاهد طريقة سير الأمور",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading": {
+    "message": "الخدمات",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_one_alt": {
+    "message": "شخصان يجلسان أمام الكمبيوتر",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_two_alt": {
+    "message": "شخصان ينظران في الهاتف",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_three_alt": {
+    "message": "شخصان يقومان بوضع الملاحظات اللاصقة على الحائط",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_one": {
+    "message": "أساسي",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_two": {
+    "message": "احترافي",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_three": {
+    "message": "الشركة",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_button_text": {
+    "message": "معرفة المزيد",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_description": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_heading": {
+    "message": "الخدمات",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_image_alt": {
+    "message": "أشخاص يجلسون على الدرج",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_heading": {
+    "message": "تطوير هوية العلامة التجارية",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_content": {
+    "message": "سيقوم فريقنا بصياغة هوية تجارية فريدة لا تُنسى تجسد جوهر شركتك. سنقوم بإنشاء شعار جذاب، واختيار مجموعة ألوان متناغمة، وتطوير نمط مرئي متسق لتمييز علامتك التجارية.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_image_alt": {
+    "message": "رجال الأعمال اليافعين ينظرون إلى الكمبيوتر المحمول",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_heading": {
+    "message": "تحسين تصميم تجربة المستخدم/واجهة المستخدم",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_content": {
+    "message": "تحسين رضا المستخدم ومشاركته من خلال خبرتنا في تصميم تجربة المستخدم/واجهة المستخدم. سنقوم بإجراء تحليل شامل لمنتجاتك الرقمية، وتحديد نقاط الضعف، وتنفيذ حلول تتمحور حول المستخدم لتعزيز تجربة المستخدم الشاملة.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_image_alt": {
+    "message": "شاب متخصص في التسويق يتحدث في الفناء ويحمل جهازًا لوحيًا في يده",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_heading": {
+    "message": "تصميم الضمانات التسويقية",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_content": {
+    "message": "رفع مستوى جهودك التسويقية بضمانات مذهلة تترك انطباعًا دائمًا. بدءًا من الكتيبات والنشرات الإعلانية ووصولاً  إلى رسومات وسائل التواصل الاجتماعي، سنقوم بتصميم مواد لافتة للنظر تلقى صدى لدى جمهورك المستهدف وتحقق النتائج المرجوة.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_button_text": {
+    "message": "معرفة المزيد",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_banner_image_alt": {
+    "message": "مجموعة من الأشخاص المبتسمين ينظرون إلى الكاميرا مباشرة",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_heading": {
+    "message": "دعم مخزن الأغذية المحلي",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_content_area_one": {
+    "message": "انضم إلينا في إحداث فرق في حياة جيراننا من خلال دعم مخزن الأغذية المحلي لدينا. سيساعد تبرعك في توفير التغذية الأساسية للأفراد والأسر التي تواجه انعدام الأمن الغذائي هنا في مجتمعنا.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_one_alt": {
+    "message": "شخصان ينظران إلى الملاحظات اللاصقة على الزجاج",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_two_alt": {
+    "message": "الهاتف موضوع أمام معالج الدفع",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_three_alt": {
+    "message": "رجل يقود شاحنة بها طردين على مقعد الراكب",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_heading": {
+    "message": "تبرع الآن",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_message_and_amount": {
+    "message": "المبلغ الموصى به: 15.00 دولارًا",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_one_text": {
+    "message": "تبرع بمبلغ 15.00 دولارًا",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_two_text": {
+    "message": "المبلغ المخصص",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_three_text": {
+    "message": "مشاركة",
+    "description": "",
+    "placeholders": null
+  }
+}

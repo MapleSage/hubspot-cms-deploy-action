@@ -1,0 +1,1662 @@
+{
+  "partial_header_skip_to_content": {
+    "message": "Перейти к содержимому",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_address": {
+    "message": "123 Main Street, City, State 11111",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_copyright": {
+    "message": "Copyright © {{ year }}, {{ site_settings.company_name }}",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_one": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_two": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_three": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "about_banner_heading": {
+    "message": "О компании",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_one": {
+    "message": "Наша история",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_two": {
+    "message": "Наши ценности",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_three": {
+    "message": "История создания нашей компании",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_four": {
+    "message": "Наша команда",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_five": {
+    "message": "Наша культура",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_six": {
+    "message": "Новости компании",
+    "description": "",
+    "placeholders": null
+  },
+  "about_image_alt_text": {
+    "message": "Компания",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_one_title": {
+    "message": "Генеральный директор и основатель",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_two_title": {
+    "message": "Главный исполнительный директор",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_three_title": {
+    "message": "Технический директор",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_four_title": {
+    "message": "Финансовый директор",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_five_title": {
+    "message": "Главный конструктор",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_six_title": {
+    "message": "Директор по персоналу",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_description": {
+    "message": "Подчеркните уникальные знания, опыт и интересы членов вашей команды. Сделайте это лаконично, но интересно, демонстрируя их профессиональный путь и важные навыки, которые они привносят в работу.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_index_heading": {
+    "message": "Блог",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_heading": {
+    "message": "Комментарии в блоге",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_heading": {
+    "message": "Конференция по развитию бизнеса",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_date": {
+    "message": "5–8 сентября",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_text": {
+    "message": "Получить билеты",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_content": {
+    "message": "Получить билеты",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_one": {
+    "message": "Купить сейчас",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_two": {
+    "message": "Купить билеты",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_one": {
+    "message": "О компании",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_two": {
+    "message": "Панель спикеров",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_three": {
+    "message": "Спонсоры",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_four": {
+    "message": "Добавьте привлекающую внимание фразу в ваше видео",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_five": {
+    "message": "Отзывы",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_six": {
+    "message": "Заявки",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_one": {
+    "message": "Конференция по развитию бизнеса — это шаблон, который можно использовать для убеждения клиентов в ценности для них проводимой вашей организацией&rsquo;s конференции или мероприятия. Укажите тему вашей конференции и убедите клиентов в том, что им нужно приобрести на нее билеты.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_two": {
+    "message": "Кратко опишите здесь выступления ваших спикеров. Объясните своей аудитории, почему им следует прослушать их выступления. Затронут ли они все какую-то одну тему в своих выступлениях? Что делает их уникальными? Обязательно объясните здесь получателю рассылки, почему вы пригласили именно этих спикеров.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_three": {
+    "message": "Разместите здесь краткую биографию приглашенных вами спикеров. Можно также кратко указать тему их презентации.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_four": {
+    "message": "&ldquo;Не упустите шанс оказать информационное социальное влияние и указать, насколько важным является ваше мероприятие. Разместите здесь отзывы, благодаря которым люди смогут лучше понять ценность для них вашего мероприятия.&rdquo;",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_five": {
+    "message": "Укажите тему вашей конференции, объясните своим клиентам, что &rsquo;будет происходить на конференции, и расскажите, почему им необходимо приобрести на нее билеты. Используйте эти шаблоны для дистанционной продажи билетов на ваше мероприятие.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_heading": {
+    "message": "Свободная рассадка",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_price": {
+    "message": "199  долл. США",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_heading": {
+    "message": "ВИП-персоны",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_price": {
+    "message": "449  долл. США",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_one": {
+    "message": "Перечислите все впечатляющие преимущества, которые получит ваш клиент при покупке этого уровня.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_two": {
+    "message": "Какие возможности для налаживания контактов и обучения предоставляет клиентам конференция?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_three": {
+    "message": "В каких блоках конференции они смогут принять участие?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_four": {
+    "message": "Будет ли у них доступ к каким-либо записанным программам?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_five": {
+    "message": "Какие предоставляются варианты питания, транспортного обслуживания и проживания?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_six": {
+    "message": "Перечислите все эксклюзивные преимущества, которые получит ваш VIP-клиент, купив билеты этого уровня.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_one": {
+    "message": "Генеральный директор и основатель",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_two": {
+    "message": "Главный исполнительный директор",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_three": {
+    "message": "Технический директор",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_content": {
+    "message": "Купить билеты",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_image_alt_text": {
+    "message": "Фотография спикера",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_one": {
+    "message": "Связаться с нами",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_two": {
+    "message": "Места проведения",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_three": {
+    "message": "Свяжитесь с нами",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_four": {
+    "message": "Часто задаваемые вопросы",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_heading": {
+    "message": "Библиотека содержимого",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_content": {
+    "message": "Библиотека ресурсов и цифровых ресурсов для помощи в вашем обучении и развитии.",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_one": {
+    "message": "<h3>San Francisco</h3><p>3870 Twin Oaks Drive<br> San Francisco, CA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_two": {
+    "message": "<h3>Chicago</h3><p>2140 Roguski Road<br> Chicago, IL</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_three": {
+    "message": "<h3>Boston</h3><p>123 Waverly Place<br> Boston, MA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_question": {
+    "message": "Название аккордеона",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_heading": {
+    "message": "Страница не найдена",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_description": {
+    "message": "Не удалось найти страницу, которую вы искали.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_button": {
+    "message": "Перейти на домашнюю страницу",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_heading": {
+    "message": "Эта страница не работает",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_description": {
+    "message": "Произошла внутренняя ошибка сервера. В настоящее время мы работаем над решением данной проблемы.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_button": {
+    "message": "Перейти на домашнюю страницу",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_heading": {
+    "message": "К сожалению, у вас нет доступа",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_description": {
+    "message": "У вас нет разрешения на просмотр этой страницы. Обратитесь к администратору сайта.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_button": {
+    "message": "Перейти на домашнюю страницу",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_heading": {
+    "message": "Вход",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_subheading": {
+    "message": "Страница, которую вы пытаетесь просмотреть, доступна только для зарегистрированных пользователей.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_email": {
+    "message": "Адрес электронной почты",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_password": {
+    "message": "Пароль",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_remember_me": {
+    "message": "Запомнить меня",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_reset_password": {
+    "message": "Забыли пароль?",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_submit": {
+    "message": "Вход",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_show_password": {
+    "message": "Показать",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_contact_admin": {
+    "message": "У вас возникли проблемы? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Обратитесь к администратору сайта</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_heading": {
+    "message": "Вы вышли из системы",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_button": {
+    "message": "Снова выполните вход",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_alt": {
+    "message": "Или вернитесь на <a href=\"{{ '//' ~ request.domain }}\">главную страницу</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_heading": {
+    "message": "Настройте пароль",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_subheading": {
+    "message": "Добро пожаловать! Для завершения регистрации необходимо настроить пароль.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_email": {
+    "message": "Адрес электронной почты",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_confirm_password": {
+    "message": "Подтвердить пароль",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_password": {
+    "message": "Пароль",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_save_password": {
+    "message": "Сохранить пароль",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_show_password": {
+    "message": "Показать",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_contact_admin": {
+    "message": "У вас возникли проблемы? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Обратитесь к администратору сайта</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_heading": {
+    "message": "Адрес вашей электронной почты подтвержден",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_description": {
+    "message": "Благодарим вас за подтверждение адреса вашей электронной почты. Теперь вы можете войти в свою учетную запись и получить доступ к своему эксклюзивному контенту.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_button": {
+    "message": "Вход",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_contact_admin": {
+    "message": "У вас возникли проблемы? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Обратитесь к администратору сайта</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_heading": {
+    "message": "Создайте новый пароль",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_subheading": {
+    "message": "Новый пароль должен отличаться от предыдущего.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_new_password": {
+    "message": "Новый пароль",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_confirm_password": {
+    "message": "Подтвердите новый пароль",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_save_password": {
+    "message": "Сохранить пароль",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_show_password": {
+    "message": "Показать",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_contact_admin": {
+    "message": "У вас возникли проблемы? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Обратитесь к администратору сайта</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_heading": {
+    "message": "Сбросьте пароль",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_subheading": {
+    "message": "Введите адрес электронной почты, использованный при регистрации, и мы отправим вам электронное письмо со ссылкой для сброса пароля.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_email": {
+    "message": "Адрес электронной почты",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_submit": {
+    "message": "Отправить электронное письмо со ссылкой для сброса",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_alt": {
+    "message": "Вспомнили пароль? <a href=\"/_hcms/mem/login\">Войти</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_contact_admin": {
+    "message": "У вас возникли проблемы? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Обратитесь к администратору сайта</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_heading": {
+    "message": "Подтвердите адрес своей электронной почты",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_description": {
+    "message": "Благодарим Вас за регистрацию! Проверьте свою электронную почту и нажмите на ссылку подтверждения, чтобы завершить регистрацию.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_contact_admin": {
+    "message": "У вас возникли проблемы? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Обратитесь к администратору сайта</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_one": {
+    "message": "О компании",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two": {
+    "message": "Развитие бизнеса благодаря платным консультациям",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two_update": {
+    "message": "Развитие бизнеса благодаря платным консультациям",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_three": {
+    "message": "Набор инструментов в вашем распоряжении",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_heading": {
+    "message": "Услуга",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_description": {
+    "message": "Кратко опишите услугу, которую вы предоставляете. Сообщите о ценности, которую вы предлагаете своим клиентам.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_four": {
+    "message": "Отзывы",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_one": {
+    "message": "Добавьте подзаголовок, объясняющий способы донесения ценности вашим клиентам",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_two": {
+    "message": "Кратко опишите выполняемые вами задачи в компании. Постарайтесь сузить круг своих обязанностей, чтобы привлечь внимание клиентов. Опишите ценности платных консультаций для клиентов.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_list_content": {
+    "message": "&ldquo;Добавьте отзывы, подтверждающие качество ваших услуг. Почему вашим действующим клиентам так нравятся предлагаемые вами услуги?&rdquo;",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_image_alt_text": {
+    "message": "Изображение-плейсхолдер темы «Развитие»",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_button_text": {
+    "message": "Забронировать консультацию",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_heading": {
+    "message": "Необходимо указать пароль",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_subheading": {
+    "message": "Для просмотра этой страницы необходимо ввести пароль.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_one": {
+    "message": "Ценообразование",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_plans_and_pricing_heading": {
+    "message": "Планы и цены",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_two": {
+    "message": "Часто задаваемые вопросы",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_heading": {
+    "message": "Все планы включают",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_content_heading": {
+    "message": "Особенности продукта",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_heading": {
+    "message": "Стимулируйте клиентов использовать продукты и услуги вашей компании",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_button_text": {
+    "message": "Подробнее",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_question": {
+    "message": "Название аккордеона",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_one": {
+    "message": "Продукты",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_two": {
+    "message": "Разработано с заботой о вас",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_heading": {
+    "message": "И многое другое",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_content_heading": {
+    "message": "Особенности продукта",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_one": {
+    "message": "Быстро приступить к работе",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_two": {
+    "message": "Легкость и простота использования",
+    "description": "",
+    "placeholders": null
+  },
+  "products_image_alt_text": {
+    "message": "Особенности продукта",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_heading": {
+    "message": "Стимулируйте клиентов использовать продукты и услуги вашей компании",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_button_text": {
+    "message": "Подробнее",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_heading": {
+    "message": "Тема по развитию бизнеса",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_button_text": {
+    "message": "Начать",
+    "description": "",
+    "placeholders": null
+  },
+  "home_logos_heading": {
+    "message": "Некоторые из наших довольных клиентов",
+    "description": "",
+    "placeholders": null
+  },
+  "home_heading": {
+    "message": "Разработано с заботой о вас",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_one": {
+    "message": "Быстрая настройка",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_two": {
+    "message": "Простота использования",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_three": {
+    "message": "Возможности индивидуальной настройки",
+    "description": "",
+    "placeholders": null
+  },
+  "home_video_heading": {
+    "message": "Узнайте, как это работает",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_heading": {
+    "message": "Набор инструментов в вашем распоряжении",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_content_heading": {
+    "message": "Имя",
+    "description": "",
+    "placeholders": null
+  },
+  "home_image_alt_text": {
+    "message": "Имя",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_button_text": {
+    "message": "Подробнее",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_content": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan velit sit amet sagittis malesuada.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_customer": {
+    "message": "Шон Бенсон, менеджер по маркетингу, Agriflora Inc.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_blog_post_heading": {
+    "message": "Последние публикации",
+    "description": "",
+    "placeholders": null
+  },
+  "home_contact": {
+    "message": "Связаться с нами",
+    "description": "",
+    "placeholders": null
+  },
+  "home_button_text": {
+    "message": "Начать",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_heading": {
+    "message": "Загрузите бесплатный цифровой ресурс сегодня",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_p_one": {
+    "message": "Напишите увлекательное введение, описывающее содержимое этого ресурса. Обратитесь к проблемам и целям ваших читателей и объясните, как электронная книга поможет их решить или достичь.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_one_heading": {
+    "message": "Преимущество № 1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_two_heading": {
+    "message": "Преимущество № 2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_three_heading": {
+    "message": "Преимущество № 3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_content": {
+    "message": "Объясните, что узнают читатели",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_highlight": {
+    "message": "Не забудьте подчеркнуть преимущества:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_preface": {
+    "message": "Почему стоит выбрать нас?",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_heading": {
+    "message": "Мы предлагаем современные решения для развития вашего бизнеса",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_content": {
+    "message": "Станьте одним из тысяч довольных пользователей, которые изменили свою жизнь благодаря нашим инновационным решениям.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_button_text": {
+    "message": "Подробнее",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_logo_heading": {
+    "message": "Нам доверяют ведущие компании",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_heading": {
+    "message": "Имя функции",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_content": {
+    "message": "Напишите убедительный текст, выделив все преимущества, который четко передает ценность вашего предложения и побуждает посетителей к действию. Подчеркните то, как ваше предложение помогает решать их проблемы или удовлетворяет их потребности.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_preface": {
+    "message": "Не доверяйте только нашим словам",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_heading": {
+    "message": "Узнайте, как в реальности работают эти функции, вместе с одним из специалистов нашей команды",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_button_text": {
+    "message": "Получите демоверсию",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_heading": {
+    "message": "Запланировать демонстрацию демоверсии",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_p_one": {
+    "message": "Запланируйте демонстрацию одним из специалистов нашей команды в удобное для вас время. Кратко опишите то, что ваши потенциальные клиенты хотели бы узнать.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_highlight": {
+    "message": "Мы обсудим:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_one_heading": {
+    "message": "Тема №1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_two_heading": {
+    "message": "Тема №2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_three_heading": {
+    "message": "Тема №3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_content": {
+    "message": "Опишите, что именно будет продемонстрировано в демоверсии",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_heading": {
+    "message": "Забронируйте свое участие: зарегистрируйтесь прямо сейчас для участия в этом эксклюзивном мероприятии",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_content": {
+    "message": "Добавьте краткое введение с описанием тем онлайн-конференции, вебинара или мероприятия и того, почему вашим адресатам нужно зарегистрироваться для участия в них.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_button_text": {
+    "message": "Зарегистрироваться сейчас",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_partners_content": {
+    "message": "Присоединяйтесь к нам в нашем сообществе партнеров",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_preface": {
+    "message": "О мероприятии",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_heading": {
+    "message": "Получите ценную информацию от ведущих экспертов",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_highlight": {
+    "message": "Ключевые моменты мероприятия:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_one_heading": {
+    "message": "Ключевой момент № 1",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_two_heading": {
+    "message": "Ключевой момент № 2",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_three_heading": {
+    "message": "Ключевой момент № 3",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_content": {
+    "message": "Ожидания участников от мероприятия",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_heading": {
+    "message": "Быстрая статистика",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_one": {
+    "message": "20+",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_two": {
+    "message": "150+",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_three": {
+    "message": "10",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_description": {
+    "message": "Краткое описание статистических данных",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_heading": {
+    "message": "Посмотрите краткий обзор мероприятия",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_content": {
+    "message": "Посмотрите наш видеоанонс, чтобы узнать о вдохновляющих выступлениях, интерактивных семинарах и предлагаемых вам возможностях для установления связей. Не пропустите предварительный обзор предстоящих событий — присоединяйтесь к нам, чтобы получить незабываемые впечатления.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_preface": {
+    "message": "Не доверяйте только нашим словам",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_heading": {
+    "message": "Воспользуйтесь этими возможностями и забронируйте свое участие прямо сегодня",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_button_text": {
+    "message": "Зарегистрироваться сейчас",
+    "description": "",
+    "placeholders": null
+  },
+  "search_results_heading": {
+    "message": "Результаты поиска по запросу «[[search_term]]»",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_heading": {
+    "message": "О компании",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_sub_heading": {
+    "message": "Наша компания",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_image_alt_text": {
+    "message": "Наша история",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_list_heading": {
+    "message": "Недавние публикации",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_heading": {
+    "message": "Недавние публикации",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_heading": {
+    "message": "Стимулируйте клиентов использовать продукты и услуги вашей компании",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_button_text": {
+    "message": "Подробнее",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_full_heading": {
+    "message": "Контакт",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_heading": {
+    "message": "Контакт",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_address": {
+    "message": "123 Main Street, City, State 11111",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_email": {
+    "message": "contact@businessname.com",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_phone_number": {
+    "message": "+1 234-567-8901",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_heading": {
+    "message": "Продукт",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_description_heading": {
+    "message": "Описание",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_button_text": {
+    "message": "Связаться с нами",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_image_alt_text": {
+    "message": "Продукт",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_heading": {
+    "message": "Галерея",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_one": {
+    "message": "Продукты",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_two": {
+    "message": "Компания",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_three": {
+    "message": "Ценообразование",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_four": {
+    "message": "Особенности продукта",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_five": {
+    "message": "Подпись изображения",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_caption": {
+    "message": "Подпись изображения",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_heading": {
+    "message": "Галерея",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_one": {
+    "message": "Продукты",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_two": {
+    "message": "Компания",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_three": {
+    "message": "Ценообразование",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_four": {
+    "message": "Особенности продукта",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_five": {
+    "message": "Ценообразование",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_hover_message": {
+    "message": "Сообщение при наведении курсора",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_heading": {
+    "message": "Тема по развитию бизнеса",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_button_text": {
+    "message": "Связаться с нами",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_heading": {
+    "message": "Тема по развитию бизнеса",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_button_text": {
+    "message": "Начать",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_heading": {
+    "message": "Чем мы примечательны",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_one": {
+    "message": "Быстрая настройка",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_two": {
+    "message": "Простота использования",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_three": {
+    "message": "Возможности индивидуальной настройки",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_heading": {
+    "message": "Некоторые из наших довольных клиентов",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_image_alt_text": {
+    "message": "Логотип клиента",
+    "description": "",
+    "placeholders": null
+  },
+  "section_meetings_banner_heading": {
+    "message": "Запишитесь на встречу, чтобы получить бесплатную консультацию",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_heading": {
+    "message": "Наша команда",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_one_title": {
+    "message": "Генеральный директор",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_two_title": {
+    "message": "Главный исполнительный директор",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_three_title": {
+    "message": "Финансовый директор",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_description": {
+    "message": "Подчеркните уникальные знания, опыт и интересы членов вашей команды. Сделайте это лаконично, но интересно, демонстрируя их профессиональный путь и важные навыки, которые они привносят в работу.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_heading": {
+    "message": "Наша история",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_image_alt_text": {
+    "message": "Наша история",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_button_text": {
+    "message": "Подробнее",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_heading": {
+    "message": "Планы включают",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_description_heading": {
+    "message": "Особенности продукта",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_image_alt_text": {
+    "message": "Особенности плана",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_heading": {
+    "message": "Подпишитесь на нашу новостную рассылку!",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_subheading": {
+    "message": "Зарегистрируйтесь, чтобы получать уведомления о последних обновлениях",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_heading": {
+    "message": "Набор инструментов в вашем распоряжении",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_card_heading": {
+    "message": "Стимулируйте клиентов использовать продукты и услуги вашей компании",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_button_text": {
+    "message": "Связаться с нами",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_image_alt_text": {
+    "message": "Услуга",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_heading": {
+    "message": "Планы и цены",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_heading": {
+    "message": "Starter",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_price": {
+    "message": "50 долл. США в месяц",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_content": {
+    "message": "Купить Starter прямо сейчас",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_button_text": {
+    "message": "Купить Starter прямо сейчас",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_heading": {
+    "message": "Professional",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_price": {
+    "message": "200 долл. США в месяц",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_content": {
+    "message": "Купить план Professional прямо сейчас",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_button_text": {
+    "message": "Купить план Professional прямо сейчас",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_heading": {
+    "message": "Enterprise",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_price": {
+    "message": "600 долл. США в месяц",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_content": {
+    "message": "Купить план Enterprise прямо сейчас",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_button_text": {
+    "message": "Купить план Enterprise прямо сейчас",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_sub_heading": {
+    "message": "Некоторые основные особенности",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_heading": {
+    "message": "Продукты",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_image_alt_text": {
+    "message": "Наша история",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_description_heading": {
+    "message": "Имя",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_button_text": {
+    "message": "Связаться с нами",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_heading": {
+    "message": "Услуги",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_description_heading": {
+    "message": "Наименование услуги",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_one": {
+    "message": "Наша история",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_two": {
+    "message": "Наши ценности",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_three": {
+    "message": "История создания нашей компании",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_button_text": {
+    "message": "Связаться с нами",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_heading": {
+    "message": "Отзыв",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_team_member_title_one": {
+    "message": "Вице-президент по продукту",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_heading": {
+    "message": "Изучите отзывы клиентов",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_one": {
+    "message": "Вице-президент по продукту",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_two": {
+    "message": "Старший вице-президент по продажам",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_three": {
+    "message": "Директор по маркетингу",
+    "description": "",
+    "placeholders": null
+  },
+  "section_video_heading": {
+    "message": "Узнайте, как это работает",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading": {
+    "message": "Услуги",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_one_alt": {
+    "message": "Два человека за компьютером",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_two_alt": {
+    "message": "Два человека смотрят на телефон",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_three_alt": {
+    "message": "Два человека работают со стикерами на стене",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_one": {
+    "message": "Base",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_two": {
+    "message": "Pro",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_three": {
+    "message": "Enterprise",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_button_text": {
+    "message": "Подробнее",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_description": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_heading": {
+    "message": "Услуги",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_image_alt": {
+    "message": "Люди, сидящие на лестнице",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_heading": {
+    "message": "Разработка айдентики бренда",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_content": {
+    "message": "Наша команда разработает уникальную и запоминающуюся айдентику бренда, отражающую суть вашей компании. Мы создадим привлекательный логотип, подберем гармоничную цветовую гамму и разработаем единый визуальный стиль, чтобы выделить ваш бренд среди других.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_image_alt": {
+    "message": "Молодые бизнес-специалисты смотрят в ноутбук",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_heading": {
+    "message": "Улучшение UX/UI-дизайна",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_content": {
+    "message": "Повысьте удовлетворенность и вовлеченность пользователей благодаря нашему опыту в области UX/UI-дизайна. Мы проведем тщательный анализ ваших цифровых продуктов, выявим слабые стороны и внедрим ориентированные на пользователя решения, чтобы улучшить общий механизм взаимодействия пользователей с приложением.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_image_alt": {
+    "message": "Молодой специалист по маркетингу разговаривает во дворе с планшетом в руках",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_heading": {
+    "message": "Дизайн маркетинговых материалов",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_content": {
+    "message": "Повысьте эффективность своих маркетинговых мероприятий с помощью потрясающих материалов, которые оставят неизгладимое впечатление. Мы разработаем привлекательные и эффективные материалы, на которые положительно отреагирует ваша целевая аудитория — от брошюр и листовок до графики в социальных сетях.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_button_text": {
+    "message": "Подробнее",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_banner_image_alt": {
+    "message": "Группа улыбающихся людей смотрит на камеру прямо перед собой",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_heading": {
+    "message": "Поддержка местных пунктов раздачи продуктов питания",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_content_area_one": {
+    "message": "Присоединяйтесь к нашим усилиям по поддержке местных пунктов раздачи продуктов питания, чтобы изменить к лучшему жизнь наших соседей. Ваше пожертвование поможет обеспечить необходимыми продуктами питания людей и семьи именно нашего района, которые сталкиваются с нехваткой продовольствия.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_one_alt": {
+    "message": "Два человека смотрят на стикеры на стекле",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_two_alt": {
+    "message": "Телефон, который держат в руках для обработки платежа",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_three_alt": {
+    "message": "Мужчина за рулем автофургона с двумя пакетами, лежащими на пассажирском сиденье",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_heading": {
+    "message": "Пожертвовать сейчас",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_message_and_amount": {
+    "message": "Рекомендуемая сумма: 15,00 долл. США",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_one_text": {
+    "message": "Пожертвовать 15,00 долл. США",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_two_text": {
+    "message": "Настраиваемая сумма",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_three_text": {
+    "message": "Поделиться",
+    "description": "",
+    "placeholders": null
+  }
+}

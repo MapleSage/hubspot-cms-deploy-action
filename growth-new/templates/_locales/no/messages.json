@@ -1,0 +1,1662 @@
+{
+  "partial_header_skip_to_content": {
+    "message": "Gå til innhold",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_address": {
+    "message": "123 Main Street, By, Stat 11111",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_copyright": {
+    "message": "Opphavsrett © {{ year }}, {{ site_settings.company_name }}",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_one": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_two": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_three": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "about_banner_heading": {
+    "message": "Om oss",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_one": {
+    "message": "Vår historie",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_two": {
+    "message": "Våre verdier",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_three": {
+    "message": "Vår historie",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_four": {
+    "message": "Vårt team",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_five": {
+    "message": "Vår kultur",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_six": {
+    "message": "Bedriftsnyheter",
+    "description": "",
+    "placeholders": null
+  },
+  "about_image_alt_text": {
+    "message": "Firma",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_one_title": {
+    "message": "Adm. dir. og medgrunnlegger",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_two_title": {
+    "message": "Driftsdirektør",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_three_title": {
+    "message": "Teknologidirektør",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_four_title": {
+    "message": "Økonomisjef",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_five_title": {
+    "message": "Designsjef",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_six_title": {
+    "message": "Chief People Officer",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_description": {
+    "message": "Fremhev teammedlemmets unike ekspertise, erfaring og interesser. Hold dette kortfattet, men engasjerende, og vis frem deres profesjonelle forløp og de verdifulle ferdighetene de har å by på.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_index_heading": {
+    "message": "Blogg",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_heading": {
+    "message": "Bloggkommentarer",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_heading": {
+    "message": "Vekstkonferanse",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_date": {
+    "message": "5. - 8. september",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_text": {
+    "message": "Få tickets",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_content": {
+    "message": "Få tickets",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_one": {
+    "message": "Kjøp nå",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_two": {
+    "message": "Kjøp billetter",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_one": {
+    "message": "Om",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_two": {
+    "message": "Høyttalerpanel",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_three": {
+    "message": "Sponsorer",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_four": {
+    "message": "Legg til et slagord for videoen din",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_five": {
+    "message": "Vitnesbyrd",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_six": {
+    "message": "Tickets",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_one": {
+    "message": "Vekstkonferansen er en mal som kan brukes til å vise kundene verdien som organisasjonens arrangementskonferanse kan gi dem. Beskriv temaet for konferansen din og hvorfor kundene bør kjøpe tickets.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_two": {
+    "message": "Legg til en kort beskrivelse av talerne dine her. Hvorfor bør publikum høre på de? Vil det være et tema de vil dekke i talene sine? Hva gjør dem unike? Bruk dette feltet til å gi leseren en følelse av hvorfor du ønsker å presentere disse talerne.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_three": {
+    "message": "Oppsummer talerens biografi her. Du kan også legge til en setning om emnet for presentasjonen deres.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_four": {
+    "message": "&ldquo;Dette er sjansen din til å gi sosialt bevis på hvor flott arrangementet ditt er. Legg til attester som hjelper folk med å forstå verdien av arrangementet ditt.&rdquo;",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_five": {
+    "message": "Beskriv temaet for konferansen din, gi potensielle deltakere en idé om hva som skjer på konferansen, og fortell dem hvorfor de bør kjøpe billetter. Bruk disse malene til å selge billetter til arrangementet ditt berøringsløst.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_heading": {
+    "message": "Generell adgang",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_price": {
+    "message": "$199",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_heading": {
+    "message": "VIP",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_price": {
+    "message": "$449",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_one": {
+    "message": "List opp alle spennende fordeler kunden din vil få hvis de kjøper dette nivået.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_two": {
+    "message": "Hvilke nettverks- og læringsmuligheter er tilgjengelige for dem på konferansen?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_three": {
+    "message": "Hvilke deler av konferansen har de tilgang til?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_four": {
+    "message": "Har de tilgang til noen opptak av programmer?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_five": {
+    "message": "Hva er deres mat-, transport- og overnattingsalternativer?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_six": {
+    "message": "List opp alle eksklusive fordeler VIP-kunden din vil få hvis de kjøper dette nivået.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_one": {
+    "message": "Adm. dir. og medgrunnlegger",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_two": {
+    "message": "Driftsdirektør",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_three": {
+    "message": "Teknologidirektør",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_content": {
+    "message": "Kjøp billetter",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_image_alt_text": {
+    "message": "Talerbilde",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_one": {
+    "message": "Kontakt oss",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_two": {
+    "message": "Våre lokasjoner",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_three": {
+    "message": "Ta kontakt",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_four": {
+    "message": "Ofte stilte spørsmål",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_heading": {
+    "message": "Innholdsbibliotek",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_content": {
+    "message": "Et bibliotek med digitale ressurser for å hjelpe deg med å lære og vokse.",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_one": {
+    "message": "<h3>San Francisco</h3><p>3870 Twin Oaks Drive<br> San Francisco, CA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_two": {
+    "message": "<h3>Chicago</h3><p>2140 Roguski Road<br> Chicago, IL</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_three": {
+    "message": "<h3>Boston</h3><p>123 Waverly Place<br> Boston, MA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_question": {
+    "message": "Trekkspilltittel",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_heading": {
+    "message": "Fant ikke siden",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_description": {
+    "message": "Vi kan ikke finne siden du lette etter.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_button": {
+    "message": "Gå til startsiden",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_heading": {
+    "message": "Denne siden virker ikke",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_description": {
+    "message": "En intern serverfeil oppsto, men vi jobber med det.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_button": {
+    "message": "Gå til startsiden",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_heading": {
+    "message": "Beklager, du har ikke tilgang",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_description": {
+    "message": "Du har ikke tillatelse til å se denne siden. Kontakt sidens administrator for spørsmål.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_button": {
+    "message": "Gå til startsiden",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_heading": {
+    "message": "Logg inn",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_subheading": {
+    "message": "Siden du prøver å se er bare tilgjengelig for registrerte brukere.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_email": {
+    "message": "E-post",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_password": {
+    "message": "Passord",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_remember_me": {
+    "message": "Husk meg",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_reset_password": {
+    "message": "Glemt passordet?",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_submit": {
+    "message": "Logg inn",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_show_password": {
+    "message": "Vis",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_contact_admin": {
+    "message": "Har du problemer? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Kontakt sidens administrator</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_heading": {
+    "message": "Du er logget ut",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_button": {
+    "message": "Logg på igjen",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_alt": {
+    "message": "Eller returner til <a href=\"{{ '//' ~ request.domain }}\">hjemmesiden</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_heading": {
+    "message": "Velg passord",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_subheading": {
+    "message": "Velkommen! Fullfør registreringen ved å velge et passord.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_email": {
+    "message": "E-post",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_confirm_password": {
+    "message": "Bekreft passord",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_password": {
+    "message": "Passord",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_save_password": {
+    "message": "Lagre passordet",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_show_password": {
+    "message": "Vis",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_contact_admin": {
+    "message": "Har du problemer? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Kontakt sidens administrator</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_heading": {
+    "message": "E-postadressen din er bekreftet",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_description": {
+    "message": "Takk for at du verifiserte e-postadressen din. Du kan nå logge inn på kontoen din og få tilgang til eksklusivt innhold.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_button": {
+    "message": "Logg inn",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_contact_admin": {
+    "message": "Har du problemer? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Kontakt sidens administrator</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_heading": {
+    "message": "Lag et nytt passord",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_subheading": {
+    "message": "Ditt nye passord må være ulikt ditt tidligere passord.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_new_password": {
+    "message": "Nytt passord",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_confirm_password": {
+    "message": "Bekreft nytt passord",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_save_password": {
+    "message": "Lagre passordet",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_show_password": {
+    "message": "Vis",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_contact_admin": {
+    "message": "Har du problemer? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Kontakt sidens administrator</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_heading": {
+    "message": "Tilbakestill passordet",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_subheading": {
+    "message": "Skriv inn e-postadressen du brukte for å registrere deg, så sender vi deg en e-post med en lenke for å tilbakestille passordet ditt.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_email": {
+    "message": "E-post",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_submit": {
+    "message": "Send e-post for tilbakestilling",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_alt": {
+    "message": "Husket du det igjen? <a href=\"/_hcms/mem/login\">Logg på</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_contact_admin": {
+    "message": "Har du problemer? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Kontakt sidens administrator</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_heading": {
+    "message": "Bekreft e-postadressen din",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_description": {
+    "message": "Takk for at du registrerte deg. Sjekk e-posten din og klikk på bekreftelseslenken for å fullføre registreringen.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_contact_admin": {
+    "message": "Har du problemer? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Kontakt sidens administrator</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_one": {
+    "message": "Om",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two": {
+    "message": "Å skape vekst i bedriften med betalte konsultasjoner",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two_update": {
+    "message": "Skape vekst i virksomheten med betalte konsultasjoner",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_three": {
+    "message": "Et sett med verktøy tilgjengelig for deg",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_heading": {
+    "message": "Service",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_description": {
+    "message": "Oppsummerer tjenesten du tilbyr. Legg til en melding om hvilken verdi du kan tilby kundene dine.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_four": {
+    "message": "Vitnesbyrd",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_one": {
+    "message": "Legg til en undertittel som forklarer hvordan du vil gi verdi til kundene dine.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_two": {
+    "message": "Legg til en kort beskrivelse av arbeidet du gjør i selskapet ditt. Prøv å fokusere på spesialiseringen din slik at du kan fange oppmerksomheten til kundene dine. Snakk om verdien du kan levere gjennom en betalt konsultasjon.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_list_content": {
+    "message": "&ldquo;Legg til en anbefaling for å gå god for tjenestene dine. Hvorfor er dine nåværende kunder begeistret for det du tilbyr?&rdquo;",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_image_alt_text": {
+    "message": "Plassholderbilde for veksttema",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_button_text": {
+    "message": "Book en konsultasjon",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_heading": {
+    "message": "Krever passord",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_subheading": {
+    "message": "Skriv passordet ditt for å se denne siden.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_one": {
+    "message": "Priser",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_plans_and_pricing_heading": {
+    "message": "Abonnementer og priser",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_two": {
+    "message": "Ofte stilte spørsmål",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_heading": {
+    "message": "Alle abonnementer inkluderer",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_content_heading": {
+    "message": "Produktfunksjon",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_heading": {
+    "message": "Led folk til produktene og tjenestene dine",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_button_text": {
+    "message": "Få vite mer",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_question": {
+    "message": "Trekkspilltittel",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_one": {
+    "message": "Produkter",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_two": {
+    "message": "Bygget med deg i tankene",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_heading": {
+    "message": "Pluss mye mer",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_content_heading": {
+    "message": "Produktfunksjon",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_one": {
+    "message": "Kom raskt i gang",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_two": {
+    "message": "Enkelt og lett å bruke",
+    "description": "",
+    "placeholders": null
+  },
+  "products_image_alt_text": {
+    "message": "Produktfunksjon",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_heading": {
+    "message": "Led folk til produktene og tjenestene dine",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_button_text": {
+    "message": "Få vite mer",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_heading": {
+    "message": "Veksttema",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_button_text": {
+    "message": "Kom i gang",
+    "description": "",
+    "placeholders": null
+  },
+  "home_logos_heading": {
+    "message": "Noen av våre fornøyde kunder",
+    "description": "",
+    "placeholders": null
+  },
+  "home_heading": {
+    "message": "Bygget med deg i tankene",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_one": {
+    "message": "Raskt oppsett",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_two": {
+    "message": "Lett å bruke",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_three": {
+    "message": "Tilpassbar",
+    "description": "",
+    "placeholders": null
+  },
+  "home_video_heading": {
+    "message": "Se ting i aksjon",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_heading": {
+    "message": "Et sett med verktøy tilgjengelig for deg",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_content_heading": {
+    "message": "Produktnavn",
+    "description": "",
+    "placeholders": null
+  },
+  "home_image_alt_text": {
+    "message": "Produktnavn",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_button_text": {
+    "message": "Få vite mer",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_content": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan velit sit amet sagittis malesuada.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_customer": {
+    "message": "Shaun Benson, Markedsføringsleder, Agriflora Inc.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_blog_post_heading": {
+    "message": "Siste innlegg",
+    "description": "",
+    "placeholders": null
+  },
+  "home_contact": {
+    "message": "Kontakt oss",
+    "description": "",
+    "placeholders": null
+  },
+  "home_button_text": {
+    "message": "Kom i gang",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_heading": {
+    "message": "Last ned din gratis digitale ressurs i dag",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_p_one": {
+    "message": "Skriv en fengslende introduksjon som setter tonen for innholdet i denne ressursen. Ta for deg leserens utfordringer eller mål og forklar hvordan e-boken vil hjelpe til med å løse dem.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_one_heading": {
+    "message": "Fordel 1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_two_heading": {
+    "message": "Fordel 2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_three_heading": {
+    "message": "Fordel 3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_content": {
+    "message": "Forklar hva leserne vil lære",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_highlight": {
+    "message": "Husk å fremheve fordeler:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_preface": {
+    "message": "Hvorfor velge oss?",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_heading": {
+    "message": "Vi tilbyr moderne løsninger for å skape vekst i din virksomhet",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_content": {
+    "message": "Bli med tusenvis av fornøyde brukere som har forvandlet livene sine med våre innovative løsninger.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_button_text": {
+    "message": "Finn ut mer",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_logo_heading": {
+    "message": "Har tillit fra ledende selskaper",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_heading": {
+    "message": "Funksjonsnavn",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_content": {
+    "message": "Skriv overbevisende, fordelsorientert tekst som tydelig kommuniserer verdien av tilbudet ditt og oppfordrer besøkende til å handle. Fokuser på hvordan tilbudet ditt løser problemene deres eller oppfyller behovene deres.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_preface": {
+    "message": "Ikke bare tro oss på vårt ord. Se selv.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_heading": {
+    "message": "Se disse funksjonene i handling med et av våre teammedlemmer.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_button_text": {
+    "message": "Få en demo",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_heading": {
+    "message": "Planlegg en demo",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_p_one": {
+    "message": "Avtal en demo med et av våre teammedlemmer når det passer deg. Legg til en kort beskrivelse av hva dine prospekter kan forvente å lære.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_highlight": {
+    "message": "Vi vil diskutere:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_one_heading": {
+    "message": "Emne 1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_two_heading": {
+    "message": "Emne 2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_three_heading": {
+    "message": "Emne 3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_content": {
+    "message": "Forklar hva demoen din vil dekke",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_heading": {
+    "message": "Sikre deg en plass: Registrer deg nå for denne eksklusive hendelsen",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_content": {
+    "message": "Legg til en kort introduksjon som dekker det den direktesendte konferansen, webinaret eller hendelsen handler om, og hvorfor medlemmer av publikummet ditt bør registrere seg.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_button_text": {
+    "message": "Registrer deg nå",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_partners_content": {
+    "message": "Bli med i vårt partnerfellesskap",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_preface": {
+    "message": "Om arrangementet",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_heading": {
+    "message": "Få innsikt fra toppeksperter",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_highlight": {
+    "message": "Arrangementets høydepunkter:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_one_heading": {
+    "message": "Høydepunkt 1",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_two_heading": {
+    "message": "Høydepunkt 2",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_three_heading": {
+    "message": "Høydepunkt 3",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_content": {
+    "message": "Hva deltakerne kan forvente å få ut av det",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_heading": {
+    "message": "Raske statistikker",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_one": {
+    "message": "20+",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_two": {
+    "message": "150+",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_three": {
+    "message": "10",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_description": {
+    "message": "Liten beskrivelse av statistikken",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_heading": {
+    "message": "Se etter en sniktitt på hendelsen",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_content": {
+    "message": "Se teaser-videoen vår for å se litt av de inspirerende talene, interaktive workshopene og nettverksbyggingsmulighetene som venter deg. Gå ikke glipp av denne forhåndsvisningen av hva som er i vente – få en uforglemmelig opplevelse sammen med oss.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_preface": {
+    "message": "Ikke bare tro oss på vårt ord. Se selv.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_heading": {
+    "message": "Åpne opp for nye muligheter og reserver plassen din i dag.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_button_text": {
+    "message": "Registrer deg nå",
+    "description": "",
+    "placeholders": null
+  },
+  "search_results_heading": {
+    "message": "Søketreff for \"[[search_term]]\"",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_heading": {
+    "message": "Om",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_sub_heading": {
+    "message": "Vårt firma",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_image_alt_text": {
+    "message": "Vår historie",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_list_heading": {
+    "message": "Nylige innlegg",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_heading": {
+    "message": "Nylige innlegg",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_heading": {
+    "message": "Led folk til produktene og tjenestene dine",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_button_text": {
+    "message": "Få vite mer",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_full_heading": {
+    "message": "Kontakt",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_heading": {
+    "message": "Kontakt",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_address": {
+    "message": "123 Main Street, By, Stat 11111",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_email": {
+    "message": "contact@businessname.com",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_phone_number": {
+    "message": "+1 234-567-8901",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_heading": {
+    "message": "Produkt",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_description_heading": {
+    "message": "Beskrivelse",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_button_text": {
+    "message": "Kontakt oss",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_image_alt_text": {
+    "message": "Produkt",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_heading": {
+    "message": "Galleri",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_one": {
+    "message": "Produkter",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_two": {
+    "message": "Firma",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_three": {
+    "message": "Priser",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_four": {
+    "message": "Produktfunksjon",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_five": {
+    "message": "Bildetekst",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_caption": {
+    "message": "Bildetekst",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_heading": {
+    "message": "Galleri",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_one": {
+    "message": "Produkter",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_two": {
+    "message": "Firma",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_three": {
+    "message": "Priser",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_four": {
+    "message": "Produktfunksjon",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_five": {
+    "message": "Priser",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_hover_message": {
+    "message": "Pekefølsom melding",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_heading": {
+    "message": "Veksttema",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_button_text": {
+    "message": "Kontakt oss",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_heading": {
+    "message": "Veksttema",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_button_text": {
+    "message": "Kom i gang",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_heading": {
+    "message": "Hvorfor vi er annerledes",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_one": {
+    "message": "Raskt oppsett",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_two": {
+    "message": "Lett å bruke",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_three": {
+    "message": "Tilpassbar",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_heading": {
+    "message": "Noen av våre fornøyde kunder",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_image_alt_text": {
+    "message": "Kundelogo",
+    "description": "",
+    "placeholders": null
+  },
+  "section_meetings_banner_heading": {
+    "message": "Book et møte for å få en gratis konsultasjon",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_heading": {
+    "message": "Vårt team",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_one_title": {
+    "message": "Adm. dir.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_two_title": {
+    "message": "Driftsdirektør",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_three_title": {
+    "message": "Økonomisjef",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_description": {
+    "message": "Fremhev teammedlemmets unike ekspertise, erfaring og interesser. Hold dette kortfattet, men engasjerende, og vis frem deres profesjonelle forløp og de verdifulle ferdighetene de har å by på.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_heading": {
+    "message": "Vår historie",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_image_alt_text": {
+    "message": "Vår historie",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_button_text": {
+    "message": "Få vite mer",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_heading": {
+    "message": "Abonnementer inkluderer",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_description_heading": {
+    "message": "Produktfunksjon",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_image_alt_text": {
+    "message": "Abonnementsfunksjon",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_heading": {
+    "message": "Abonner på nyhetsbrevet vårt!",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_subheading": {
+    "message": "Registrer deg for å følge med på de siste oppdateringene",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_heading": {
+    "message": "Et sett med verktøy tilgjengelig for deg",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_card_heading": {
+    "message": "Led folk til produktene og tjenestene dine",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_button_text": {
+    "message": "Kontakt oss",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_image_alt_text": {
+    "message": "Tjeneste",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_heading": {
+    "message": "Abonnementer og priser",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_heading": {
+    "message": "Starter",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_price": {
+    "message": "$50/måned",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_content": {
+    "message": "Kjøp starter nå",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_button_text": {
+    "message": "Kjøp starter nå",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_heading": {
+    "message": "Professional",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_price": {
+    "message": "$200/måned",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_content": {
+    "message": "Kjøp professional nå",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_button_text": {
+    "message": "Kjøp professional nå",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_heading": {
+    "message": "Enterprise",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_price": {
+    "message": "$600/måned",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_content": {
+    "message": "Kjøp enterprise nå",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_button_text": {
+    "message": "Kjøp enterprise nå",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_sub_heading": {
+    "message": "Noen nøkkelfunksjoner",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_heading": {
+    "message": "Produkter",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_image_alt_text": {
+    "message": "Vår historie",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_description_heading": {
+    "message": "Produktnavn",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_button_text": {
+    "message": "Kontakt oss",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_heading": {
+    "message": "Tjenester",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_description_heading": {
+    "message": "Tjenestenavn",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_one": {
+    "message": "Vår historie",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_two": {
+    "message": "Våre verdier",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_three": {
+    "message": "Vår historie",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_button_text": {
+    "message": "Kontakt oss",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_heading": {
+    "message": "Vitnesbyrd",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_team_member_title_one": {
+    "message": "VP-produkt",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_heading": {
+    "message": "Se hva folk sier",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_one": {
+    "message": "VP-produkt",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_two": {
+    "message": "SVP-salg",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_three": {
+    "message": "CMO",
+    "description": "",
+    "placeholders": null
+  },
+  "section_video_heading": {
+    "message": "Se ting i aksjon",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading": {
+    "message": "Tjenester",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_one_alt": {
+    "message": "To personer ved datamaskin",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_two_alt": {
+    "message": "To personer ser på telefonen",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_three_alt": {
+    "message": "To personer som jobber med klistrelapper på veggen",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_one": {
+    "message": "Grunnlag",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_two": {
+    "message": "Pro",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_three": {
+    "message": "Enterprise",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_button_text": {
+    "message": "Få vite mer",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_description": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_heading": {
+    "message": "Tjenester",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_image_alt": {
+    "message": "Personer som sitter på trappene",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_heading": {
+    "message": "Utvikling av merkevareidentitet",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_content": {
+    "message": "Vårt team vil utforme en unik og minneverdig merkevareidentitet som fanger essensen av ditt selskap. Vi vil skape en overbevisende logo, velge en harmonisk fargepalett og utvikle en konsistent visuell stil som skiller ditt merke fra andre.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_image_alt": {
+    "message": "Unge forretningsfolk ser på bærbar PC",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_heading": {
+    "message": "UX/UI-designforbedring",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_content": {
+    "message": "Forbedre brukertilfredshet og engasjement med vår ekspertise innen UX/UI-design. Vi vil gjennomføre en grundig analyse av dine digitale produkter, identifisere smertepunkter og implementere brukersentrerte løsninger for å forbedre den generelle brukeropplevelsen.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_image_alt": {
+    "message": "Ung markedsføringsekspert snakker i gårdsplassen med nettbrett i hånden",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_heading": {
+    "message": "Markedsføringsmaterielldesign",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_content": {
+    "message": "Hev markedsføringsinnsatsen din med imponerende materiell som etterlater et varig inntrykk. Fra brosjyrer og flygeblader til grafikk for sosiale medier, vil vi designe iøynefallende materiell som treffer målgruppen din og gir resultater.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_button_text": {
+    "message": "Få vite mer",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_banner_image_alt": {
+    "message": "Gruppe med smilende mennesker ser rett frem mot kamera",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_heading": {
+    "message": "Lokal støtte til matkammer",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_content_area_one": {
+    "message": "Bli med oss ​​og gjør en forskjell i livene til våre naboer ved å støtte vårt lokale spiskammer. Din donasjon vil bidra til å gi essensiell næring til enkeltpersoner og familier som står overfor matmangel her i vårt samfunn.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_one_alt": {
+    "message": "To person som ser på klistrelapper på glass",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_two_alt": {
+    "message": "Telefonen blir holdt opp mot en betalingsbehandler",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_three_alt": {
+    "message": "Mann som kjører en varebil med to pakker i passasjersetet",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_heading": {
+    "message": "Doner nå",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_message_and_amount": {
+    "message": "Anbefalt beløp: $15,00",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_one_text": {
+    "message": "Doner $15,00",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_two_text": {
+    "message": "Tilpasset beløp",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_three_text": {
+    "message": "Del",
+    "description": "",
+    "placeholders": null
+  }
+}

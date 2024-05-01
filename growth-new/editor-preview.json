@@ -1,0 +1,411 @@
+{
+  "selectors": {
+    "colors.primary": [
+      "form .pika-button",
+      ".pricing-card__heading",
+      ".button.button--simple",
+      ".pagination__link .pagination__link-icon svg",
+      ".button.button--secondary",
+      "form input[type='submit'], form .hs-button",
+      ".form-title",
+      "form .pika-table thead th",
+      "thead th, thead td",
+      "button:not(.header .no-button), .button, .hs-button"
+    ],
+    "colors.secondary": [
+      "blockquote",
+      "form .is-selected .pika-button",
+      "form",
+      ".submitted-message",
+      "tfoot th, tfoot td",
+      ".header__top"
+    ],
+    "colors.body_background_color": [
+      "body",
+      "table",
+      ".button.button--secondary",
+      "form input[type='submit'],   form .hs-button",
+      ".card--light",
+      ".header",
+      ".header__bottom",
+      ".header__language-switcher .lang_list_class li",
+      ".header__language-switcher .lang_list_class a",
+      ".header__menu-submenu",
+      ".header__menu-submenu .header__menu-link",
+      ".header__language-switcher .lang_list_class a, .header__language-switcher .lang_list_class a",
+      ".footer",
+      ".header__menu-submenu .header__menu-item",
+      ".header__menu-submenu .header__menu-link--active-link:not(.button)"
+    ],
+    "colors.accent_one": [
+      ".icon",
+      ".image-gallery__close-button-icon",
+      ".social-follow__icon, .social-sharing__icon",
+      ".icon--light svg"
+    ],
+    "colors.accent_two": [
+      "hr:not(footer hr)",
+      ".header__language-switcher .lang_list_class",
+      ".header__menu-submenu",
+      ".pagination__link--active",
+      "::-webkit-input-placeholder",
+      "::-moz-placeholder",
+      ":-ms-input-placeholder",
+      ":-moz-placeholder",
+      "::placeholder",
+      "form input[type='text'], form input[type='email'], form input[type='password'], form input[type='tel'], form input[type='number'], form input[type='search'], form select, form textarea",
+      ".card--light",
+      "table",
+      "th, td"
+    ],
+    "fonts.primary": [
+      "button, .button, .hs-button",
+      "form input[type='submit'],   form .hs-button",
+      ".error-page:before",
+      "p",
+      "blockquote > footer",
+      "form td.is-today .pika-button",
+      "form .is-selected .pika-button",
+      "th, td",
+      ".blog-listing__post-tag",
+      ".blog-listing__post-author-name, .blog-post__author-name",
+      ".pagination__link-icon svg",
+      ".tabs__tab",
+      "a",
+      ".button.button--simple",
+      ".pagination__link .pagination__link-icon svg",
+      ".card--dark",
+      ".card--light",
+      ".card--light summary, .card--light p, .card--light h1, .card--light h2, .card--light h3, .card--light h4, .card--light h5, .card--light h6, .card--light a:not(.button), .card--light span, .card--light div, .card--light li, .card--light blockquote",
+      ".card--light .accordion__summary:before",
+      "tfoot th, tfoot td",
+      ".header__language-switcher-current-label > span",
+      ".header__language-switcher-child-toggle svg",
+      ".header__language-switcher .lang_list_class a:not(.button)",
+      ".header__menu-link",
+      ".header__menu-item--depth-1 > .header__menu-link:not(.button)",
+      ".header__menu-item--depth-1 .header__menu-child-toggle svg",
+      ".header__menu-toggle svg",
+      ".header__language-switcher .header__language-switcher-current-label > span",
+      ".header p, .header h1, .header h2, .header h3, .header h4, .header h5, .header h6, .header a:not(.button), .header span, .header li, .header blockquote, .header .tabs__tab, .header .tabs__tab, .header .tabs__tab, .header .tabs__tab",
+      ".footer .hs-menu-wrapper a",
+      ".footer h1, .footer h2, .footer h3, .footer h4, .footer h5, .footer h6, .footer p, .footer a:not(.button), .footer span, .footer div, .footer li, .footer blockquote, .footer .tabs__tab, .footer .tabs__tab, .footer .tabs__tab, .footer .tabs__tab",
+      ".footer hr",
+      "form label",
+      "#email-prefs-form, #email-prefs-form h1, #email-prefs-form h2",
+      "form legend",
+      "form input[type='text'], form input[type='email'], form input[type='password'], form input[type='tel'], form input[type='number'], form input[type='search'], form select, form textarea",
+      ".backup-unsubscribe input[type='email']",
+      "form .legal-consent-container, form .legal-consent-container .hs-richtext, form .legal-consent-container .hs-richtext p",
+      "form .hs-richtext, form .hs-richtext *, form .hs-richtext p, form .hs-richtext h1, form .hs-richtext h2, form .hs-richtext h3, form .hs-richtext h4, form .hs-richtext h5, form .hs-richtext h6",
+      "button, button, button, .button, .button, .button, .hs-button, .hs-button, .hs-button",
+      "button, .button, .hs-button",
+      ".button.button--secondary, .button.button--secondary, .button.button--secondary",
+      ".button.button--secondary",
+      ".header__menu-item--depth-1 > .header__menu-link, .header__menu-item--depth-1 > .header__menu-link",
+      ".header__menu-item--depth-1 > .header__menu-link",
+      ".header__menu-submenu .header__menu-link, .header__menu-submenu .header__menu-link",
+      ".header__language-switcher .lang_list_class a, .header__language-switcher .lang_list_class a",
+      ".header__menu-submenu .header__menu-link:not(.button)",
+      ".footer .hs-menu-wrapper a, .footer .hs-menu-wrapper a",
+      ".footer .hs-menu-wrapper a",
+      "form .hs-richtext a",
+      ".header__menu-item--depth-1 > .header__menu-link--active-link:not(.button)",
+      ".footer .hs-menu-wrapper .active > a"
+    ],
+    "fonts.secondary": [
+      ".button.button--secondary",
+      "form input[type='submit'],   form .hs-button",
+      "h1",
+      ".header__logo-company-name",
+      "h2",
+      ".hs-search-results__title",
+      "h3",
+      "h4",
+      ".accordion__summary",
+      "h5",
+      "h6",
+      "blockquote",
+      ".form-title"
+    ],
+    "spacing.maximum_content_width": [
+      ".dnd-section > .row-fluid, .content-wrapper, .header__wrapper, .row-fluid"
+    ],
+    "spacing.custom_maximum_content_width": [
+      ".dnd-section > .row-fluid, .content-wrapper, .header__wrapper, .row-fluid"
+    ],
+    "spacing.vertical_spacing": [".dnd-section", ".blog-post-section"],
+    "spacing.custom_vertical_spacing": [".dnd-section", ".blog-post-section"],
+    "global.text.h1.font": ["h1", ".header__logo-company-name"],
+    "global.text.h1.transform": ["h1", ".header__logo-company-name"],
+    "global.text.h2.font": [
+      "h2",
+      ".blog-listing__post-title-link",
+      ".hs-search-results__title"
+    ],
+    "global.text.h2.transform": ["h2", ".blog-listing__post-title"],
+    "global.text.h3.font": ["h3", ".form-title"],
+    "global.text.h3.transform": ["h3"],
+    "global.text.h4.font": [
+      "h4",
+      ".accordion__summary, .accordion__summary:before",
+      ".blog-listing__post-title-link"
+    ],
+    "global.text.h4.transform": ["h4"],
+    "global.text.h5.font": ["h5"],
+    "global.text.h5.transform": ["h5"],
+    "global.text.h6.font": ["h6"],
+    "global.text.h6.transform": ["h6"],
+    "global.text.body_font.font": [
+      "html",
+      "body",
+      "p",
+      "blockquote > footer",
+      "form td.is-today .pika-button",
+      "form .is-selected .pika-button",
+      "th, td",
+      ".blog-listing__post-tag",
+      ".blog-listing__post-author-name",
+      ".pagination__link-icon svg",
+      ".tabs__tab",
+      "form label",
+      "#email-prefs-form, #email-prefs-form h1, #email-prefs-form h2",
+      "form legend",
+      "form input[type='text'], form input[type='email'], form input[type='password'], form input[type='tel'], form input[type='number'], form input[type='search'], form select, form textarea",
+      ".backup-unsubscribe input[type='email']",
+      "form .legal-consent-container, form .legal-consent-container .hs-richtext, form .legal-consent-container .hs-richtext p",
+      "form .hs-richtext, form .hs-richtext *, form .hs-richtext p, form .hs-richtext h1, form .hs-richtext h2, form .hs-richtext h3, form .hs-richtext h4, form .hs-richtext h5, form .hs-richtext h6",
+      ".header__language-switcher-current-label > span",
+      ".header__language-switcher-child-toggle svg",
+      ".header__language-switcher .lang_list_class a:not(.button)",
+      ".header__menu-link",
+      ".header__menu-item--depth-1 > .header__menu-link:not(.button)",
+      ".header__menu-item--depth-1 .header__menu-child-toggle svg",
+      ".header__menu-toggle svg",
+      ".header__language-switcher .header__language-switcher-current-label > span, .header__language-switcher .header__language-switcher-current-label > span",
+      ".footer .hs-menu-wrapper a",
+      "form .hs-richtext a",
+      ".header__menu-item--depth-1 > .header__menu-link, .header__menu-item--depth-1 > .header__menu-link",
+      ".header__menu-item--depth-1 > .header__menu-link",
+      ".header__menu-submenu .header__menu-link, .header__menu-submenu .header__menu-link",
+      ".header__language-switcher .lang_list_class a, .header__language-switcher .lang_list_class a",
+      ".header__menu-submenu .header__menu-link:not(.button)",
+      ".footer .hs-menu-wrapper a, .footer .hs-menu-wrapper a",
+      ".footer .hs-menu-wrapper a",
+      ".header__menu-item--depth-1 > .header__menu-link--active-link:not(.button)",
+      ".footer .hs-menu-wrapper .active > a"
+    ],
+    "global.text.links": [
+      "a:not(.button)",
+      ".button.button--simple",
+      "form input[type='submit'],   form .hs-button",
+      ".pagination__link-icon svg",
+      ".pagination__link .pagination__link-icon svg"
+    ],
+
+    "global.text.blockquotes.font": ["blockquote"],
+
+    "global.buttons.size.small": [".button.button--small"],
+    "global.buttons.size.large": [".button.button--large"],
+    "global.buttons.size.regular": [
+      "button:not(.button--small, .button--large, header button), .button:not(.button--small, .button--large), .hs-button:not(.button--small, .button--large)",
+      "form .hs-button",
+      "form input[type='submit']"
+    ],
+    "global.buttons.primary": [
+      "button, .button, .hs-button",
+      "form input[type='submit'],   form input[type='submit']"
+    ],
+
+    "global.buttons.secondary": [
+      ".button.button--secondary",
+      "form input[type='submit'],   form input[type='submit']"
+    ],
+    "global.forms.title": [".form-title"],
+    "global.forms.labels.text.font": [
+      "form label",
+      "#email-prefs-form, #email-prefs-form h1, #email-prefs-form h2"
+    ],
+    "global.forms.labels.spacing.spacing": ["form label"],
+    "global.forms.help_text.text.font": ["form legend"],
+    "global.forms.fields.inputs.placeholder.color": [
+      "::-webkit-input-placeholder",
+      "::-moz-placeholder",
+      ":-ms-input-placeholder",
+      ":-moz-placeholder",
+      "::placeholder"
+    ],
+    "global.forms.fields.inputs.text.font": [
+      "form input[type='text'], form input[type='email'], form input[type='password'], form input[type='tel'], form input[type='number'], form input[type='search'], form select, form textarea",
+      ".backup-unsubscribe input[type='email']"
+    ],
+    "global.forms.fields.inputs.background.color": [
+      "form input[type='text'], form input[type='email'], form input[type='password'], form input[type='tel'], form input[type='number'], form input[type='search'], form select, form textarea"
+    ],
+    "global.forms.fields.inputs.spacing.spacing": [
+      "form input[type='text'], form input[type='email'], form input[type='password'], form input[type='tel'], form input[type='number'], form input[type='search'], form select, form textarea",
+      ".backup-unsubscribe input[type='email']",
+      "form .hs-dateinput:before"
+    ],
+    "global.forms.fields.inputs.border.border": [
+      "form input[type='text'], form input[type='email'], form input[type='password'], form input[type='tel'], form input[type='number'], form input[type='search'], form select, form textarea"
+    ],
+    "global.forms.fields.inputs.corner.radius": [
+      "form input[type='text'], form input[type='email'], form input[type='password'], form input[type='tel'], form input[type='number'], form input[type='search'], form select, form textarea"
+    ],
+    "global.forms.fields.gdpr_text.font": [
+      "form .legal-consent-container, form .legal-consent-container .hs-richtext, form .legal-consent-container .hs-richtext p"
+    ],
+    "global.forms.button.presets.button_style": [
+      "form input[type='submit'], form .hs-button"
+    ],
+    "global.forms.button.presets.button_size": [
+      "form input[type='submit'], form .hs-button"
+    ],
+    "global.forms.fields.rich_text.font": [
+      "form .hs-richtext, form .hs-richtext *, form .hs-richtext p, form .hs-richtext h1, form .hs-richtext h2, form .hs-richtext h3, form .hs-richtext h4, form .hs-richtext h5, form .hs-richtext h6",
+      "form .hs-richtext a"
+    ],
+    "global.forms.fields.rich_text.links": ["form .hs-richtext a"],
+    "global.forms.form": ["form", ".submitted-message"],
+    "global.icons.size.small.size": [".icon--small svg"],
+    "global.icons.size.small.spacing": [".icon--small .icon"],
+    "global.icons.size.regular.size": [".icon svg"],
+    "global.icons.size.regular.spacing": [".icon"],
+    "global.icons.size.large.size": [".icon--large svg"],
+    "global.icons.size.large.spacing": [".icon--large .icon"],
+    "global.icons.dark.fill.color": [".icon svg"],
+    "global.icons.dark.background.color": [
+      ".icon",
+      ".image-gallery__close-button-icon",
+      ".social-follow__icon"
+    ],
+    "global.icons.light.fill.color": [".icon--light svg"],
+    "global.icons.light.background.color": [
+      ".icon--light .icon",
+      ".icon--light .image-gallery__close-button-icon",
+      ".icon--light .social-follow__icon"
+    ],
+    "global.cards.dark.text.color": [
+      ".card--dark",
+      ".card--dark summary, .card--dark p, .card--dark h1, .card--dark h2, .card--dark h3, .card--dark h4, .card--dark h5, .card--dark h6, .card--dark a:not(.button), .card--dark span, .card--dark div, .card--dark li, .card--dark blockquote",
+      ".card--dark .accordion__summary:before"
+    ],
+    "global.cards.dark.background.color": [".card--dark"],
+    "global.cards.dark.border.border": [".card--dark"],
+    "global.cards.dark.corner.radius": [".card--dark"],
+    "global.cards.light.text.color": [
+      ".card--light",
+      ".card--light summary, .card--light p, .card--light h1, .card--light h2, .card--light h3, .card--light h4, .card--light h5, .card--light h6, .card--light a:not(.button), .card--light span, .card--light div, .card--light li, .card--light blockquote",
+      ".card--light .accordion__summary:before"
+    ],
+    "global.cards.light.background.color": [".card--light"],
+    "global.cards.light.border.border": [".card--light"],
+    "global.cards.light.corner.radius": [".card--light"],
+    "global.tables.table_header.text.color": [
+      "form .pika-table thead th",
+      "thead th, thead td"
+    ],
+    "global.tables.table_header.background.color": [
+      "form .pika-table thead th",
+      "thead th, thead td"
+    ],
+    "global.tables.table_footer.text.color": ["tfoot th, tfoot td"],
+    "global.tables.table_footer.background.color": ["tfoot th, tfoot td"],
+    "global.tables.table_cells.spacing.spacing": ["th, td"],
+    "global.tables.table_cells.border.border": ["table", "th, td"],
+    "global.header.top_bar.background.color": [".header__top"],
+    "global.header.language_switcher.text.font": [
+      ".header__language-switcher-current-label > span",
+      ".header__language-switcher-child-toggle svg",
+      ".header__language-switcher .lang_list_class a:not(.button)"
+    ],
+    "global.header.language_switcher.text.transform": [
+      ".header__language-switcher-current-label > span",
+      ".header__language-switcher .lang_list_class a:not(.button)"
+    ],
+    "global.header.language_switcher.hover.font": [
+      ".header__language-switcher .header__language-switcher-current-label > span, .header__language-switcher .header__language-switcher-current-label > span"
+    ],
+    "global.header.language_switcher.drop_downs.text.color": [
+      ".header__language-switcher .lang_list_class a:not(.button)"
+    ],
+    "global.header.language_switcher.drop_downs.background.color": [
+      ".header__language-switcher .lang_list_class li",
+      ".header__language-switcher .lang_list_class a"
+    ],
+    "global.header.language_switcher.drop_downs.hover.text.color": [
+      ".header__language-switcher .lang_list_class a, .header__language-switcher .lang_list_class a"
+    ],
+    "global.header.language_switcher.drop_downs.hover.background.color": [
+      ".header__language-switcher .lang_list_class a, .header__language-switcher .lang_list_class a"
+    ],
+    "global.header.menu.text.font": [
+      ".header__menu-link",
+      ".header__menu-item--depth-1 > .header__menu-link:not(.button)",
+      ".header__menu-item--depth-1 .header__menu-child-toggle svg",
+      ".header__menu-toggle svg",
+      ".header__language-switcher .header__language-switcher-current-label > span",
+      ".header__language-switcher .lang_list_class a:not(.button)",
+      ".header__language-switcher .lang_list_class a",
+      ".header__menu-submenu .header__menu-link:not(.button)",
+      ".header__menu-item--depth-1 > .header__menu-link--active-link:not(.button)"
+    ],
+    "global.header.menu.text.transform": [".header__menu-link"],
+    "global.header.menu.hover.font": [
+      ".header__menu-item--depth-1 > .header__menu-link",
+      ".header__menu-submenu .header__menu-link",
+      ".header__language-switcher .lang_list_class a",
+      ".header__menu-item--depth-1 > .header__menu-link--active-link:not(.button)"
+    ],
+    "global.header.menu.active.font": [
+      ".header__menu-item--depth-1 > .header__menu-link--active-link:not(.button)"
+    ],
+    "global.header.menu.drop_downs.text.color": [
+      ".header__menu-submenu .header__menu-link:not(.button)"
+    ],
+    "global.header.menu.drop_downs.background.color": [
+      ".header__menu-submenu",
+      ".header__menu-submenu .header__menu-link",
+      ".header__language-switcher .lang_list_class a",
+      ".header__menu-submenu .header__menu-item",
+      ".header__menu-submenu .header__menu-link--active-link:not(.button)"
+    ],
+    "global.header.menu.drop_downs.hover.text.color": [
+      ".header__menu-submenu .header__menu-link, .header__menu-submenu .header__menu-link"
+    ],
+    "global.header.menu.drop_downs.hover.background.color": [
+      ".header__menu-submenu .header__menu-item, .header__menu-submenu .header__menu-item"
+    ],
+    "global.header.menu.drop_downs.active.background.color": [
+      ".header__menu-submenu .header__menu-link--active-link:not(.button)"
+    ],
+    "global.header.text.color": [
+      ".header p, .header h1, .header h2, .header h3, .header h4, .header h5, .header h6, .header a:not(.button), .header span, .header div, .header li, .header blockquote, .header .tabs__tab, .header .tabs__tab, .header .tabs__tab, .header .tabs__tab"
+    ],
+    "global.header.background.color": [
+      ".header",
+      ".header__bottom",
+      ".header__language-switcher .lang_list_class li",
+      ".header__language-switcher .lang_list_class a",
+      ".header__menu-submenu",
+      ".header__menu-submenu .header__menu-item",
+      ".header__menu-submenu .header__menu-link--active-link:not(.button)"
+    ],
+    "global.footer.menu.text.font": [
+      ".footer .hs-menu-wrapper a, .footer .hs-menu-wrapper a",
+      ".footer .hs-menu-wrapper .active > a"
+    ],
+    "global.footer.menu.text.transform": [".footer .hs-menu-wrapper a"],
+    "global.footer.menu.hover.font": [
+      ".footer .hs-menu-wrapper a, .footer .hs-menu-wrapper a",
+      ".footer .hs-menu-wrapper .active > a"
+    ],
+    "global.footer.menu.active.font": [".footer .hs-menu-wrapper .active > a"],
+    "global.footer.text.color": [
+      ".footer h1, .footer h2, .footer h3, .footer h4, .footer h5, .footer h6, .footer p, .footer a:not(.button), .footer span, .footer div, .footer li, .footer blockquote, .footer .tabs__tab, .footer .tabs__tab, .footer .tabs__tab, .footer .tabs__tab",
+      ".footer hr"
+    ],
+    "global.footer.background.color": [".footer"]
+  }
+}

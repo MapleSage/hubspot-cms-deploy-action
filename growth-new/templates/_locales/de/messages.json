@@ -1,0 +1,1662 @@
+{
+  "partial_header_skip_to_content": {
+    "message": "Zu Content springen",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_address": {
+    "message": "123 Main Street, City, State 11111",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_copyright": {
+    "message": "Copyright © {{ year }}, {{ site_settings.company_name }}",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_one": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_two": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_three": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "about_banner_heading": {
+    "message": "Über uns",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_one": {
+    "message": "Unsere Story",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_two": {
+    "message": "Unsere Werte",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_three": {
+    "message": "Unsere Geschichte",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_four": {
+    "message": "Unser Team",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_five": {
+    "message": "Unsere Kultur",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_six": {
+    "message": "Neuigkeiten zum Unternehmen",
+    "description": "",
+    "placeholders": null
+  },
+  "about_image_alt_text": {
+    "message": "Unternehmen",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_one_title": {
+    "message": "CEO und Gründer",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_two_title": {
+    "message": "Chief Operating Officer",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_three_title": {
+    "message": "Chief Technology Officer",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_four_title": {
+    "message": "Chief Financial Officer",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_five_title": {
+    "message": "Chief Design Officer",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_six_title": {
+    "message": "Chief People Officer",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_description": {
+    "message": "Heben Sie die einzigartigen Kompetenzen, Erfahrungen und Interessen Ihres Teammitglieds hervor. Präsentieren Sie den beruflichen Werdegang kurz und ansprechend und betonen Sie dessen wertvolle Kompetenzen.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_index_heading": {
+    "message": "Blog",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_heading": {
+    "message": "Blog-Kommentare",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_heading": {
+    "message": "Growth-Konferenz",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_date": {
+    "message": "5. bis 8. September",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_text": {
+    "message": "Ticket holen",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_content": {
+    "message": "Ticket holen",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_one": {
+    "message": "Jetzt kaufen",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_two": {
+    "message": "Tickets kaufen",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_one": {
+    "message": "Über",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_two": {
+    "message": "Sprecher-Panel",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_three": {
+    "message": "Sponsoren",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_four": {
+    "message": "Fügen Sie einen Slogan für Ihr Video hinzu",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_five": {
+    "message": "Referenzen",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_six": {
+    "message": "Tickets",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_one": {
+    "message": "Growth-Konferenz ist eine Vorlage, mit der den Kunden die Vorteile des Besuchs der Konferenz oder Veranstaltung Ihrer Organisation für sie demonstiert werden kann. Beschreiben Sie das Thema Ihrer Konferenz und warum Kunden sich ein Tickets holen sollten.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_two": {
+    "message": "Fügen Sie hier eine kurze Beschreibung Ihrer Redner ein. Warum sollte Ihr Publikum ihnen zuhören? Gibt es ein Thema, das sie alle in ihren Vorträgen behandeln werden? Was macht sie einzigartig? Nutzen Sie diesen Platz, um dem Leser zu vermitteln, warum Sie gerade diese Redner vorstellen möchten.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_three": {
+    "message": "Fassen Sie hier die Biografie Ihres Redners zusammen. Sie können auch einen Satz zum Thema des Vortrags ergänzen.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_four": {
+    "message": "„Dies ist Ihre Chance, den Social Proof dafür zu erbringen, wie lohnenswert Ihre Veranstaltung ist. Fügen Sie Testimonials hinzu, die den Menschen den Mehrwert Ihrer Veranstaltung verdeutlichen.“",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_five": {
+    "message": "Beschreiben Sie das Design Ihrer Konferenz, geben Sie Ihren potenziellen Kunden eine Vorstellung davon, was auf der Konferenz passiert, und sagen Sie ihnen, warum sie Tickets kaufen sollten. Nutzen Sie diese Vorlage, um Tickets für Ihr Event ohne großen Aufwand zu verkaufen.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_heading": {
+    "message": "Allgemeiner Zugang für Events",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_price": {
+    "message": "199 USD",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_heading": {
+    "message": "VIP",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_price": {
+    "message": "449 USD",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_one": {
+    "message": "Führen Sie alle Vorteile auf, die Ihr Kunde durch den Erwerb dieser Stufe erhält.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_two": {
+    "message": "Welche Networking- und Lernmöglichkeiten steht ihm auf der Konferenz zur Verfügung?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_three": {
+    "message": "Zu welchen Teilen der Konferenz hat er Zugang?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_four": {
+    "message": "Hat er Zugang zu aufgezeichneten Programmen?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_five": {
+    "message": "Welche Verpflegungs-, Transport- und Unterkunftsmöglichkeiten haben sie?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_six": {
+    "message": "Listen Sie alle exklusiven Vorteile auf, die Ihr VIP-Kunde erhält, wenn er diese Stufe kauft.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_one": {
+    "message": "CEO und Gründer",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_two": {
+    "message": "Chief Operating Officer",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_three": {
+    "message": "Chief Technology Officer",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_content": {
+    "message": "Tickets kaufen",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_image_alt_text": {
+    "message": "Sprecher-Foto",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_one": {
+    "message": "Kontakt",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_two": {
+    "message": "Unsere Standorte",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_three": {
+    "message": "Nehmen Sie Kontakt auf",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_four": {
+    "message": "Häufig gestellte Fragen",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_heading": {
+    "message": "Content-Bibliothek",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_content": {
+    "message": "Eine Bibliothek mit Ressourcen und digitalen Elementen, die Ihnen helfen, zu lernen und zu wachsen.",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_one": {
+    "message": "<h3>San Francisco</h3><p>3870 Twin Oaks Drive<br> San Francisco, CA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_two": {
+    "message": "<h3>Chicago</h3><p>2140 Roguski Road<br> Chicago, IL</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_three": {
+    "message": "<h3>Boston</h3><p>123 Waverly Place<br> Boston, MA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_question": {
+    "message": "Accordion-Titel",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_heading": {
+    "message": "Seite nicht gefunden",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_description": {
+    "message": "Wir können die von Ihnen gesuchte Seite nicht finden.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_button": {
+    "message": "Zur Startseite",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_heading": {
+    "message": "Diese Seite funktioniert nicht",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_description": {
+    "message": "Ein interner Serverfehler ist aufgetreten, aber wir arbeiten an der Behebung!",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_button": {
+    "message": "Zur Startseite",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_heading": {
+    "message": "Sie haben leider keinen Zugriff",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_description": {
+    "message": "Sie haben keine Berechtigung, diese Seite anzuzeigen. Wenden Sie sich bei Fragen an den Administrator der Website.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_button": {
+    "message": "Zur Startseite",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_heading": {
+    "message": "Anmelden",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_subheading": {
+    "message": "Die Seite, die Sie aufrufen möchten, ist nur für registrierte Benutzer verfügbar.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_email": {
+    "message": "E-Mail",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_password": {
+    "message": "Passwort",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_remember_me": {
+    "message": "Merken",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_reset_password": {
+    "message": "Passwort vergessen?",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_submit": {
+    "message": "Anmelden",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_show_password": {
+    "message": "Anzeigen",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_contact_admin": {
+    "message": "Haben Sie Probleme? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Wenden Sie sich an den Administrator der Website.</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_heading": {
+    "message": "Sie sind abgemeldet",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_button": {
+    "message": "Wieder anmelden",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_alt": {
+    "message": "Oder zur <a href=\"{{ '//' ~ request.domain }}\">Startseite</a> zurückkehren",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_heading": {
+    "message": "Ihr Passwort einrichten",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_subheading": {
+    "message": "Herzlich willkommen! Schließen Sie Ihre Registrierung ab, indem Sie Ihr Passwort einrichten.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_email": {
+    "message": "E-Mail",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_confirm_password": {
+    "message": "Passwort bestätigen",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_password": {
+    "message": "Passwort",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_save_password": {
+    "message": "Passwort speichern",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_show_password": {
+    "message": "Anzeigen",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_contact_admin": {
+    "message": "Haben Sie Probleme? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Wenden Sie sich an den Administrator der Website.</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_heading": {
+    "message": "Ihre E-Mail-Adresse wird bestätigt.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_description": {
+    "message": "Vielen Dank, dass Sie Ihre E-Mail-Adresse verifiziert haben. Sie können sich jetzt bei Ihrem Account anmelden und auf Ihre exklusiven Inhalte zugreifen.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_button": {
+    "message": "Anmelden",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_contact_admin": {
+    "message": "Haben Sie Probleme? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Wenden Sie sich an den Administrator der Website.</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_heading": {
+    "message": "Neues Passwort erstellen",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_subheading": {
+    "message": "Ihr neues Passwort muss sich von dem zuvor verwendeten Passwort unterscheiden.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_new_password": {
+    "message": "Neues Passwort",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_confirm_password": {
+    "message": "Neues Passwort bestätigen",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_save_password": {
+    "message": "Passwort speichern",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_show_password": {
+    "message": "Anzeigen",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_contact_admin": {
+    "message": "Haben Sie Probleme? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Wenden Sie sich an den Administrator der Website.</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_heading": {
+    "message": "Passwort zurücksetzen",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_subheading": {
+    "message": "Geben Sie die E-Mail-Adresse ein, mit der Sie sich registriert haben, und wir senden Ihnen eine E-Mail mit einem Link zum Zurücksetzen Ihres Passworts.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_email": {
+    "message": "E-Mail",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_submit": {
+    "message": "E-Mail zum Zurücksetzen senden",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_alt": {
+    "message": "Ist es Ihnen gerade wieder eingefallen? <a href=\"/_hcms/mem/login\">Anmelden</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_contact_admin": {
+    "message": "Haben Sie Probleme? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Wenden Sie sich an den Administrator der Website.</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_heading": {
+    "message": "Verifizieren Sie Ihre E-Mail-Adresse",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_description": {
+    "message": "Vielen Dank, dass Sie sich angemeldet haben! Bitte überprüfen Sie Ihre E-Mail und klicken Sie auf den Bestätigungslink, um die Registrierung abzuschließen.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_contact_admin": {
+    "message": "Haben Sie Probleme? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Wenden Sie sich an den Administrator der Website.</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_one": {
+    "message": "Über",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two": {
+    "message": "Sorgen Sie mit kostenpflichtigen Beratungen für mehr Unternehmenswachstum",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two_update": {
+    "message": "Sorgen Sie mit kostenpflichtigen Beratungen für mehr Unternehmenswachstum",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_three": {
+    "message": "Eine Reihe von Tools zu Ihrer Verfügung",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_heading": {
+    "message": "Dienstleistung",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_description": {
+    "message": "Fassen Sie den Service zusammen, den Sie anbieten. Fügen Sie eine Nachricht über den Wert hinzu, den Sie Ihren Kunden bieten.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_four": {
+    "message": "Referenzen",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_one": {
+    "message": "Fügen Sie einen Untertitel hinzu, der erklärt, wie Sie Ihren Kunden einen Mehrwert bieten",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_two": {
+    "message": "Fügen Sie eine kurze Beschreibung der Arbeit hinzu, die Sie in Ihrem Unternehmen leisten. Versuchen Sie, Ihre Spezialisierung einzugrenzen, damit Sie die Aufmerksamkeit Ihrer Kunden gewinnen können. Sprechen Sie über den Vorteil, den Sie durch eine bezahlte Beratung bieten können.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_list_content": {
+    "message": "„Fügen Sie ein Testimonial hinzu, um für Ihre Dienstleistungen zu bürgen. Warum sind Ihre derzeitigen Kunden von Ihrem Angebot begeistert?“",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_image_alt_text": {
+    "message": "Growth-Design-Platzhalterbild",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_button_text": {
+    "message": "Buchen Sie eine Beratung",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_heading": {
+    "message": "Passwort erforderlich",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_subheading": {
+    "message": "Bitte geben Sie Ihr Passwort ein, um diese Seite anzuzeigen.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_one": {
+    "message": "Abrechnungsmodell",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_plans_and_pricing_heading": {
+    "message": "Produktversionen und Preise",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_two": {
+    "message": "Häufig gestellte Fragen",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_heading": {
+    "message": "Alle Produktversionen umfassen",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_content_heading": {
+    "message": "Produkt-Feature",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_heading": {
+    "message": "Bringen Sie Menschen zu Ihren Produkten und Dienstleistungen",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_button_text": {
+    "message": "Mehr erfahren",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_question": {
+    "message": "Accordion-Titel",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_one": {
+    "message": "Produkte",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_two": {
+    "message": "Für Ihre Bedürfnisse entwickelt",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_heading": {
+    "message": "Und noch viel mehr",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_content_heading": {
+    "message": "Produkt-Feature",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_one": {
+    "message": "Schnell loslegen",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_two": {
+    "message": "Einfach und leicht zu benutzen",
+    "description": "",
+    "placeholders": null
+  },
+  "products_image_alt_text": {
+    "message": "Produkt-Feature",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_heading": {
+    "message": "Bringen Sie Menschen zu Ihren Produkten und Dienstleistungen",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_button_text": {
+    "message": "Mehr erfahren",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_heading": {
+    "message": "Growth-Design",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_button_text": {
+    "message": "Loslegen",
+    "description": "",
+    "placeholders": null
+  },
+  "home_logos_heading": {
+    "message": "Einige unserer zufriedenen Kunden",
+    "description": "",
+    "placeholders": null
+  },
+  "home_heading": {
+    "message": "Für Ihre Bedürfnisse entwickelt",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_one": {
+    "message": "Schnelle Einrichtung",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_two": {
+    "message": "Benutzerfreundlich",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_three": {
+    "message": "Anpassbar",
+    "description": "",
+    "placeholders": null
+  },
+  "home_video_heading": {
+    "message": "Sehen Sie die Dinge in Aktion",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_heading": {
+    "message": "Eine Reihe von Tools zu Ihrer Verfügung",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_content_heading": {
+    "message": "Produktname",
+    "description": "",
+    "placeholders": null
+  },
+  "home_image_alt_text": {
+    "message": "Produktname",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_button_text": {
+    "message": "Mehr erfahren",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_content": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan velit sit amet sagittis malesuada.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_customer": {
+    "message": "Shaun Benson, Marketing Manager, Agriflora Inc.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_blog_post_heading": {
+    "message": "Letzte Beiträge",
+    "description": "",
+    "placeholders": null
+  },
+  "home_contact": {
+    "message": "Kontakt",
+    "description": "",
+    "placeholders": null
+  },
+  "home_button_text": {
+    "message": "Loslegen",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_heading": {
+    "message": "Laden Sie Ihre kostenlose digitale Ressource heute herunter",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_p_one": {
+    "message": "Schreiben Sie eine fesselnde Einleitung, um den wesentlichen Content dieser Ressource zu präsentieren. Gehen Sie auf die Herausforderungen oder Ziele Ihrer Leser ein und erklären Sie, wie das E-Book ihnen helfen kann.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_one_heading": {
+    "message": "Vorteil 1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_two_heading": {
+    "message": "Vorteil 2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_three_heading": {
+    "message": "Vorteil 3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_content": {
+    "message": "Erklären Sie, was die Leser erfahren werden",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_highlight": {
+    "message": "Heben Sie die Vorteile hervor:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_preface": {
+    "message": "Warum gerade wir?",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_heading": {
+    "message": "Wie bieten moderne Lösungen für das Wachstum Ihres Unternehmens",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_content": {
+    "message": "Werden auch Sie einer der unzähligen zufriedenen Benutzer, die von unseren innovativen Lösungen profitieren.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_button_text": {
+    "message": "Mehr erfahren",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_logo_heading": {
+    "message": "Führende Unternehmen vertrauen uns bereits",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_heading": {
+    "message": "Funktionsname",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_content": {
+    "message": "Schreiben Sie überzeugende, nutzenorientierte Texte, die den Wert Ihres Angebots deutlich vermitteln und die Besucher zum Handeln auffordern. Konzentrieren Sie sich darauf, wie Ihr Angebot Probleme Ihrer Besucher löst, Anforderungen Ihrer Besucher erfüllt oder Bedürfnisse Ihrer Besucher befriedigt.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_preface": {
+    "message": "Überzeugen Sie sich vorab selbst",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_heading": {
+    "message": "Sehen Sie sich diese Funktionen zusammen mit einem unserer Teammitglieder in Aktion an",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_button_text": {
+    "message": "Demo anfordern",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_heading": {
+    "message": "Demo vereinbaren",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_p_one": {
+    "message": "Vereinbaren Sie eine Demo mit einem unserer Teammitglieder zu einem Zeitpunkt Ihrer Wahl. Beschreiben Sie knapp, was Ihre Interessenten erwarten können.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_highlight": {
+    "message": "Agenda:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_one_heading": {
+    "message": "Thema 1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_two_heading": {
+    "message": "Thema 2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_three_heading": {
+    "message": "Thema 3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_content": {
+    "message": "Erklären Sie, was in der Demo abgedeckt wird",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_heading": {
+    "message": "Sichern SIe Ihren Platz: Registrieren Sie sich jetzt für dieses exklusive Event",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_content": {
+    "message": "Beschreiben Sie knapp, was in der Live-Konferenz, im Webinar oder auf dem Event abgedeckt wird und warum Ihre Zielgruppe sich registrieren sollte.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_button_text": {
+    "message": "Jetzt registrieren",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_partners_content": {
+    "message": "Schließen Sie sich unserer Partner-Community an",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_preface": {
+    "message": "Über das Event",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_heading": {
+    "message": "Erhalten Sie Insights von Experten",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_highlight": {
+    "message": "Event-Highlights:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_one_heading": {
+    "message": "Highlight 1",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_two_heading": {
+    "message": "Highlight 2",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_three_heading": {
+    "message": "Highlight 3",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_content": {
+    "message": "Was nehmen die Teilnehmer mit?",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_heading": {
+    "message": "Schnellstatistiken",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_one": {
+    "message": "20 und mehr",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_two": {
+    "message": "150 und mehr",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_three": {
+    "message": "10",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_description": {
+    "message": "Kurze Beschreibung der Statistik",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_heading": {
+    "message": "Kurzer Einblick in das Event",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_content": {
+    "message": "Sehen Sie sich unser Teaser-Video an, um einen Einblick in die inspirierenden Keynotes, interaktiven Workshops und Networking-Opportunitys zu erhalten, die auf Sie warten. Diese Vorschau sollten Sie nicht verpassen! Nehmen Sie an einem unvergesslichen Erlebnis teil.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_preface": {
+    "message": "Überzeugen Sie sich vorab selbst",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_heading": {
+    "message": "Entdecken Sie ihre Möglichkeiten und sichern Sie sich heute Ihren Platz",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_button_text": {
+    "message": "Jetzt registrieren",
+    "description": "",
+    "placeholders": null
+  },
+  "search_results_heading": {
+    "message": "Suchergebnisse für „[[search_term]]“",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_heading": {
+    "message": "Über",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_sub_heading": {
+    "message": "Unser Unternehmen",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_image_alt_text": {
+    "message": "Unsere Geschichte",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_list_heading": {
+    "message": "Letzte Beiträge",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_heading": {
+    "message": "Letzte Beiträge",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_heading": {
+    "message": "Bringen Sie Menschen zu Ihren Produkten und Dienstleistungen",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_button_text": {
+    "message": "Mehr erfahren",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_full_heading": {
+    "message": "Kontakt",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_heading": {
+    "message": "Kontakt",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_address": {
+    "message": "123 Main Street, City, State 11111",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_email": {
+    "message": "contact@businessname.com",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_phone_number": {
+    "message": "+1 234-567-8901",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_heading": {
+    "message": "Produkt",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_description_heading": {
+    "message": "Beschreibung",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_button_text": {
+    "message": "Kontakt",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_image_alt_text": {
+    "message": "Produkt",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_heading": {
+    "message": "Galerie",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_one": {
+    "message": "Produkte",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_two": {
+    "message": "Unternehmen",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_three": {
+    "message": "Abrechnungsmodell",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_four": {
+    "message": "Produkt-Feature",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_five": {
+    "message": "Bildunterschrift",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_caption": {
+    "message": "Bildunterschrift",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_heading": {
+    "message": "Galerie",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_one": {
+    "message": "Produkte",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_two": {
+    "message": "Unternehmen",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_three": {
+    "message": "Abrechnungsmodell",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_four": {
+    "message": "Produkt-Feature",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_five": {
+    "message": "Abrechnungsmodell",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_hover_message": {
+    "message": "Nachricht bei Darüberbewegen des Mauszeigers",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_heading": {
+    "message": "Growth-Design",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_button_text": {
+    "message": "Kontakt",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_heading": {
+    "message": "Growth-Design",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_button_text": {
+    "message": "Loslegen",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_heading": {
+    "message": "Warum wir uns abheben",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_one": {
+    "message": "Schnelle Einrichtung",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_two": {
+    "message": "Benutzerfreundlich",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_three": {
+    "message": "Anpassbar",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_heading": {
+    "message": "Einige unserer zufriedenen Kunden",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_image_alt_text": {
+    "message": "Kundenlogo",
+    "description": "",
+    "placeholders": null
+  },
+  "section_meetings_banner_heading": {
+    "message": "Buchen Sie einen Termin für eine kostenlose Beratung",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_heading": {
+    "message": "Unser Team",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_one_title": {
+    "message": "CEO",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_two_title": {
+    "message": "Chief Operating Officer",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_three_title": {
+    "message": "Chief Financial Officer",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_description": {
+    "message": "Heben Sie die einzigartigen Kompetenzen, Erfahrungen und Interessen Ihres Teammitglieds hervor. Präsentieren Sie den beruflichen Werdegang kurz und ansprechend und betonen Sie dessen wertvolle Kompetenzen.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_heading": {
+    "message": "Unsere Geschichte",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_image_alt_text": {
+    "message": "Unsere Story",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_button_text": {
+    "message": "Mehr erfahren",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_heading": {
+    "message": "Produktversionen umfassen",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_description_heading": {
+    "message": "Produkt-Feature",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_image_alt_text": {
+    "message": "Produktversion umfasst",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_heading": {
+    "message": "Abonnieren Sie unseren Newsletter!",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_subheading": {
+    "message": "Melden Sie sich an, um über die neuesten Updates auf dem Laufenden zu bleiben",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_heading": {
+    "message": "Eine Reihe von Tools zu Ihrer Verfügung",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_card_heading": {
+    "message": "Bringen Sie Menschen zu Ihren Produkten und Dienstleistungen",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_button_text": {
+    "message": "Kontakt",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_image_alt_text": {
+    "message": "Dienstleistung",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_heading": {
+    "message": "Produktversionen und Preise",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_heading": {
+    "message": "Starter",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_price": {
+    "message": "50 USD/Monat",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_content": {
+    "message": "Starter jetzt kaufen",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_button_text": {
+    "message": "Starter jetzt kaufen",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_heading": {
+    "message": "Professional",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_price": {
+    "message": "200 USD/Monat",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_content": {
+    "message": "Professional jetzt kaufen",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_button_text": {
+    "message": "Professional jetzt kaufen",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_heading": {
+    "message": "Enterprise",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_price": {
+    "message": "600 USD/Monat",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_content": {
+    "message": "Enterprise jetzt kaufen",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_button_text": {
+    "message": "Enterprise jetzt kaufen",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_sub_heading": {
+    "message": "Einige wichtige Features",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_heading": {
+    "message": "Produkte",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_image_alt_text": {
+    "message": "Unsere Geschichte",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_description_heading": {
+    "message": "Produktname",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_button_text": {
+    "message": "Kontakt",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_heading": {
+    "message": "Kundenservice",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_description_heading": {
+    "message": "Service-Name",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_one": {
+    "message": "Unsere Geschichte",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_two": {
+    "message": "Unsere Werte",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_three": {
+    "message": "Unsere Geschichte",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_button_text": {
+    "message": "Kontakt",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_heading": {
+    "message": "Testimonial",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_team_member_title_one": {
+    "message": "VP Product",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_heading": {
+    "message": "Lesen Sie, was die Menschen sagen",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_one": {
+    "message": "VP Product",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_two": {
+    "message": "SVP Sales",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_three": {
+    "message": "CMO",
+    "description": "",
+    "placeholders": null
+  },
+  "section_video_heading": {
+    "message": "Sehen Sie die Dinge in Aktion",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading": {
+    "message": "Kundenservice",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_one_alt": {
+    "message": "Zwei Personen am Computer",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_two_alt": {
+    "message": "Zwei Personen schauen auf ein Telefon",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_three_alt": {
+    "message": "Zwei Personen bei der Arbeit mit Haftnotizen an der Wand",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_one": {
+    "message": "Basis",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_two": {
+    "message": "Pro",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_three": {
+    "message": "Enterprise",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_button_text": {
+    "message": "Mehr erfahren",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_description": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_heading": {
+    "message": "Kundenservice",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_image_alt": {
+    "message": "Personen auf einer Treppe sitzend",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_heading": {
+    "message": "Entwicklung einer Markenidentität",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_content": {
+    "message": "Unser Team entwirft eine einzigartige und einprägsame Markenidentität, die das Wesen Ihres Unternehmens widerspiegelt. Wir erstellen ein überzeugendes Logo, wählen eine harmonische Farbpalette und entwickeln einen einheitlichen visuellen Stil, der Ihre Marke von anderen abhebt.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_image_alt": {
+    "message": "Junge Geschäftsleute, die auf einen Laptop schauen",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_heading": {
+    "message": "UX/UI-Designverbesserung",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_content": {
+    "message": "Nutzen Sie unser Fachwissen im Bereich UX/UI-Design, um Benutzerzufriedenheit und Interaktionen zu erhöhen. Wir führen eine gründliche Analyse Ihrer digitalen Produkte durch, identifizieren Schwachstellen und implementieren benutzerzentrierte Lösungen, um das gesamte Benutzererlebnis zu verbessern.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_image_alt": {
+    "message": "Junge Marketingfachkraft, die in Innenhof mit einem Tablet in  der Hand spricht",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_heading": {
+    "message": "Gestaltung von Marketingmaterial",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_content": {
+    "message": "Optimieren Sie Ihre Marketingmaßnahmen mit beeindruckendem Material, das einen bleibenden Eindruck hinterlässt. Von Broschüren und Flyern bis hin zu Social-Media-Grafiken – wir entwerfen attraktive Materialien, die Ihre Zielgruppe ansprechen und zu Ergebnissen führen.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_button_text": {
+    "message": "Mehr erfahren",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_banner_image_alt": {
+    "message": "Gruppe lächelnder Menschen, die direkt in die Kamera schauen",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_heading": {
+    "message": "Unterstützung lokaler Wohlfahrtsküchen",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_content_area_one": {
+    "message": "Helfen Sie uns, das Leben unserer Nachbarn zu verbessern, indem Sie unsere lokalen Wohlfahrtsküchen unterstützen. Ihre Spende trägt dazu bei, dass Ernährungsunsicherheit betroffene Einzelpersonen und Familien direkt hier in unserer Community mit lebenswichtigen Nahrungsmitteln versorgt werden.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_one_alt": {
+    "message": "Zwei Personen, Haftnotizen auf Glas betrachtend",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_two_alt": {
+    "message": "Telefon wird vor ein Gerät zur Zahlungsabwicklung gehalten",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_three_alt": {
+    "message": "Mann am Steuer eines Lieferwagens mit zwei Paketen auf der Beifahrerseite",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_heading": {
+    "message": "Jetzt spenden",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_message_and_amount": {
+    "message": "Empfohlener Betrag: 15,00 USD",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_one_text": {
+    "message": "Spenden Sie 15,00 USD",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_two_text": {
+    "message": "Benutzerdefinierter Betrag",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_three_text": {
+    "message": "Teilen",
+    "description": "",
+    "placeholders": null
+  }
+}

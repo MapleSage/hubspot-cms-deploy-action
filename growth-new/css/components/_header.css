@@ -1,0 +1,22 @@
+/* Navigation skipper */
+
+.header__skip {
+  position: absolute;
+  top: -1000px;
+  left: -1000px;
+  overflow: hidden;
+  height: 1px;
+  width: 1px;
+  text-align: left;
+}
+
+.header__skip:hover,
+.header__skip:focus,
+.header__skip:active {
+  z-index: 2;
+  top: 0;
+  left: 0;
+  overflow: visible;
+  height: auto;
+  width: auto;
+}

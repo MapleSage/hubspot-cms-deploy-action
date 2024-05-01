@@ -1,0 +1,89 @@
+<!--
+  templateType: section
+  label: Testimonials
+  isAvailableForNewContent: true
+  screenshotPath: ../images/section-previews/testimonials.png
+  description: "Middle centered title and subtitle above three testimonials, containing text, image and author each."
+-->
+{% set template_translations = load_translations('../templates/_locales', html_lang, 'en') %}
+{% set anchor_tag = '<a id="{{ context.anchor_id }}" data-hs-anchor="true"></a>' %}
+
+{% dnd_section
+  background_color={{ context.background_color }}
+%}
+  {% dnd_column %}
+    {% dnd_row
+      margin={
+        "bottom": 22
+      }
+    %}
+      {% dnd_module path="@hubspot/rich_text" %}
+        {% module_attribute "html" %}
+          <div style="text-align: center;">
+            {{ anchor_tag if context.anchor_id }}
+            <h2>{{ context.heading or template_translations.section_testimonial_heading.message }}</h2>
+            <p>{{ context.content or template_translations.placeholder_content_one.message }}</p>
+          </div>
+        {% end_module_attribute %}
+      {% end_dnd_module %}
+    {% end_dnd_row %}
+    {% dnd_row %}
+      {% dnd_module
+        path="../modules/testimonial",
+        quote_text={{ context.testimonials[0].content
+          ? "<span>" ~ context.testimonials[0].content ~ "</span>"
+          : "<span>" ~ template_translations.placeholder_content_two.message ~ "</span>"
+        }},
+        author={
+          "content": context.testimonial[0].author.name
+            ? "<span>" ~ context.testimonial[0].author.name ~ "</span>"
+            :  "<span>Ervin Howell, " ~ template_translations.section_testimonial_team_member_title_one.message ~ ", Deckow-Crist</span>",
+          "image": {
+            "alt": context.testimonials[0].author.name,
+            "src": context.testimonials[0].author.image.src or get_asset_url("../images/testimonial-one.jpg")
+          }
+        },
+        width=4
+      %}
+      {% end_dnd_module %}
+      {% dnd_module
+        path="../modules/testimonial",
+        quote_text={{ context.testimonials[1].content
+          ? "<span>" ~ context.testimonials[1].content ~ "</span>"
+          : "<span>" ~ template_translations.placeholder_content_two.message ~ "</span>"
+        }},
+        author={
+          "content": context.testimonial[1].author.name
+            ? "<span>" ~ context.testimonial[1].author.name ~ "</span>"
+            : "<span>Clementina DuBuque, " ~ template_translations.section_testimonial_team_member_title_two.message ~ ", Hoeger LLC.</span>",
+          "image": {
+            "alt": context.testimonials[1].author.name,
+            "src": context.testimonials[1].author.image.src or get_asset_url("../images/testimonial-two.jpg")
+          }
+        },
+        offset=4,
+        width=4
+      %}
+      {% end_dnd_module %}
+      {% dnd_module
+        path="../modules/testimonial",
+        quote_text={{ context.testimonials[2].content
+          ? "<span>" ~ context.testimonials[2].content ~ "</span>"
+          : "<span>" ~ template_translations.placeholder_content_two.message ~ "</span>"
+        }},
+        author={
+          "content": context.testimonial[2].author.name
+            ? "<span>" ~ context.testimonial[2].author.name ~ "</span>"
+            : "<span>Kurtis Weissnat, " ~ template_translations.section_testimonial_team_member_title_three.message ~ ", Brunlow Inc.</span>",
+          "image": {
+            "alt": context.testimonials[2].author.name,
+            "src": context.testimonials[2].author.image.src or get_asset_url("../images/testimonial-three.jpg")
+          }
+        },
+        offset=8,
+        width=4
+      %}
+      {% end_dnd_module %}
+    {% end_dnd_row %}
+  {% end_dnd_column%}
+{% end_dnd_section %}

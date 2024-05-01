@@ -1,0 +1,76 @@
+[
+  {
+    "name": "form_content_area",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that describes the page, which is intended to suggest what a visitor might obtain by filling out the form."
+      },
+      {
+        "name": "content_p_one",
+        "type": "text",
+        "description": "A captivating introduction that sets the stage for the resource’s content, it addresses the visitor’s challenges or goals and explains how the resource will help solve them."
+      },
+      {
+        "name": "content_highlight",
+        "type": "text",
+        "description": "A very short heading describing the bullets that are in the following section. Must end with a colon ':'."
+      },
+      {
+        "name": "benefit_one",
+        "type": "group",
+        "children": [
+          {
+            "name": "bold_heading",
+            "type": "text",
+            "description": "This is a short two to three word heading describing the benefit"
+          },
+          {
+            "name": "benefit",
+            "type": "text",
+            "description": "This is a short description of a benefit received from the resource provided. It should relate to the bold_heading"
+          }
+        ]
+      },
+      {
+        "name": "benefit_two",
+        "type": "group",
+        "children": [
+          {
+            "name": "bold_heading",
+            "type": "text",
+            "description": "This is a short two to three word heading describing the benefit"
+          },
+          {
+            "name": "benefit",
+            "type": "text",
+            "description": "This is a short description of a benefit received from the resource provided. It should relate to the bold_heading"
+          }
+        ]
+      },
+      {
+        "name": "benefit_three",
+        "type": "group",
+        "children": [
+          {
+            "name": "bold_heading",
+            "type": "text",
+            "description": "This is a short two to three word heading describing the benefit"
+          },
+          {
+            "name": "benefit",
+            "type": "text",
+            "description": "This is a short description of a benefit received from the resource provided. It should relate to the bold_heading"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "conversion_form",
+    "type": "form",
+    "description": "This is a simple conversion form. It must be applicable to the page."
+  }
+]

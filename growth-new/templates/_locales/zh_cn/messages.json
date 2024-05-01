@@ -1,0 +1,1662 @@
+{
+  "partial_header_skip_to_content": {
+    "message": "跳到内容",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_address": {
+    "message": "北京朝阳区人民路 1 号，100020",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_copyright": {
+    "message": "版权所有 © {{ year }}, {{ site_settings.company_name }}",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_one": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_two": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_three": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "about_banner_heading": {
+    "message": "关于我们",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_one": {
+    "message": "我们的故事",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_two": {
+    "message": "我们的价值观",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_three": {
+    "message": "我们的历史",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_four": {
+    "message": "我们的团队",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_five": {
+    "message": "我们的文化",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_six": {
+    "message": "公司新闻",
+    "description": "",
+    "placeholders": null
+  },
+  "about_image_alt_text": {
+    "message": "公司",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_one_title": {
+    "message": "首席执行官兼创始人",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_two_title": {
+    "message": "首席运营官",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_three_title": {
+    "message": "首席技术官",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_four_title": {
+    "message": "首席财务官",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_five_title": {
+    "message": "首席设计官",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_six_title": {
+    "message": "首席人力官",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_description": {
+    "message": "突出您的团队成员独特的专业知识、经验和兴趣。简明扼要，引人入胜，展示他们的职业历程以及他们带来的宝贵技能。",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_index_heading": {
+    "message": "博客",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_heading": {
+    "message": "博客评论",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_heading": {
+    "message": "发展会议",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_date": {
+    "message": "9 月 5 日至 8 日",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_text": {
+    "message": "获取票据",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_content": {
+    "message": "获取票据",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_one": {
+    "message": "立即购买",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_two": {
+    "message": "购买票据",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_one": {
+    "message": "关于",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_two": {
+    "message": "演讲者面板",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_three": {
+    "message": "赞助商",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_four": {
+    "message": "为您的视频添加标语",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_five": {
+    "message": "评价",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_six": {
+    "message": "票据",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_one": {
+    "message": "成长会议是一个模板，可用于向客户展示您组织的活动会议可以为他们提供的价值。描述会议的主题以及客户应购买门票的原因。",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_two": {
+    "message": "在此添加您的演讲者的简短描述。为什么您的听众应该听到他们的声音？他们在演讲中都会讨论一个主题吗？是什么让他们与众不同？利用这个空间让读者了解为什么这些是您想要展示的演讲者。",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_three": {
+    "message": "在此总结您的演讲者的生平简介。您还可以添加关于他们的演示主题的句子。",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_four": {
+    "message": "“您可以借此机会向社会证明您的活动有多精彩的机会。添加评价，帮助人们了解您的活动的价值。”",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_five": {
+    "message": "描述会议的主题，让潜在客户了解会议上发生的事情，并告诉他们为什么应该买票。使用此模板以非接触式方式销售您的活动门票。",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_heading": {
+    "message": "普通门票",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_price": {
+    "message": "199 美元",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_heading": {
+    "message": "VIP",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_price": {
+    "message": "449 美元",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_one": {
+    "message": "列出客户购买该级别产品后将获得的所有令人兴奋的好处。",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_two": {
+    "message": "他们在会议上可以获得哪些交流和学习机会？",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_three": {
+    "message": "他们可以访问会议的哪些部分？",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_four": {
+    "message": "他们能够访问任何录制的节目？",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_five": {
+    "message": "他们有哪些食物、交通和住宿选择？",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_six": {
+    "message": "列出您的 VIP 客户购买此级别产品后将获得的所有独家优惠。",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_one": {
+    "message": "首席执行官兼创始人",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_two": {
+    "message": "首席运营官",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_three": {
+    "message": "首席技术官",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_content": {
+    "message": "购买票据",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_image_alt_text": {
+    "message": "演讲者照片",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_one": {
+    "message": "联系我们",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_two": {
+    "message": "我们的位置",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_three": {
+    "message": "联系",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_four": {
+    "message": "常见问题",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_heading": {
+    "message": "内容库",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_content": {
+    "message": "帮助您学习和成长的资源和数字资产库。",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_one": {
+    "message": "<h3>San Francisco</h3><p>3870 Twin Oaks Drive<br> San Francisco, CA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_two": {
+    "message": "<h3>Chicago</h3><p>2140 Roguski Road<br> Chicago, IL</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_three": {
+    "message": "<h3>Boston</h3><p>123 Waverly Place<br> Boston, MA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_question": {
+    "message": "可折叠标题",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_heading": {
+    "message": "找不到页面",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_description": {
+    "message": "我们找不到您所查找的页面：",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_button": {
+    "message": "转至主页",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_heading": {
+    "message": "此页面无法正常工作",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_description": {
+    "message": "发生了内部服务器错误，我们正在处理！",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_button": {
+    "message": "转至主页",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_heading": {
+    "message": "抱歉，您没有相关权限",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_description": {
+    "message": "您没有查看此页面的权限。请联系网站管理员以解决问题。",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_button": {
+    "message": "转至主页",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_heading": {
+    "message": "登录",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_subheading": {
+    "message": "您尝试查看的页面仅面向注册用户显示。",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_email": {
+    "message": "电邮",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_password": {
+    "message": "密码",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_remember_me": {
+    "message": "记住我",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_reset_password": {
+    "message": "忘记了密码？",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_submit": {
+    "message": "登录",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_show_password": {
+    "message": "显示",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_contact_admin": {
+    "message": "出现问题了？ <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">请联系网站管理员</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_heading": {
+    "message": "您已退出",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_button": {
+    "message": "重新登录",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_alt": {
+    "message": "或返回<a href=\"{{ '//' ~ request.domain }}\">主页</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_heading": {
+    "message": "设置您的密码",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_subheading": {
+    "message": "欢迎！请设置密码以完成注册。",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_email": {
+    "message": "电邮",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_confirm_password": {
+    "message": "确认密码",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_password": {
+    "message": "密码",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_save_password": {
+    "message": "保存密码",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_show_password": {
+    "message": "显示",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_contact_admin": {
+    "message": "出现问题了？ <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">请联系网站管理员</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_heading": {
+    "message": "您的电邮地址已确认",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_description": {
+    "message": "感谢您验证电邮地址。您现在可以登录您的帐户并访问您的专有内容。",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_button": {
+    "message": "登录",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_contact_admin": {
+    "message": "出现问题了？ <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">请联系网站管理员</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_heading": {
+    "message": "创建新密码",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_subheading": {
+    "message": "您的新密码必须与您之前使用的密码不一致。",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_new_password": {
+    "message": "新密码",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_confirm_password": {
+    "message": "确认新密码",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_save_password": {
+    "message": "保存密码",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_show_password": {
+    "message": "显示",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_contact_admin": {
+    "message": "出现问题了？ <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">请联系网站管理员</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_heading": {
+    "message": "重置密码",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_subheading": {
+    "message": "输入您用于注册的电邮地址，我们会向您发送包含密码重置链接的电邮。",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_email": {
+    "message": "电邮",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_submit": {
+    "message": "发送重置电邮",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_alt": {
+    "message": "您刚才想起来了吗？<a href=\"/_hcms/mem/login\">请登录</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_contact_admin": {
+    "message": "出现问题了？ <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">请联系网站管理员</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_heading": {
+    "message": "验证您的电邮地址",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_description": {
+    "message": "感谢您注册！请查看您的电邮并点击确认链接以完成注册。",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_contact_admin": {
+    "message": "出现问题了？ <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">请联系网站管理员</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_one": {
+    "message": "关于",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two": {
+    "message": "通过付费咨询拓展您的业务",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two_update": {
+    "message": "通过付费咨询拓展您的业务",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_three": {
+    "message": "一套可供您使用的工具",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_heading": {
+    "message": "服务",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_description": {
+    "message": "总结您提供的服务。添加有关您可以为客户提供的价值的信息。",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_four": {
+    "message": "评价",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_one": {
+    "message": "添加副标题，解释您将如何为客户提供价值",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_two": {
+    "message": "添加有关您在公司所做工作的简短描述。尝试缩小您的专业范围，以便吸引客户的注意力。谈论您可以通过付费咨询提供的价值。",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_list_content": {
+    "message": "“添加推荐以保证您的服务。为什么您当前的客户对您提供的产品感到兴奋？”",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_image_alt_text": {
+    "message": "成长主题占位符图像",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_button_text": {
+    "message": "预约咨询",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_heading": {
+    "message": "需要密码",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_subheading": {
+    "message": "请输入您的密码以查看此页面。",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_one": {
+    "message": "定价",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_plans_and_pricing_heading": {
+    "message": "套餐和定价",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_two": {
+    "message": "常见问题",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_heading": {
+    "message": "所有套餐包括",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_content_heading": {
+    "message": "产品特点",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_heading": {
+    "message": "吸引人们使用您的产品和服务",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_button_text": {
+    "message": "了解详情",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_question": {
+    "message": "可折叠标题",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_one": {
+    "message": "产品",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_two": {
+    "message": "专为您打造",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_heading": {
+    "message": "以及更多",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_content_heading": {
+    "message": "产品特点",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_one": {
+    "message": "快速开始",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_two": {
+    "message": "简单且易用",
+    "description": "",
+    "placeholders": null
+  },
+  "products_image_alt_text": {
+    "message": "产品特点",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_heading": {
+    "message": "吸引人们使用您的产品和服务",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_button_text": {
+    "message": "了解详情",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_heading": {
+    "message": "成长主题",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_button_text": {
+    "message": "开始使用",
+    "description": "",
+    "placeholders": null
+  },
+  "home_logos_heading": {
+    "message": "我们的一些满意客户",
+    "description": "",
+    "placeholders": null
+  },
+  "home_heading": {
+    "message": "专为您打造",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_one": {
+    "message": "快速设置",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_two": {
+    "message": "易于使用",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_three": {
+    "message": "可定制",
+    "description": "",
+    "placeholders": null
+  },
+  "home_video_heading": {
+    "message": "查看实际运用",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_heading": {
+    "message": "一套可供您使用的工具",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_content_heading": {
+    "message": "产品名称",
+    "description": "",
+    "placeholders": null
+  },
+  "home_image_alt_text": {
+    "message": "产品名称",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_button_text": {
+    "message": "了解详情",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_content": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan velit sit amet sagittis malesuada.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_customer": {
+    "message": "Agriflora Inc. 市场营销经理 Shaun Benson",
+    "description": "",
+    "placeholders": null
+  },
+  "home_blog_post_heading": {
+    "message": "最新文章",
+    "description": "",
+    "placeholders": null
+  },
+  "home_contact": {
+    "message": "联系我们",
+    "description": "",
+    "placeholders": null
+  },
+  "home_button_text": {
+    "message": "开始使用",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_heading": {
+    "message": "立即下载免费数字资源",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_p_one": {
+    "message": "撰写一段吸引人的引言，为此资源的内容奠定基础。处理读者的挑战或目标，并说明电子书将如何帮助进行解决。",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_one_heading": {
+    "message": "优势 #1：",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_two_heading": {
+    "message": "优势 #2：",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_three_heading": {
+    "message": "优势 #3：",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_content": {
+    "message": "解释读者将学到什么",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_highlight": {
+    "message": "切记突出优势：",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_preface": {
+    "message": "为何选择我们？",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_heading": {
+    "message": "我们为您的业务增长提供现代化的解决方案",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_content": {
+    "message": "加入成千上万满意用户的行列，我们的创新解决方案改变了他们的生活。",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_button_text": {
+    "message": "了解详情",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_logo_heading": {
+    "message": "受到领先企业的信任",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_heading": {
+    "message": "功能名称",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_content": {
+    "message": "撰写有说服力的、优势驱动式文案，清楚地传达您所提供产品的价值，并鼓励访客采取行动。重点关注您的产品如何解决他们的问题或满足他们的需求。",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_preface": {
+    "message": "不要轻信我们的一面之词",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_heading": {
+    "message": "与我们的团队成员一起了解这些功能的实际使用情况",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_button_text": {
+    "message": "获取演示",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_heading": {
+    "message": "安排演示",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_p_one": {
+    "message": "在您方便的时候与我们的团队成员预约一次演示。添加简要描述，说明您的潜在客户可以学到什么。",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_highlight": {
+    "message": "我们将讨论以下内容：",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_one_heading": {
+    "message": "主题 #1：",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_two_heading": {
+    "message": "主题 #2：",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_three_heading": {
+    "message": "主题 #3：",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_content": {
+    "message": "解释演示内容",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_heading": {
+    "message": "确保您的名额：立即注册参加此次独家活动",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_content": {
+    "message": "添加简短的介绍，说明直播会议、网络研讨会或活动的内容以及受众注册的原因。",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_button_text": {
+    "message": "立即注册",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_partners_content": {
+    "message": "加入我们的合作伙伴社区",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_preface": {
+    "message": "关于活动",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_heading": {
+    "message": "获得顶级专家的真知灼见",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_highlight": {
+    "message": "活动亮点：",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_one_heading": {
+    "message": "亮点 #1",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_two_heading": {
+    "message": "亮点 #2",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_three_heading": {
+    "message": "亮点 #3",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_content": {
+    "message": "与会者的预期收获",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_heading": {
+    "message": "快速统计",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_one": {
+    "message": "20+",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_two": {
+    "message": "150+",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_three": {
+    "message": "10",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_description": {
+    "message": "统计数据的简短描述",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_heading": {
+    "message": "观看活动预告",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_content": {
+    "message": "观看我们的预告视频，了解即将举行的鼓舞人心的主题演讲、互动研讨会和交流机会。 不要错过即将发生的活动的预览 - 加入我们，享受难忘的体验。",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_preface": {
+    "message": "不要轻信我们的一面之词",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_heading": {
+    "message": "把握机会，立即预订名额",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_button_text": {
+    "message": "立即注册",
+    "description": "",
+    "placeholders": null
+  },
+  "search_results_heading": {
+    "message": "“[[search_term]]”的搜索结果",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_heading": {
+    "message": "关于",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_sub_heading": {
+    "message": "我们的公司",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_image_alt_text": {
+    "message": "我们的故事",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_list_heading": {
+    "message": "近期文章",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_heading": {
+    "message": "近期文章",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_heading": {
+    "message": "吸引人们使用您的产品和服务",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_button_text": {
+    "message": "了解详情",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_full_heading": {
+    "message": "联系人",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_heading": {
+    "message": "联系人",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_address": {
+    "message": "北京朝阳区人民路 1 号，100020",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_email": {
+    "message": "abc@123.com",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_phone_number": {
+    "message": "+86 13123456789",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_heading": {
+    "message": "产品",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_description_heading": {
+    "message": "描述",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_button_text": {
+    "message": "联系我们",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_image_alt_text": {
+    "message": "产品",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_heading": {
+    "message": "图片库",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_one": {
+    "message": "产品",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_two": {
+    "message": "公司",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_three": {
+    "message": "定价",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_four": {
+    "message": "产品特点",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_five": {
+    "message": "图片说明",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_caption": {
+    "message": "图片说明",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_heading": {
+    "message": "图片库",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_one": {
+    "message": "产品",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_two": {
+    "message": "公司",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_three": {
+    "message": "定价",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_four": {
+    "message": "产品特点",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_five": {
+    "message": "定价",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_hover_message": {
+    "message": "悬停消息",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_heading": {
+    "message": "成长主题",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_button_text": {
+    "message": "联系我们",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_heading": {
+    "message": "成长主题",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_button_text": {
+    "message": "开始使用",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_heading": {
+    "message": "我们的独特之处",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_one": {
+    "message": "快速设置",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_two": {
+    "message": "易于使用",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_three": {
+    "message": "可定制",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_heading": {
+    "message": "我们的一些满意客户",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_image_alt_text": {
+    "message": "客户徽标",
+    "description": "",
+    "placeholders": null
+  },
+  "section_meetings_banner_heading": {
+    "message": "预约会议以获得免费咨询",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_heading": {
+    "message": "我们的团队",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_one_title": {
+    "message": "首席执行官",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_two_title": {
+    "message": "首席运营官",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_three_title": {
+    "message": "首席财务官",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_description": {
+    "message": "突出您的团队成员独特的专业知识、经验和兴趣。简明扼要，引人入胜，展示他们的职业历程以及他们带来的宝贵技能。",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_heading": {
+    "message": "我们的故事",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_image_alt_text": {
+    "message": "我们的故事",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_button_text": {
+    "message": "了解详情",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_heading": {
+    "message": "套餐包括",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_description_heading": {
+    "message": "产品特点",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_image_alt_text": {
+    "message": "套餐特点",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_heading": {
+    "message": "订阅我们的简报！",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_subheading": {
+    "message": "注册以了解最新的更新",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_heading": {
+    "message": "一套可供您使用的工具",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_card_heading": {
+    "message": "吸引人们使用您的产品和服务",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_button_text": {
+    "message": "联系我们",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_image_alt_text": {
+    "message": "服务",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_heading": {
+    "message": "套餐和定价",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_heading": {
+    "message": "入门版",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_price": {
+    "message": "$50/月",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_content": {
+    "message": "立即购买入门版",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_button_text": {
+    "message": "立即购买入门版",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_heading": {
+    "message": "专业版",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_price": {
+    "message": "$200/月",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_content": {
+    "message": "立即购买专业版",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_button_text": {
+    "message": "立即购买专业版",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_heading": {
+    "message": "企业",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_price": {
+    "message": "$600/月",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_content": {
+    "message": "立即购买企业版",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_button_text": {
+    "message": "立即购买企业版",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_sub_heading": {
+    "message": "一些关键功能",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_heading": {
+    "message": "产品",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_image_alt_text": {
+    "message": "我们的故事",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_description_heading": {
+    "message": "产品名称",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_button_text": {
+    "message": "联系我们",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_heading": {
+    "message": "服务",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_description_heading": {
+    "message": "服务名称",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_one": {
+    "message": "我们的故事",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_two": {
+    "message": "我们的价值观",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_three": {
+    "message": "我们的历史",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_button_text": {
+    "message": "联系我们",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_heading": {
+    "message": "评价",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_team_member_title_one": {
+    "message": "产品副总裁",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_heading": {
+    "message": "查看人们的评论",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_one": {
+    "message": "VP 产品",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_two": {
+    "message": "销售高级副总裁",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_three": {
+    "message": "首席营销官",
+    "description": "",
+    "placeholders": null
+  },
+  "section_video_heading": {
+    "message": "查看实际运用",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading": {
+    "message": "服务",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_one_alt": {
+    "message": "两个人在计算机旁",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_two_alt": {
+    "message": "两个人在看手机",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_three_alt": {
+    "message": "两个人在墙上贴便签",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_one": {
+    "message": "基础版",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_two": {
+    "message": "专业版",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_three": {
+    "message": "企业",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_button_text": {
+    "message": "了解详情",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_description": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_heading": {
+    "message": "服务",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_image_alt": {
+    "message": "人们坐在楼梯上",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_heading": {
+    "message": "品牌形象开发",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_content": {
+    "message": "我们的团队将打造一个独特而令人难忘的品牌形象，捕捉到您公司的核心。我们将创作一个引人注目的标志，选择和谐的配色方案，并开发一致的视觉风格，为您打造与众不同的品牌。",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_image_alt": {
+    "message": "看笔记本电脑的年轻商业专业人士",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_heading": {
+    "message": "UX/UI 设计增强",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_content": {
+    "message": "利用我们的 UX/UI 设计专业知识提高用户满意度和参与度。我们将对您的数字产品进行全面分析，找出痛点，并实施以用户为中心的解决方案，增强整体用户体验。",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_image_alt": {
+    "message": "年轻的市场营销专业人士手持平板在庭院中说话",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_heading": {
+    "message": "营销宣传资料设计",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_content": {
+    "message": "通过令人惊叹的宣传材料提升您的营销力度，留下持久的印象。 从小册子和传单到社交媒体图形，我们将设计引人注目的宣传材料，与您的目标受众产生共鸣并推动结果。",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_button_text": {
+    "message": "了解详情",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_banner_image_alt": {
+    "message": "直视镜头的一群微笑的人",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_heading": {
+    "message": "当地食品储藏室支持",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_content_area_one": {
+    "message": "与我们一起通过支持当地的食品储藏室来改变邻居的生活。您的捐款将有助于为我们社区面临粮食安全问题的个人和家庭提供必要的营养。",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_one_alt": {
+    "message": "两个人看着玻璃上的便签",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_two_alt": {
+    "message": "手机举到支付处理器上",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_three_alt": {
+    "message": "一名男子驾驶一辆货车，乘客座位上放着两个包裹",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_heading": {
+    "message": "立即捐赠",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_message_and_amount": {
+    "message": "建议金额：107 元",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_one_text": {
+    "message": "捐赠 107 元",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_two_text": {
+    "message": "自定义金额",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_three_text": {
+    "message": "共享",
+    "description": "",
+    "placeholders": null
+  }
+}

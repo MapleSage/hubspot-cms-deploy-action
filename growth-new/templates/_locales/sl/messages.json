@@ -1,0 +1,1662 @@
+{
+  "partial_header_skip_to_content": {
+    "message": "Preskoči na vsebino",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_address": {
+    "message": "Glavna ulica 123, 11111 mesto, država",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_copyright": {
+    "message": "Avtorske pravice © {{ year }}, {{ site_settings.company_name }}",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_one": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_two": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_three": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "about_banner_heading": {
+    "message": "O nas",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_one": {
+    "message": "Naša zgodba",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_two": {
+    "message": "Naše vrednote",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_three": {
+    "message": "Naši začetki",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_four": {
+    "message": "Naša ekipa",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_five": {
+    "message": "Naša kultura",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_six": {
+    "message": "Novosti podjetja",
+    "description": "",
+    "placeholders": null
+  },
+  "about_image_alt_text": {
+    "message": "Podjetje",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_one_title": {
+    "message": "CEO in ustanovitelj",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_two_title": {
+    "message": "Glavni izvršni direktor",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_three_title": {
+    "message": "Glavni tehnični direktor",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_four_title": {
+    "message": "Glavni finančni direktor",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_five_title": {
+    "message": "Vodja oblikovanja",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_six_title": {
+    "message": "Vodja kadrovske službe",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_description": {
+    "message": "Poudarite edinstveno strokovno znanje, izkušnje in interese svojega člana ekipe. Naj bo to jedrnato, a privlačno, saj prikazuje njihovo poklicno pot in doprinos dragocenih veščin.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_index_heading": {
+    "message": "Spletni dnevnik",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_heading": {
+    "message": "Komentarji na spletnem dnevniku",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_heading": {
+    "message": "Konferenca za rast",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_date": {
+    "message": "5. - 8. september",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_text": {
+    "message": "Pridobite vstopnice",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_content": {
+    "message": "Pridobite vstopnice",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_one": {
+    "message": "Kupi zdaj",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_two": {
+    "message": "Nakup vstopnic",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_one": {
+    "message": "O dogodku",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_two": {
+    "message": "Panel z govorci",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_three": {
+    "message": "Sponzorji",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_four": {
+    "message": "Svojemu videoposnetku dodajte besedno zvezo",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_five": {
+    "message": "Pričevanja",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_six": {
+    "message": "Zahtevki",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_one": {
+    "message": "Konferenca za rast je predloga, ki jo lahko uporabite, da strankam pokažete vrednost, ki jim jo lahko zagotovi konferenca ali dogodek vaše organizacije. Opišite temo vaše konference in zakaj bi stranke morale kupiti vstopnice.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_two": {
+    "message": "Tukaj dodajte kratek opis svojih govorcev. Zakaj bi jih morale poslušati vaše stranke? Ali obstaja tema, ki jo bodo vsi obravnavali v svojih pogovorih? Kaj jih dela edinstvene? Uporabite ta prostor, da bralcu pojasnite, zakaj jim želite predstaviti ravno te govorce in kakšna je dodana vrednost za njih.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_three": {
+    "message": "Tukaj povzemite biografijo govorca. Dodate lahko tudi stavek o temi njihove predstavitve.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_four": {
+    "message": "&ldquo;To je vaša priložnost, da pokažete družbi, kako pomemben je vaš dogodek. Dodajte izjave, ki bodo ljudem pomagale razumeti vrednost vašega dogodka.&rdquo;",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_five": {
+    "message": "Opišite temo vaše konference, in svojim potencialnim strankam predstavite kaj se dogaja na konferenci, in jim razložite zakaj bi morali kupiti vstopnice. Uporabite te predloge za brezstično prodajo vstopnic za vaš dogodek.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_heading": {
+    "message": "Navadna vstopnica",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_price": {
+    "message": "199 $",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_heading": {
+    "message": "VIP",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_price": {
+    "message": "449 $",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_one": {
+    "message": "Navedite vse razburljive ugodnosti, ki jih bo vaša stranka prejela, če kupi to vstopnico.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_two": {
+    "message": "Kakšne možnosti mreženja in učenja so jim na voljo na konferenci?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_three": {
+    "message": "Do katerih delov konference lahko dostopajo?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_four": {
+    "message": "Ali imajo dostop do katerega koli posnetega programa?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_five": {
+    "message": "Kakšne so njihove možnosti za hrano, prevoz in namestitev?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_six": {
+    "message": "Navedite vse ekskluzivne ugodnosti, ki jih bo vaša VIP stranka prejela, če kupi to vstopnico.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_one": {
+    "message": "CEO in ustanovitelj",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_two": {
+    "message": "Glavni izvršni direktor",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_three": {
+    "message": "Glavni tehnični direktor",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_content": {
+    "message": "Nakup vstopnic",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_image_alt_text": {
+    "message": "Fotografija govornika",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_one": {
+    "message": "Kontaktirajte nas",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_two": {
+    "message": "Naše lokacije",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_three": {
+    "message": "Stopite v stik",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_four": {
+    "message": "Pogosto zastavljena vprašanja",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_heading": {
+    "message": "Knjižnica vsebine",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_content": {
+    "message": "Knjižnica virov in digitalnih sredstev, ki vam bodo pomagala pri učenju in rasti.",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_one": {
+    "message": "<h3>San Francisco</h3><p>3870 Twin Oaks Drive<br> San Francisco, CA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_two": {
+    "message": "<h3>Chicago</h3><p>2140 Roguski Road<br> Chicago, IL</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_three": {
+    "message": "<h3>Boston</h3><p>123 Waverly Place<br> Boston, MA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_question": {
+    "message": "Naslov seznama harmonike",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_heading": {
+    "message": "Strani ni bilo mogoče najti",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_description": {
+    "message": "Strani, ki ste jo iskali, ne moremo najti.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_button": {
+    "message": "Pojdi na domačo stran",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_heading": {
+    "message": "Ta stran ne deluje",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_description": {
+    "message": "Prišlo je do notranje napake strežnika, vendar smo na delu!",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_button": {
+    "message": "Pojdi na domačo stran",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_heading": {
+    "message": "Žal nimate dostopa",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_description": {
+    "message": "Nimate dovoljenja za ogled te strani. Za vprašanja se obrnite na skrbnika spletnega mesta.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_button": {
+    "message": "Pojdi na domačo stran",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_heading": {
+    "message": "Prijava",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_subheading": {
+    "message": "Stran, ki si jo želite ogledati, je na voljo samo registriranim uporabnikom.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_email": {
+    "message": "E-pošta",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_password": {
+    "message": "Geslo",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_remember_me": {
+    "message": "Zapomni si me",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_reset_password": {
+    "message": "Ste pozabili geslo?",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_submit": {
+    "message": "Prijava",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_show_password": {
+    "message": "Prikaži",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_contact_admin": {
+    "message": "Imeti težave? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Obrnite se na skrbnika spletnega mesta</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_heading": {
+    "message": "Odjavljeni ste",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_button": {
+    "message": "Ponovno se prijavite",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_alt": {
+    "message": "Ali se vrnite na <a href=\"{{ '//' ~ request.domain }}\">domačo stran</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_heading": {
+    "message": "Nastavite geslo",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_subheading": {
+    "message": "Dobrodošli! Dokončajte registracijo z nastavitvijo gesla.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_email": {
+    "message": "E-pošta",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_confirm_password": {
+    "message": "Potrdi geslo",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_password": {
+    "message": "Geslo",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_save_password": {
+    "message": "Shrani geslo",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_show_password": {
+    "message": "Prikaži",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_contact_admin": {
+    "message": "Imeti težave? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Obrnite se na skrbnika spletnega mesta</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_heading": {
+    "message": "Vaš e-poštni naslov je potrjen",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_description": {
+    "message": "Hvala, ker ste potrdili svoj e-poštni naslov. Sedaj se lahko prijavite v svoj račun in dostopate do svoje ekskluzivne vsebine.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_button": {
+    "message": "Prijava",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_contact_admin": {
+    "message": "Imeti težave? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Obrnite se na skrbnika spletnega mesta</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_heading": {
+    "message": "Ustvari novo geslo",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_subheading": {
+    "message": "Vaše novo geslo se mora razlikovati od prejšnjega.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_new_password": {
+    "message": "Novo geslo",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_confirm_password": {
+    "message": "Potrdite novo geslo",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_save_password": {
+    "message": "Shrani geslo",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_show_password": {
+    "message": "Prikaži",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_contact_admin": {
+    "message": "Imeti težave? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Obrnite se na skrbnika spletnega mesta</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_heading": {
+    "message": "Ponastavite svoje geslo",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_subheading": {
+    "message": "Vnesite e-poštni naslov, ki ste ga uporabili za registracijo, in poslali vam bomo e-poštno sporočilo s povezavo za ponastavitev gesla.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_email": {
+    "message": "E-pošta",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_submit": {
+    "message": "Pošlji e-poštno sporočilo za ponastavitev",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_alt": {
+    "message": "Ste se pravkar spomnili? <a href=\"/_hcms/mem/login\">Prijava</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_contact_admin": {
+    "message": "Imeti težave? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Obrnite se na skrbnika spletnega mesta</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_heading": {
+    "message": "Preverite svoj e-poštni naslov",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_description": {
+    "message": "Zahvaljujemo se vam za prijavo! Preverite svojo e-pošto in kliknite potrditveno povezavoZahvaljujemo se vam za prijavo! Preverite svojo e-pošto in kliknite potrditveno povezavo, da dokončate registracijo.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_contact_admin": {
+    "message": "Imeti težave? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Obrnite se na skrbnika spletnega mesta</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_one": {
+    "message": "O dogodku",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two": {
+    "message": "Povečajte svoj posel s plačanimi svetovanji",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two_update": {
+    "message": "Povečajte svoj posel s plačanimi svetovanji",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_three": {
+    "message": "Komplet orodij, ki so vam na voljo",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_heading": {
+    "message": "Storitev",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_description": {
+    "message": "Povzemite storitev, ki jo nudite. Dodajte sporočilo o vrednosti, ki jo lahko zagotovite svojim strankam.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_four": {
+    "message": "Pričevanja",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_one": {
+    "message": "Dodajte podnaslov, ki bo pojasnil, kako boste svojim strankam zagotovili vrednost",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_two": {
+    "message": "Dodajte kratek opis dela, ki ga opravljate v vašem podjetju. Poskusite zožiti svojo specializacijo, da boste lahko pritegnili pozornost svojih strank. Pogovorite se o vrednosti, ki jo lahko zagotovite s plačanim svetovanjem.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_list_content": {
+    "message": "&ldquo;Dodajte izjavo, da jamčite za svoje storitve. Zakaj so vaše trenutne stranke navdušene nad vašo ponudbo?&rdquo;",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_image_alt_text": {
+    "message": "Slika nadomestnega znaka za temo rasti",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_button_text": {
+    "message": "Rezervirajte posvet",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_heading": {
+    "message": "Zahtevano je geslo",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_subheading": {
+    "message": "Za ogled te strani vnesite svoje geslo.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_one": {
+    "message": "Oblikovanje cen",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_plans_and_pricing_heading": {
+    "message": "Načrti in cene",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_two": {
+    "message": "Pogosto zastavljena vprašanja",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_heading": {
+    "message": "Vsi načrti vključujejo",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_content_heading": {
+    "message": "Značilnost izdelka",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_heading": {
+    "message": "Prikličite ljudi k vašim izdelkom in storitvam",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_button_text": {
+    "message": "Več",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_question": {
+    "message": "Naslov seznama harmonike",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_one": {
+    "message": "Izdelki",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_two": {
+    "message": "Izdelano z mislijo na vas",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_heading": {
+    "message": "Poleg tega pa še več",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_content_heading": {
+    "message": "Značilnost izdelka",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_one": {
+    "message": "Začnite s takojšnjo uporabo",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_two": {
+    "message": "Preprost in enostaven za uporabo",
+    "description": "",
+    "placeholders": null
+  },
+  "products_image_alt_text": {
+    "message": "Značilnost izdelka",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_heading": {
+    "message": "Prikličite ljudi k vašim izdelkom in storitvam",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_button_text": {
+    "message": "Več",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_heading": {
+    "message": "Tema rasti",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_button_text": {
+    "message": "Začni",
+    "description": "",
+    "placeholders": null
+  },
+  "home_logos_heading": {
+    "message": "Nekaj naših zadovoljnih strank",
+    "description": "",
+    "placeholders": null
+  },
+  "home_heading": {
+    "message": "Izdelano z mislijo na vas",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_one": {
+    "message": "Hitra namestitev",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_two": {
+    "message": "Enostaven za uporabo",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_three": {
+    "message": "Prilagodljiv",
+    "description": "",
+    "placeholders": null
+  },
+  "home_video_heading": {
+    "message": "Oglejte si stvari v dogajanju",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_heading": {
+    "message": "Komplet orodij vam je na voljo",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_content_heading": {
+    "message": "Ime",
+    "description": "",
+    "placeholders": null
+  },
+  "home_image_alt_text": {
+    "message": "Ime",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_button_text": {
+    "message": "Več",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_content": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan velit sit amet sagittis malesuada.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_customer": {
+    "message": "Shaun Benson, vodja trženja, Agriflora Inc.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_blog_post_heading": {
+    "message": "Zadnje objave",
+    "description": "",
+    "placeholders": null
+  },
+  "home_contact": {
+    "message": "Kontaktirajte nas",
+    "description": "",
+    "placeholders": null
+  },
+  "home_button_text": {
+    "message": "Začni",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_heading": {
+    "message": "Prenesite svoj brezplačen digitalni vir še danes",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_p_one": {
+    "message": "Napišite zanimiv uvod, ki bo postavil temelje za vsebino tega vira. Obravnavajte izzive ali cilje svojega bralca in pojasnite, kako jih bo e-knjiga pomagala rešiti.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_one_heading": {
+    "message": "1. prednost:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_two_heading": {
+    "message": "2. prednost:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_three_heading": {
+    "message": "3. prednost:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_content": {
+    "message": "Pojasnite, kaj se bodo bralci naučili",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_highlight": {
+    "message": "Ne pozabite poudariti prednosti:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_preface": {
+    "message": "Zakaj izbrati nas?",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_heading": {
+    "message": "Ponujamo sodobne rešitve za rast vašega podjetja",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_content": {
+    "message": "Pridružite se tisočem zadovoljnih uporabnikov, ki so spremenili svoja življenja z našimi inovativnimi rešitvami.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_button_text": {
+    "message": "Več",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_logo_heading": {
+    "message": "Zaupajo mu vodilna podjetja",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_heading": {
+    "message": "Ime funkcije",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_content": {
+    "message": "Napišite prepričljivo, koristno usmerjeno besedilo, ki jasno sporoča vrednost vaše ponudbe in obiskovalce spodbuja k ukrepanju. Osredotočite se na to, kako vaša ponudba rešuje njihove težave ali izpolnjuje njihove potrebe.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_preface": {
+    "message": "Ne verjemite nam na besedo",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_heading": {
+    "message": "Oglejte si te funkcije v akciji z enim od članov naše ekipe",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_button_text": {
+    "message": "Pridobite predstavitev",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_heading": {
+    "message": "Načrtujte predstavitev",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_p_one": {
+    "message": "Načrtujte predstavitev z enim od članov naše ekipe, kadar vam ustreza. Dodajte kratek opis tega, kaj lahko vaše potencialne stranke pričakujejo, da se bodo naučile.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_highlight": {
+    "message": "Razpravljali bomo o:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_one_heading": {
+    "message": "1. tema:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_two_heading": {
+    "message": "2. tema:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_three_heading": {
+    "message": "3. tema:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_content": {
+    "message": "Pojasnite, kaj bo zajemala vaša predstavitev",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_heading": {
+    "message": "Zagotovite si svoje mesto: prijavite se zdaj na ta ekskluzivni dogodek",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_content": {
+    "message": "Dodajte kratek uvod, o čem govori konferenca v živo, spletni seminar ali dogodek in zakaj naj se člani vaše publike registrirajo.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_button_text": {
+    "message": "Registrirajte se zdaj",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_partners_content": {
+    "message": "Pridružite se nam v naši skupnosti partnerjev",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_preface": {
+    "message": "O dogodku",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_heading": {
+    "message": "Pridobite vpoglede vrhunskih strokovnjakov",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_highlight": {
+    "message": "Utrinki dogodka:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_one_heading": {
+    "message": "1. poudarek",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_two_heading": {
+    "message": "2. poudarek",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_three_heading": {
+    "message": "3. poudarek",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_content": {
+    "message": "Kaj lahko pričakujejo udeleženci od dogodka",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_heading": {
+    "message": "Hitra statistika",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_one": {
+    "message": "20+",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_two": {
+    "message": "150+",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_three": {
+    "message": "10",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_description": {
+    "message": "Kratek opis statističnih podatkov",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_heading": {
+    "message": "Oglejte si kratek predogled dogodka",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_content": {
+    "message": "Oglejte si naš dražilni videoposnetek za vpogled v navdihujoče ključne besede, interaktivne delavnice in priložnosti za mreženje, ki čakajo. Ne zamudite tega predogleda prihodnjega – pridružite se nam na nepozabni izkušnji.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_preface": {
+    "message": "Ne verjemite nam na besedo",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_heading": {
+    "message": "Odklenite priložnosti in rezervirajte svoje mesto še danes",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_button_text": {
+    "message": "Registrirajte se zdaj",
+    "description": "",
+    "placeholders": null
+  },
+  "search_results_heading": {
+    "message": "Rezultati iskanja za »[[search_term]]«",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_heading": {
+    "message": "O dogodku",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_sub_heading": {
+    "message": "Naše podjetje",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_image_alt_text": {
+    "message": "Naša zgodba",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_list_heading": {
+    "message": "Nedavne objave",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_heading": {
+    "message": "Nedavne objave",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_heading": {
+    "message": "Prikličite ljudi k vašim izdelkom in storitvam",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_button_text": {
+    "message": "Več o tem",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_full_heading": {
+    "message": "Stik",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_heading": {
+    "message": "Stik",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_address": {
+    "message": "Glavna ulica 123, 11111 mesto, država",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_email": {
+    "message": "kontakt@imepodjetja.com",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_phone_number": {
+    "message": "+1 234-567-8901",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_heading": {
+    "message": "Izdelek",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_description_heading": {
+    "message": "Opis",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_button_text": {
+    "message": "Kontaktirajte nas",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_image_alt_text": {
+    "message": "Izdelek",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_heading": {
+    "message": "Galerija",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_one": {
+    "message": "Izdelki",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_two": {
+    "message": "Podjetje",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_three": {
+    "message": "Oblikovanje cen",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_four": {
+    "message": "Značilnost izdelka",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_five": {
+    "message": "Zapis pod sliko",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_caption": {
+    "message": "Zapis pod sliko",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_heading": {
+    "message": "Galerija",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_one": {
+    "message": "Izdelki",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_two": {
+    "message": "Podjetje",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_three": {
+    "message": "Oblikovanje cen",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_four": {
+    "message": "Značilnost izdelka",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_five": {
+    "message": "Oblikovanje cen",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_hover_message": {
+    "message": "Lebdeče sporočilo",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_heading": {
+    "message": "Tema rasti",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_button_text": {
+    "message": "Kontaktirajte nas",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_heading": {
+    "message": "Tema rasti",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_button_text": {
+    "message": "Začni",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_heading": {
+    "message": "Zakaj izstopamo",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_one": {
+    "message": "Hitra namestitev",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_two": {
+    "message": "Enostaven za uporabo",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_three": {
+    "message": "Prilagodljiv",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_heading": {
+    "message": "Nekaj naših zadovoljnih strank",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_image_alt_text": {
+    "message": "Logotip stranke",
+    "description": "",
+    "placeholders": null
+  },
+  "section_meetings_banner_heading": {
+    "message": "Rezervirajte sestanek in si zagotovite brezplačno svetovanje",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_heading": {
+    "message": "Naša ekipa",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_one_title": {
+    "message": "CEO",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_two_title": {
+    "message": "Glavni izvršni direktor",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_three_title": {
+    "message": "Glavni finančni direktor",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_description": {
+    "message": "Poudarite edinstveno strokovno znanje, izkušnje in interese svojega člana ekipe. Naj bo to jedrnato, a privlačno, saj prikazuje njihovo poklicno pot in doprinos dragocenih veščin.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_heading": {
+    "message": "Naša zgodba",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_image_alt_text": {
+    "message": "Naša zgodba",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_button_text": {
+    "message": "Več o tem",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_heading": {
+    "message": "Načrti vključujejo",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_description_heading": {
+    "message": "Značilnost izdelka",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_image_alt_text": {
+    "message": "Značilnost načrta",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_heading": {
+    "message": "Naročite se na naše novice!",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_subheading": {
+    "message": "Prijavite se, da boste na tekočem z najnovejšimi posodobitvami",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_heading": {
+    "message": "Komplet orodij vam je na voljo",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_card_heading": {
+    "message": "Prikličite ljudi k vašim izdelkom in storitvam",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_button_text": {
+    "message": "Kontaktirajte nas",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_image_alt_text": {
+    "message": "Storitev",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_heading": {
+    "message": "Načrti in cene",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_heading": {
+    "message": "Sprožilnik",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_price": {
+    "message": "50 $/mesec",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_content": {
+    "message": "Kupite začetni paket zdaj",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_button_text": {
+    "message": "Kupite začetni paket zdaj",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_heading": {
+    "message": "Profesionalno",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_price": {
+    "message": "200 $/mesec",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_content": {
+    "message": "Kupite profesionalno zdaj",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_button_text": {
+    "message": "Kupite profesionalno zdaj",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_heading": {
+    "message": "Podjetje",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_price": {
+    "message": "600 $/mesec",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_content": {
+    "message": "Kupite poslovno zdaj",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_button_text": {
+    "message": "Kupite poslovno zdaj",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_sub_heading": {
+    "message": "Nekatere ključne značilnosti",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_heading": {
+    "message": "Izdelki",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_image_alt_text": {
+    "message": "Naša zgodba",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_description_heading": {
+    "message": "Ime",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_button_text": {
+    "message": "Kontaktirajte nas",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_heading": {
+    "message": "Storitve",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_description_heading": {
+    "message": "Ime storitve",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_one": {
+    "message": "Naša zgodba",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_two": {
+    "message": "Naše vrednote",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_three": {
+    "message": "Naši začetki",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_button_text": {
+    "message": "Kontaktirajte nas",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_heading": {
+    "message": "Pričevanje",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_team_member_title_one": {
+    "message": "Izdelek VP",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_heading": {
+    "message": "Poglejte, kaj ljudje pravijo o izdelku",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_one": {
+    "message": "Izdelek VP",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_two": {
+    "message": "Višji podpredsednik prodaje",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_three": {
+    "message": "CMO",
+    "description": "",
+    "placeholders": null
+  },
+  "section_video_heading": {
+    "message": "Oglejte si stvari v dogajanju",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading": {
+    "message": "Storitve",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_one_alt": {
+    "message": "Dve osebi za računalnikom",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_two_alt": {
+    "message": "Dve osebi gledata v telefon",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_three_alt": {
+    "message": "Dve osebi delata s samolepilnimi lističi na steni",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_one": {
+    "message": "Osnova",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_two": {
+    "message": "Pro",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_three": {
+    "message": "Podjetje",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_button_text": {
+    "message": "Več o tem",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_description": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_heading": {
+    "message": "Storitve",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_image_alt": {
+    "message": "Ljudje sedijo na stopnišču",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_heading": {
+    "message": "Razvoj identitete blagovne znamke",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_content": {
+    "message": "Naša ekipa bo oblikovala edinstveno in nepozabno identiteto blagovne znamke, ki bo zajela bistvo vašega podjetja. Ustvarili bomo privlačen logotip, izbrali harmonično barvno paleto in razvili dosleden vizualni slog, ki bo vašo blagovno znamko izpostavil.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_image_alt": {
+    "message": "Mladi poslovni strokovnjaki gledajo prenosnik",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_heading": {
+    "message": "Izboljšanje dizajna UX/UI",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_content": {
+    "message": "Izboljšajte zadovoljstvo in sodelovanje uporabnikov z našim strokovnim znanjem o oblikovanju UX/UI. Izvedli bomo temeljito analizo vaših digitalnih izdelkov, prepoznali boleče točke in uvedli rešitve, osredotočene na uporabnika, da izboljšamo celotno uporabniško izkušnjo.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_image_alt": {
+    "message": "Mladi strokovnjak za trženje govori na dvorišču s tablico v roki",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_heading": {
+    "message": "Oblikovanje marketinškega zavarovanja",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_content": {
+    "message": "Izboljšajte svoja marketinška prizadevanja z osupljivim zavarovanjem, ki pusti trajen vtis. Od brošur in letakov do grafike družbenih medijev bomo oblikovali privlačne materiale, ki bodo odmevali pri vaši ciljni publiki in dosegali rezultate.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_button_text": {
+    "message": "Več o tem",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_banner_image_alt": {
+    "message": "Skupina nasmejanih ljudi, ki gledajo naravnost v kamero",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_heading": {
+    "message": "Podpora za lokalno shrambo hrane",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_content_area_one": {
+    "message": "Pridružite se nam pri spreminjanju življenj naših sosedov, tako da podprete našo lokalno shrambo hrane. Vaša donacija bo pomagala zagotoviti osnovno prehrano posameznikom in družinam, ki se soočajo s pomanjkanjem hrane prav tukaj v naši skupnosti.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_one_alt": {
+    "message": "Dva posameznika, ki gledata samolepilne lističe na steklu",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_two_alt": {
+    "message": "Telefon je pridržan k plačilnemu procesorju",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_three_alt": {
+    "message": "Moški, ki vozi kombi z dvema paketoma na sovoznikovem sedežu",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_heading": {
+    "message": "Donirajte zdaj",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_message_and_amount": {
+    "message": "Priporočeni znesek: 15,00 $",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_one_text": {
+    "message": "Donirajte 15,00 $",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_two_text": {
+    "message": "Znesek po meri",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_three_text": {
+    "message": "Deli",
+    "description": "",
+    "placeholders": null
+  }
+}

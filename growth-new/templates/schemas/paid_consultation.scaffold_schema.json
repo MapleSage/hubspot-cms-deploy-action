@@ -1,0 +1,200 @@
+[
+  {
+    "name": "banner",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading about a paid consultation service that the company offers."
+      },
+      {
+        "name": "subheading",
+        "type": "text",
+        "description": "A subheading that gives a brief description (2-3 sentences) about a paid consultation service that the company offers."
+      }
+    ]
+  },
+  {
+    "name": "consultation",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that shows above a section that describes the paid consultation in more detail."
+      },
+      {
+        "name": "image",
+        "type": "image",
+        "description": "An image of a person teaching another person.",
+        "width": 500,
+        "height": 500
+      },
+      {
+        "name": "description",
+        "type": "text",
+        "description": "A paragraph that describes the paid consultation that the company is offering in more detail."
+      },
+      {
+        "name": "button_text",
+        "type": "text",
+        "description": "The button text that describes the call to action the user should take on the page regarding the paid consultation."
+      }
+    ]
+  },
+  {
+    "name": "services",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading describing the different features of the paid consultation."
+      },
+      {
+        "name": "subheading",
+        "type": "text",
+        "description": "A subheading describing the different features of the paid consultation"
+      },
+      {
+        "name": "service_one",
+        "type": "group",
+        "children": [
+          {
+            "name": "heading",
+            "type": "text",
+            "description": "The first feature of the paid consultation."
+          },
+          {
+            "name": "description",
+            "type": "text",
+            "description": "A brief description (2-3 sentences) describing the first feature of the paid consultation."
+          }
+        ]
+      },
+      {
+        "name": "service_two",
+        "type": "group",
+        "children": [
+          {
+            "name": "heading",
+            "type": "text",
+            "description": "The second feature of the paid consultation."
+          },
+          {
+            "name": "description",
+            "type": "text",
+            "description": "A brief description (2-3 sentences) describing the second feature of the paid consultation."
+          }
+        ]
+      },
+      {
+        "name": "service_three",
+        "type": "group",
+        "children": [
+          {
+            "name": "heading",
+            "type": "text",
+            "description": "The third feature of the paid consultation."
+          },
+          {
+            "name": "description",
+            "type": "text",
+            "description": "A brief description (2-3 sentences) describing the third feature of the paid consultation."
+          }
+        ]
+      },
+      {
+        "name": "button_text",
+        "type": "text",
+        "description": "The button text that describes the call to action the user should take on the page regarding the paid consultation."
+      }
+    ]
+  },
+  {
+    "name": "testimonials",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that shows above a set of customer testimonials about the paid consultation."
+      },
+      {
+        "name": "subheading",
+        "type": "text",
+        "description": "A subheading that shows above a set of customer testimonials about the paid consultation."
+      },
+      {
+        "name": "testimonial_one",
+        "type": "group",
+        "children": [
+          {
+            "name": "text",
+            "type": "text",
+            "description": "The first testimonial that a customer wrote about the business."
+          },
+          {
+            "name": "customer_image",
+            "type": "image",
+            "description": "An image of the customer who wrote the first testimonial.",
+            "width": 1024,
+            "height": 1024
+          },
+          {
+            "name": "customer_name",
+            "type": "text",
+            "description": "The name of the customer who wrote the first testimonial."
+          }
+        ]
+      },
+      {
+        "name": "testimonial_two",
+        "type": "group",
+        "children": [
+          {
+            "name": "text",
+            "type": "text",
+            "description": "The second testimonial that a customer wrote about the business."
+          },
+          {
+            "name": "customer_image",
+            "type": "image",
+            "description": "An image of the customer who wrote the second testimonial.",
+            "width": 1024,
+            "height": 1024
+          },
+          {
+            "name": "customer_name",
+            "type": "text",
+            "description": "The name of the customer who wrote the second testimonial."
+          }
+        ]
+      },
+      {
+        "name": "testimonial_three",
+        "type": "group",
+        "children": [
+          {
+            "name": "text",
+            "type": "text",
+            "description": "The third testimonial that a customer wrote about the business."
+          },
+          {
+            "name": "customer_image",
+            "type": "image",
+            "description": "An image of the customer who wrote the third testimonial.",
+            "width": 1024,
+            "height": 1024
+          },
+          {
+            "name": "customer_name",
+            "type": "text",
+            "description": "The name of the customer who wrote the third testimonial."
+          }
+        ]
+      }
+    ]
+  }
+]

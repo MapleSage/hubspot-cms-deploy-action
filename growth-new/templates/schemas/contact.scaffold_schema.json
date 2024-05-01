@@ -1,0 +1,158 @@
+[
+  {
+    "name": "banner",
+    "type": "group",
+    "children": [
+      {
+        "name": "background_image",
+        "type": "image",
+        "description": "A banner background image that is related to customers getting in contact with the company.",
+        "width": 1792,
+        "height": 1024
+      },
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that describes the page, which is intended to provide information about how customers can get in contact with the company."
+      },
+      {
+        "name": "subheading",
+        "type": "text",
+        "description": "A subheading that adds additional context about the page, which is intended to provide information about how customers can get in contact with the company."
+      }
+    ]
+  },
+  {
+    "name": "locations",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that shows above a section with the company's different locations."
+      },
+      {
+        "name": "subheading",
+        "type": "text",
+        "description": "A subheading that shows above a section with the company's different locations."
+      },
+      {
+        "name": "location_one",
+        "type": "group",
+        "children": [
+          {
+            "name": "city",
+            "type": "text",
+            "description": "The name of the city that the company's first office location is in."
+          },
+          {
+            "name": "address",
+            "type": "text",
+            "description": "The address of the company's first office location."
+          }
+        ]
+      },
+      {
+        "name": "location_two",
+        "type": "group",
+        "children": [
+          {
+            "name": "city",
+            "type": "text",
+            "description": "The name of the city that the company's second office location is in."
+          },
+          {
+            "name": "address",
+            "type": "text",
+            "description": "The address of the company's second office location."
+          }
+        ]
+      },
+      {
+        "name": "location_three",
+        "type": "group",
+        "children": [
+          {
+            "name": "city",
+            "type": "text",
+            "description": "The name of the city that the company's third office location is in."
+          },
+          {
+            "name": "address",
+            "type": "text",
+            "description": "The address of the company's third office location."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "contact",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that shows above a contact form."
+      },
+      {
+        "name": "subheading",
+        "type": "text",
+        "description": "A subheading that shows above a contact form."
+      },
+      {
+        "name": "form",
+        "type": "form",
+        "description": "This is a form that users would fill out to get in contact with the company."
+      }
+    ]
+  },
+  {
+    "name": "faq",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that shows above a frequently asked questions section."
+      },
+      {
+        "name": "subheading",
+        "type": "text",
+        "description": "A subheading that shows above a frequently asked questions section."
+      },
+      {
+        "name": "accordion_one",
+        "type": "group",
+        "children": [
+          {
+            "name": "question",
+            "type": "text",
+            "description": "The first frequently asked question that people have about the company."
+          },
+          {
+            "name": "answer",
+            "type": "text",
+            "description": "The answer to the first frequently asked question that people have about the company."
+          }
+        ]
+      },
+      {
+        "name": "accordion_two",
+        "type": "group",
+        "children": [
+          {
+            "name": "question",
+            "type": "text",
+            "description": "The second frequently asked question that people have about the company."
+          },
+          {
+            "name": "answer",
+            "type": "text",
+            "description": "The answer to the second frequently asked question that people have about the company."
+          }
+        ]
+      }
+    ]
+  }
+]

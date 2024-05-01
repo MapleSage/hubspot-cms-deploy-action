@@ -8,7 +8,7 @@ jobs:
       - name: HubSpot Deploy Action
         uses: ./
         with:
-          src_dir: resources
-          dest_dir: resources
+          src_dir: growth-new
+          dest_dir: growth-new
           portal_id: ${{ secrets.hubspot_portal_id }}
           personal_access_key: ${{ secrets.hubspot_personal_access_key }}

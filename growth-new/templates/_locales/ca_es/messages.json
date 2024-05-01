@@ -1,0 +1,1662 @@
+{
+  "partial_header_skip_to_content": {
+    "message": "Ves al contingut",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_address": {
+    "message": "Carrer Major 12, 08001, ciutat, província",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_copyright": {
+    "message": "Copyright © {{ year }}, {{ site_settings.company_name }}",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_one": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_two": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_three": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "about_banner_heading": {
+    "message": "Quant a nosaltres",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_one": {
+    "message": "La nostra història",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_two": {
+    "message": "Els nostres valors",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_three": {
+    "message": "La nostra trajectòria",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_four": {
+    "message": "El nostre equip",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_five": {
+    "message": "La nostra cultura",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_six": {
+    "message": "Notícies de l'empresa",
+    "description": "",
+    "placeholders": null
+  },
+  "about_image_alt_text": {
+    "message": "Empresa",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_one_title": {
+    "message": "CEO i fundador",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_two_title": {
+    "message": "Chief Operating Officer",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_three_title": {
+    "message": "Chief Technology Officer",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_four_title": {
+    "message": "Chief Financial Officer",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_five_title": {
+    "message": "Chief Design Officer",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_six_title": {
+    "message": "Chief People Officer",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_description": {
+    "message": "Destaca els coneixements, l'experiència i els interessos únics del membre del teu equip. Fes-ho de manera precisa alhora que atractiva i mostra la seva trajectòria professional i les valuoses habilitats que aporta.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_index_heading": {
+    "message": "Blog",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_heading": {
+    "message": "Comentaris del blog",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_heading": {
+    "message": "Conferència sobre creixement",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_date": {
+    "message": "Del 5 al 8 de setembre",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_text": {
+    "message": "Obtén entrades",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_content": {
+    "message": "Obtén entrades",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_one": {
+    "message": "Compra ara",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_two": {
+    "message": "Compra entrades",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_one": {
+    "message": "Quant a",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_two": {
+    "message": "Panell de ponents",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_three": {
+    "message": "Patrocinadors",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_four": {
+    "message": "Afegeix un eslogan al vídeo",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_five": {
+    "message": "Testimonis",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_six": {
+    "message": "Sol·licituds",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_one": {
+    "message": "Conferència sobre creixement és una plantilla que es pot utilitzar per mostrar als clients el valor que els pot aportar la conferència d'un esdeveniment de la teva organització. Descriu el tema de la conferència i els motius pels quals els clients haurien de comprar entrades.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_two": {
+    "message": "Afegeix una descripció breu dels ponents aquí. Per què el teu públic hauria de conèixer-los? Hi ha algun tema que tots tractaran als seus discursos? Què els fa únics? Utilitza aquest espai perquè el lector es faci una idea de per què són aquests els ponents que vols presentar.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_three": {
+    "message": "Resumeix la biografia del ponent aquí. També hi pots afegir una frase sobre el tema de la seva presentació.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_four": {
+    "message": "&ldquo;Aquesta és la teva oportunitat per donar una prova social sobre com de fantàstic és el teu esdeveniment. Afegeix recomanacions que ajudin les persones a entendre el valor de l'esdeveniment.&rdquo;",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_five": {
+    "message": "Descriu el tema de la conferència, dona als teus clients potencials una idea del que passarà a la conferència i explica'ls els motius pels quals haurien de comprar entrades. Utilitza aquesta plantilla per vendre entrades al teu esdeveniment sense contacte.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_heading": {
+    "message": "Entrada general",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_price": {
+    "message": "199 $",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_heading": {
+    "message": "VIP",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_price": {
+    "message": "449 $",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_one": {
+    "message": "Llista de tots els avantatges interessants que obtindrà el client si adquireix aquest nivell.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_two": {
+    "message": "Quines oportunitats d'adquisició de contactes i d'aprenentatge hi ha disponibles per a ells a la conferència?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_three": {
+    "message": "A quines parts de la conferència poden accedir?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_four": {
+    "message": "Tenen accés a programació enregistrada?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_five": {
+    "message": "Quines opcions d'alimentació, transport i allotjament tenen?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_six": {
+    "message": "Llista de tots els avantatges exclusius que obtindran els clients VIP si adquireixen aquest nivell.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_one": {
+    "message": "CEO i fundador",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_two": {
+    "message": "Chief Operating Officer",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_three": {
+    "message": "Chief Technology Officer",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_content": {
+    "message": "Compra entrades",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_image_alt_text": {
+    "message": "Foto de l'orador",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_one": {
+    "message": "Contacta amb nosaltres",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_two": {
+    "message": "Les nostres ubicacions",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_three": {
+    "message": "Posa't en contacte",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_four": {
+    "message": "Preguntes més freqüents",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_heading": {
+    "message": "Biblioteca de contingut",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_content": {
+    "message": "Biblioteca de recursos i actius digitals per ajudar-te a aprendre i créixer.",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_one": {
+    "message": "<h3>San Francisco</h3><p>3870 Twin Oaks Drive<br> San Francisco, CA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_two": {
+    "message": "<h3>Chicago</h3><p>2140 Roguski Road<br> Chicago, IL</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_three": {
+    "message": "<h3>Boston</h3><p>123 Waverly Place<br> Boston, MA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_question": {
+    "message": "Títol d'acordió",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_heading": {
+    "message": "No s'ha trobat la pàgina",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_description": {
+    "message": "No podem trobar la pàgina que estaves buscant.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_button": {
+    "message": "Ves a la pàgina inicial",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_heading": {
+    "message": "Aquesta pàgina no funciona",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_description": {
+    "message": "S'ha produït un error intern del servidor, però estem treballant per solucionar-lo.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_button": {
+    "message": "Ves a la pàgina inicial",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_heading": {
+    "message": "No hi tens accés",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_description": {
+    "message": "No tens permís per veure aquesta pàgina. Si tens cap pregunta, contacta amb l'administrador del lloc.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_button": {
+    "message": "Ves a la pàgina inicial",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_heading": {
+    "message": "Inicia la sessió",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_subheading": {
+    "message": "La pàgina que estàs intentant veure només està disponible per als usuaris registrats.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_email": {
+    "message": "Correu electrònic",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_password": {
+    "message": "Contrasenya",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_remember_me": {
+    "message": "Recorda'm",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_reset_password": {
+    "message": "Has oblidat la contrasenya?",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_submit": {
+    "message": "Inicia la sessió",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_show_password": {
+    "message": "Mostra",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_contact_admin": {
+    "message": "Tens problemes? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Contacta amb l'administrador del lloc</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_heading": {
+    "message": "S'ha tancat la teva sessió",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_button": {
+    "message": "Torna a iniciar-la",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_alt": {
+    "message": "O  torna a la <a href=\"{{ '//' ~ request.domain }}\">pàgina inicial</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_heading": {
+    "message": "Configura la contrasenya",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_subheading": {
+    "message": "Benvingut/uda! Configura la contrasenya per completar el registre.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_email": {
+    "message": "Correu electrònic",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_confirm_password": {
+    "message": "Confirma la contrasenya",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_password": {
+    "message": "Contrasenya",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_save_password": {
+    "message": "Desa la contrasenya",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_show_password": {
+    "message": "Mostra",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_contact_admin": {
+    "message": "Tens problemes? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Contacta amb l'administrador del lloc</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_heading": {
+    "message": "La teva adreça electrònica està confirmada",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_description": {
+    "message": "Gràcies per verificar la teva adreça electrònica. Ara pots iniciar la sessió al teu compte i accedir al teu contingut exclusiu.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_button": {
+    "message": "Inicia la sessió",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_contact_admin": {
+    "message": "Tens problemes? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Contacta amb l'administrador del lloc</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_heading": {
+    "message": "Crea una contrasenya nova",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_subheading": {
+    "message": "La contrasenya nova ha de ser diferent de la contrasenya utilitzada prèviament.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_new_password": {
+    "message": "Contrasenya nova",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_confirm_password": {
+    "message": "Confirma la contrasenya nova",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_save_password": {
+    "message": "Desa la contrasenya",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_show_password": {
+    "message": "Mostra",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_contact_admin": {
+    "message": "Tens problemes? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Contacta amb l'administrador del lloc</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_heading": {
+    "message": "Restableix la contrasenya",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_subheading": {
+    "message": "Introdueix l'adreça electrònica que vas utilitzar per registrar-te i t'enviarem un correu electrònic amb un enllaç per restablir la contrasenya.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_email": {
+    "message": "Correu electrònic",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_submit": {
+    "message": "Envia un correu de restabliment",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_alt": {
+    "message": "Te n'has recordat? <a href=\"/_hcms/mem/login\">Inicia la sessió</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_contact_admin": {
+    "message": "Tens problemes? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Contacta amb l'administrador del lloc</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_heading": {
+    "message": "Verifica la teva adreça electrònica",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_description": {
+    "message": "Gràcies per registrar-t'hi. Comprova el correu electrònic i fes clic a l'enllaç de confirmació per completar el registre.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_contact_admin": {
+    "message": "Tens problemes? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Contacta amb l'administrador del lloc</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_one": {
+    "message": "Quant a",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two": {
+    "message": "Com fer créixer el teu negoci amb consultes de pagament",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two_update": {
+    "message": "Creixement del negoci amb consultes de pagament",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_three": {
+    "message": "Un conjunt d'eines a la teva disposició",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_heading": {
+    "message": "Servei",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_description": {
+    "message": "Resumeix el servei que proporciones. Afegeix un missatge sobre el valor que pots oferir als teus clients.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_four": {
+    "message": "Recomanacions",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_one": {
+    "message": "Afegeix un subtítol que expliqui com oferiràs valor als teus clients",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_two": {
+    "message": "Afegeix una descripció breu sobre la feina que fas a la teva empresa. Intenta cenyir-te a la teva especialització perquè puguis atraure l'atenció dels clients. Parla del valor que pots oferir amb una consulta de pagament.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_list_content": {
+    "message": "&ldquo;Afegeix una recomanació per avalar els teus serveis. Què és el que entusiasma del que ofereixes als teus clients actuals?&rdquo;",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_image_alt_text": {
+    "message": "Imatge del marcador de posició del tema de creixement",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_button_text": {
+    "message": "Reserva una consulta",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_heading": {
+    "message": "La contrasenya és obligatòria",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_subheading": {
+    "message": "Introdueix la contrasenya per veure aquesta pàgina.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_one": {
+    "message": "Preus",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_plans_and_pricing_heading": {
+    "message": "Plans i preus",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_two": {
+    "message": "Preguntes més freqüents",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_heading": {
+    "message": "Tots els plans inclouen",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_content_heading": {
+    "message": "Característica del producte",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_heading": {
+    "message": "Atrau els usuaris cap als teus productes i serveis",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_button_text": {
+    "message": "Més informació",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_question": {
+    "message": "Títol d'acordió",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_one": {
+    "message": "Productes",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_two": {
+    "message": "Creat pensant en el client",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_heading": {
+    "message": "I molt més",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_content_heading": {
+    "message": "Característica del producte",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_one": {
+    "message": "Comença a utilitzar-lo ràpidament",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_two": {
+    "message": "Senzill i fàcil d'utilitzar",
+    "description": "",
+    "placeholders": null
+  },
+  "products_image_alt_text": {
+    "message": "Característica del producte",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_heading": {
+    "message": "Atrau els usuaris cap als teus productes i serveis",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_button_text": {
+    "message": "Més informació",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_heading": {
+    "message": "Tema Growth",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_button_text": {
+    "message": "Introducció",
+    "description": "",
+    "placeholders": null
+  },
+  "home_logos_heading": {
+    "message": "Alguns dels nostres clients satisfets",
+    "description": "",
+    "placeholders": null
+  },
+  "home_heading": {
+    "message": "Creat pensant en el client",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_one": {
+    "message": "Configuració ràpida",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_two": {
+    "message": "Fàcil d'utilitzar",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_three": {
+    "message": "Personalitzable",
+    "description": "",
+    "placeholders": null
+  },
+  "home_video_heading": {
+    "message": "Visualitza com funciona tot",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_heading": {
+    "message": "Un conjunt d'eines a la teva disposició",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_content_heading": {
+    "message": "Nom del producte",
+    "description": "",
+    "placeholders": null
+  },
+  "home_image_alt_text": {
+    "message": "Nom del producte",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_button_text": {
+    "message": "Més informació",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_content": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan velit sit amet sagittis malesuada.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_customer": {
+    "message": "Shaun Benson, Director de Màrqueting, Agriflora Inc.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_blog_post_heading": {
+    "message": "Publicacions més recents",
+    "description": "",
+    "placeholders": null
+  },
+  "home_contact": {
+    "message": "Contacta amb nosaltres",
+    "description": "",
+    "placeholders": null
+  },
+  "home_button_text": {
+    "message": "Introducció",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_heading": {
+    "message": "Baixa el teu recurs digital gratuït avui",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_p_one": {
+    "message": "Escriu una presentació captivadora que prepari l'escenari per al contingut d'aquest recurs. Aborda els reptes o objectius del lector i explica-li com l'ebook pot ajudar a resoldre'ls.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_one_heading": {
+    "message": "Avantatge núm. 1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_two_heading": {
+    "message": "Avantatge núm. 2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_three_heading": {
+    "message": "Avantatge núm. 3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_content": {
+    "message": "Explica el que els lectors aprendran",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_highlight": {
+    "message": "Recorda't de destacar els avantatges:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_preface": {
+    "message": "Per què escollir-nos?",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_heading": {
+    "message": "Oferim solucions modernes per fer créixer el teu negoci",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_content": {
+    "message": "Uneix-te a milers d'usuaris satisfets que han transformat les seves vides amb les nostres solucions innovadores.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_button_text": {
+    "message": "Més informació",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_logo_heading": {
+    "message": "Amb la confiança d'empreses líders",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_heading": {
+    "message": "Nom de la funció",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_content": {
+    "message": "Escriu un text convincent, enfocat en els avantatges, que comuniqui clarament el valor de la teva oferta i animi els visitants a actuar. Centra't en la manera en què la teva oferta soluciona els seus problemes o satisfà les seves necessitats.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_preface": {
+    "message": "No confiïs només en la nostra paraula",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_heading": {
+    "message": "Visualitza aquestes funcions en acció amb un dels membres del nostre equip",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_button_text": {
+    "message": "Obtén una demostració",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_heading": {
+    "message": "Programa una demostració",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_p_one": {
+    "message": "Programa una demostració amb un dels membres del nostre equip com et convingui. Afegeix una descripció breu sobre el que poden esperar aprendre els clients potencials.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_highlight": {
+    "message": "Tractarem els temes següents:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_one_heading": {
+    "message": "Tema núm. 1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_two_heading": {
+    "message": "Tema núm. 2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_three_heading": {
+    "message": "Tema núm. 3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_content": {
+    "message": "Explica què cobrirà la teva demostració",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_heading": {
+    "message": "Assegura la teva plaça: registra't ara a aquest esdeveniment exclusiu",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_content": {
+    "message": "Afegeix una presentació breu que cobreixi el contingut de la conferència, el seminari web o l'esdeveniment en directe, i perquè els membres de la teva audiència s'hi haurien de registrar.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_button_text": {
+    "message": "Registra-t'hi ara",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_partners_content": {
+    "message": "Uneix-te a la nostra comunitat de socis",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_preface": {
+    "message": "Quant a l'esdeveniment",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_heading": {
+    "message": "Obtén informació detallada dels millors experts",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_highlight": {
+    "message": "Aspectes destacats de l'esdeveniment:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_one_heading": {
+    "message": "Aspecte destacat núm. 1",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_two_heading": {
+    "message": "Aspecte destacat núm. 2",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_three_heading": {
+    "message": "Aspecte destacat núm. 3",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_content": {
+    "message": "El que els assistents poden esperar aconseguir",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_heading": {
+    "message": "Estadístiques ràpides",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_one": {
+    "message": "Més de 20",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_two": {
+    "message": "Més de 150",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_three": {
+    "message": "10",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_description": {
+    "message": "Descripció breu de l'estadística",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_heading": {
+    "message": "Mira un avançament de l'esdeveniment",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_content": {
+    "message": "Mira el nostre vídeo de presentació per fer-te una idea de les ponències inspiradores, dels tallers interactius i de les oportunitats per establir contactes que t'esperen. No et perdis aquesta visualització prèvia del que vindrà. Uneix-te a nosaltres per gaudir d'una experiència inoblidable.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_preface": {
+    "message": "No confiïs només en la nostra paraula",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_heading": {
+    "message": "Descobreix les oportunitats i reserva la teva plaça avui mateix",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_button_text": {
+    "message": "Registra-t'hi ara",
+    "description": "",
+    "placeholders": null
+  },
+  "search_results_heading": {
+    "message": "Resultats de la cerca de \"[[search_term]]\"",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_heading": {
+    "message": "Quant a",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_sub_heading": {
+    "message": "La nostra empresa",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_image_alt_text": {
+    "message": "La nostra història",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_list_heading": {
+    "message": "Entrades recents",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_heading": {
+    "message": "Entrades recents",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_heading": {
+    "message": "Dirigeix les persones als teus productes i serveis",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_button_text": {
+    "message": "Més informació",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_full_heading": {
+    "message": "Contacte",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_heading": {
+    "message": "Contacte",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_address": {
+    "message": "Carrer Major 12, 08001, ciutat, província",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_email": {
+    "message": "contacte@nomempresa.com",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_phone_number": {
+    "message": "+34 93 211 34 43",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_heading": {
+    "message": "Producte",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_description_heading": {
+    "message": "Descripció",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_button_text": {
+    "message": "Contacta amb nosaltres",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_image_alt_text": {
+    "message": "Producte",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_heading": {
+    "message": "Galeria",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_one": {
+    "message": "Productes",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_two": {
+    "message": "Empresa",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_three": {
+    "message": "Preus",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_four": {
+    "message": "Característica del producte",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_five": {
+    "message": "Llegenda de la imatge",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_caption": {
+    "message": "Llegenda de la imatge",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_heading": {
+    "message": "Galeria",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_one": {
+    "message": "Productes",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_two": {
+    "message": "Empresa",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_three": {
+    "message": "Preus",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_four": {
+    "message": "Característica del producte",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_five": {
+    "message": "Preus",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_hover_message": {
+    "message": "Missatge en passar el cursor per damunt",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_heading": {
+    "message": "Tema Creixement",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_button_text": {
+    "message": "Contacta amb nosaltres",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_heading": {
+    "message": "Tema Creixement",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_button_text": {
+    "message": "Introducció",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_heading": {
+    "message": "Per què destaquem",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_one": {
+    "message": "Configuració ràpida",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_two": {
+    "message": "Fàcil d'utilitzar",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_three": {
+    "message": "Personalitzable",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_heading": {
+    "message": "Alguns dels nostres clients satisfets",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_image_alt_text": {
+    "message": "Logotip del client",
+    "description": "",
+    "placeholders": null
+  },
+  "section_meetings_banner_heading": {
+    "message": "Concerta una reunió per obtenir una consulta gratuïta",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_heading": {
+    "message": "El nostre equip",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_one_title": {
+    "message": "CEO",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_two_title": {
+    "message": "Chief Operating Officer",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_three_title": {
+    "message": "Chief Financial Officer",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_description": {
+    "message": "Destaca els coneixements, l'experiència i els interessos únics del membre del teu equip. Fes-ho de manera precisa alhora que atractiva i mostra la seva trajectòria professional i les valuoses habilitats que aporta.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_heading": {
+    "message": "La nostra història",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_image_alt_text": {
+    "message": "La nostra història",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_button_text": {
+    "message": "Més informació",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_heading": {
+    "message": "Els plans inclouen",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_description_heading": {
+    "message": "Característica del producte",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_image_alt_text": {
+    "message": "Característica del pla",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_heading": {
+    "message": "Subscriu-te al nostre butlletí!",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_subheading": {
+    "message": "Registra-t'hi per mantenir-te al dia de les últimes novetats",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_heading": {
+    "message": "Un conjunt d'eines a la teva disposició",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_card_heading": {
+    "message": "Dirigeix les persones als teus productes i serveis",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_button_text": {
+    "message": "Contacta amb nosaltres",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_image_alt_text": {
+    "message": "Servei",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_heading": {
+    "message": "Plans i preus",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_heading": {
+    "message": "Inicial",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_price": {
+    "message": "50 $/mes",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_content": {
+    "message": "Compra l'edició Starter ara",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_button_text": {
+    "message": "Compra l'edició Starter ara",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_heading": {
+    "message": "Professional",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_price": {
+    "message": "200 $/mes",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_content": {
+    "message": "Compra l'edició Professional ara",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_button_text": {
+    "message": "Compra l'edició Professional ara",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_heading": {
+    "message": "Enterprise",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_price": {
+    "message": "600 $/mes",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_content": {
+    "message": "Compra l'edició Enterprise ara",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_button_text": {
+    "message": "Compra l'edició Enterprise ara",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_sub_heading": {
+    "message": "Algunes característiques clau",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_heading": {
+    "message": "Productes",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_image_alt_text": {
+    "message": "La nostra història",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_description_heading": {
+    "message": "Nom del producte",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_button_text": {
+    "message": "Contacta amb nosaltres",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_heading": {
+    "message": "Serveis",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_description_heading": {
+    "message": "Nom del servei",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_one": {
+    "message": "La nostra història",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_two": {
+    "message": "Els nostres valors",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_three": {
+    "message": "La nostra trajectòria",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_button_text": {
+    "message": "Contacta amb nosaltres",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_heading": {
+    "message": "Testimoni",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_team_member_title_one": {
+    "message": "Producte de VP",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_heading": {
+    "message": "Fes una ullada a la opinió de la gent",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_one": {
+    "message": "Producte de VP",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_two": {
+    "message": "Vendes d'SVP",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_three": {
+    "message": "CMO",
+    "description": "",
+    "placeholders": null
+  },
+  "section_video_heading": {
+    "message": "Visualitza com funciona tot",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading": {
+    "message": "Serveis",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_one_alt": {
+    "message": "Dues persones davant d'un ordinador",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_two_alt": {
+    "message": "Dues persones mirant un telèfon",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_three_alt": {
+    "message": "Dues persones treballant amb notes adhesives a la paret",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_one": {
+    "message": "Bàsica",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_two": {
+    "message": "Professional",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_three": {
+    "message": "Enterprise",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_button_text": {
+    "message": "Més informació",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_description": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_heading": {
+    "message": "Serveis",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_image_alt": {
+    "message": "Dues persones assegudes a una escala",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_heading": {
+    "message": "Desenvolupament d'identitat de marca",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_content": {
+    "message": "El nostre equip dissenyarà una identitat de marca única i fàcil de recordar que capturi l'essència de la teva empresa. Crearem un logotip atractiu, seleccionarem una paleta de colors armoniosa i desenvoluparem un estil visual coherent per fer que la teva marca destaqui.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_image_alt": {
+    "message": "Uns joves professionals dels negocis miren un ordinador portàtil",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_heading": {
+    "message": "Millora del disseny de la UX/IU",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_content": {
+    "message": "Millora la satisfacció i la interacció dels usuaris amb la nostra experiència en disseny d'UX/IU. Farem una anàlisi exhaustiva dels teus productes digitals, identificarem els punts febles i implementarem solucions centrades en l'usuari per millorar la seva experiència general.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_image_alt": {
+    "message": "Uns joves professionals de màrqueting parlen en un pati amb una tauleta a la mà",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_heading": {
+    "message": "Disseny del material promocional de màrqueting",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_content": {
+    "message": "Millora l'activitat de màrqueting amb material promocional sensacional que causi una impressió duradora. Des de fullets i fulls de mà fins a gràfics en xarxes socials, dissenyarem materials atractius que connectin amb la teva audiència objectiu i generin resultats.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_button_text": {
+    "message": "Més informació",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_banner_image_alt": {
+    "message": "Un grup de persones somrients miren directament a la càmera",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_heading": {
+    "message": "Suport al banc d'aliments local",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_content_area_one": {
+    "message": "Uneix-te a nosaltres per marcar la diferència en les vides dels nostres veïns donant suport al nostre banc d'aliments local. La teva donació ajudarà a proporcionar aliments essencials a persones i famílies que pateixen inseguretat alimentària a la nostra comunitat. ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_one_alt": {
+    "message": "Dues persones miren unes notes adhesives en un vidre",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_two_alt": {
+    "message": "Telèfon sostingut davant d'un processador de pagament",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_three_alt": {
+    "message": "Un home condueix una furgoneta amb dos paquets a sobre del seient del passatger",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_heading": {
+    "message": "Dona ara",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_message_and_amount": {
+    "message": "Import recomanat: 15,00 $",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_one_text": {
+    "message": "Dona 15,00 $",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_two_text": {
+    "message": "Import personalitzat",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_three_text": {
+    "message": "Comparteix",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,1662 @@
+{
+  "partial_header_skip_to_content": {
+    "message": "לדלג לתוכן",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_address": {
+    "message": "123 Main Street, City, State 11111",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_copyright": {
+    "message": "Copyright © {{ year }}, {{ site_settings.company_name }}",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_one": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_two": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_three": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "about_banner_heading": {
+    "message": "עלינו",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_one": {
+    "message": "הסיפור שלנו",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_two": {
+    "message": "הערכים שלנו",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_three": {
+    "message": "ההיסטוריה שלנו",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_four": {
+    "message": "הצוות שלנו",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_five": {
+    "message": "התרבות שלנו",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_six": {
+    "message": "חדשות על החברה",
+    "description": "",
+    "placeholders": null
+  },
+  "about_image_alt_text": {
+    "message": "חברה",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_one_title": {
+    "message": "מנכ\"ל ומייסד",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_two_title": {
+    "message": "סמנכ\"ל תפעול",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_three_title": {
+    "message": "מנהל טכנולוגיות ראשי",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_four_title": {
+    "message": "סמנכ\"ל כספים",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_five_title": {
+    "message": "מנהל עיצוב ראשי",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_six_title": {
+    "message": "מנהל תרבות ארגונית ראשי",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_description": {
+    "message": "הדגש את המומחיות, את הניסיון ואת תחומי העניין הייחודיים של חבר הצוות שלך. תאר אותם באופן תמציתי אך משכנע, תוך כדי הצגת ההתפתחות המקצועית שלו ואת הכישורים בעלי ערך רב שאותו הוא מביא עימו.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_index_heading": {
+    "message": "בלוג",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_heading": {
+    "message": "תגובות בבלוג",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_heading": {
+    "message": "כנס צמיחה",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_date": {
+    "message": "5-8 בספטמבר",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_text": {
+    "message": "השיגו כרטיסים",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_content": {
+    "message": "השיגו כרטיסים",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_one": {
+    "message": "רכשו עכשיו",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_two": {
+    "message": "לרכישת כרטיסים",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_one": {
+    "message": "אודות",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_two": {
+    "message": "פאנל דוברים",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_three": {
+    "message": "נותני חסות",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_four": {
+    "message": "הוסיפו לסרטון שלכם ביטוי קליט",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_five": {
+    "message": "המלצות",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_six": {
+    "message": "קריאות",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_one": {
+    "message": "כנס צמיחה הוא תבנית שעל בסיסה ניתן להראות ללקוחות את הערך שאירוע או כנס מטעם הארגון שלכם יכול להעניק להם. תארו את נושא הכנס ומדוע כדאי ללקוחות לרכוש כרטיסים.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_two": {
+    "message": "הוסיפו כאן תיאור קצר בנוגע לדוברים. למה כדאי לקהל שלכם להקשיב להם? יש נושא מסוים שהם הולכים לדבר עליו? מה מייחד דווקא אותם? השתמשו בחלק זה כדי לגרום לקורא להבין מדוע אלה הם הדוברים שבחרתם כפנים של הכנס.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_three": {
+    "message": "תמצתו את הביוגרפיה של הדוברים שלכם כאן. ניתן גם להוסיף משפט בנוגע לנושא ההרצאה שלהם.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_four": {
+    "message": "&ldquo;זו ההזדמנות שלכם לספק עדויות לכוחו ואיכותו של האירוע שלכם. הוסיפו המלצות שיעזרו לאנשים להבין את הערך שהאירוע שלכם מספק.&rdquo;",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_five": {
+    "message": "תאר את הנושא של הכנס שלך, ספק למשתתפים הפוטנציאליים מושג על מה&rsquo; שהולך לקרות בכנס, ולמה כדאי להם לרכוש כרטיס. השתמש בתבנית זו כדי למכור כרטיסים ללא מגע לאירוע שלך.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_heading": {
+    "message": "כניסה כללית",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_price": {
+    "message": "$199",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_heading": {
+    "message": "כניסת VIP",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_price": {
+    "message": "$449",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_one": {
+    "message": "פרטו את כל ההטבות המלהיבות שהלקוחות שלכם יקבלו כשירכשו כרטיס מסוג כניסה זה.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_two": {
+    "message": "אילו הזדמנויות למידה ו-נטוורקינג יחכו להם בכנס?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_three": {
+    "message": "לאילו חלקים בכנס תהיה להם גישה?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_four": {
+    "message": "תהיה להם גישה למשהו שרשום בתוכנית?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_five": {
+    "message": "אילו אפשרויות אתם מציעים מבחינת מזון, תחבורה ואירוח?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_six": {
+    "message": "פרט את כל ההטבות הבלעדיות שלקוחות ה-VIP שלכם יקבלו כשירכשו כרטיס מסוג כניסה זה.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_one": {
+    "message": "מנכ\"ל ומייסד",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_two": {
+    "message": "סמנכ\"ל תפעול",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_three": {
+    "message": "מנהל טכנולוגיות ראשי",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_content": {
+    "message": "לרכישת כרטיסים",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_image_alt_text": {
+    "message": "תמונת דובר/ת",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_one": {
+    "message": "יצירת קשר",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_two": {
+    "message": "הסניפים שלנו",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_three": {
+    "message": "צרו איתנו קשר",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_four": {
+    "message": "שאלות נפוצות",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_heading": {
+    "message": "ספריית תוכן",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_content": {
+    "message": "ספריית משאבים ונכסים דיגיטליים שנועדה לסייע לך ללמוד ולצמוח.",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_one": {
+    "message": "<h3>San Francisco</h3><p>3870 Twin Oaks Drive<br> San Francisco, CA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_two": {
+    "message": "<h3>Chicago</h3><p>2140 Roguski Road<br> Chicago, IL</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_three": {
+    "message": "<h3>Boston</h3><p>123 Waverly Place<br> Boston, MA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_question": {
+    "message": "כותרת אקורדיון",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_heading": {
+    "message": "הדף לא נמצא",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_description": {
+    "message": "לא הצלחנו למצוא את הדף שחיפשת.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_button": {
+    "message": "עבור אל דף הבית",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_heading": {
+    "message": "דף זה אינו פועל",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_description": {
+    "message": "אירעה שגיאת שרת פנימית, אבל אנחנו מטפלים בזה!",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_button": {
+    "message": "עבור אל דף הבית",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_heading": {
+    "message": "מצטערים, אין לך גישה",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_description": {
+    "message": "אין לך הרשאה להציג דף זה. למידע נוסף פנה למנהל האתר.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_button": {
+    "message": "עבור אל דף הבית",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_heading": {
+    "message": "התחבר",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_subheading": {
+    "message": "הדף שברצונך להציג זמין למשתמשים מורשים בלבד.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_email": {
+    "message": "דוא\\\"ל",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_password": {
+    "message": "סיסמה",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_remember_me": {
+    "message": "זכור אותי",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_reset_password": {
+    "message": "שכחת את הסיסמה?",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_submit": {
+    "message": "התחבר",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_show_password": {
+    "message": "הצג",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_contact_admin": {
+    "message": "נתקלת בקשיים? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">פנה למנהל האתר</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_heading": {
+    "message": "נותקת מהמערכת",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_button": {
+    "message": "היכנס שוב",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_alt": {
+    "message": "או חזור אל <a href=\"{{ '//' ~ request.domain }}\">דף הבית</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_heading": {
+    "message": "הגדר את הסיסמה",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_subheading": {
+    "message": "ברוך הבא! הגדר סיסמה כדי להשלים את ההרשמה.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_email": {
+    "message": "דוא\\\"ל",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_confirm_password": {
+    "message": "אשר את הסיסמה",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_password": {
+    "message": "סיסמה",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_save_password": {
+    "message": "שמור סיסמה",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_show_password": {
+    "message": "הצג",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_contact_admin": {
+    "message": "נתקלת בקשיים? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">פנה למנהל האתר</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_heading": {
+    "message": "כתובת הדוא\"ל שלך מאושרת",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_description": {
+    "message": "תודה שאימתת את כתובת הדוא\"ל שלך. כעת תוכל להיכנס לחשבונך ולגשת לתוכן בלעדי.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_button": {
+    "message": "התחבר",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_contact_admin": {
+    "message": "נתקלת בקשיים? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">פנה למנהל האתר</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_heading": {
+    "message": "צור סיסמה חדשה",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_subheading": {
+    "message": "הסיסמה הנוכחית שלך חייבת להיות שונה מהסיסמה שבה השתמשת בעבר.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_new_password": {
+    "message": "סיסמה חדשה",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_confirm_password": {
+    "message": "אשר את הסיסמה החדשה",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_save_password": {
+    "message": "שמור סיסמה",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_show_password": {
+    "message": "הצג",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_contact_admin": {
+    "message": "נתקלת בקשיים? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">פנה למנהל האתר</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_heading": {
+    "message": "בצע איפוס של הסיסמה שלך",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_subheading": {
+    "message": "הזן את כתובת הדוא\"ל שבה השתמשת לצורך הרשמה, ונשלח לך בדוא\"ל קישור לאיפוס סיסמה.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_email": {
+    "message": "דוא\\\"ל",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_submit": {
+    "message": "שלח דוא\"ל לאיפוס",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_alt": {
+    "message": "יש לך את הסיסמה עכשיו? <a href=\"/_hcms/mem/login\">היכנס</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_contact_admin": {
+    "message": "נתקלת בקשיים? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">פנה למנהל האתר</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_heading": {
+    "message": "אמת את כתובת הדוא\"ל שלך",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_description": {
+    "message": "אנחנו מודים לך על ההרשמה! בדוק את תיבת הדוא\"ל שלך ולחץ על קישור האישור כדי להשלים את ההרשמה.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_contact_admin": {
+    "message": "נתקלת בקשיים? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">פנה למנהל האתר</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_one": {
+    "message": "אודות",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two": {
+    "message": "הגדילו את העסק בעזרת ייעוץ בתשלום",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two_update": {
+    "message": "הגדילו את העסק בעזרת ייעוץ בתשלום",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_three": {
+    "message": "חבילת כלים מותאמת אישית לשימושכם",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_heading": {
+    "message": "שירות",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_description": {
+    "message": "סכם את השירות שאותו אתה מספק. הוסף הודעה לגבי הערך שתוכל לתת ללקוחות. ",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_four": {
+    "message": "המלצות",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_one": {
+    "message": "הוסיפו כותרת משנה שתסביר איך תביאו ערך ללקוחות שלכם",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_two": {
+    "message": "תארו בקצרה מה עושה הארגון שלכם. נסו להתמקד במומחיות שלכם כדי למשוך את תשומת הלב של הלקוחות שלכם. פרטו לגבי הערך שתוכלו להביא בייעוץ בתשלום.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_list_content": {
+    "message": "&ldquo;הוסיפו המלצות מלקוחות קיימים שמחמיאים לעסק שלכם. מדוע הלקוחות הקיימים שלכם נלהבים ממה שאתם מספקים להם?&rdquo;",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_image_alt_text": {
+    "message": "תמונת פלייס הולדר של נושא הצמיחה",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_button_text": {
+    "message": "תאמו ייעוץ",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_heading": {
+    "message": "נדרשת סיסמה",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_subheading": {
+    "message": "הזן את הסיסמה כדי להציג דף זה.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_one": {
+    "message": "תמחור",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_plans_and_pricing_heading": {
+    "message": "חבילות ומחירים",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_two": {
+    "message": "שאלות נפוצות",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_heading": {
+    "message": "כולל את כל התכניות",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_content_heading": {
+    "message": "תכונת מוצר",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_heading": {
+    "message": "עודד אנשים לבקר במוצרים ובשירותים שלך",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_button_text": {
+    "message": "למידע נוסף",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_question": {
+    "message": "כותרת אקורדיון",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_one": {
+    "message": "מוצרים",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_two": {
+    "message": "עוצב במחשבה עליכם",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_heading": {
+    "message": "ועוד יותר",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_content_heading": {
+    "message": "תכונת מוצר",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_one": {
+    "message": "צאו מהר לדרך",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_two": {
+    "message": "קל ופשוט לשימוש",
+    "description": "",
+    "placeholders": null
+  },
+  "products_image_alt_text": {
+    "message": "תכונת מוצר",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_heading": {
+    "message": "עודד אנשים לבקר במוצרים ובשירותים שלך",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_button_text": {
+    "message": "למידע נוסף",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_heading": {
+    "message": "ערכת נושא של צמיחה",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_button_text": {
+    "message": "תחילת העבודה",
+    "description": "",
+    "placeholders": null
+  },
+  "home_logos_heading": {
+    "message": "כמה מהלקוחות המרוצים שלנו",
+    "description": "",
+    "placeholders": null
+  },
+  "home_heading": {
+    "message": "עוצב במחשבה עליכם",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_one": {
+    "message": "הגדרה מהירה",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_two": {
+    "message": "קל לשימוש",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_three": {
+    "message": "אפשר להתאים אישית",
+    "description": "",
+    "placeholders": null
+  },
+  "home_video_heading": {
+    "message": "בוא לראות איך זה עובד",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_heading": {
+    "message": "חבילת כלים מותאמת אישית לשימושכם",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_content_heading": {
+    "message": "שם מוצר",
+    "description": "",
+    "placeholders": null
+  },
+  "home_image_alt_text": {
+    "message": "שם מוצר",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_button_text": {
+    "message": "למידע נוסף",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_content": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan velit sit amet sagittis malesuada.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_customer": {
+    "message": "שון בנסון, מנהל שיווק, Agriflora Inc.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_blog_post_heading": {
+    "message": "פוסטים אחרונים",
+    "description": "",
+    "placeholders": null
+  },
+  "home_contact": {
+    "message": "יצירת קשר",
+    "description": "",
+    "placeholders": null
+  },
+  "home_button_text": {
+    "message": "תחילת העבודה",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_heading": {
+    "message": "הורד את המשאב הדיגיטלי החינמי שלך היום",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_p_one": {
+    "message": "כתוב הקדמה מרתקת המגדירה את השלב עבור התוכן של משאב זה. התיייחס אל אתגריהם או אל יעדיהם של הקוראים שלך והסבר כיצד הספר האלקטרוני יעזור בהתמודדות איתם.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_one_heading": {
+    "message": "יתרון  מס' 1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_two_heading": {
+    "message": "יתרון מס' 2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_three_heading": {
+    "message": "יתרון מס' 3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_content": {
+    "message": "הסבר מה ילמדו הקוראים. ",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_highlight": {
+    "message": "זכור להדגיש את היתרונות:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_preface": {
+    "message": "מדוע כדאי לבחור בנו?",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_heading": {
+    "message": "אנו מציעים פתרונות מודרניים להגדלת העסק שלך. ",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_content": {
+    "message": "הצטרף אל אלפי משתמשים מרוצים שחוללו שינוי מהותי בחייהם עם הפתרונות החדשניים שלנו.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_button_text": {
+    "message": "למידע נוסף",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_logo_heading": {
+    "message": "עומדים בדרישותיהם של חברות מובילות",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_heading": {
+    "message": "שם התכונה",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_content": {
+    "message": "צור העתק משכנע, מבוסס-יתרונות, המשקף את ערך ההצעה שלך והמעודד מבקרים לבצע פעולה. התמקד באופן שבו ההצעה שלך פותרת את בעיותיהם ועונה על צורכיהם. ",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_preface": {
+    "message": "רק אל תסמוך על המילה שלנו בעניין. ",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_heading": {
+    "message": "ראה תכונות אלה בפעולה בעזרת אחד מחברי הצוות שלנו. ",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_button_text": {
+    "message": "קבל הדגמה",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_heading": {
+    "message": "קבע הדגמה",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_p_one": {
+    "message": "קבע הדגמה בעזרת אחד מחברי הצוות שלנו במועד הנוח לך. הוסף תיאור קצר לגבי התכנים האפשריים שהלקוחות הפוטנציאליים שלך מצפים ללמוד.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_highlight": {
+    "message": "אנו נדון ב:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_one_heading": {
+    "message": "נושא מס' 1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_two_heading": {
+    "message": "נושא מס' 2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_three_heading": {
+    "message": "נושא מס' 3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_content": {
+    "message": "הסבר אילו תכנים ההדגמה שלך תכסה",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_heading": {
+    "message": "שמור לעצמך מקום",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_content": {
+    "message": "כתוב הקדמה קצרה המסבירה את הנושא של הועידה בשידור חי, של הוובינר או של האירוע, ומדוע כדאי לחברי הקהל שלך להירשם.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_button_text": {
+    "message": "הירשם עכשיו",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_partners_content": {
+    "message": "הצטרף אלינו יחד עם קהילת השותפים שלנו",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_preface": {
+    "message": "על אודות האירוע",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_heading": {
+    "message": "השג תובנות מהמומחים המובילים",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_highlight": {
+    "message": "דגשים של האירוע:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_one_heading": {
+    "message": "דגש מס' 1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_two_heading": {
+    "message": "דגש מס' 2::",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_three_heading": {
+    "message": "דגש מס' 3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_content": {
+    "message": "מה המשתתפים יכולים לצפות להשיג",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_heading": {
+    "message": "נתונים סטטיסטיים מהירים",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_one": {
+    "message": "20+",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_two": {
+    "message": "150+",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_three": {
+    "message": "10",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_description": {
+    "message": "תיאור קצר של הנתונים הסטטיסטיים",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_heading": {
+    "message": "צפה לקבלת סירה קצרה של האירוע",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_content": {
+    "message": "צפה בסרטון הטיזר שלנו להצצה בנושאים מעוררי השראה, בסדנאות אינראקטיביות והזדמנויות נטוורקינג הממתינים לך. אל תחמיץ את התצוגה המקדימה של מה שמחכה לך- הצטרף אלינו לחוויה בלתי נשכחת.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_preface": {
+    "message": "רק אל תסמוך על המילה שלנו בעניין. ",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_heading": {
+    "message": "בטל נעילה של הזדמנויות ושמור את המקום שלך היום.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_button_text": {
+    "message": "הירשם עכשיו",
+    "description": "",
+    "placeholders": null
+  },
+  "search_results_heading": {
+    "message": "תוצאות חיפוש עבור \"[[search_term]]\"",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_heading": {
+    "message": "אודות",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_sub_heading": {
+    "message": "החברה שלנו",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_image_alt_text": {
+    "message": "הסיפור שלנו",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_list_heading": {
+    "message": "ֹֹפוסטים אחרונים",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_heading": {
+    "message": "ֹֹפוסטים אחרונים",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_heading": {
+    "message": "עודדו אנשים לבקר במוצרים ובשירותים שלכם",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_button_text": {
+    "message": "מידע נוסף",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_full_heading": {
+    "message": "יצירת קשר",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_heading": {
+    "message": "יצירת קשר",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_address": {
+    "message": "123 Main Street, City, State 11111",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_email": {
+    "message": "contact@businessname.com",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_phone_number": {
+    "message": "‎+1 234-567-8901",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_heading": {
+    "message": "מוצר",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_description_heading": {
+    "message": "תיאור מוצר",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_button_text": {
+    "message": "יצירת קשר",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_image_alt_text": {
+    "message": "מוצר",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_heading": {
+    "message": "גלריה",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_one": {
+    "message": "מוצרים",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_two": {
+    "message": "חברה",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_three": {
+    "message": "תמחור",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_four": {
+    "message": "תכונת מוצר",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_five": {
+    "message": "כיתוב תמונה",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_caption": {
+    "message": "כיתוב תמונה",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_heading": {
+    "message": "גלריה",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_one": {
+    "message": "מוצרים",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_two": {
+    "message": "חברה",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_three": {
+    "message": "תמחור",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_four": {
+    "message": "תכונת מוצר",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_five": {
+    "message": "תמחור",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_hover_message": {
+    "message": "הודעת ריחוף",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_heading": {
+    "message": "נושא צמיחה",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_button_text": {
+    "message": "יצירת קשר",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_heading": {
+    "message": "נושא צמיחה",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_button_text": {
+    "message": "תחילת העבודה",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_heading": {
+    "message": "למה אנחנו בולטים בשוק",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_one": {
+    "message": "הגדרה מהירה",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_two": {
+    "message": "קל לשימוש",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_three": {
+    "message": "אפשר להתאים אישית",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_heading": {
+    "message": "כמה מהלקוחות המרוצים שלנו",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_image_alt_text": {
+    "message": "לוגו הלקוח",
+    "description": "",
+    "placeholders": null
+  },
+  "section_meetings_banner_heading": {
+    "message": "קבעו פגישה לקבלת ייעוץ חינם",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_heading": {
+    "message": "הצוות שלנו",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_one_title": {
+    "message": "מנכ\"ל",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_two_title": {
+    "message": "סמנכ\"ל תפעול",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_three_title": {
+    "message": "סמנכ\"ל כספים",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_description": {
+    "message": "הדגש את המומחיות, את הניסיון ואת תחומי העניין הייחודיים של חבר הצוות שלך. תאר אותם באופן תמציתי אך משכנע, תוך כדי הצגת ההתפתחות המקצועית שלו ואת הכישורים בעלי ערך רב שאותו הוא מביא עימו.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_heading": {
+    "message": "הסיפור שלנו",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_image_alt_text": {
+    "message": "הסיפור שלנו",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_button_text": {
+    "message": "מידע נוסף",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_heading": {
+    "message": "חבילות כלולות",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_description_heading": {
+    "message": "תכונת מוצר",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_image_alt_text": {
+    "message": "תכונת חבילה",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_heading": {
+    "message": "הירשמו לניוזלטר שלנו!",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_subheading": {
+    "message": "הירשם כדי להישאר בעניינים ולקבל את העדכונים האחרונים",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_heading": {
+    "message": "חבילת כלים מותאמת אישית לשימושכם",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_card_heading": {
+    "message": "עודדו אנשים לבקר במוצרים ובשירותים שלכם",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_button_text": {
+    "message": "יצירת קשר",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_image_alt_text": {
+    "message": "שירות",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_heading": {
+    "message": "חבילות ומחירים",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_heading": {
+    "message": "מתחילים",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_price": {
+    "message": "50$ לחודש",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_content": {
+    "message": "קנו חבילה התחלתית עכשיו",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_button_text": {
+    "message": "קנו חבילה התחלתית עכשיו",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_heading": {
+    "message": "Professional",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_price": {
+    "message": "$200 לחודש",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_content": {
+    "message": "רכשו עכשיו את חבילת Professional",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_button_text": {
+    "message": "רכשו עכשיו את חבילת Professional",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_heading": {
+    "message": "Enterprise",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_price": {
+    "message": "$600 לחודש",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_content": {
+    "message": "רכשו עכשיו את חבילת Enterprise",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_button_text": {
+    "message": "רכשו עכשיו את חבילת Enterprise",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_sub_heading": {
+    "message": "תכונות עיקריות מסוימות",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_heading": {
+    "message": "מוצרים",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_image_alt_text": {
+    "message": "הסיפור שלנו",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_description_heading": {
+    "message": "שם מוצר",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_button_text": {
+    "message": "יצירת קשר",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_heading": {
+    "message": "שירותים",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_description_heading": {
+    "message": "שם השירות",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_one": {
+    "message": "הסיפור שלנו",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_two": {
+    "message": "הערכים שלנו",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_three": {
+    "message": "ההיסטוריה שלנו",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_button_text": {
+    "message": "יצירת קשר",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_heading": {
+    "message": "המלצה",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_team_member_title_one": {
+    "message": "סגן נשיא מוצרים",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_heading": {
+    "message": "גלו מה אנשים חושבים",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_one": {
+    "message": "סגן נשיא מוצרים",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_two": {
+    "message": "סגן נשיא מכירות בכיר",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_three": {
+    "message": "סמנכ\"ל שיווק",
+    "description": "",
+    "placeholders": null
+  },
+  "section_video_heading": {
+    "message": "בואו לראות איך זה עובד",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading": {
+    "message": "שירותים",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_one_alt": {
+    "message": "שני אנשים מול מחשב",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_two_alt": {
+    "message": "שני אנשים מביטים בטלפון",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_three_alt": {
+    "message": "שני אנשים עובדים עם פתקיות דביקות על הקיר",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_one": {
+    "message": "בסיס",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_two": {
+    "message": "Pro",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_three": {
+    "message": "Enterprise",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_button_text": {
+    "message": "מידע נוסף",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_description": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_heading": {
+    "message": "שירותים",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_image_alt": {
+    "message": "אנשים יושבים על גרם מדרגות",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_heading": {
+    "message": "פיתוח זהות מותג",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_content": {
+    "message": "הצוות שלנו ייצור זהות מותג ייחודית ובלתי נשכחת שתשקף את מהות החברה שלך. נעצב לוגו בולט, נבחר פלטת צבעים שתשרה הרמוניה ונבסס סגנון ויזואלי תואם כדי לבדל את המותג.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_image_alt": {
+    "message": "אנשי המקצוע של העסק שלך מתבוננים במחשב נייד",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_heading": {
+    "message": "שיפור עיצוב UX/UI",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_content": {
+    "message": "שפר את שביעות הרצון ואת מעורבות המשתמש עם המומחיות שלנו בעיצוב UX/UI. אנו נערוך ניתוח יסודי של המוצרים הדיגיטליים שלך, נזהה את נקודות התורפה ונממש פתרונות המתמקדים במשתמש על מנת לשפר את חווית המשתמש הכוללת.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_image_alt": {
+    "message": "איש מקצוע בתחום השיווק בשיחה בחצר הראשית עם טאבלט בידו",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_heading": {
+    "message": "עיצוב חומר שיווקי",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_content": {
+    "message": "העלה את מאמצי השיווק שלך עם חומרים שיווקיים איכותיים. החל מחוברות ועלונים וכלה באלמנטים גרפיים במדיה החברתית, אנו ניצור ונעצב חומרים מרשימים אשר יתאימו במדויק לקהל היעד שלכם ויניבו תוצאות.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_button_text": {
+    "message": "מידע נוסף",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_banner_image_alt": {
+    "message": "קבוצה של אנשים מחייכים מביטים היישר אל המצלמה ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_heading": {
+    "message": "תמיכה במזווה מקומי",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_content_area_one": {
+    "message": "הצטרף אלינו למאמץ לחולל שינוי בחייהם של שכנינו באמצעות התמיכה במזווה המקומי שלנו. תרומתך תסייע באספקת מוצרי מזון חיוניים לאנשים פרטיים ולמשפחות המתמודדים עם חוסר ביטחון תזונתי ממש כאן, בקרב הקהילה שלנו.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_one_alt": {
+    "message": "שני אנשים מתבוננים בפתקיות דביקות על משטח זכוכית",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_two_alt": {
+    "message": "מכשיר טלפון מוחזק מול מעבד תשלומים",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_three_alt": {
+    "message": "אדם נוהג בטנדר עם שתי אריזות הצמודות למושב הנוסע ליד",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_heading": {
+    "message": "תרום כעת",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_message_and_amount": {
+    "message": "סכום מומלץ: $15.00",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_one_text": {
+    "message": "תרום $15.00",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_two_text": {
+    "message": "סכום מותאם אישית",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_three_text": {
+    "message": "שתף",
+    "description": "",
+    "placeholders": null
+  }
+}

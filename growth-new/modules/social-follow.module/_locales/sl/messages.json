@@ -1,0 +1,247 @@
+{
+  "name" : {
+    "message" : "Družbeni sledilci",
+    "description" : "",
+    "placeholders" : null
+  },
+  "social_links.accessibility_options.label" : {
+    "message" : "Možnosti dostopnosti",
+    "description" : "",
+    "placeholders" : null
+  },
+  "social_links.accessibility_options.title.default" : {
+    "message" : "Sledite nam na Facebook-u",
+    "description" : "",
+    "placeholders" : null
+  },
+  "social_links.accessibility_options.title.help_text" : {
+    "message" : "Prebere bralnik zaslona",
+    "description" : "",
+    "placeholders" : null
+  },
+  "social_links.accessibility_options.title.label" : {
+    "message" : "Naslov",
+    "description" : "",
+    "placeholders" : null
+  },
+  "social_links.custom_icon.label" : {
+    "message" : "Ikona po meri",
+    "description" : "",
+    "placeholders" : null
+  },
+  "social_links.label" : {
+    "message" : "Družbene povezave",
+    "description" : "",
+    "placeholders" : null
+  },
+  "social_links.link.label" : {
+    "message" : "Povezava",
+    "description" : "",
+    "placeholders" : null
+  },
+  "social_links.social_account.choices.custom_icon" : {
+    "message" : "Po meri",
+    "description" : "",
+    "placeholders" : null
+  },
+  "social_links.social_account.choices.envelope" : {
+    "message" : "E-pošta",
+    "description" : "",
+    "placeholders" : null
+  },
+  "social_links.social_account.choices.facebook-f" : {
+    "message" : "Facebook",
+    "description" : "",
+    "placeholders" : null
+  },
+  "social_links.social_account.choices.instagram" : {
+    "message" : "Instagram",
+    "description" : "",
+    "placeholders" : null
+  },
+  "social_links.social_account.choices.link" : {
+    "message" : "Spletno mesto",
+    "description" : "",
+    "placeholders" : null
+  },
+  "social_links.social_account.choices.linkedin-in" : {
+    "message" : "LinkedIn",
+    "description" : "",
+    "placeholders" : null
+  },
+  "social_links.social_account.choices.pinterest-p" : {
+    "message" : "Pinterest",
+    "description" : "",
+    "placeholders" : null
+  },
+  "social_links.social_account.choices.tiktok" : {
+    "message" : "TikTok",
+    "description" : "",
+    "placeholders" : null
+  },
+  "social_links.social_account.choices.twitter" : {
+    "message" : "Twitter",
+    "description" : "",
+    "placeholders" : null
+  },
+  "social_links.social_account.choices.whatsapp" : {
+    "message" : "Whatsapp",
+    "description" : "",
+    "placeholders" : null
+  },
+  "social_links.social_account.choices.youtube" : {
+    "message" : "YouTube",
+    "description" : "",
+    "placeholders" : null
+  },
+  "social_links.social_account.label" : {
+    "message" : "Družbeni račun",
+    "description" : "",
+    "placeholders" : null
+  },
+  "social_links.twitter_icon.choices.twitter" : {
+    "message" : "Twitter ptica",
+    "description" : "",
+    "placeholders" : null
+  },
+  "social_links.twitter_icon.choices.x-twitter" : {
+    "message" : "Twitter X",
+    "description" : "",
+    "placeholders" : null
+  },
+  "social_links.twitter_icon.label" : {
+    "message" : "Twitter ikona",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.alignment.alignment.label" : {
+    "message" : "Poravnava",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.alignment.label" : {
+    "message" : "Poravnava",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.background.color.label" : {
+    "message" : "Barva",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.background.label" : {
+    "message" : "Ozadje",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.corner.label" : {
+    "message" : "Kot",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.corner.radius.label" : {
+    "message" : "Polmer",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.fill.color.label" : {
+    "message" : "Barva",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.fill.label" : {
+    "message" : "Izpolni",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "Stili",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.help_text" : {
+    "message" : "S prednastavitvami hitro prilagodite videz izbranega elementa vnaprej določenim vrednostim.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_color.choices.dark" : {
+    "message" : "Temno",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_color.choices.light" : {
+    "message" : "Svetloba",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_color.label" : {
+    "message" : "Barva ikone",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_shape.choices.circle" : {
+    "message" : "Krog",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_shape.choices.square" : {
+    "message" : "Kvadrat",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_shape.label" : {
+    "message" : "Oblika ikone",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_size.choices.large" : {
+    "message" : "Veliko",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_size.choices.regular" : {
+    "message" : "Običajno",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_size.choices.small" : {
+    "message" : "Majhno",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_size.label" : {
+    "message" : "Velikost ikone",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.label" : {
+    "message" : "Prednastavitve",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.size.label" : {
+    "message" : "Velikost",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.size.size.label" : {
+    "message" : "Velikost",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.spacing.label" : {
+    "message" : "Razmik",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.spacing.space_between_icons.label" : {
+    "message" : "Prostor med ikonami",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.spacing.spacing.label" : {
+    "message" : "Razmik",
+    "description" : "",
+    "placeholders" : null
+  }
+}

@@ -1,0 +1,759 @@
+<!--
+  templateType: page
+  isAvailableForNewContent: false
+  label: Sections with context testing
+  screenshotPath: ../images/template-previews/blank.png
+-->
+
+{% set generated_content = {
+   "about": {
+      "heading": "About heading",
+      "content": "About content",
+      "image": {
+        "src": "https://103910726.fs1.hubspotusercontentqa-na1.net/hubfs/103910726/hs_logo.png",
+        "alt": "Hubspot logo",
+        "height": 500,
+        "width": 500
+      },
+      "sub_heading": "About sub heading",
+      "sub_content": "About sub content"
+    },
+    "blog_posts": {
+      "heading": "Recent blogs",
+      "content": "Read more about our posts",
+    },
+    "products": {
+      "heading": "Products header",
+      "content": "Products content",
+      "button": {
+        "text": "Products button",
+        "href": "https://www.hubspot.com/"
+      },
+      "items": [
+        {
+          "heading": "Product heading one",
+          "content": "Product content one",
+          "image": {
+            "src": "https://103910726.fs1.hubspotusercontentqa-na1.net/hubfs/103910726/hs_logo.png",
+            "alt": "Hubspot logo",
+            "height": 500,
+            "width": 500
+          },
+        },
+        {
+          "heading": "Product heading two",
+          "content": "Product content two",
+          "image": {
+            "src": "https://103910726.fs1.hubspotusercontentqa-na1.net/hubfs/103910726/hs_logo.png",
+            "alt": "Hubspot logo",
+            "height": 500,
+            "width": 500
+          },
+        },
+        {
+          "heading": "Product heading three",
+          "content": "Product content three",
+          "image": {
+            "src": "https://103910726.fs1.hubspotusercontentqa-na1.net/hubfs/103910726/hs_logo.png",
+            "alt": "Hubspot logo",
+            "height": 500,
+            "width": 500
+          },
+        }
+      ]
+    },
+    "services": {
+      "heading": "Services heading",
+      "content": "Services content",
+      "button": {
+        "text": "Services button",
+        "href": "https://www.hubspot.com/"
+      },
+      "items": [
+        {
+          "heading": "Service heading one",
+          "content": "Service content one",
+          "image": {
+            "src": "https://103910726.fs1.hubspotusercontentqa-na1.net/hubfs/103910726/hs_logo.png",
+            "alt": "Hubspot logo",
+            "height": 500,
+            "width": 500
+          },
+        },
+        {
+          "heading": "Service heading two",
+          "content": "Service content two",
+          "image": {
+            "src": "https://103910726.fs1.hubspotusercontentqa-na1.net/hubfs/103910726/hs_logo.png",
+            "alt": "Hubspot logo",
+            "height": 500,
+            "width": 500
+          },
+        },
+        {
+          "heading": "Service heading three",
+          "content": "Service content three",
+          "image": {
+            "src": "https://103910726.fs1.hubspotusercontentqa-na1.net/hubfs/103910726/hs_logo.png",
+            "alt": "Hubspot logo",
+            "height": 500,
+            "width": 500
+          },
+        }
+      ]
+    },
+    "contact": {
+      "heading": "Contact heading",
+      "content": "Contact content",
+      "items": [
+        {
+          "icon": "thumbtack",
+          "content": "Contact item one"
+        },
+        {
+          "icon": "bell",
+          "content": "Contact item two"
+        },
+        {
+          "icon": "users",
+          "content": "Contact item three"
+        }
+      ]
+    },
+    "hero_banner": {
+      "heading": "Hero banner heading",
+      "content": "Hero banner content",
+      "button": {
+        "text": "Hero banner button",
+        "href": "https://www.hubspot.com/"
+      },
+    },
+    "call_to_action": {
+      "heading": "Call to action heading",
+      "content": "Call to action content",
+      "button": {
+        "text": "Call to action button",
+        "href": "https://www.hubspot.com/"
+      },
+    },
+     "value_props": {
+      "heading": "Icon and copy heading",
+      "content": "Icon and copy content",
+      "items": [
+        {
+          "icon": "wifi",
+          "heading": "Item heading 1",
+          "content": "Item content 1"
+        },
+        {
+          "icon": "paper-plane",
+          "heading": "Item heading 2",
+          "content": "Item content 2"
+        },
+        {
+          "icon": "retweet",
+          "heading": "Item heading 3",
+          "content": "Item content 3"
+        }
+      ],
+    },
+    "meetings_banner": {
+      "heading": "Meetings banner heading",
+      "content": "Meetings banner content",
+    },
+    "multi_column_content": {
+      "heading": "Multi column heading",
+      "content": "Multi column content content",
+      "items": [
+        {
+          "heading": "Item heading 1",
+          "sub_heading": "Item subheading 1",
+          "content": "Item content 1",
+          "image": {
+            "src": "https://103910726.fs1.hubspotusercontentqa-na1.net/hubfs/103910726/hs_logo.png",
+            "alt": "Hubspot logo",
+            "height": 500,
+            "width": 500
+          },
+        },
+        {
+          "heading": "Item heading 2",
+          "sub_heading": "Item subheading 2",
+          "content": "Item content 2",
+          "image": {
+            "src": "https://103910726.fs1.hubspotusercontentqa-na1.net/hubfs/103910726/hs_logo.png",
+            "alt": "Hubspot logo",
+            "height": 500,
+            "width": 500
+          },
+        },
+        {
+          "heading": "Item heading 3",
+          "sub_heading": "Item subheading 3",
+          "content": "Item content 3",
+          "image": {
+            "src": "https://103910726.fs1.hubspotusercontentqa-na1.net/hubfs/103910726/hs_logo.png",
+            "alt": "Hubspot logo",
+            "height": 500,
+            "width": 500
+          },
+        }
+      ],
+    },
+    "multi_row_content": {
+      "heading": "Multi row content heading",
+      "content": "Multi row content content",
+      "button": {
+        "text": "Multi row content button",
+        "href": "https://www.google.com/"
+      },
+      "image": {
+        "src": "https://103910726.fs1.hubspotusercontentqa-na1.net/hubfs/103910726/hs_logo.png",
+        "alt": "Hubspot logo",
+        "height": 500,
+        "width": 500
+      }
+    },
+    "newsletter": {
+      "heading": "Newsletter heading",
+      "sub_heading": "Newsletter subheading",
+    },
+    "pricing": {
+      "heading": "Pricing heading",
+      "content": "Pricing content",
+      "items": [
+        {
+          "heading": 'Pricing card heading 1',
+          "sub_heading": 'Pricing card subheading 1',
+          "button": {
+            "text": "Pricing card button 1",
+            "href": "https://www.google.com/"
+          },
+          "descriptions": [
+            {
+              "content": "Pricing description 1-1"
+            },
+            {
+              "content": "Pricing description 1-2"
+            },
+            {
+              "content": "Pricing description 1-3"
+            }
+          ]
+        },
+        {
+          "heading": 'Pricing card heading 2',
+          "sub_heading": 'Pricing card subheading 2',
+          "button": {
+            "text": "Pricing card button 2",
+            "href": "https://www.google.com/"
+          },
+          "descriptions": [
+            {
+              "content": "Pricing description 2-1"
+            },
+            {
+              "content": "Pricing description 2-2"
+            },
+            {
+              "content": "Pricing description 2-3"
+            }
+          ]
+        },
+        {
+          "heading": 'Pricing card heading 3',
+          "sub_heading": 'Pricing card subheading 3',
+          "button": {
+            "text": "Pricing card button 3",
+            "href": "https://www.google.com/"
+          },
+          "descriptions": [
+            {
+              "content": "Pricing description 3-1"
+            },
+            {
+              "content": "Pricing description 3-2"
+            },
+            {
+              "content": "Pricing description 3-3"
+            }
+          ]
+        }
+      ],
+    },
+    "testimonials": {
+      "heading": 'Testimonial heading',
+      "content": 'Testimonial content',
+      "items": [
+        {
+          "content": 'Testimonial content 1',
+          "author": {
+            "name": 'Testimonial author 1',
+            "image": {
+              "src": "https://103910726.fs1.hubspotusercontentqa-na1.net/hubfs/103910726/hs_logo.png"
+            }
+          }
+        },
+        {
+          "content": 'Testimonial content 2',
+          "author": {
+            "name": 'Testimonial author 2',
+            "image": {
+              "src": "https://103910726.fs1.hubspotusercontentqa-na1.net/hubfs/103910726/hs_logo.png"
+            }
+          }
+        },
+        {
+          "content": 'Testimonial content 3',
+          "author": {
+            "name": 'Testimonial 3 Author',
+            "image": {
+              "src": "https://103910726.fs1.hubspotusercontentqa-na1.net/hubfs/103910726/hs_logo.png"
+            }
+          }
+        }
+      ]
+    },
+    "video": {
+      "heading": "Video heading",
+      "content": "Video content"
+    },
+    "gallery": {
+      "heading": "Gallery heading",
+      "content": "Gallery content",
+      "images": [
+        {
+          "image": {
+            "src": "https://103910726.fs1.hubspotusercontentqa-na1.net/hubfs/103910726/hs_logo.png",
+            "alt": "Hubspot logo",
+            "hover_message": "Hover message 1"
+          }
+        },
+        {
+          "image": {
+            "src": "https://103910726.fs1.hubspotusercontentqa-na1.net/hubfs/103910726/hs_logo.png",
+            "alt": "Hubspot logo",
+            "hover_message": "Hover message 2"
+          }
+        },
+        {
+          "image": {
+            "src": "https://103910726.fs1.hubspotusercontentqa-na1.net/hubfs/103910726/hs_logo.png",
+            "alt": "Hubspot logo",
+            "hover_message": "Hover message 3"
+          }
+        },
+        {
+          "image": {
+            "src": "https://103910726.fs1.hubspotusercontentqa-na1.net/hubfs/103910726/hs_logo.png",
+            "alt": "Hubspot logo",
+            "hover_message": "Hover message 4"
+          }
+        },
+        {
+          "image": {
+            "src": "https://103910726.fs1.hubspotusercontentqa-na1.net/hubfs/103910726/hs_logo.png",
+            "alt": "Hubspot logo",
+            "hover_message": "Hover message 5"
+          }
+        },
+        {
+          "image": {
+            "src": "https://103910726.fs1.hubspotusercontentqa-na1.net/hubfs/103910726/hs_logo.png",
+            "alt": "Hubspot logo",
+            "hover_message": "Hover message 6"
+          }
+        },
+        {
+          "image": {
+            "src": "https://103910726.fs1.hubspotusercontentqa-na1.net/hubfs/103910726/hs_logo.png",
+            "alt": "Hubspot logo",
+            "hover_message": "Hover message 7"
+          }
+        },
+        {
+          "image": {
+            "src": "https://103910726.fs1.hubspotusercontentqa-na1.net/hubfs/103910726/hs_logo.png",
+            "alt": "Hubspot logo",
+            "hover_message": "Hover message 8"
+          }
+        },
+        {
+          "image": {
+            "src": "https://103910726.fs1.hubspotusercontentqa-na1.net/hubfs/103910726/hs_logo.png",
+            "alt": "Hubspot logo",
+            "hover_message": "Hover message 9"
+          }
+        }
+      ]
+    },
+    "offer":{
+      "heading": "Offer heading",
+      "content": "Offer content",
+      "items": [
+        {
+          "heading": "Offer card heading 1",
+          "content": "Offer card content 1",
+          "image_or_icon": "image",
+          "image": {
+            "src": "https://103910726.fs1.hubspotusercontentqa-na1.net/hubfs/103910726/hs_logo.png",
+            "alt": "Hubspot logo"
+          },
+          "button": {
+            "text": "Offer card button 1",
+            "href": "https://www.google.com/"
+          }
+        },
+        {
+          "heading": "Offer card heading 2",
+          "content": "Offer card content 2",
+          "image_or_icon": "image",
+          "image": {
+            "src": "https://103910726.fs1.hubspotusercontentqa-na1.net/hubfs/103910726/hs_logo.png",
+            "alt": "Hubspot logo"
+          },
+          "button": {
+            "text": "Offer card button 2",
+            "href": "https://www.google.com/"
+          }
+        },
+        {
+          "heading": "Offer card heading 3",
+          "content": "Offer card content 3",
+          "icon": "envelope",
+          "image_or_icon": "icon",
+          "button": {
+            "text": "Offer card button 3",
+            "href": "https://www.google.com/"
+          }
+        }
+      ]
+    },
+    "featured_product": {
+      "heading": "Featured product heading",
+      "content": "Featured product content",
+      "image": {
+        "src": "https://103910726.fs1.hubspotusercontentqa-na1.net/hubfs/103910726/hs_logo.png",
+        "alt": "Hubspot logo"
+      },
+      "button": {
+        "text": "Featured product button",
+        "href": "https://www.google.com/"
+      },
+      "items": [
+        {
+          "heading": "Product description heading 1",
+          "content": "Product description content 1"
+        },
+        {
+          "heading": "Product description heading 2",
+          "content": "Product description content 2"
+        },
+        {
+          "heading": "Product description heading 3",
+          "content": "Product description content 3"
+        }
+      ]
+    },
+    "hero_banner_video": {
+      "heading": "Hero banner video",
+      "content": "Hero banner video content",
+      "button": {
+        "text": "Hero banner video button",
+        "href": "https://www.hubspot.com/"
+      }
+    },
+    "testimonial_quote": {
+      "heading": "Testimonial quote heading",
+      "content": "Testimonial quote content",
+      "items": [
+        {
+          "content": "Testimonial quote content",
+          "author": {
+            "name": "Testimonial quote author",
+            "image": {
+              "src": "https://103910726.fs1.hubspotusercontentqa-na1.net/hubfs/103910726/hs_logo.png",
+            }
+          }
+        }
+      ]
+    },
+    "contact_full": {
+      "heading": "Quote contact full heading",
+      "content": "Quote contact full content",
+      "form_id": "5872d05d-52bb-404a-b599-ad89a7ebe38a"
+    },
+    "blog_posts_list": {
+      "heading": "Blog post list heading",
+      "content": "Blog post list content"
+    },
+    "gallery": {
+      "heading": "Gallery heading",
+      "content": "Gallery content",
+      "items": [
+        {
+          "image": {
+            "src": "https://103910726.fs1.hubspotusercontentqa-na1.net/hubfs/103910726/hs_logo.png",
+            "alt": "Hubspot logo",
+            "hover_message": "Hover message 1"
+          }
+        },
+        {
+          "image": {
+            "src": "https://103910726.fs1.hubspotusercontentqa-na1.net/hubfs/103910726/hs_logo.png",
+            "alt": "Hubspot logo",
+            "hover_message": "Hover message 2"
+          }
+        },
+        {
+          "image": {
+            "src": "https://103910726.fs1.hubspotusercontentqa-na1.net/hubfs/103910726/hs_logo.png",
+            "alt": "Hubspot logo",
+            "hover_message": "Hover message 3"
+          }
+        },
+        {
+          "image": {
+            "src": "https://103910726.fs1.hubspotusercontentqa-na1.net/hubfs/103910726/hs_logo.png",
+            "alt": "Hubspot logo",
+            "hover_message": "Hover message 4"
+          }
+        },
+        {
+          "image": {
+            "src": "https://103910726.fs1.hubspotusercontentqa-na1.net/hubfs/103910726/hs_logo.png",
+            "alt": "Hubspot logo",
+            "hover_message": "Hover message 5"
+          }
+        },
+        {
+          "image": {
+            "src": "https://103910726.fs1.hubspotusercontentqa-na1.net/hubfs/103910726/hs_logo.png",
+            "alt": "Hubspot logo",
+            "hover_message": "Hover message 6"
+          }
+        },
+        {
+          "image": {
+            "src": "https://103910726.fs1.hubspotusercontentqa-na1.net/hubfs/103910726/hs_logo.png",
+            "alt": "Hubspot logo",
+            "hover_message": "Hover message 7"
+          }
+        },
+        {
+          "image": {
+            "src": "https://103910726.fs1.hubspotusercontentqa-na1.net/hubfs/103910726/hs_logo.png",
+            "alt": "Hubspot logo",
+            "hover_message": "Hover message 8"
+          }
+        },
+        {
+          "image": {
+            "src": "https://103910726.fs1.hubspotusercontentqa-na1.net/hubfs/103910726/hs_logo.png",
+            "alt": "Hubspot logo",
+            "hover_message": "Hover message 9"
+          }
+        }
+      ]
+    }
+}
+%}
+
+{% extends "../layouts/base.html" %}
+
+{% block body %}
+{% dnd_area "dnd_area"
+  label="Growth theme sections"
+%}
+
+    {% include_dnd_partial path="../../sections/about.html"
+      context={
+        "heading": generated_content.about.heading,
+        "content": generated_content.about.content,
+        "sub_heading": generated_content.about.sub_heading,
+        "sub_content": generated_content.about.sub_content,
+        "image": generated_content.about.image,
+      }
+    %}
+
+    {% include_dnd_partial path="../../sections/blog-posts.html"
+      context={
+        "heading": generated_content.blog_posts.heading,
+        "content": generated_content.blog_posts.content
+      }
+    %}
+
+    {% include_dnd_partial path="../../sections/products.html"
+      context={
+        "heading": generated_content.products.heading,
+        "content": generated_content.products.content,
+        "products": generated_content.products.items,
+        "button": generated_content.products.button
+      }
+    %}
+
+    {% include_dnd_partial path="../../sections/services.html"
+      context={
+        "heading": generated_content.services.heading,
+        "content": generated_content.services.content,
+        "services": generated_content.services.items,
+        "button": generated_content.services.button
+      }
+    %}
+
+    {% include_dnd_partial path="../../sections/contact.html"
+      context={
+        "heading": generated_content.contact.heading,
+        "content": generated_content.contact.content,
+        "list": generated_content.contact.items,
+        "button_text": generated_content.contact.button_text
+      }
+    %}
+
+
+    {% include_dnd_partial path="../../sections/hero-banner.html"
+      context={
+        "heading": generated_content.hero_banner.heading,
+        "content": generated_content.hero_banner.content,
+        "button": generated_content.hero_banner.button
+      }
+    %}
+
+    {% include_dnd_partial path="../../sections/call-to-action.html"
+      context={
+        "heading": generated_content.call_to_action.heading,
+        "content": generated_content.call_to_action.content,
+        "button": generated_content.call_to_action.button
+      }
+    %}
+
+    {% include_dnd_partial path="../../sections/icon-and-copy.html"
+      context={
+        "heading": generated_content.value_props.heading,
+        "content": generated_content.value_props.content,
+        "columns": generated_content.value_props.items
+      }
+    %}
+
+    {% include_dnd_partial path="../../sections/meetings-banner.html"
+      context={
+        "heading": generated_content.meetings_banner.heading,
+        "content": generated_content.meetings_banner.content,
+      }
+    %}
+
+
+    {% include_dnd_partial path="../../sections/multi-column-content.html"
+      context={
+        "heading": generated_content.multi_column_content.heading,
+        "content": generated_content.multi_column_content.content,
+        "columns": generated_content.multi_column_content.items
+      }
+    %}
+
+    {% include_dnd_partial path="../../sections/multi-row-content.html"
+      context={
+        "image": generated_content.multi_row_content.image,
+        "heading": generated_content.multi_row_content.heading,
+        "content": generated_content.multi_row_content.content,
+        "button": generated_content.multi_row_content.button
+      }
+    %}
+
+    {% include_dnd_partial path="../../sections/newsletter.html"
+      context={
+        "heading": generated_content.newsletter.heading,
+        "sub_heading": generated_content.newsletter.sub_heading,
+      }
+    %}
+
+    {% include_dnd_partial path="../../sections/offer.html"
+      context={
+        "heading": generated_content.offer.heading,
+        "content": generated_content.offer.content,
+        "cards": generated_content.offer.items
+      }
+    %}
+
+    {% include_dnd_partial path="../../sections/pricing.html"
+      context={
+        "heading": generated_content.pricing.heading,
+        "content": generated_content.pricing.content,
+        "pricing_cards": generated_content.pricing.items
+      }
+    %}
+
+    {% include_dnd_partial path="../../sections/testimonials.html"
+      context={
+        "heading": generated_content.testimonials.heading,
+        "content": generated_content.testimonials.content,
+        "testimonials": generated_content.testimonials.items
+      }
+    %}
+
+    {% include_dnd_partial path="../../sections/video.html"
+      context={
+        "heading": generated_content.video.heading,
+        "content": generated_content.video.content,
+      }
+    %}
+
+    {% include_dnd_partial path="../../sections/gallery.html"
+      context={
+        "heading": generated_content.gallery.heading,
+        "content": generated_content.gallery.content,
+        "images": generated_content.gallery.items
+      }
+    %}
+
+    {% include_dnd_partial path="../../sections/featured-product.html"
+      context={
+        "heading": generated_content.featured_product.heading,
+        "content": generated_content.featured_product.content,
+        "button": generated_content.featured_product.button,
+        "image": generated_content.featured_product.image,
+        "descriptions": generated_content.featured_product.items,
+      }
+    %}
+
+    {% include_dnd_partial path="../../sections/hero-banner-video.html"
+      context={
+        "heading": generated_content.hero-banner-video.heading,
+        "content": generated_content.hero-banner-video.content,
+        "button": generated_content.hero-banner-video.button,
+      }
+    %}
+
+    {% include_dnd_partial path="../../sections/testimonial-quote.html"
+      context={
+        "heading": generated_content.testimonial_quote.heading,
+        "content": generated_content.testimonial_quote.content,
+        "testimonial": generated_content.testimonial_quote.items[0],
+      }
+    %}
+
+    {% include_dnd_partial path="../../sections/contact-full.html"
+      context={
+        "heading": generated_content.contact_full.heading,
+        "content": generated_content.contact_full.content,
+        "form_id": generated_content.contact_full.form_id,
+      }
+    %}
+
+    {% include_dnd_partial path="../../sections/blog-posts-list.html"
+      context={
+        "heading": generated_content.blog_posts_list.heading,
+        "content": generated_content.blog_posts_list.content,
+      }
+    %}
+
+    {% include_dnd_partial path="../../sections/gallery-carousel.html"
+      context={
+        "heading": generated_content.gallery.heading,
+        "content": generated_content.gallery.content,
+        "images": generated_content.gallery.items
+      }
+    %}
+
+{% end_dnd_area %}
+{% endblock body %}

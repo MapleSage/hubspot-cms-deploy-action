@@ -1,0 +1,213 @@
+[
+  {
+    "name": "banner",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that describes the focus of the page. Will be supported by the banner content."
+      },
+      {
+        "name": "content",
+        "type": "text",
+        "description": "A small summary of what the page will be about. Should support the heading."
+      },
+      {
+        "name": "call_to_action",
+        "type": "text",
+        "description": "The text used in the banner button. Should be related to the main action of the page. For example if the focus of the page is to register for the event this might say 'Register now'."
+      }
+    ]
+  },
+  {
+    "name": "logo_wall",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that prefaces a logo wall on a webpage. Must be relevant to the page focus and why logos would be helpful on this page."
+      }
+    ]
+  },
+  {
+    "name": "about",
+    "type": "group",
+    "children": [
+      {
+        "name": "image",
+        "type": "image",
+        "description": "An image about the main topic of the page. Will be used on a website as an 'about' supporting image. Do not include text in the image.",
+        "width": 497,
+        "height": 284
+      },
+      {
+        "name": "preface",
+        "type": "text",
+        "description": "A brief heading describing what the page focus / offering is."
+      },
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "An active phrase describing the following bullet points"
+      },
+      {
+        "name": "bullet_intro",
+        "type": "text",
+        "description": "Two or three word heading labeling the bullet point section below. 'Event highlights' would be appropriate if the page's focus was an event registration."
+      },
+      {
+        "name": "bullet_one",
+        "type": "group",
+        "children": [
+          {
+            "name": "heading",
+            "type": "text",
+            "description": "Two or three word summary of the following bullet point content."
+          },
+          {
+            "name": "content",
+            "type": "text",
+            "description": "A short but descriptive bullet point related to the benefit gained by the focus of the page. Should align with the preceding bullet heading."
+          }
+        ]
+      },
+      {
+        "name": "bullet_two",
+        "type": "group",
+        "children": [
+          {
+            "name": "heading",
+            "type": "text",
+            "description": "Two or three word summary of the following bullet point content."
+          },
+          {
+            "name": "content",
+            "type": "text",
+            "description": "A short but descriptive bullet point related to the benefit gained by the focus of the page. Should align with the preceding bullet heading."
+          }
+        ]
+      },
+      {
+        "name": "bullet_three",
+        "type": "group",
+        "children": [
+          {
+            "name": "heading",
+            "type": "text",
+            "description": "Two or three word summary of the following bullet point content."
+          },
+          {
+            "name": "content",
+            "type": "text",
+            "description": "A short but descriptive bullet point related to the benefit gained by the focus of the page. Should align with the preceding bullet heading."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "stats",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "Two or three word introducing a website metrics / statistics section. Related, if possible, to the focus of the page."
+      },
+      {
+        "name": "stat_one",
+        "type": "group",
+        "children": [
+          {
+            "name": "stat",
+            "type": "text",
+            "description": "A statistic, only the number and a helper character if needed (+, %, -, etc). Cannot include a word but can include an abbreviated unit (hrs, mins, px, mi)"
+          },
+          {
+            "name": "content",
+            "type": "text",
+            "description": "A short but informative sentence describing the statistic above. The statistic shouldn't be a date and should be some kind of number based metric related to success outcomes of the page's focus"
+          }
+        ]
+      },
+      {
+        "name": "stat_two",
+        "type": "group",
+        "children": [
+          {
+            "name": "stat",
+            "type": "text",
+            "description": "A statistic, only the number and a helper character if needed (+, %, -, etc). Cannot include a word but can include an abbreviated unit (hrs, mins, px, mi)"
+          },
+          {
+            "name": "content",
+            "type": "text",
+            "description": "A short but informative sentence describing the statistic above. The statistic shouldn't be a date and should be some kind of number based metric related to success outcomes of the page's focus"
+          }
+        ]
+      },
+      {
+        "name": "stat_three",
+        "type": "group",
+        "children": [
+          {
+            "name": "stat",
+            "type": "text",
+            "description": "A statistic, only the number and a helper character if needed (+, %, -, etc). Cannot include a word but can include an abbreviated unit (hrs, mins, px, mi)"
+          },
+          {
+            "name": "content",
+            "type": "text",
+            "description": "A short but informative sentence describing the statistic above. The statistic shouldn't be a date and should be some kind of number based metric related to success outcomes of the page's focus"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "video",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that introduces a video section of a website. The video's content relates to the main focus of the page."
+      },
+      {
+        "name": "content",
+        "type": "text",
+        "description": "A short, two to three sentences, summary of what a visitor might expect from watching the video that follows this copy. The video relates to the focus of the page."
+      }
+    ]
+  },
+  {
+    "name": "call_to_action",
+    "type": "group",
+    "children": [
+      {
+        "name": "background_image",
+        "type": "image",
+        "description": "A background image for a website section. The image should be darker (contain an overlay) so that white text will look good on it. The image should not include any text. It should be related to the focus of the page.",
+        "width": 1792,
+        "height": 1024
+      },
+      {
+        "name": "preface",
+        "type": "text",
+        "description": "A catchy phrase that introduces the a call to action section. Captivating and short."
+      },
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A final sentence that should drive engagement for a visitor to click on the button below."
+      },
+      {
+        "name": "button_text",
+        "type": "text",
+        "description": "The text used in the button. Should be related to the main action of the page. For example if the focus of the page is to register for the event this might say 'Register now'."
+      }
+    ]
+  }
+]

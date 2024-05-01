@@ -1,0 +1,1662 @@
+{
+  "partial_header_skip_to_content": {
+    "message": "İçeriğe atla",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_address": {
+    "message": "123 Main Street, City, State 11111",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_copyright": {
+    "message": "Telif hakkı © {{ year }}, {{ site_settings.company_name }}",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_one": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_two": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_three": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\"",
+    "description": "",
+    "placeholders": null
+  },
+  "about_banner_heading": {
+    "message": "Hakkımızda",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_one": {
+    "message": "Hikayemiz",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_two": {
+    "message": "Değerlerimiz",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_three": {
+    "message": "Tarihimiz",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_four": {
+    "message": "Ekibimiz",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_five": {
+    "message": "Kültürümüz",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_six": {
+    "message": "Şirket haberleri",
+    "description": "",
+    "placeholders": null
+  },
+  "about_image_alt_text": {
+    "message": "Şirket",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_one_title": {
+    "message": "CEO ve Kurucu",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_two_title": {
+    "message": "Baş Operasyon Sorumlusu",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_three_title": {
+    "message": "Baş Teknoloji Sorumlusu",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_four_title": {
+    "message": "Baş Finans Sorumlusu",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_five_title": {
+    "message": "Baş Dizayn Sorumlusu",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_six_title": {
+    "message": "Baş İnsan Kaynakları Sorumlusu",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_description": {
+    "message": "Ekip üyenizin benzersiz uzmanlığını, deneyimini ve ilgi alanlarını vurgulayın. Bunu kısa ama ilgi çekici tutun, profesyonel yolculuklarını ve ortaya koymuş oldukları değerli becerileri sergileyin.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_index_heading": {
+    "message": "Blog",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_heading": {
+    "message": "Blog yorumları",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_heading": {
+    "message": "Gelişim konferansı",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_date": {
+    "message": "5 - 8 Eylül",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_text": {
+    "message": "Bilet alın",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_content": {
+    "message": "Bilet alın",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_one": {
+    "message": "Şimdi satın alın",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_two": {
+    "message": "Bilet alın",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_one": {
+    "message": "Hakkında",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_two": {
+    "message": "Konuşmacı paneli",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_three": {
+    "message": "Sponsorlar",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_four": {
+    "message": "Videonuz için bir slogan ekleyin",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_five": {
+    "message": "Referanslar",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_six": {
+    "message": "Biletler",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_one": {
+    "message": "Gelişim Konferansı, müşterilere kuruluşunuzun etkinlik konferansının onlara sağlayabileceği değeri göstermek amacıyla kullanılabilecek bir şablondur. Konferansınızın temasını ve müşterilerin neden bilet alması gerektiğini açıklayın.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_two": {
+    "message": "Buraya konuşmacılarınızın kısa bir açıklamasını ekleyin. Kitleniz niçin onlardan haber alsın? Konuşmalarında ele alacakları bir tema var mı? Onları benzersiz yapan nedir? Okuyucuya, bunların niçin sergilemek istediğiniz konuşmacılar olduğu konusunda fikir vermek için bu alanı kullanın.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_three": {
+    "message": "Konuşmacınızın biyografisini burada özetleyin. Sunum konularıyla ilgili bir cümle de ekleyebilirsiniz.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_four": {
+    "message": "Bu, etkinliğinizin ne kadar müthiş olduğu hakkında sosyal kanıt sağlama şansınız. İnsanların etkinliğinizin değerini anlamalarına yardımcı olacak referanslar ekleyin.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_five": {
+    "message": "Konferansınızın temasını tanımlayın, potansiyel müşterilerinize konferansta neler olduğu hakkında bir fikir verin ve onlara neden bilet almaları gerektiğini söyleyin. Etkinliğinize dokunmadan bilet satmak için bu şablonları kullanın.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_heading": {
+    "message": "Genel Bilet",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_price": {
+    "message": "199 ABD Doları",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_heading": {
+    "message": "VIP",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_price": {
+    "message": "449 ABD Doları",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_one": {
+    "message": "Müşterinizin bu aşamayı satın alması durumunda elde edeceği tüm heyecan verici avantajları listeleyin.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_two": {
+    "message": "Konferansta onlar için hangi ağ oluşturma ve öğrenme fırsatları mevcut?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_three": {
+    "message": "Konferansın hangi bölümlerine erişebilirler?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_four": {
+    "message": "Herhangi bir kayıtlı programa erişimleri var mı?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_five": {
+    "message": "Yiyecek, ulaşım ve konaklama seçenekleri nelerdir?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_six": {
+    "message": "VIP müşterinizin bu aşamayı satın alması durumunda elde edeceği tüm heyecan verici avantajları listeleyin.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_one": {
+    "message": "CEO ve Kurucu",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_two": {
+    "message": "Baş Operasyon Sorumlusu",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_three": {
+    "message": "Baş Teknoloji Sorumlusu",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_content": {
+    "message": "Bilet alın",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_image_alt_text": {
+    "message": "Konuşmacı fotoğrafı",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_one": {
+    "message": "Bizimle ulaşın",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_two": {
+    "message": "Konumlarımız",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_three": {
+    "message": "İletişime geçin",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_four": {
+    "message": "Sıkça sorulan sorular",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_heading": {
+    "message": "İçerik Kütüphanesi",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_content": {
+    "message": "Öğrenip gelişmenize yardımcı olacak kaynak kütüphanesi ve dijital değerler.",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_one": {
+    "message": "<h3>San Francisco</h3><p>3870 Twin Oaks Drive<br> San Francisco, CA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_two": {
+    "message": "<h3>Chicago</h3><p>2140 Roguski Road<br> Chicago, IL</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_three": {
+    "message": "<h3>Boston</h3><p>123 Waverly Place<br> Boston, MA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_question": {
+    "message": "Akordeon başlığı",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_heading": {
+    "message": "Sayfa bulunamadı",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_description": {
+    "message": "Aradığınız sayfayı bulamıyoruz.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_button": {
+    "message": "Ana sayfaya gidin",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_heading": {
+    "message": "Sayfa çalışmıyor",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_description": {
+    "message": "Dahili bir sunucu hatası oluştu ancak, üzerinde çalışıyoruz!",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_button": {
+    "message": "Ana sayfaya gidin",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_heading": {
+    "message": "Üzgünüz, erişiminiz yok",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_description": {
+    "message": "Bu sayfayı görüntüleme izniniz yok. Sorularınız için sitenin yöneticisiyle iletişime geçin.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_button": {
+    "message": "Ana sayfaya gidin",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_heading": {
+    "message": "Oturum aç",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_subheading": {
+    "message": "Görüntülemeye çalıştığınız sayfa yalnızca kayıtlı kullanıcılar tarafından kullanılabilir.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_email": {
+    "message": "E-posta",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_password": {
+    "message": "Şifre",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_remember_me": {
+    "message": "Beni hatırla",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_reset_password": {
+    "message": "Şifenizi mi unuttunuz?",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_submit": {
+    "message": "Oturum aç",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_show_password": {
+    "message": "Göster",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_contact_admin": {
+    "message": "Sorun mu yaşıyorsunuz? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Sitenin yöneticisine başvurun</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_heading": {
+    "message": "Çıkış yaptınız",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_button": {
+    "message": "Tekrar giriş yapın",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_alt": {
+    "message": "Veya <a href=\"{{ '//' ~ request.domain }}\">anasayfa</a>'ya geri dönün",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_heading": {
+    "message": "Şifrenizi oluşturun",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_subheading": {
+    "message": "Hoş geldiniz! Şifrenizi oluşturarak kaydınızı tamamlayın.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_email": {
+    "message": "E-posta",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_confirm_password": {
+    "message": "Şifreyi onaylayın",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_password": {
+    "message": "Şifre",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_save_password": {
+    "message": "Şifreyi kaydet",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_show_password": {
+    "message": "Göster",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_contact_admin": {
+    "message": "Sorun mu yaşıyorsunuz? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Sitenin yöneticisine başvurun</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_heading": {
+    "message": "E-posta adresiniz onaylandı",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_description": {
+    "message": "E-posta adresinizi doğruladığınız için teşekkür ederiz. Artık hesabınıza giriş yapabilir ve özel içeriğinize erişebilirsiniz.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_button": {
+    "message": "Oturum aç",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_contact_admin": {
+    "message": "Sorun mu yaşıyorsunuz? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Sitenin yöneticisine başvurun</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_heading": {
+    "message": "Yeni bir şifre oluşturun",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_subheading": {
+    "message": "Yeni şifreniz daha önce kullandığınız şifrenizden farklı olmalıdır.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_new_password": {
+    "message": "Yeni şifre",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_confirm_password": {
+    "message": "Yeni şifreyi onaylayın",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_save_password": {
+    "message": "Şifreyi kaydet",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_show_password": {
+    "message": "Göster",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_contact_admin": {
+    "message": "Sorun mu yaşıyorsunuz? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Sitenin yöneticisine başvurun</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_heading": {
+    "message": "Şifrenizi sıfırlayın",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_subheading": {
+    "message": "Kayıt olmak için kullandığınız e-posta adresini girin, size şifrenizi sıfırlamak için bağlantı içeren bir e-posta göndereceğiz.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_email": {
+    "message": "E-posta",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_submit": {
+    "message": "Sıfırlama e-postası gönder",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_alt": {
+    "message": "Size geri mi döndü?<a href=\"/_hcms/mem/login\">Oturum açın</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_contact_admin": {
+    "message": "Sorun mu yaşıyorsunuz? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Sitenin yöneticisine başvurun</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_heading": {
+    "message": "Email adresinizi doğrulayın",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_description": {
+    "message": "Kayıt olduğunuz için teşekkür ederiz! Kaydınızı tamamlamak için lütfen e-postanızı kontrol edin ve onay bağlantısını tıklayın.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_contact_admin": {
+    "message": "Sorun mu yaşıyorsunuz? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Sitenin yöneticisine başvurun</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_one": {
+    "message": "Hakkında",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two": {
+    "message": "Ücretli danışmanlık hizmetleriyle işinizi geliştirme",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two_update": {
+    "message": "Ücretli danışmanlık hizmetleriyle işinizi geliştirme",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_three": {
+    "message": "Emrinizde olan bir araç paketi",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_heading": {
+    "message": "Hizmet",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_description": {
+    "message": "Verdiğiniz hizmeti özetleyin. Müşterilerinize katacağınız değer ile ilgili bir mesaj ekleyin.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_four": {
+    "message": "Referanslar",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_one": {
+    "message": "Müşterilerinize nasıl değer katacağınızı açıklamak için bir başlık ekleyin",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_two": {
+    "message": "Şirketinizde yaptığınız işle ilgili kısa bir açıklama ekleyin. Uzmanlığınızı daraltmaya çalışın, böylelikle müşterilerinizin dikkatini çekebilirsiniz. Ücretli bir danışmanlık aracılığıyla katabileceğiniz değer hakkında konuşun.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_list_content": {
+    "message": "Hizmetleriniz için kefil olacak bir referans ekleyin. Mevcut müşterileriniz sunduklarınız konusunda niçin heyecan duyuyorlar?",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_image_alt_text": {
+    "message": "Gelişim teması yer tutucu görüntüsü",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_button_text": {
+    "message": "Bir danışma randevusu alın",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_heading": {
+    "message": "Şifre gereklidir",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_subheading": {
+    "message": "Bu sayfayı görmek için şifrenizi girin",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_one": {
+    "message": "Fiyatlandırma",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_plans_and_pricing_heading": {
+    "message": "Planlar ve ücretlendirme",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_two": {
+    "message": "Sıkça sorulan sorular",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_heading": {
+    "message": "Tüm planlar dahil",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_content_heading": {
+    "message": "Ürün özelliği",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_heading": {
+    "message": "İnsanları ürün ve hizmetlerinize çekin",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_button_text": {
+    "message": "Daha fazla bilgi edin",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_question": {
+    "message": "Akordeon başlığı",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_one": {
+    "message": "Ürünler",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_two": {
+    "message": "Sizi düşünerek inşa edildi",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_heading": {
+    "message": "Ve daha fazlası",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_content_heading": {
+    "message": "Ürün özelliği",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_one": {
+    "message": "Hemen başlangıç yapın",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_two": {
+    "message": "Basit ve kullanması kolay",
+    "description": "",
+    "placeholders": null
+  },
+  "products_image_alt_text": {
+    "message": "Ürün özelliği",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_heading": {
+    "message": "İnsanları ürün ve hizmetlerinize çekin",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_button_text": {
+    "message": "Daha fazla bilgi edin",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_heading": {
+    "message": "Gelişim teması",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_button_text": {
+    "message": "Başla",
+    "description": "",
+    "placeholders": null
+  },
+  "home_logos_heading": {
+    "message": "Mutlu müşterilerimizin bazıları",
+    "description": "",
+    "placeholders": null
+  },
+  "home_heading": {
+    "message": "Sizi düşünerek inşa edildi",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_one": {
+    "message": "Hızlı kurulum",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_two": {
+    "message": "Kullanımı kolay",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_three": {
+    "message": "Özelleştirilebilir",
+    "description": "",
+    "placeholders": null
+  },
+  "home_video_heading": {
+    "message": "İşleri çalışırken görün",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_heading": {
+    "message": "Emrinizde olan bir araç paketi",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_content_heading": {
+    "message": "Ad",
+    "description": "",
+    "placeholders": null
+  },
+  "home_image_alt_text": {
+    "message": "Ad",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_button_text": {
+    "message": "Daha fazla bilgi edin",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_content": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan velit sit amet sagittis malesuada.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_customer": {
+    "message": "Shaun Benson, Pazarlama Müdürü, Agriflora Inc.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_blog_post_heading": {
+    "message": "Son gönderiler",
+    "description": "",
+    "placeholders": null
+  },
+  "home_contact": {
+    "message": "Bizimle ulaşın",
+    "description": "",
+    "placeholders": null
+  },
+  "home_button_text": {
+    "message": "Başla",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_heading": {
+    "message": "Ücretsiz dijital kaynağınızı bugün indirin",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_p_one": {
+    "message": "Bu kaynağın içeriğine zemin hazırlayan ilgi çekici bir giriş yazın. Okuyucularınızın karşılaştığı zorluklara veya hedeflere değinin ve e-kitabın, bunların çözülmesi konusunda nasıl yardımcı olacağını açıklayın.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_one_heading": {
+    "message": "Avantaj #1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_two_heading": {
+    "message": "Avantaj #2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_three_heading": {
+    "message": "Avantaj #3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_content": {
+    "message": "Okuyucuların ne öğreneceklerini açıklayın",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_highlight": {
+    "message": "Avantajları vurgulamayı unutmayın:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_preface": {
+    "message": "Neden bizi seçmelisiniz?",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_heading": {
+    "message": "İşinizi geliştirmek için modern çözümler sunuyoruz",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_content": {
+    "message": "Yenilikçi çözümlerimizle hayatlarını dönüştürmüş binlerce memnun kullanıcıya katılın.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_button_text": {
+    "message": "Daha fazla bilgi edin",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_logo_heading": {
+    "message": "Lider şirketlerin güvenini kazanmıştır",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_heading": {
+    "message": "Özellik adı",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_content": {
+    "message": "Teklifinizin değerini açıkça bildiren ve ziyaretçileri harekete geçmeye teşvik eden ikna edici, avantaj odaklı bir metin yazın. Teklifinizin, sorunlarını nasıl çözdüğüne veya ihtiyaçlarını nasıl karşıladığına odaklanın.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_preface": {
+    "message": "Sözümüze güvenmekle kalmayın",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_heading": {
+    "message": "Bu özellikleri ekip üyelerimizden biriyle çalışırken görün",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_button_text": {
+    "message": "Demo edinin",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_heading": {
+    "message": "Bir demo planlayın",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_p_one": {
+    "message": "Size uygun olan bir zamanda, ekip üyelerimizden biriyle bir demo planlayın. Potansiyel müşterilerinizin öğrenebilecekleri şeyler hakkında kısa bir açıklama ekleyin.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_highlight": {
+    "message": "Şunları konuşacağız:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_one_heading": {
+    "message": "Konu #1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_two_heading": {
+    "message": "Konu #2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_three_heading": {
+    "message": "Konu #3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_content": {
+    "message": "Demonuzun neleri kapsayacağını açıklayın",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_heading": {
+    "message": "Yerinizi ayırtın: Bu özel etkinlik için şimdi kaydolun",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_content": {
+    "message": "Canlı konferansın, webinar'ın veya etkinliğin neyle ilgili olduğunu ve hedef kitlenizin neden kaydolması gerektiğini açıklayan kısa bir tanıtım ekleyin.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_button_text": {
+    "message": "Şimdi kaydolun",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_partners_content": {
+    "message": "Ortaklarımızdan oluşan topluluğumuzun yanında bize katılın",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_preface": {
+    "message": "Etkinlik hakkında",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_heading": {
+    "message": "En iyi uzmanlardan görüş alın",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_highlight": {
+    "message": "Etkinlik vurguları:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_one_heading": {
+    "message": "Vurgu #1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_two_heading": {
+    "message": "Vurgu #2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_three_heading": {
+    "message": "Vurgu #3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_content": {
+    "message": "Katılanların ne gibi kazanımları olacak",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_heading": {
+    "message": "Hızlı istatistikler",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_one": {
+    "message": "20+",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_two": {
+    "message": "150+",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_three": {
+    "message": "10",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_description": {
+    "message": "İstatistiğin küçük bir açıklaması",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_heading": {
+    "message": "Etkinliğe kısa bir bakış atın",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_content": {
+    "message": "Sizi bekleyen ilham verici açılış konuşmalarına, etkileşimli seminerlere ve iş ağı oluşturma fırsatlarına bir göz atmak için teaser videomuzu izleyin. Gelecekte olacaklar ile ilgili olan bu önizlemeyi kaçırmayın - unutulmaz bir deneyim için bize katılın.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_preface": {
+    "message": "Sözümüze güvenmekle kalmayın",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_heading": {
+    "message": "Fırsatları yakalayın ve yerinizi bugün ayırtın",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_button_text": {
+    "message": "Şimdi kaydolun",
+    "description": "",
+    "placeholders": null
+  },
+  "search_results_heading": {
+    "message": "\"[[search_term]]\" için arama sonuçları",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_heading": {
+    "message": "Hakkında",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_sub_heading": {
+    "message": "Şirketimiz",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_image_alt_text": {
+    "message": "Hikayemiz",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_list_heading": {
+    "message": "Yakın zamanda gönderiler",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_heading": {
+    "message": "Yakın zamanda gönderiler",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_heading": {
+    "message": "İnsanları ürün ve hizmetlerinize çekin",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_button_text": {
+    "message": "Daha fazla bilgi edin",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_full_heading": {
+    "message": "İletişim kişisi",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_heading": {
+    "message": "İletişim kişisi",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_address": {
+    "message": "123 Main Street, City, State 11111",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_email": {
+    "message": "contact@businessname.com",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_phone_number": {
+    "message": "+1 234-567-8901",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_heading": {
+    "message": "Ürün",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_description_heading": {
+    "message": "Açıklama",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_button_text": {
+    "message": "Bize ulaşın",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_image_alt_text": {
+    "message": "Ürün",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_heading": {
+    "message": "Galeri",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_one": {
+    "message": "Ürünler",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_two": {
+    "message": "Şirket",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_three": {
+    "message": "Fiyatlandırma",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_four": {
+    "message": "Ürün özelliği",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_five": {
+    "message": "Görüntü alt yazısı",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_caption": {
+    "message": "Görüntü alt yazısı",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_heading": {
+    "message": "Galeri",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_one": {
+    "message": "Ürünler",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_two": {
+    "message": "Şirket",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_three": {
+    "message": "Fiyatlandırma",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_four": {
+    "message": "Ürün özelliği",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_five": {
+    "message": "Fiyatlandırma",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_hover_message": {
+    "message": "Üzerine geldiğinde çıkan mesaj",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_heading": {
+    "message": "Gelişim teması",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_button_text": {
+    "message": "Bize ulaşın",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_heading": {
+    "message": "Gelişim teması",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_button_text": {
+    "message": "Başla",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_heading": {
+    "message": "Neden öne çıkıyoruz",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_one": {
+    "message": "Hızlı kurulum",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_two": {
+    "message": "Kullanımı kolay",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_three": {
+    "message": "Özelleştirilebilir",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_heading": {
+    "message": "Mutlu müşterilerimizin bazıları",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_image_alt_text": {
+    "message": "Müşteri logosu",
+    "description": "",
+    "placeholders": null
+  },
+  "section_meetings_banner_heading": {
+    "message": "Ücretsiz danışmanlık için rezervasyon yapın",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_heading": {
+    "message": "Ekibimiz",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_one_title": {
+    "message": "CEO",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_two_title": {
+    "message": "Baş Operasyon Sorumlusu",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_three_title": {
+    "message": "Baş Finans Sorumlusu",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_description": {
+    "message": "Ekip üyenizin benzersiz uzmanlığını, deneyimini ve ilgi alanlarını vurgulayın. Bunu kısa ama ilgi çekici tutun, profesyonel yolculuklarını ve ortaya koymuş oldukları değerli becerileri sergileyin.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_heading": {
+    "message": "Hikayemiz",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_image_alt_text": {
+    "message": "Hikayemiz",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_button_text": {
+    "message": "Daha fazla bilgi edin",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_heading": {
+    "message": "Planlara dahil olanlar",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_description_heading": {
+    "message": "Ürün özelliği",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_image_alt_text": {
+    "message": "Plan özelliği",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_heading": {
+    "message": "Bültenimize abone olun!",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_subheading": {
+    "message": "En son güncellemelerden haberdar olmak için kaydolun",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_heading": {
+    "message": "Emrinizde olan bir araç paketi",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_card_heading": {
+    "message": "İnsanları ürün ve hizmetlerinize çekin",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_button_text": {
+    "message": "Bize ulaşın",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_image_alt_text": {
+    "message": "Hizmet",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_heading": {
+    "message": "Planlar ve ücretlendirme",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_heading": {
+    "message": "Başlangıç",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_price": {
+    "message": "50 USD/ay",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_content": {
+    "message": "Şimdi başlangıç paketi al",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_button_text": {
+    "message": "Şimdi başlangıç paketi al",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_heading": {
+    "message": "Professional",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_price": {
+    "message": "200 USD/ay",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_content": {
+    "message": "Şimdi Profesional alın",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_button_text": {
+    "message": "Şimdi Profesional alın",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_heading": {
+    "message": "Kurumsal",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_price": {
+    "message": "600 USD/ay",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_content": {
+    "message": "Şimdi enterprise alın",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_button_text": {
+    "message": "Şimdi enterprise alın",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_sub_heading": {
+    "message": "Bazı ana özellikler",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_heading": {
+    "message": "Ürünler",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_image_alt_text": {
+    "message": "Hikayemiz",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_description_heading": {
+    "message": "Ad",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_button_text": {
+    "message": "Bize ulaşın",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_heading": {
+    "message": "Hizmetler",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_description_heading": {
+    "message": "Hizmet adı",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_one": {
+    "message": "Hikayemiz",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_two": {
+    "message": "Değerlerimiz",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_three": {
+    "message": "Tarihimiz",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_button_text": {
+    "message": "Bize ulaşın",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_heading": {
+    "message": "Referans",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_team_member_title_one": {
+    "message": "VP Ürün",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_heading": {
+    "message": "İnsanların ne söylediğine bakın",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_one": {
+    "message": "VP Ürün",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_two": {
+    "message": "SVP Satış",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_three": {
+    "message": "CMO",
+    "description": "",
+    "placeholders": null
+  },
+  "section_video_heading": {
+    "message": "İşleri çalışırken görün",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading": {
+    "message": "Hizmetler",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_one_alt": {
+    "message": "Bilgisayar başında iki kişi",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_two_alt": {
+    "message": "Telefona bakan iki kişi",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_three_alt": {
+    "message": "Duvardaki yapışkan not kağıtları ile çalışan iki kişi",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_one": {
+    "message": "Taban",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_two": {
+    "message": "Pro",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_three": {
+    "message": "Kurumsal",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_button_text": {
+    "message": "Daha fazla bilgi edin",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_description": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_heading": {
+    "message": "Hizmetler",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_image_alt": {
+    "message": "Merdiven basamağında oturan iki kişi",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_heading": {
+    "message": "Marka kimliği geliştirme",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_content": {
+    "message": "Ekibimiz, şirketinizin özünü yansıtan benzersiz ve akılda kalan bir marka kimliği oluşturacaktır. Markanızı farklı kılacak ilgi çekici bir logo oluşturacak, uyumlu bir renk paleti seçecek ve tutarlı olan bir görsel tarz geliştireceğiz.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_image_alt": {
+    "message": "Dizüstü bilgisayara bakan genç iş profesyonelleri",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_heading": {
+    "message": "UX/UI dizayn geliştirmesi",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_content": {
+    "message": "UX/UI tasarım uzmanlığımızla, kullanıcı memnuniyetini ve katılımını artırın. Genel kullanıcı deneyimini geliştirmek adına, dijital ürünlerinizin kapsamlı bir analizini yapacak, sorunlu noktaları belirleyecek ve kullanıcı merkezli çözümler uygulayacağız.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_image_alt": {
+    "message": "Elinde tablet ile avluda konuşan genç pazarlama uzmanı",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_heading": {
+    "message": "Pazarlama güvencelerinin dizaynı",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_content": {
+    "message": "Pazarlama çabalarınızı, kalıcı bir izlenim bırakan çarpıcı güvencelerle artırın. Broşürlerden el ilanlarından sosyal medya grafiklerine kadar, hedef kitlenizle uyum sağlayan ve sonuçlara yön veren göz alıcı malzemeler dizayn edeceğiz.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_button_text": {
+    "message": "Daha fazla bilgi edin",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_banner_image_alt": {
+    "message": "Doğrudan kameraya bakan bir grup gülümseyen insan",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_heading": {
+    "message": "Yerel yemek büfesi desteği",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_content_area_one": {
+    "message": "Yerel yemek büfemizi destekleyerek komşularımızın hayatlarında fark yaratmak için bize katılın. Bağışınız, topluluğumuzda gıda güvensizliğiyle karşı karşıya kalan bireylere ve ailelere temel beslenmenin ulaştırılması konusunda yardımcı olacaktır.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_one_alt": {
+    "message": "Cam üzerindeki yapışkan notlara bakan iki kişi",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_two_alt": {
+    "message": "POS cihazına tutulan bir telefon",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_three_alt": {
+    "message": "Yolcu koltuğunda iki paket bulunan bir minibüsü kullanan adam",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_heading": {
+    "message": "Hemen bağış yapın",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_message_and_amount": {
+    "message": "Tavsiye edilen tutar: 15,00 Dolar",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_one_text": {
+    "message": "15,00 Dolar bağış yapın",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_two_text": {
+    "message": "Özel tutar",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_three_text": {
+    "message": "Paylaş",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,43 @@
+<!--
+  templateType: section
+  label: Meetings banner
+  isAvailableForNewContent: true
+  screenshotPath: ../images/section-previews/meetings-banner.png
+  description: "Full width section with title, subtitle and button on left, meetings module on the right."
+-->
+{% set template_translations = load_translations('../templates/_locales', html_lang, 'en') %}
+{% set anchor_tag = '<a id="{{ context.anchor_id }}" data-hs-anchor="true"></a>' %}
+
+{% dnd_section
+  vertical_alignment="MIDDLE",
+  background_color={{ context.background_color }}
+%}
+  {% dnd_column
+    width=7,
+    offset=0
+  %}
+    {% dnd_row %}
+      {% dnd_module
+        path="@hubspot/rich_text",
+        padding={
+          "right": 100
+        },
+      %}
+        {% module_attribute "html" %}
+          {{ anchor_tag if context.anchor_id }}
+          <h1>{{ context.heading or template_translations.section_meetings_banner_heading.message }}</h1>
+          <p>{{ context.content or template_translations.placeholder_content_one.message }}</p>
+        {% end_module_attribute %}
+      {% end_dnd_module %}
+    {% end_dnd_row %}
+  {% end_dnd_column %}
+  {% dnd_column
+    width=5,
+    offset=7
+  %}
+    {% dnd_row %}
+      {% dnd_module path="@hubspot/meetings" %}
+      {% end_dnd_module %}
+    {% end_dnd_row %}
+  {% end_dnd_column %}
+{% end_dnd_section %}

@@ -1,0 +1,330 @@
+[
+  {
+    "name": "banner",
+    "type": "group",
+    "children": [
+      {
+        "name": "background_image",
+        "type": "image",
+        "description": "A banner background image that is related to what the company sells.",
+        "width": 1792,
+        "height": 1024
+      },
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that describes the company's pricing."
+      },
+      {
+        "name": "subheading",
+        "type": "text",
+        "description": "A subheading that gives a brief description (2-3 sentences) about the company's pricing."
+      }
+    ]
+  },
+  {
+    "name": "pricing",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that is above a section that describes the different pricing and packaging options the company offers."
+      },
+      {
+        "name": "subheading",
+        "type": "text",
+        "description": "A subheading that is above a section that describes the different pricing and packaging options the company offers."
+      },
+      {
+        "name": "plan_one",
+        "type": "group",
+        "children": [
+          {
+            "name": "name",
+            "type": "text",
+            "description": "The name of the first pricing plan that the company offers."
+          },
+          {
+            "name": "price",
+            "type": "text",
+            "description": "The price of the first pricing plan that the company offers."
+          },
+          {
+            "name": "feature_one",
+            "type": "text",
+            "description": "The first feature of the first pricing plan that the company offers."
+          },
+          {
+            "name": "feature_two",
+            "type": "text",
+            "description": "The second feature of the first pricing plan that the company offers."
+          },
+          {
+            "name": "feature_three",
+            "type": "text",
+            "description": "The third feature of the first pricing plan that the company offers."
+          },
+          {
+            "name": "button_text",
+            "type": "text",
+            "description": "The button text that describes the call to action the user should take on the page regarding the first pricing plan."
+          }
+        ]
+      },
+      {
+        "name": "plan_two",
+        "type": "group",
+        "children": [
+          {
+            "name": "name",
+            "type": "text",
+            "description": "The name of the second pricing plan that the company offers."
+          },
+          {
+            "name": "price",
+            "type": "text",
+            "description": "The price of the second pricing plan that the company offers."
+          },
+          {
+            "name": "feature_one",
+            "type": "text",
+            "description": "The first feature of the second pricing plan that the company offers."
+          },
+          {
+            "name": "feature_two",
+            "type": "text",
+            "description": "The second feature of the second pricing plan that the company offers."
+          },
+          {
+            "name": "feature_three",
+            "type": "text",
+            "description": "The third feature of the second pricing plan that the company offers."
+          },
+          {
+            "name": "button_text",
+            "type": "text",
+            "description": "The button text that describes the call to action the user should take on the page regarding the second pricing plan."
+          }
+        ]
+      },
+      {
+        "name": "plan_three",
+        "type": "group",
+        "children": [
+          {
+            "name": "name",
+            "type": "text",
+            "description": "The name of the third pricing plan that the company offers."
+          },
+          {
+            "name": "price",
+            "type": "text",
+            "description": "The price of the third pricing plan that the company offers."
+          },
+          {
+            "name": "feature_one",
+            "type": "text",
+            "description": "The first feature of the third pricing plan that the company offers."
+          },
+          {
+            "name": "feature_two",
+            "type": "text",
+            "description": "The second feature of the third pricing plan that the company offers."
+          },
+          {
+            "name": "feature_three",
+            "type": "text",
+            "description": "The third feature of the third pricing plan that the company offers."
+          },
+          {
+            "name": "button_text",
+            "type": "text",
+            "description": "The button text that describes the call to action the user should take on the page regarding the third pricing plan."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "plans",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that shows above a section that discusses the different features available to all pricing tiers."
+      },
+      {
+        "name": "subheading",
+        "type": "text",
+        "description": "A subheading that shows above a section that discusses the different features available to all pricing tiers."
+      },
+      {
+        "name": "feature_one",
+        "type": "group",
+        "children": [
+          {
+            "name": "heading",
+            "type": "text",
+            "description": "The first feature offered to all pricing tiers."
+          },
+          {
+            "name": "description",
+            "type": "text",
+            "description": "A brief description (2-3 sentences) that describes the first feature offered to all pricing tiers."
+          }
+        ]
+      },
+      {
+        "name": "feature_two",
+        "type": "group",
+        "children": [
+          {
+            "name": "heading",
+            "type": "text",
+            "description": "The second feature offered to all pricing tiers."
+          },
+          {
+            "name": "description",
+            "type": "text",
+            "description": "A brief description (2-3 sentences) that describes the second feature offered to all pricing tiers."
+          }
+        ]
+      },
+      {
+        "name": "feature_three",
+        "type": "group",
+        "children": [
+          {
+            "name": "heading",
+            "type": "text",
+            "description": "The third feature offered to all pricing tiers."
+          },
+          {
+            "name": "description",
+            "type": "text",
+            "description": "A brief description (2-3 sentences) that describes the third feature offered to all pricing tiers."
+          }
+        ]
+      },
+      {
+        "name": "feature_four",
+        "type": "group",
+        "children": [
+          {
+            "name": "heading",
+            "type": "text",
+            "description": "The fourth feature offered to all pricing tiers."
+          },
+          {
+            "name": "description",
+            "type": "text",
+            "description": "A brief description (2-3 sentences) that describes the fourth feature offered to all pricing tiers."
+          }
+        ]
+      },
+      {
+        "name": "feature_five",
+        "type": "group",
+        "children": [
+          {
+            "name": "heading",
+            "type": "text",
+            "description": "The fifth feature offered to all pricing tiers."
+          },
+          {
+            "name": "description",
+            "type": "text",
+            "description": "A brief description (2-3 sentences) that describes the fifth feature offered to all pricing tiers."
+          }
+        ]
+      },
+      {
+        "name": "feature_six",
+        "type": "group",
+        "children": [
+          {
+            "name": "heading",
+            "type": "text",
+            "description": "The sixth feature offered to all pricing tiers."
+          },
+          {
+            "name": "description",
+            "type": "text",
+            "description": "A brief description (2-3 sentences) that describes the sixth feature offered to all pricing tiers."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "cta",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that describes the call to action the user should take on the page regarding the pricing and packaging offered."
+      },
+      {
+        "name": "subheading",
+        "type": "text",
+        "description": "A subheading that describes the call to action the user should take on the page regarding the pricing and packaging offered."
+      },
+      {
+        "name": "button_text",
+        "type": "text",
+        "description": "The button text that describes the call to action the user should take on the page regarding the pricing and packaging offered."
+      }
+    ]
+  },
+  {
+    "name": "faq",
+    "type": "group",
+    "children": [
+      {
+        "name": "heading",
+        "type": "text",
+        "description": "A heading that shows above a frequently asked questions section related to pricing."
+      },
+      {
+        "name": "subheading",
+        "type": "text",
+        "description": "A subheading that shows above a frequently asked questions section related to pricing."
+      },
+      {
+        "name": "accordion_one",
+        "type": "group",
+        "children": [
+          {
+            "name": "question",
+            "type": "text",
+            "description": "The first frequently asked question that people have about pricing."
+          },
+          {
+            "name": "answer",
+            "type": "text",
+            "description": "The answer to the first frequently asked question that people have about pricing."
+          }
+        ]
+      },
+      {
+        "name": "accordion_two",
+        "type": "group",
+        "children": [
+          {
+            "name": "question",
+            "type": "text",
+            "description": "The second frequently asked question that people have about pricing."
+          },
+          {
+            "name": "answer",
+            "type": "text",
+            "description": "The answer to the second frequently asked question that people have about pricing."
+          }
+        ]
+      }
+    ]
+  }
+]

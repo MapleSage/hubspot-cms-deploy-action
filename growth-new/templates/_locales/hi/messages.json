@@ -1,0 +1,1662 @@
+{
+  "partial_header_skip_to_content": {
+    "message": "अगले  कॉन्टेंट पर जाएँ",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_address": {
+    "message": "123 मेन स्ट्रीट, शहर, राज्य 11111",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_copyright": {
+    "message": "कॉपीराइट © {{ year }}, {{ site_settings.company_name }}",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_one": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_two": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_three": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "about_banner_heading": {
+    "message": "हमारे बारे में",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_one": {
+    "message": "हमारी कहानी",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_two": {
+    "message": "हमारा मूल्य",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_three": {
+    "message": "हमारा इतिहास",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_four": {
+    "message": "हमारी टीम",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_five": {
+    "message": "हमारी संस्कृति",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_six": {
+    "message": "कंपनी की खबरें",
+    "description": "",
+    "placeholders": null
+  },
+  "about_image_alt_text": {
+    "message": "कंपनी",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_one_title": {
+    "message": "CEO और संस्थापक",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_two_title": {
+    "message": "संचालन के मुख्य अधिकारी",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_three_title": {
+    "message": "तकनीकी के मुख्य अधिकारी",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_four_title": {
+    "message": "वित्तीय के मुख्य अधिकारी",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_five_title": {
+    "message": "डिज़ाइन के मुख्य अधिकारी",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_six_title": {
+    "message": "जनता के मुख्य अधिकारी",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_description": {
+    "message": "अपनी टीम के सदस्यों की विशिष्ट विशेषज्ञता, अनुभव और रुचियों को हाइलाइट करें। इसे संक्षिप्त लेकिन आकर्षक रखें, उनकी प्रोफेशनल जर्नी यात्रा और टेबल पर लाए गए मूल्यवान कौशल को प्रदर्शित करें।",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_index_heading": {
+    "message": "ब्लॉग",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_heading": {
+    "message": "ब्लॉग पर कमैंट्स ",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_heading": {
+    "message": "ग्रोथ कांफ्रेंस",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_date": {
+    "message": "5 - 8 सितम्बर",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_text": {
+    "message": "टिकट प्राप्त करें",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_content": {
+    "message": "टिकट प्राप्त करें",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_one": {
+    "message": "अभी खरीदें",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_two": {
+    "message": "टिकट खरीदें",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_one": {
+    "message": "के सम्बन्ध में",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_two": {
+    "message": "स्पीकर पैनल",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_three": {
+    "message": "प्रायोजक",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_four": {
+    "message": "अपने वीडियो के लिए एक आकर्षक वाक्यांश जोड़ें",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_five": {
+    "message": "टेस्टीमोनियल",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_six": {
+    "message": "टिकट",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_one": {
+    "message": "ग्रोथ कॉन्फ़्रेंस एक टेम्प्लेट है जिसका उपयोग कस्टमर्स को वह मूल्य दिखाने के लिए किया जा सकता है जो आपके आर्गेनाइजेशन का कॉन्फ़्रेंस इवेंट उन्हें प्रदान कर सकता है। अपने कॉन्फ़्रेंस का थीम बताएं और यह भी की ग्राहकों को टिकट क्यों खरीदना चाहिए।",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_two": {
+    "message": "अपने स्पीकर का संक्षिप्त विवरण यहां जोड़ें। ये बताये की आपके दर्शकों को उनकी बातें क्यों सुननी चाहिए? क्या कोई ऐसी थीम है जिस पर वे सभी अपनी बातचीत में चर्चा करेंगे? उन्हें क्या यूनिक बनाता है? इस स्थान का उपयोग पाठक को यह बताने के लिए करें कि ये वे स्पीकर क्यों हैं जिन्हें आप प्रदर्शित करना चाहते हैं।",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_three": {
+    "message": "यहां अपने स्पीकर की बायोग्राफी को संक्षेप में प्रस्तुत करें। आप उनके प्रेजेंटेशन विषय के बारे में एक वाक्य भी जोड़ सकते हैं।",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_four": {
+    "message": "&ldquo;यह आपके लिए सामाजिक प्रमाण देने का मौका है कि आपका इवेंट कितना शानदार है। प्रशंसापत्र जोड़ें जो लोगों को आपके ईवेंट का मूल्य समझने में मदद करें।&rdquo;",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_five": {
+    "message": "अपने सम्मेलन के विषय के बारे में बताएं, अपने संभावित ग्राहकों को इस बारे में जानकारी दें कि सम्मेलन में क्या हो रहा है और उन्हें बताएं कि उन्हें टिकट क्यों खरीदना चाहिए। अपने ईवेंट के टिकट बिना छुए बेचने के लिए इस टेम्पलेट का उपयोग करें।",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_heading": {
+    "message": "सामान्य एडमिशन",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_price": {
+    "message": "$199",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_heading": {
+    "message": "वीआईपी ",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_price": {
+    "message": "$449",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_one": {
+    "message": "उन सभी रोमांचक लाभों की सूची बनाएं जो आपके कस्टमर को इस श्रेणी की खरीदारी करने पर मिलेंगे।",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_two": {
+    "message": "कॉन्फ़्रेंस में उनके लिए कौन से नेटवर्किंग और सीखने के अवसर उपलब्ध हैं?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_three": {
+    "message": "वे कॉन्फ़्रेंस के किन हिस्सों तक पहुँच सकते हैं?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_four": {
+    "message": "क्या उनके पास किसी रिकार्ड की गई प्रोग्रामिंग तक पहुंच है?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_five": {
+    "message": "उनके भोजन, आनेजाने और रहने के क्या विकल्प हैं?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_six": {
+    "message": "उन सभी विशिष्ट लाभों की सूची बनाएं जो आपके VIP ग्राहक को इस श्रेणी की खरीदारी पर मिलेंगे।",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_one": {
+    "message": "CEO और संस्थापक",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_two": {
+    "message": "चीफ ऑपरेटिंग ऑफिसर",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_three": {
+    "message": "चीफ टेक्नोलॉजी ऑफिसर",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_content": {
+    "message": "टिकट खरीदें",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_image_alt_text": {
+    "message": "स्पीकर फोटो",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_one": {
+    "message": "संपर्क करें",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_two": {
+    "message": "हमारी लोकेशंस",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_three": {
+    "message": "संपर्क में रहे",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_four": {
+    "message": "अक्सर पूछे जाने वाले सवाल",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_heading": {
+    "message": "कॉन्टेंट लाइब्रेरी",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_content": {
+    "message": "आपको सीखने और आगे बढ़ने में मदद करने के लिए संसाधनों और डिजिटल एसेट्स की एक लाइब्रेरी।",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_one": {
+    "message": "<h3>San Francisco</h3><p>3870 Twin Oaks Drive<br> San Francisco, CA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_two": {
+    "message": "<h3>Chicago</h3><p>2140 Roguski Road<br> Chicago, IL</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_three": {
+    "message": "<h3>Boston</h3><p>123 Waverly Place<br> Boston, MA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_question": {
+    "message": "अकॉर्डियन टाइटल",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_heading": {
+    "message": "पेज नहीं मिला",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_description": {
+    "message": "आप जिस पेज की तलाश कर रहे थे वह हमें नहीं मिला।",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_button": {
+    "message": "होम पेज पर जाएं",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_heading": {
+    "message": "यह पेज काम नहीं कर रहा है",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_description": {
+    "message": "एक इंटरनल सर्वर एरर हुई, लेकिन हम मामले पर हैं!",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_button": {
+    "message": "होम पेज पर जाएं",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_heading": {
+    "message": "माफ़ करें, आपने एक्सेस नहीं किया है",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_description": {
+    "message": "आपके पास इस पेज को देखने की अनुमति नहीं है। प्रश्नों के लिए साइट के एडमिनिस्ट्रेटर से संपर्क करें।",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_button": {
+    "message": "होम पेज पर जाएं",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_heading": {
+    "message": "साइन इन करें",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_subheading": {
+    "message": "आप जिस पेज को देखने की कोशिश कर रहे हैं वह केवल रेजिस्ट्रड यूजर के लिए उपलब्ध है।",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_email": {
+    "message": "ईमेल",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_password": {
+    "message": "पासवर्ड",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_remember_me": {
+    "message": "मुझे याद",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_reset_password": {
+    "message": "पासवर्ड भूल गए?",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_submit": {
+    "message": "साइन इन करें",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_show_password": {
+    "message": "दिखाएं",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_contact_admin": {
+    "message": "परेशानी हो रही है? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">साइट के एडमिनिस्ट्रेटर से कांटेक्ट करें</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_heading": {
+    "message": "आप साइन आउट हो गए हैं",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_button": {
+    "message": "फिर से साइन इन करें",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_alt": {
+    "message": "या <a href=\"{{ '//' ~ request.domain }}\">होम पेज</a> पर वापस लौटें",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_heading": {
+    "message": "अपना पासवर्ड सेट करें",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_subheading": {
+    "message": "स्वागत है! अपना पासवर्ड सेट करके अपना रजिस्ट्रेशन पूरा करें।",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_email": {
+    "message": "ईमेल",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_confirm_password": {
+    "message": "पासवर्ड कन्फर्म करें",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_password": {
+    "message": "पासवर्ड",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_save_password": {
+    "message": "पासवर्ड सेव करें",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_show_password": {
+    "message": "दिखाएं",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_contact_admin": {
+    "message": "परेशानी हो रही है? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">साइट के एडमिनिस्ट्रेटर से कांटेक्ट करें</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_heading": {
+    "message": "आपके ईमेल पते की पुष्टि हो गई है",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_description": {
+    "message": "अपना ईमेल पता वेरीफाई करने के लिए धन्यवाद। अब आप अपने खाते में साइन इन कर सकते हैं और अपना विशेष कॉन्टेंट एक्सेस कर सकते हैं।",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_button": {
+    "message": "साइन इन करें",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_contact_admin": {
+    "message": "परेशानी हो रही है? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">साइट के एडमिनिस्ट्रेटर से कांटेक्ट करें</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_heading": {
+    "message": "नया पासवर्ड बनाएं",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_subheading": {
+    "message": "आपका नया पासवर्ड आपके पहले उपयोग किए गए पासवर्ड से अलग होना चाहिए।",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_new_password": {
+    "message": "नया पासवर्ड",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_confirm_password": {
+    "message": "नया पासवर्ड कन्फर्म करें",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_save_password": {
+    "message": "पासवर्ड सेव करें",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_show_password": {
+    "message": "दिखाएं",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_contact_admin": {
+    "message": "परेशानी हो रही है? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">साइट के एडमिनिस्ट्रेटर से कांटेक्ट करें</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_heading": {
+    "message": "अपना पासवर्ड रीसेट करें",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_subheading": {
+    "message": "वह ईमेल एड्रेस एंटर करें जिसे आपने रजिस्टर्ड किया था और हम आपको आपका पासवर्ड रीसेट करने के लिए एक लिंक के साथ एक ईमेल भेजेंगे।",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_email": {
+    "message": "ईमेल",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_submit": {
+    "message": "रिसेट की गई ईमेल भेजें",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_alt": {
+    "message": "क्या यह अभी आपके पास वापस आया? <a href=\"/_hcms/mem/login\">साइन इन करें</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_contact_admin": {
+    "message": "परेशानी हो रही है? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">साइट के एडमिनिस्ट्रेटर से कांटेक्ट करें</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_heading": {
+    "message": "अपना ईमेल एड्रेस वेरीफाई करें",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_description": {
+    "message": "साइन अप करने के लिए आपको धन्यवाद! कृपया अपना ईमेल जांचें और अपना रजिस्ट्रेशन पूरा करने के लिए कन्फर्मेशन लिंक पर क्लिक करें।",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_contact_admin": {
+    "message": "परेशानी हो रही है? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">साइट के एडमिनिस्ट्रेटर से कांटेक्ट करें</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_one": {
+    "message": "के सम्बन्ध में",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two": {
+    "message": "शुल्क के साथ परामर्श दे और अपना बिज़नेस बढ़ाएँ",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two_update": {
+    "message": "शुल्क के साथ परामर्श दे और अपना बिज़नेस बढ़ाएँ",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_three": {
+    "message": "आपकी व्यवस्था के लिए उपकरणों का एक सेट",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_heading": {
+    "message": "सेवा",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_description": {
+    "message": "आपके द्वारा प्रदान की जाने वाली सेवा का सारांश प्रस्तुत करें। उस वैल्यू के बारे में एक संदेश जोड़ें, जो आप अपने ग्राहकों को प्रदान कर सकते हैं।",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_four": {
+    "message": "टेस्टीमोनियल",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_one": {
+    "message": "एक सबटाइटल जोड़ें जो यह समझाएगा कि आप अपने कस्टमर को कैसे मूल्य प्रदान करेंगे",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_two": {
+    "message": "आप अपनी कंपनी में जो काम करते हैं, उसका संक्षिप्त विवरण जोड़ें। अपनी विशेषज्ञता को सीमित करने की कोशिश करें ताकि आप अपने कस्टमर का ध्यान खींच सकें। उस मूल्य के बारे में बात करें जिसे आप सशुल्क परामर्श के माध्यम से दे सकते हैं।",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_list_content": {
+    "message": "&ldquo;अपनी सेवाओं की पुष्टि करने के लिए एक प्रशंसापत्र जोड़ें। आपके मौजूदा कस्टमर आपकी पेशकश को लेकर उत्साहित क्यों हैं?&rdquo;",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_image_alt_text": {
+    "message": "ग्रोथ थीम प्लेसहोल्डर इमेज",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_button_text": {
+    "message": "परामर्श बुक करें",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_heading": {
+    "message": "रिक्वायर्ड पासवर्ड",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_subheading": {
+    "message": "इस पेज को देखने के लिए कृपया अपना पासवर्ड इंटर करें।",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_one": {
+    "message": "कीमत",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_plans_and_pricing_heading": {
+    "message": "योजनाएँ और उनका मूल्य",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_two": {
+    "message": "अक्सर पूछे जाने वाले सवाल",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_heading": {
+    "message": "सभी योजनाएं शामिल हैं",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_content_heading": {
+    "message": "प्रोडक्ट की विशेषता",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_heading": {
+    "message": "लोगों को अपने प्रोडक्ट और सेवाओं की ओर ले जाएँ",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_button_text": {
+    "message": "और अधिक जानें",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_question": {
+    "message": "अकॉर्डियन टाइटल",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit। Nullam tempor arcu non commodo elementum।",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_one": {
+    "message": "प्रोडक्ट्स",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_two": {
+    "message": "आपको ध्यान में रखकर बनाया गया है",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_heading": {
+    "message": "इसके अलावा और भी अधिक",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_content_heading": {
+    "message": "प्रोडक्ट की विशेषता",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_one": {
+    "message": "शीघ्रता से आरंभ करें",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_two": {
+    "message": "सरल और प्रयोग करने में आसान",
+    "description": "",
+    "placeholders": null
+  },
+  "products_image_alt_text": {
+    "message": "प्रोडक्ट की विशेषता",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_heading": {
+    "message": "लोगों को अपने प्रोडक्ट और सेवाओं की ओर ले जाएँ",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_button_text": {
+    "message": "और अधिक जानें",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_heading": {
+    "message": "ग्रोथ थीम",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_button_text": {
+    "message": "शुरू करें",
+    "description": "",
+    "placeholders": null
+  },
+  "home_logos_heading": {
+    "message": "हमारे कुछ खुश ग्राहक",
+    "description": "",
+    "placeholders": null
+  },
+  "home_heading": {
+    "message": "आपको ध्यान में रखकर बनाया गया है",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_one": {
+    "message": "शीघ्र सेटअप",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_two": {
+    "message": "उपयोग में आसान",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_three": {
+    "message": "अनुकूलन योग्य",
+    "description": "",
+    "placeholders": null
+  },
+  "home_video_heading": {
+    "message": "चीज़ों को एक्टिव होते हुए देखें",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_heading": {
+    "message": "आपकी व्यवस्था के लिए उपकरणों का एक सेट",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_content_heading": {
+    "message": "प्रोडक्ट का नाम",
+    "description": "",
+    "placeholders": null
+  },
+  "home_image_alt_text": {
+    "message": "प्रोडक्ट का नाम",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_button_text": {
+    "message": "और अधिक जानें",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_content": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan velit sit amet sagittis malesuada.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_customer": {
+    "message": "शॉन बेन्सन, मार्केटिंग मैनेजर, Agriflora Inc.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_blog_post_heading": {
+    "message": "हाल ही की पोस्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "home_contact": {
+    "message": "संपर्क करें",
+    "description": "",
+    "placeholders": null
+  },
+  "home_button_text": {
+    "message": "शुरू करें",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_heading": {
+    "message": "आज ही अपना मुफ्त डिजिटल संसाधन डाउनलोड करें",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_p_one": {
+    "message": "एक आकर्षक परिचय लिखें जो इस संसाधन की सामग्री के लिए स्टेज तैयार करे। अपने पाठक की चुनौतियों या लक्ष्यों को संबोधित करें और समझाएं कि यह ईबुक उन्हें कैसे हल करने में मदद करेगी।",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_one_heading": {
+    "message": "बेनीफिट #1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_two_heading": {
+    "message": "बेनीफिट #2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_three_heading": {
+    "message": "बेनीफिट #3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_content": {
+    "message": "पाठक क्या सीखेंगे इसकी व्याख्या करें",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_highlight": {
+    "message": "लाभों पर प्रकाश डालना याद रखें:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_preface": {
+    "message": "हमारा चयन क्यों?",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_heading": {
+    "message": "हम आपके व्यवसाय को बढ़ाने के लिए आधुनिक समाधान प्रदान करते हैं",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_content": {
+    "message": "उन हजारों संतुष्ट उपयोगकर्ताओं से जुड़ें जिन्होंने हमारे अभिनव समाधानों से अपना जीवन बदल दिया है।",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_button_text": {
+    "message": "और अधिक जानें",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_logo_heading": {
+    "message": "अग्रणी कंपनियों द्वारा विश्वसनीय",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_heading": {
+    "message": "फ़ीचर का नाम",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_content": {
+    "message": "आकर्षक, लाभ-संचालित प्रतिलिपि लिखें जो आपके प्रस्ताव के मूल्य को स्पष्ट रूप से संवादित करती है और आगंतुकों को कार्रवाई करने के लिए प्रोत्साहित करती है। ध्यान केंद्रित करें कि आपका प्रस्ताव उनकी समस्याओं का समाधान कैसे करता है या उनकी आवश्यकताओं को कैसे पूरा करता है।",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_preface": {
+    "message": "बस हमारी बात पर ही विश्वास न करें",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_heading": {
+    "message": "हमारी टीम के किसी सदस्य के साथ इन सुविधाओं को कार्य करते हुए देखें",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_button_text": {
+    "message": "डेमो प्राप्त करें",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_heading": {
+    "message": "डेमो शेड्यूल करें",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_p_one": {
+    "message": "अपनी सुविधानुसार हमारे टीम के सदस्यों में से एक के साथ एक डेमो निर्धारित करें। जोड़ें कि आपके संभावनाएं क्या सीखने की उम्मीद कर सकते हैं, इसका संक्षिप्त विवरण।",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_highlight": {
+    "message": "हम चर्चा करेंगे:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_one_heading": {
+    "message": "टॉपिक #1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_two_heading": {
+    "message": "टॉपिक #2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_three_heading": {
+    "message": "टॉपिक #3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_content": {
+    "message": "आपके डेमो में क्या शामिल होगा, यह बताएँ",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_heading": {
+    "message": "अपनी जगह सुरक्षित करें: इस विशेष इवेंट के लिए अभी पंजीकरण करें",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_content": {
+    "message": "लाइव कॉन्फ्रेंस, वेबिनार, या इवेंट के बारे में और आपके दर्शकों के सदस्यों को क्यों रजिस्टर करना चाहिए, इस पर एक संक्षिप्त परिचय जोड़ें।",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_button_text": {
+    "message": "अब रजिस्टर करें",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_partners_content": {
+    "message": "हमारे साझेदारों के समुदाय में हमसे जुड़ें",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_preface": {
+    "message": "इवेंट के बारे में",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_heading": {
+    "message": "शीर्ष विशेषज्ञों से अंतर्दृष्टि प्राप्त करें",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_highlight": {
+    "message": "इवेंट के मुख्य बिंदु:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_one_heading": {
+    "message": "हाइलाइट #1",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_two_heading": {
+    "message": "हाइलाइट #2",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_three_heading": {
+    "message": "हाइलाइट #3",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_content": {
+    "message": "उपस्थित लोग क्या प्राप्त करने की उम्मीद कर सकते हैं",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_heading": {
+    "message": "त्वरित आँकड़े",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_one": {
+    "message": "20+",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_two": {
+    "message": "150+",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_three": {
+    "message": "10",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_description": {
+    "message": "आँकड़े का छोटा विवरण",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_heading": {
+    "message": "इवेंट की एक झलक के लिए देखें",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_content": {
+    "message": "हमारे टीज़र वीडियो को देखें जो प्रेरणादायक मुख्य भाषणों, इंटरैक्टिव कार्यशालाओं, और नेटवर्किंग के अवसरों की एक झलक प्रदान करता है। आने वाली चीजों के इस पूर्वावलोकन को मिस न करें - हमारे साथ एक यादगार अनुभव के लिए जुड़ें।",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_preface": {
+    "message": "बस हमारी बात पर ही विश्वास न करें",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_heading": {
+    "message": "आज ही अवसरों को अनलॉक करें और अपनी जगह आरक्षित करें",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_button_text": {
+    "message": "अब रजिस्टर करें",
+    "description": "",
+    "placeholders": null
+  },
+  "search_results_heading": {
+    "message": "\"[[search_term]]\" के लिए सर्च रिजल्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_heading": {
+    "message": "के सम्बन्ध में",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_sub_heading": {
+    "message": "हमारी कम्पनी",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_image_alt_text": {
+    "message": "हमारी कहानी",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_list_heading": {
+    "message": "हाल ही की पोस्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_heading": {
+    "message": "हाल ही की पोस्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_heading": {
+    "message": "लोगों को अपने प्रोडक्ट और सेवाओं की ओर ले जाएँ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_button_text": {
+    "message": "और अधिक जानें",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_full_heading": {
+    "message": "कॉन्टेक्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_heading": {
+    "message": "कॉन्टेक्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_address": {
+    "message": "123 मेन स्ट्रीट, शहर, राज्य 11111",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_email": {
+    "message": "contact@businessname.com",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_phone_number": {
+    "message": "+1 234-567-8901",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_heading": {
+    "message": "उत्पाद",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_description_heading": {
+    "message": "प्रॉडक्ट डिस्क्रिप्शन",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_button_text": {
+    "message": "संपर्क करें",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_image_alt_text": {
+    "message": "उत्पाद",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_heading": {
+    "message": "गैलरी",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_one": {
+    "message": "प्रोडक्ट्स",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_two": {
+    "message": "कंपनी",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_three": {
+    "message": "कीमत",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_four": {
+    "message": "प्रोडक्ट की विशेषता",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_five": {
+    "message": "इमेज का कैप्शन",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_caption": {
+    "message": "इमेज का कैप्शन",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_heading": {
+    "message": "गैलरी",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_one": {
+    "message": "प्रोडक्ट्स",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_two": {
+    "message": "कंपनी",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_three": {
+    "message": "कीमत",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_four": {
+    "message": "प्रोडक्ट की विशेषता",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_five": {
+    "message": "कीमत",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_hover_message": {
+    "message": "हवर मैसेज",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_heading": {
+    "message": "ग्रोथ थीम",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_button_text": {
+    "message": "संपर्क करें",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_heading": {
+    "message": "ग्रोथ थीम",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_button_text": {
+    "message": "शुरू करें",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_heading": {
+    "message": "हम क्यों अलग हैं",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_one": {
+    "message": "शीघ्र सेटअप",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_two": {
+    "message": "उपयोग में आसान",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_three": {
+    "message": "अनुकूलन योग्य",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_heading": {
+    "message": "हमारे कुछ खुश ग्राहक",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_image_alt_text": {
+    "message": "कस्टमर लोगो",
+    "description": "",
+    "placeholders": null
+  },
+  "section_meetings_banner_heading": {
+    "message": "मुफ़्त परामर्श पाने के लिए एक मीटिंग बुक करें",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_heading": {
+    "message": "हमारी टीम",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_one_title": {
+    "message": "सीईओ ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_two_title": {
+    "message": "चीफ ऑपरेटिंग ऑफिसर",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_three_title": {
+    "message": "मुख्य वित्तीय अधिकारी",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_description": {
+    "message": "अपनी टीम के सदस्यों की विशिष्ट विशेषज्ञता, अनुभव और रुचियों को हाइलाइट करें। इसे संक्षिप्त लेकिन आकर्षक रखें, उनकी प्रोफेशनल जर्नी यात्रा और टेबल पर लाए गए मूल्यवान कौशल को प्रदर्शित करें।",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_heading": {
+    "message": "हमारी कहानी",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_image_alt_text": {
+    "message": "हमारी कहानी",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_button_text": {
+    "message": "और अधिक जानें",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_heading": {
+    "message": "योजनाएं शामिल हैं",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_description_heading": {
+    "message": "प्रोडक्ट की विशेषता",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_image_alt_text": {
+    "message": "योजना की विशेषता",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_heading": {
+    "message": "हमारे न्यूज़लेटर की सदस्यता लें!",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_subheading": {
+    "message": "नवीनतम अपडेट्स के बारे में जानते रहने के लिए साइन अप करें",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_heading": {
+    "message": "आपकी व्यवस्था के लिए उपकरणों का एक सेट",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_card_heading": {
+    "message": "लोगों को अपने प्रोडक्ट और सेवाओं की ओर ले जाएँ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_button_text": {
+    "message": "संपर्क करें",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_image_alt_text": {
+    "message": "सेवा",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_heading": {
+    "message": "योजनाएँ और उनका मूल्य",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_heading": {
+    "message": "शुरू करें",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_price": {
+    "message": "$50/महीना",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_content": {
+    "message": "अभी स्टार्टर खरीदें",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_button_text": {
+    "message": "स्टार्टर अभी खरीदें",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_heading": {
+    "message": "प्रोफेशनल",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_price": {
+    "message": "$200/माह",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_content": {
+    "message": "अभी प्रोफेशनल खरीदें",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_button_text": {
+    "message": "प्रोफ़ेशनल अभी खरीदें",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_heading": {
+    "message": "एंटरप्राइज़",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_price": {
+    "message": "$600/माह",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_content": {
+    "message": "अब एंटरप्राइज खरीदें",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_button_text": {
+    "message": "एंटरप्राइज अभी खरीदें",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_sub_heading": {
+    "message": "कुछ ख़ास विशेषताएं",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_heading": {
+    "message": "प्रोडक्ट्स",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_image_alt_text": {
+    "message": "हमारी कहानी",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_description_heading": {
+    "message": "प्रोडक्ट का नाम",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_button_text": {
+    "message": "संपर्क करें",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_heading": {
+    "message": "सेवाएं",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_description_heading": {
+    "message": "सेवा का नाम",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_one": {
+    "message": "हमारी कहानी",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_two": {
+    "message": "हमारा मूल्य",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_three": {
+    "message": "हमारा इतिहास",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_button_text": {
+    "message": "संपर्क करें",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_heading": {
+    "message": "टेस्टीमोनियल",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_team_member_title_one": {
+    "message": "वीपी प्रोडक्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_heading": {
+    "message": "देखिये लोग क्या कह रहे हैं",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_one": {
+    "message": "वीपी प्रोडक्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_two": {
+    "message": "एसवीपी बिक्री",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_three": {
+    "message": "सीएमओ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_video_heading": {
+    "message": "चीज़ों को एक्टिव होते हुए देखें",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading": {
+    "message": "सेवाएं",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_one_alt": {
+    "message": "कंप्यूटर पर दो लोग",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_two_alt": {
+    "message": "दो लोग फोन पर देख रहे हैं",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_three_alt": {
+    "message": "दो लोग दीवार पर स्टिकी नोट्स के साथ काम कर रहे हैं",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_one": {
+    "message": "बेस",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_two": {
+    "message": "प्रो",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_three": {
+    "message": "एंटरप्राइज़",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_button_text": {
+    "message": "अधिक जानें",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_description": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_heading": {
+    "message": "सेवाएं",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_image_alt": {
+    "message": "लोग सीढ़ियों पर बैठे हैं",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_heading": {
+    "message": "ब्रांड आइडेंटिटी डेवलपमेंट ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_content": {
+    "message": "हमारी टीम एक अद्वितीय और यादगार ब्रांड पहचान बनाएगी जो आपकी कंपनी के सार को दर्शाती है। हम एक आकर्षक लोगो बनाएंगे, उसी के अनुरूप रंग पैलेट का चयन करेंगे, और आपके ब्रांड को अलग दिखाने के लिए एक सुसंगत विजुअल स्टाइल बनाएंगे।",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_image_alt": {
+    "message": "युवा बिजनेस प्रोफेशनल लैपटॉप देखते हुए",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_heading": {
+    "message": "UX/UI डिज़ाइन एनहेन्समेंट",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_content": {
+    "message": "हमारी UX/UI डिज़ाइन विशेषज्ञता के साथ उपयोगकर्ता संतुष्टि और जुड़ाव को बेहतर बनाएं। हम आपके डिजिटल उत्पादों का गहन विश्लेषण करेंगे, समस्याओं की पहचान करेंगे और पूरे उपयोगकर्ता अनुभव को बेहतर बनाने के लिए उपयोगकर्ता-केंद्रित समाधान लागू करेंगे।",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_image_alt": {
+    "message": "युवा मार्केटिंग प्रोफेशनल हाथ में टैबलेट लेकर बातचीत करते हुए",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_heading": {
+    "message": "मार्केटिंग कलैटरल डिजाइन",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_content": {
+    "message": "अपने मार्केटिंग प्रयासों को आश्चर्यजनक कॉलैटरल के साथ बढ़ाएं जो स्थायी प्रभाव छोड़ता है। ब्रोशर और फ़्लायर्स से लेकर सोशल मीडिया ग्राफ़िक्स तक, हम आकर्षक सामग्री डिज़ाइन करेंगे जो आपके टारगेट ऑडियंस को समझ में आएगी और परिणाम लाएगी।",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_button_text": {
+    "message": "अधिक जानें",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_banner_image_alt": {
+    "message": "कैमरे की ओर देखते हुए मुस्कुराते लोगों का समूह",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_heading": {
+    "message": "लोकल फ़ूड पैन्ट्री सपोर्ट",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_content_area_one": {
+    "message": "हमारी लोकल फ़ूड पेंट्री का समर्थन करते हुए हमारे पड़ोसियों के जीवन में बदलाव लाने के लिए हमसे जुड़ें। आपके दान से हमारे समाज में भोजन संबंधी असुरक्षा का सामना कर रहे लोगों और परिवारों को आवश्यक पोषण प्रदान करने में मदद मिलेगी।",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_one_alt": {
+    "message": "शीशे पर स्टिकी नोट्स को देखते हुए दो लोग",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_two_alt": {
+    "message": "फ़ोन को भुगतान प्रोसेसर के पास रखा जा रहा है",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_three_alt": {
+    "message": "वैन चलाता हुआ व्यक्ति, जिसमें यात्री सीट पर दो पैकेज रखे हैं",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_heading": {
+    "message": "अभी दान करें",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_message_and_amount": {
+    "message": "अनुशंसित अमाउंट: $15.00",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_one_text": {
+    "message": "$15.00 दान करें",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_two_text": {
+    "message": "कस्टम अमाउंट",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_three_text": {
+    "message": "शेयर करें",
+    "description": "",
+    "placeholders": null
+  }
+}

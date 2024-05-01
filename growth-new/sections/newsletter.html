@@ -1,0 +1,45 @@
+<!--
+  templateType: section
+  label: Newsletter
+  isAvailableForNewContent: true
+  screenshotPath: ../images/section-previews/newsletter.png
+  description: "Middle centered title with a default form to the right. Default form includes first name, last name, company and email inputs with a button below the inputs."
+-->
+{% set template_translations = load_translations('../templates/_locales', html_lang, 'en') %}
+{% set anchor_tag = '<a id="{{ context.anchor_id }}" data-hs-anchor="true"></a>' %}
+
+{% dnd_section
+  vertical_alignment="MIDDLE",
+  background_color={{ context.background_color }}
+%}
+  {% dnd_column
+    width=7,
+    offset=0
+  %}
+    {% dnd_row %}
+      {% dnd_module path="@hubspot/rich_text" %}
+        {% module_attribute "html" %}
+          {{ anchor_tag if context.anchor_id }}
+          <h2>{{ context.heading or template_translations.section_newsletter_heading_new.message }}</h2>
+          <p>{{ context.sub_heading or template_translations.section_newsletter_subheading.message }}</p>
+        {% end_module_attribute %}
+      {% end_dnd_module %}
+    {% end_dnd_row %}
+  {% end_dnd_column %}
+  {% dnd_column
+    width=5,
+    offset=7
+  %}
+    {% dnd_row %}
+        {% dnd_module
+          path="@hubspot/form"
+          form={
+            form_id: context.form.id or "",
+            response_type: context.form.response_type or "redirect",
+            message: context.form.message or ""
+          }
+        %}
+      {% end_dnd_module %}
+    {% end_dnd_row %}
+  {% end_dnd_column %}
+{% end_dnd_section %}

@@ -1,0 +1,66 @@
+<!--
+  templateType: section
+  label: Logo gallery
+  isAvailableForNewContent: true
+  screenshotPath: ../images/section-previews/logo-gallery.png
+  description: "Full size background color section with middle centered title with an image galley below."
+-->
+{% set template_translations = load_translations('../templates/_locales', html_lang, 'en') %}
+{% set anchor_tag = '<a id="{{ context.anchor_id }}" data-hs-anchor="true"></a>' %}
+
+{% dnd_section
+  background_color={{ context.background_color }}
+%}
+  {% dnd_column %}
+    {% dnd_row
+      margin={
+        "bottom": 22
+      }
+    %}
+      {% dnd_module path="@hubspot/rich_text" %}
+        {% module_attribute "html" %}
+          <div style="text-align: center;">
+            {{ anchor_tag if context.anchor_id }}
+            <h2>{{ context.heading or template_translations.section_logo_gallery_heading.message }}</h2>
+          </div>
+        {% end_module_attribute %}
+      {% end_dnd_module %}
+    {% end_dnd_row %}
+    {% dnd_row %}
+      {% dnd_module
+        path="@hubspot/logo_grid",
+        group_logos=[
+          {
+            "logo": {
+              "alt": context.logos[0].image.alt or "Logo placeholder one",
+              "src": context.logos[0].image.src or get_asset_url("../images/industry-images/customer-logo-one.png"),
+              "loading": "lazy"
+            }
+          },
+          {
+            "logo": {
+              "alt": context.logos[1].image.alt or "Logo placeholder two",
+              "src": context.logos[1].image.src or get_asset_url("../images/industry-images/customer-logo-two.png"),
+              "loading": "lazy"
+            }
+          },
+          {
+            "logo": {
+              "alt": context.logos[2].image.alt or "Logo placeholder three",
+              "src": context.logos[2].image.src or get_asset_url("../images/industry-images/customer-logo-three.png"),
+              "loading": "lazy"
+            }
+          },
+          {
+            "logo": {
+              "alt": context.logos[3].image.alt or "Logo placeholder four",
+              "src": context.logos[3].image.src or get_asset_url("../images/industry-images/customer-logo-four.png"),
+              "loading": "lazy"
+            }
+          }
+        ]
+      %}
+      {% end_dnd_module %}
+    {% end_dnd_row %}
+  {% end_dnd_column %}
+{% end_dnd_section %}

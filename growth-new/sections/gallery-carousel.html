@@ -1,0 +1,157 @@
+<!--
+  templateType: section
+  label: Gallery carousel
+  isAvailableForNewContent: true
+  screenshotPath: ../images/section-previews/gallery-carousel.png
+  description: "Middle centered title and subtitle above an image slider with 3 images per slide."
+-->
+{% set template_translations = load_translations('../templates/_locales', html_lang, 'en') %}
+{% set anchor_tag = '<a id="{{ context.anchor_id }}" data-hs-anchor="true"></a>' %}
+
+{% dnd_section
+  background_color={{ context.background_color }}
+%}
+  {% dnd_column %}
+    {% dnd_row
+      margin={
+        "bottom": 22
+      }
+    %}
+      {% dnd_module path="@hubspot/rich_text" %}
+        {% module_attribute "html" %}
+          <div style="text-align: center;">
+            {{ anchor_tag if context.anchor_id }}
+            <h2>{{ context.heading or template_translations.section_gallery_carousel_heading.message }}</h2>
+            <p>{{ context.content or template_translations.placeholder_content_one.message }}</p>
+          </div>
+        {% end_module_attribute %}
+      {% end_dnd_module %}
+    {% end_dnd_row %}
+    {% dnd_row %}
+      {% dnd_module
+        path="@hubspot/image_slider_gallery",
+        slideshow_settings={
+          "slides": {
+            "per_page": 3,
+            "sizing": "force_aspect_ratio",
+            "aspect_ratio": "4/3"
+          },
+          "navigation": {
+            "show_dots": true
+          }
+        },
+        slides=[
+          {
+            "img": {
+              "src": context.images[0].image.src or get_asset_url("../images/industry-images/products-banner.jpg"),
+              "alt": context.images[0].image.alt or template_translations.section_gallery_carousel_image_alt_text_one.message
+            },
+            "caption": context.images[0].image.caption or template_translations.section_gallery_carousel_image_caption.message,
+            "link_url": {
+              "url": {
+                "href": context.images[0].image.href or ""
+              }
+            }
+          },
+          {
+            "img": {
+              "src": context.images[1].image.src or get_asset_url("../images/industry-images/pricing-banner.jpg"),
+              "alt": context.images[1].image.alt or template_translations.section_gallery_carousel_image_alt_text_three.message
+            },
+            "caption": context.images[1].image.caption or template_translations.section_gallery_carousel_image_caption.message,
+            "link_url": {
+              "url": {
+                "href": context.images[1].image.href or ""
+              }
+            }
+          },
+          {
+            "img": {
+              "src": context.images[2].image.src or get_asset_url("../images/industry-images/contact-banner.jpg"),
+              "alt": context.images[2].image.alt or template_translations.section_gallery_carousel_image_alt_text_four.message
+            },
+            "caption": context.images[2].image.caption or template_translations.section_gallery_carousel_image_caption.message,
+            "link_url": {
+              "url": {
+                "href": context.images[2].image.href or ""
+              }
+            }
+          },
+          {
+            "img": {
+              "src": context.images[3].image.src or get_asset_url("../images/industry-images/feature-three.jpg"),
+              "alt": context.images[3].image.alt or template_translations.section_gallery_carousel_image_alt_text_four.message
+            },
+            "caption": context.images[3].image.caption or template_translations.section_gallery_carousel_image_caption.message,
+            "link_url": {
+              "url": {
+                "href": context.images[3].image.href or ""
+              }
+            }
+          },
+          {
+            "img": {
+              "src": context.images[4].image.src or get_asset_url("../images/industry-images/company-one.jpg"),
+              "alt": context.images[4].image.alt or template_translations.section_gallery_carousel_image_alt_text_two.message
+            },
+            "caption": context.images[4].image.caption or template_translations.section_gallery_carousel_image_caption.message,
+            "link_url": {
+              "url": {
+                "href": context.images[4].image.href or ""
+              }
+            }
+          },
+          {
+            "img": {
+              "src": context.images[5].image.src or get_asset_url("../images/industry-images/company-two.jpg"),
+              "alt": context.images[5].image.alt or template_translations.section_gallery_carousel_image_alt_text_two.message
+            },
+            "caption": context.images[5].image.caption or template_translations.section_gallery_carousel_image_caption.message,
+            "link_url": {
+              "url": {
+                "href": context.images[5].image.href or ""
+              }
+            }
+          },
+          {
+            "img": {
+              "src": context.images[6].image.src or get_asset_url("../images/industry-images/company-three.jpg"),
+              "alt": context.images[6].image.alt or template_translations.section_gallery_carousel_image_alt_text_two.message
+            },
+            "caption": context.images[6].image.caption or template_translations.section_gallery_carousel_image_caption.message,
+            "link_url": {
+              "url": {
+                "href": context.images[6].image.href or ""
+              }
+            }
+          },
+          {
+            "img": {
+              "src": context.images[7].image.src or get_asset_url("../images/industry-images/feature-one.jpg"),
+              "alt": context.images[7].image.alt or template_translations.section_gallery_carousel_image_alt_text_four.message
+            },
+            "caption": context.images[7].image.caption or template_translations.section_gallery_carousel_image_caption.message,
+            "link_url": {
+              "url": {
+                "href": context.images[7].image.href or ""
+              }
+            }
+          },
+          {
+            "img": {
+              "src": context.images[8].image.src or get_asset_url("../images/industry-images/feature-two.jpg"),
+              "alt": context.images[8].image.alt or template_translations.section_gallery_carousel_image_alt_text_four.message
+            },
+            "caption": context.images[8].image.caption or template_translations.section_gallery_carousel_image_caption.message,
+            "link_url": {
+              "url": {
+                "href": context.images[8].image.href or ""
+              }
+            }
+          }
+        ]
+      %}
+      {% end_dnd_module %}
+    {% end_dnd_row %}
+  {% end_dnd_column %}
+{% end_dnd_section %}

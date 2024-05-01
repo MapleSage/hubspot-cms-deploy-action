@@ -1,0 +1,39 @@
+<!--
+  templateType: page
+  isAvailableForNewContent: false
+  label: Sections testing
+  screenshotPath: ../images/template-previews/blank.png
+-->
+{% extends "../layouts/base.html" %}
+
+{% block body %}
+{% dnd_area "dnd_area"
+  label="Growth theme sections"
+%}
+
+  {% include_dnd_partial path="../../sections/about.html" %}
+  {% include_dnd_partial path="../../sections/blog-posts.html" %}
+  {% include_dnd_partial path="../../sections/products.html" %}
+  {% include_dnd_partial path="../../sections/services.html" %}
+  {% include_dnd_partial path="../../sections/contact.html" %}
+  {% include_dnd_partial path="../../sections/hero-banner.html"%}
+  {% include_dnd_partial path="../../sections/call-to-action.html" %}
+  {% include_dnd_partial path="../../sections/icon-and-copy.html" %}
+  {% include_dnd_partial path="../../sections/meetings-banner.html"%}
+  {% include_dnd_partial path="../../sections/multi-column-content.html" %}
+  {% include_dnd_partial path="../../sections/multi-row-content.html" %}
+  {% include_dnd_partial path="../../sections/newsletter.html" %}
+  {% include_dnd_partial path="../../sections/offer.html"%}
+  {% include_dnd_partial path="../../sections/pricing.html" %}
+  {% include_dnd_partial path="../../sections/testimonials.html" %}
+  {% include_dnd_partial path="../../sections/video.html" %}
+  {% include_dnd_partial path="../../sections/gallery.html" %}
+  {% include_dnd_partial path="../../sections/featured-product.html"%}
+  {% include_dnd_partial path="../../sections/hero-banner-video.html" %}
+  {% include_dnd_partial path="../../sections/testimonial-quote.html" %}
+  {% include_dnd_partial path="../../sections/contact-full.html" %}
+  {% include_dnd_partial path="../../sections/blog-posts-list.html" %}
+  {% include_dnd_partial path="../../sections/gallery-carousel.html" %}
+
+{% end_dnd_area %}
+{% endblock body %}

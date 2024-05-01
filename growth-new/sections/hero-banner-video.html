@@ -1,0 +1,60 @@
+<!--
+  templateType: section
+  label: Hero banner - video
+  isAvailableForNewContent: true
+  screenshotPath: ../images/section-previews/hero-banner-video.png
+  description: "Section separated in two columns. Left column has a left aligned title, subtitle and button and right column has a video."
+-->
+{% set template_translations = load_translations('../templates/_locales', html_lang, 'en') %}
+{% set anchor_tag = '<a id="{{ context.anchor_id }}" data-hs-anchor="true"></a>' %}
+
+{% dnd_section
+  background_image={
+  "backgroundPosition": "MIDDLE_CENTER",
+  "backgroundSize": "cover",
+  "imageUrl": context.background_image.src or get_asset_url("../images/industry-images/home-banner.jpg")
+  },
+  padding={
+    "top": 132,
+    "bottom": 132
+  }
+%}
+  {% dnd_column
+    width=6
+  %}
+    {% dnd_row %}
+      {% dnd_module path="@hubspot/rich_text" %}
+        {% module_attribute "html" %}
+          {{ anchor_tag if context.anchor_id }}
+          <h1 style="color: #fff;">{{ context.heading or template_translations.section_hero_banner_video_heading.message }}</h2>
+          <p style="color: #fff;">{{ context.content or template_translations.placeholder_content_two.message }}</p>
+        {% end_module_attribute %}
+      {% end_dnd_module %}
+    {% end_dnd_row %}
+    {% dnd_row %}
+      {% dnd_module
+        path="../modules/button",
+        button_text={{ context.button.text or template_translations.section_hero_banner_video_button_text.message }}
+        button_link={
+          "url": {
+            "href": context.button.href or ""
+          }
+        }
+      %}
+      {% end_dnd_module %}
+    {% end_dnd_row %}
+  {% end_dnd_column %}
+
+  {% dnd_column
+    margin={
+      "bottom": 22
+    },
+    offset=6,
+    width=6
+  %}
+    {% dnd_row %}
+      {% dnd_module path="@hubspot/video" %}
+      {% end_dnd_module %}
+    {% end_dnd_row %}
+  {% end_dnd_column %}
+{% end_dnd_section %}

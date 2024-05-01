@@ -1,0 +1,1662 @@
+{
+  "partial_header_skip_to_content": {
+    "message": "Přeskočit na obsah",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_address": {
+    "message": "Hlavní 123, 111 11 Město",
+    "description": "",
+    "placeholders": null
+  },
+  "partial_footer_copyright": {
+    "message": "Copyright © {{ year }}, {{ site_settings.company_name }}",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_one": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_two": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_content_three": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "about_banner_heading": {
+    "message": "O nás",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_one": {
+    "message": "Náš příběh",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_two": {
+    "message": "Naše hodnoty",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_three": {
+    "message": "Naše historie",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_four": {
+    "message": "Náš tým",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_five": {
+    "message": "Naše kultura",
+    "description": "",
+    "placeholders": null
+  },
+  "about_heading_six": {
+    "message": "Novinky ze společnosti",
+    "description": "",
+    "placeholders": null
+  },
+  "about_image_alt_text": {
+    "message": "Společnost",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_one_title": {
+    "message": "Generální ředitel a zakladatel",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_two_title": {
+    "message": "Provozní ředitel",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_three_title": {
+    "message": "Technický ředitel",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_four_title": {
+    "message": "Finanční ředitel",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_five_title": {
+    "message": "Ředitel designu",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_six_title": {
+    "message": "Personální ředitel",
+    "description": "",
+    "placeholders": null
+  },
+  "about_team_member_description": {
+    "message": "Přibližte jedinečné odborné znalosti, zkušenosti a zájmy člena týmu. Pište stručně, ale ne suše. Zdůrazněte profesní dráhu pracovníka a jaké cenné schopnosti může nabídnout.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_index_heading": {
+    "message": "Blog",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_heading": {
+    "message": "Komentáře z blogu",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_heading": {
+    "message": "Konference Growth",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_date": {
+    "message": "5.–8. září",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_text": {
+    "message": "Získat vstupenky",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_banner_button_content": {
+    "message": "Získat vstupenky",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_one": {
+    "message": "Koupit",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_text_two": {
+    "message": "Koupit vstupenky",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_one": {
+    "message": "Základní informace",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_two": {
+    "message": "Pozvaní řečníci",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_three": {
+    "message": "Sponzoři",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_four": {
+    "message": "Zadejte slogan k videu",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_five": {
+    "message": "Reference",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_heading_six": {
+    "message": "Lístky",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_one": {
+    "message": "Konference Growth je šablona, kterou můžete použít, pokud chcete zákazníkům vysvětlit, jak zajímavá a přínosná pro ně může být konference vaší organizace. Popište téma konference a zdůrazněte, proč by si zákazníci měli koupit vstupenky.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_two": {
+    "message": "Tady stručně představte řečníky. Proč by si je cílová skupina neměla nechat ujít? Budou se vystoupení všech týkat jednoho společného tématu? Čím jsou jednotliví hosté jedineční? Tento prostor slouží k tomu, abyste čtenáře přesvědčili, že pozvaní řečníci skutečně mají co říct.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_three": {
+    "message": "Shrňte životopis řečníka. Můžete přidat i větu o tématu prezentace, s níž vystoupí.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_four": {
+    "message": "„Tady můžete nechat zaznít nezávislá svědectví o tom, jak je vaše akce skvělá. Přidejte reference, které lidem pomohou pochopit, v čem spočívá přínos akce.“",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_content_five": {
+    "message": "Popište téma konference, nastiňte potenciálním zákazníkům program a vysvětlete, proč je jim vyplatí koupit vstupenky. Tyto šablony můžete využít k bezkontaktnímu prodeji vstupenek na svou akci.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_heading": {
+    "message": "Obecné přijetí",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_one_price": {
+    "message": "199 USD",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_heading": {
+    "message": "VIP",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_two_price": {
+    "message": "449 USD",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_one": {
+    "message": "Vyjmenujte všechny úžasné výhody, které zákazníci získají, když se koupí vstupenku této kategorie.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_two": {
+    "message": "Jaké příležitosti k navazování vztahů a vzdělávání budou moci na konferenci využít?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_three": {
+    "message": "Kterých částí konference se budou moci zúčastnit?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_four": {
+    "message": "Získají přístup k nahrávkám některých částí programu?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_five": {
+    "message": "Z jakých variant stravování, dopravy a ubytování si budou moci vybrat?",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_card_content_six": {
+    "message": "Vyjmenujte všechny exkluzivní výhody, které získají VIP zákazníci, kteří si koupí vstupenku této kategorie.",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_one": {
+    "message": "Generální ředitel a zakladatel",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_two": {
+    "message": "Provozní ředitel",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_team_member_title_three": {
+    "message": "Technický ředitel",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_button_content": {
+    "message": "Koupit vstupenky",
+    "description": "",
+    "placeholders": null
+  },
+  "conference_image_alt_text": {
+    "message": "Fotografie řečníka",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_one": {
+    "message": "Kontaktujte nás",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_two": {
+    "message": "Naše pobočky",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_three": {
+    "message": "Spojte se s námi",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_heading_four": {
+    "message": "Časté dotazy",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_heading": {
+    "message": "Knihovna obsahu",
+    "description": "",
+    "placeholders": null
+  },
+  "content_library_content": {
+    "message": "Knihovna zdrojů a digitálních materiálů, která vašemu týmu nabídne užitečné informace a pomůže růst.",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_one": {
+    "message": "<h3>San Francisco</h3><p>3870 Twin Oaks Drive<br> San Francisco, CA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_two": {
+    "message": "<h3>Chicago</h3><p>2140 Roguski Road<br> Chicago, IL</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_address_three": {
+    "message": "<h3>Boston</h3><p>123 Waverly Place<br> Boston, MA</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_question": {
+    "message": "Název accordion",
+    "description": "",
+    "placeholders": null
+  },
+  "contact_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_heading": {
+    "message": "Stránka nebyla nalezena.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_description": {
+    "message": "Hledanou stránku se nám nepodařilo najít.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_404_button": {
+    "message": "Přejít na domovskou stránku",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_heading": {
+    "message": "Stránka nefunguje.",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_description": {
+    "message": "Došlo k vnitřní chybě serveru. Už pracujeme na jejím odstranění!",
+    "description": "",
+    "placeholders": null
+  },
+  "error_500_button": {
+    "message": "Přejít na domovskou stránku",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_heading": {
+    "message": "Je nám to líto, ale k obsahu nemáte přístup.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_description": {
+    "message": "Nemáte oprávnění zobrazit tuto stránku. S případnými otázkami se obraťte na správce webu.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_access_denied_button": {
+    "message": "Přejít na domovskou stránku",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_heading": {
+    "message": "Přihlásit se",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_subheading": {
+    "message": "Stránka, kterou se snažíte zobrazit, je dostupná jen pro registrované uživatele.",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_email": {
+    "message": "E-mail",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_password": {
+    "message": "Heslo",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_remember_me": {
+    "message": "Pamatovat si mě",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_reset_password": {
+    "message": "Nepamatujete si heslo?",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_submit": {
+    "message": "Přihlásit se",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_show_password": {
+    "message": "Zobrazit",
+    "description": "",
+    "placeholders": null
+  },
+  "member_login_contact_admin": {
+    "message": "Máte nějaké potíže? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Kontaktujte správce webu.</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_heading": {
+    "message": "Jste odhlášeni",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_button": {
+    "message": "Znovu se přihlaste",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_logout_alt": {
+    "message": "Nebo se vraťte na <a href=\"{{ '//' ~ request.domain }}\">domovskou stránku</a>.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_heading": {
+    "message": "Nastavte si heslo",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_subheading": {
+    "message": "Vítáme vás! Ještě si nastavte heslo a registrace bude hotová.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_email": {
+    "message": "E-mail",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_confirm_password": {
+    "message": "Potvrdit heslo",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_password": {
+    "message": "Heslo",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_save_password": {
+    "message": "Uložit heslo",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_show_password": {
+    "message": "Zobrazit",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_register_contact_admin": {
+    "message": "Máte nějaké potíže? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Kontaktujte správce webu.</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_heading": {
+    "message": "E-mailová adresa je potvrzena",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_description": {
+    "message": "Děkujeme vám za ověření e-mailové adresy. Nyní už se můžete přihlásit ke svému účtu a zobrazit si exkluzivní obsah.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_button": {
+    "message": "Přihlásit se",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_registration_confirmation_contact_admin": {
+    "message": "Máte nějaké potíže? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Kontaktujte správce webu.</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_heading": {
+    "message": "Vytvořit nové heslo",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_subheading": {
+    "message": "Nové heslo se nesmí shodovat s dříve používaným heslem.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_new_password": {
+    "message": "Nové heslo",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_confirm_password": {
+    "message": "Potvrdit nové heslo",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_save_password": {
+    "message": "Uložit heslo",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_show_password": {
+    "message": "Zobrazit",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_password_contact_admin": {
+    "message": "Máte nějaké potíže? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Kontaktujte správce webu.</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_heading": {
+    "message": "Obnovit heslo",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_subheading": {
+    "message": "Zadejte e-mailovou adresu, kterou jste použili při registraci, a my vám na ni pošleme zprávu s odkazem pro obnovení hesla.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_email": {
+    "message": "E-mail",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_submit": {
+    "message": "Odeslat e-mail k obnovení",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_alt": {
+    "message": "Přece jen jste si vzpomněli? <a href=\"/_hcms/mem/login\">Přihlaste se</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_reset_request_contact_admin": {
+    "message": "Máte nějaké potíže? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Kontaktujte správce webu.</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_heading": {
+    "message": "Ověřte svou e-mailovou adresu",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_description": {
+    "message": "Děkujeme vám za registraci! Dokončete ji prosím kliknutím na odkaz pro potvrzení, který byste měli najít ve své e-mailové schránce.",
+    "description": "",
+    "placeholders": null
+  },
+  "membership_verify_registration_contact_admin": {
+    "message": "Máte nějaké potíže? <a href=\"{{ 'mailto:' ~ site_settings.membershipWebsiteAdmin }}\">Kontaktujte správce webu.</a>",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_one": {
+    "message": "Informace",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two": {
+    "message": "Rostoucí firma nabízející placené konzultace",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_two_update": {
+    "message": "Růst podnikání pomocí placených konzultací",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_three": {
+    "message": "Sada nástrojů pro zákazníky",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_heading": {
+    "message": "Služba",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_service_description": {
+    "message": "Shrňte, jakou službu poskytujete. Vysvětlete také, jaký přínos může mít pro zákazníky.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_heading_four": {
+    "message": "Reference",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_one": {
+    "message": "Zadejte podnadpis, v němž vysvětlíte, jaké služby zákazníkům poskytujete",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_content_two": {
+    "message": "Stručně vysvětlete, jaké činnosti se vaše společnost věnuje. Snažte se specializaci popsat co nejpřesněji, abyste upoutali pozornost klientů. Uveďte, co si zákazníci mohou odnést z placené konzultace s vámi.",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_list_content": {
+    "message": "„Vložte reference, které potvrzují kvalitu vašich služeb. Proč jsou vaši stávající zákazníci ze spolupráce s vámi nadšení?“",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_image_alt_text": {
+    "message": "Zástupný obrázek tématu Growth",
+    "description": "",
+    "placeholders": null
+  },
+  "paid_consultation_button_text": {
+    "message": "Rezervovat konzultaci",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_heading": {
+    "message": "Je nutné zadat heslo.",
+    "description": "",
+    "placeholders": null
+  },
+  "password_prompt_subheading": {
+    "message": "Pokud chcete zobrazit tuto stránku, zadejte heslo.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_one": {
+    "message": "Ceny",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_plans_and_pricing_heading": {
+    "message": "Plány a ceny",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_heading_two": {
+    "message": "Časté dotazy",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_heading": {
+    "message": "Obsah všech plánů",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_list_content_heading": {
+    "message": "Vlastnost produktu",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_heading": {
+    "message": "Nadchněte lidi pro své produkty a služby",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_cta_button_text": {
+    "message": "Více informací",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_question": {
+    "message": "Název accordion",
+    "description": "",
+    "placeholders": null
+  },
+  "pricing_faq_answer": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor arcu non commodo elementum.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_one": {
+    "message": "Produkty",
+    "description": "",
+    "placeholders": null
+  },
+  "products_heading_two": {
+    "message": "Na míru vašim potřebám",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_heading": {
+    "message": "A to ještě není vše",
+    "description": "",
+    "placeholders": null
+  },
+  "products_list_content_heading": {
+    "message": "Vlastnost produktu",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_one": {
+    "message": "Rychlé seznámení s funkcemi",
+    "description": "",
+    "placeholders": null
+  },
+  "products_description_heading_two": {
+    "message": "Snadné použití",
+    "description": "",
+    "placeholders": null
+  },
+  "products_image_alt_text": {
+    "message": "Vlastnost produktu",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_heading": {
+    "message": "Nadchněte lidi pro své produkty a služby",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_subheading": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "description": "",
+    "placeholders": null
+  },
+  "products_cta_button_text": {
+    "message": "Více informací",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_heading": {
+    "message": "Téma růstu",
+    "description": "",
+    "placeholders": null
+  },
+  "home_banner_button_text": {
+    "message": "Začít",
+    "description": "",
+    "placeholders": null
+  },
+  "home_logos_heading": {
+    "message": "Výběr našich spokojených zákazníků",
+    "description": "",
+    "placeholders": null
+  },
+  "home_heading": {
+    "message": "Na míru vašim potřebám",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_one": {
+    "message": "Rychlé nastavení",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_two": {
+    "message": "Jednoduché použití",
+    "description": "",
+    "placeholders": null
+  },
+  "home_description_heading_three": {
+    "message": "Možnost přizpůsobení",
+    "description": "",
+    "placeholders": null
+  },
+  "home_video_heading": {
+    "message": "Naše služby v akci",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_heading": {
+    "message": "Sada nástrojů pro zákazníky",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_content_heading": {
+    "message": "Název produktu",
+    "description": "",
+    "placeholders": null
+  },
+  "home_image_alt_text": {
+    "message": "Název produktu",
+    "description": "",
+    "placeholders": null
+  },
+  "home_product_button_text": {
+    "message": "Více informací",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_content": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan velit sit amet sagittis malesuada.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_testimonial_customer": {
+    "message": "Shaun Benson, marketingový manažer společnosti Agriflora Inc.",
+    "description": "",
+    "placeholders": null
+  },
+  "home_blog_post_heading": {
+    "message": "Nejnovější příspěvky",
+    "description": "",
+    "placeholders": null
+  },
+  "home_contact": {
+    "message": "Kontaktujte nás",
+    "description": "",
+    "placeholders": null
+  },
+  "home_button_text": {
+    "message": "Začít",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_heading": {
+    "message": "Stáhněte si bezplatný digitální materiál ještě dnes",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_p_one": {
+    "message": "Napište poutavý úvod, který představí obsah materiálu. Zmiňte problémy, které čtenáři nejspíš potřebují vyřešit, nebo cíle, kterých nejspíš chtějí dosáhnout, a vysvětlete, v čem jim e-kniha pomůže.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_one_heading": {
+    "message": "Výhoda č. 1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_two_heading": {
+    "message": "Výhoda č. 2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_three_heading": {
+    "message": "Výhoda č. 3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_li_content": {
+    "message": "Vysvětlete, co se čtenáři dozvědí",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_simple_conversion_content_highlight": {
+    "message": "Nezapomeňte zdůraznit výhody:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_preface": {
+    "message": "Proč si vybrat právě nás?",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_heading": {
+    "message": "Nabízíme moderní řešení, která vaší firmě pomohou růst",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_content": {
+    "message": "Rozšiřte řady tisíců spokojených uživatelů, kterým naše inovativní řešení změnila život.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_banner_button_text": {
+    "message": "Více informací",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_logo_heading": {
+    "message": "Důvěřují nám přední společnosti",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_heading": {
+    "message": "Název funkce",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_feature_content": {
+    "message": "Napište přesvědčivý text, který prezentuje výhody, srozumitelně popisuje přínos nabídky a vyzývá návštěvníky, aby ji využili. Zaměřte se na to, jak nabídka pomůže vyřešit problémy nebo potřeby lidí.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_preface": {
+    "message": "Nespoléhejte se jen na naše slovo",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_heading": {
+    "message": "Podívejte se, jak to všechno funguje v praxi. Náš kolega vám to rád předvede",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_bottom_banner_button_text": {
+    "message": "Vyžádat si ukázku",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_heading": {
+    "message": "Naplánovat ukázku",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_p_one": {
+    "message": "Naplánujte si ukázku v termínu, jaký vám bude vyhovovat. Náš kolega vám všechno ukáže. Přidejte stručný popis, který shrne, co se potenciální zákazníci dozvědí.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_highlight": {
+    "message": "Probereme spolu:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_one_heading": {
+    "message": "Téma č. 1:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_two_heading": {
+    "message": "Téma č. 2:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_three_heading": {
+    "message": "Téma č. 3:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_clickthrough_contact_li_content": {
+    "message": "Vysvětlete, co bude ukázka zahrnovat",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_heading": {
+    "message": "Zajistěte si místo: Neváhejte a zaregistrujte se na naši exkluzivní akci",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_content": {
+    "message": "Zadejte stručný úvod, který představí program živé konference, webináře nebo akce a vysvětlí, proč by se cílová skupina měla zaregistrovat.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_banner_button_text": {
+    "message": "Zaregistrovat se",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_partners_content": {
+    "message": "Nenechte si ujít setkání s komunitou partnerů",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_preface": {
+    "message": "Informace o akci",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_heading": {
+    "message": "Učte se od špičkových odborníků",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_highlight": {
+    "message": "Nejzajímavější body programu akce:",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_one_heading": {
+    "message": "Zajímavý bod programu č. 1",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_two_heading": {
+    "message": "Zajímavý bod programu č. 2",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_three_heading": {
+    "message": "Zajímavý bod programu č. 3",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_details_li_content": {
+    "message": "Co mohou účastníci očekávat",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_heading": {
+    "message": "Stručné statistické údaje",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_one": {
+    "message": "Přes 20",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_two": {
+    "message": "Přes 150",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_three": {
+    "message": "10",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_stats_description": {
+    "message": "Malý popis statistického údaje",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_heading": {
+    "message": "Jak bude akce vypadat?",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_sneak_peak_content": {
+    "message": "Podívejte se na videoupoutávku, kde získáte představu o inspirativních vystoupeních, interaktivních workshopech a příležitostech k navázání nových kontaktů, které vás čekají. Obhlédněte, co jsme pro vás připravili – a nenechte si to ujít.",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_preface": {
+    "message": "Nespoléhejte se jen na naše slovo",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_heading": {
+    "message": "Rezervujte si místo ještě dnes a otevřete si cestu k novým příležitostem",
+    "description": "",
+    "placeholders": null
+  },
+  "lp_video_bottom_banner_button_text": {
+    "message": "Zaregistrovat se",
+    "description": "",
+    "placeholders": null
+  },
+  "search_results_heading": {
+    "message": "Výsledky hledání pro zadání „[[search_term]]“",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_heading": {
+    "message": "Informace",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_sub_heading": {
+    "message": "Naše společnost",
+    "description": "",
+    "placeholders": null
+  },
+  "section_about_image_alt_text": {
+    "message": "Náš příběh",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_list_heading": {
+    "message": "Nejnovější příspěvky",
+    "description": "",
+    "placeholders": null
+  },
+  "section_blog_posts_heading": {
+    "message": "Nejnovější příspěvky",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_heading": {
+    "message": "Nadchněte lidi pro své produkty a služby",
+    "description": "",
+    "placeholders": null
+  },
+  "section_call_to_action_button_text": {
+    "message": "Více informací",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_full_heading": {
+    "message": "Kontakt",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_heading": {
+    "message": "Kontakt",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_address": {
+    "message": "Hlavní 123, 111 11 Město",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_email": {
+    "message": "contact@businessname.com",
+    "description": "",
+    "placeholders": null
+  },
+  "section_contact_phone_number": {
+    "message": "+1 234-567-8901",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_heading": {
+    "message": "Produkt",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_description_heading": {
+    "message": "Popis produktu",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_button_text": {
+    "message": "Kontaktujte nás",
+    "description": "",
+    "placeholders": null
+  },
+  "section_featured_product_image_alt_text": {
+    "message": "Produkt",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_heading": {
+    "message": "Galerie",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_one": {
+    "message": "Produkty",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_two": {
+    "message": "Společnost",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_three": {
+    "message": "Ceny",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_four": {
+    "message": "Vlastnost produktu",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_alt_text_five": {
+    "message": "Popisek obrázku",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_carousel_image_caption": {
+    "message": "Popisek obrázku",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_heading": {
+    "message": "Galerie",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_one": {
+    "message": "Produkty",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_two": {
+    "message": "Společnost",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_three": {
+    "message": "Ceny",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_four": {
+    "message": "Vlastnost produktu",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_image_alt_text_five": {
+    "message": "Ceny",
+    "description": "",
+    "placeholders": null
+  },
+  "section_gallery_hover_message": {
+    "message": "Zpráva při najetí myší",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_heading": {
+    "message": "Téma Growth",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_video_button_text": {
+    "message": "Kontaktujte nás",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_heading": {
+    "message": "Téma Growth",
+    "description": "",
+    "placeholders": null
+  },
+  "section_hero_banner_button_text": {
+    "message": "Začít",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_heading": {
+    "message": "Proč jsme lepší než ostatní",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_one": {
+    "message": "Rychlé nastavení",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_two": {
+    "message": "Jednoduché použití",
+    "description": "",
+    "placeholders": null
+  },
+  "section_icon_and_copy_description_heading_three": {
+    "message": "Možnost přizpůsobení",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_heading": {
+    "message": "Výběr našich spokojených zákazníků",
+    "description": "",
+    "placeholders": null
+  },
+  "section_logo_gallery_image_alt_text": {
+    "message": "Logo zákazníka",
+    "description": "",
+    "placeholders": null
+  },
+  "section_meetings_banner_heading": {
+    "message": "Domluvte si bezplatnou konzultaci",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_heading": {
+    "message": "Náš tým",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_one_title": {
+    "message": "Generální ředitel",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_two_title": {
+    "message": "Provozní ředitel",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_three_title": {
+    "message": "Finanční ředitel",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_column_content_team_member_description": {
+    "message": "Přibližte jedinečné odborné znalosti, zkušenosti a zájmy člena týmu. Pište stručně, ale ne suše. Zdůrazněte profesní cestu pracovníka a cenných schopností, které nabízí.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_heading": {
+    "message": "Náš příběh",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_image_alt_text": {
+    "message": "Náš příběh",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_content_button_text": {
+    "message": "Více informací",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_heading": {
+    "message": "Obsah plánů",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_description_heading": {
+    "message": "Vlastnost produktu",
+    "description": "",
+    "placeholders": null
+  },
+  "section_multi_row_lists_image_alt_text": {
+    "message": "Vlastnost plánu",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_heading": {
+    "message": "Přihlaste se k odběru našeho zpravodaje!",
+    "description": "",
+    "placeholders": null
+  },
+  "section_newsletter_subheading": {
+    "message": "Zaregistrujte se, ať vám neujdou žádné novinky",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_heading": {
+    "message": "Sada nástrojů pro zákazníky",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_card_heading": {
+    "message": "Nadchněte lidi pro své produkty a služby",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_button_text": {
+    "message": "Kontaktujte nás",
+    "description": "",
+    "placeholders": null
+  },
+  "section_offer_image_alt_text": {
+    "message": "Servis",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_heading": {
+    "message": "Plány a ceny",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_heading": {
+    "message": "Starter",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_price": {
+    "message": "50 USD / měsíc",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_content": {
+    "message": "Koupit startovní plán",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_one_button_text": {
+    "message": "Koupit startovní plán",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_heading": {
+    "message": "Profesionální verze",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_price": {
+    "message": "200 USD / měsíc",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_content": {
+    "message": "Koupit profesionální verzi",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_two_button_text": {
+    "message": "Koupit profesionální verzi",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_heading": {
+    "message": "Velké firmy",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_price": {
+    "message": "600 USD / měsíc",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_content": {
+    "message": "Koupit verzi pro velké firmy",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_three_button_text": {
+    "message": "Koupit verzi pro velké firmy",
+    "description": "",
+    "placeholders": null
+  },
+  "section_pricing_card_sub_heading": {
+    "message": "Vybrané hlavní funkce",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_heading": {
+    "message": "Produkty",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_image_alt_text": {
+    "message": "Náš příběh",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_description_heading": {
+    "message": "Název produktu",
+    "description": "",
+    "placeholders": null
+  },
+  "section_products_button_text": {
+    "message": "Kontaktujte nás",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_heading": {
+    "message": "Služby",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_description_heading": {
+    "message": "Název služby",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_one": {
+    "message": "Náš příběh",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_two": {
+    "message": "Naše hodnoty",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_image_alt_text_three": {
+    "message": "Naše historie",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_button_text": {
+    "message": "Kontaktujte nás",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_heading": {
+    "message": "Reference",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_quote_team_member_title_one": {
+    "message": "Viceprezident pro produkty",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_heading": {
+    "message": "Podívejte se, co říkají ostatní",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_one": {
+    "message": "Viceprezident pro produkty",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_two": {
+    "message": "Senior viceprezident pro prodej",
+    "description": "",
+    "placeholders": null
+  },
+  "section_testimonial_team_member_title_three": {
+    "message": "Ředitel marketingu",
+    "description": "",
+    "placeholders": null
+  },
+  "section_video_heading": {
+    "message": "Naše služby v akci",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading": {
+    "message": "Služby",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_one_alt": {
+    "message": "Dva lidé u počítače",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_two_alt": {
+    "message": "Dva lidé hledící na displej telefonu",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_image_three_alt": {
+    "message": "Dva lidé lepící lístečky na stěnu",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_one": {
+    "message": "Základní",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_two": {
+    "message": "Profesionální",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_heading_three": {
+    "message": "Velké firmy",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_button_text": {
+    "message": "Více informací",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_three_col_description": {
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_heading": {
+    "message": "Služby",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_image_alt": {
+    "message": "Lidé sedící na schodech",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_heading": {
+    "message": "Tvorba identity značky",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_one_content": {
+    "message": "Náš tým pro vaši společnost vytvoří jedinečnou a zapamatovatelnou identitu značky, která bude vystihovat její povahu. Zpracujeme pro vás atraktivní logo, vybereme vyváženou kombinaci barev a určíme jednotný vizuální styl, který vaši značku odliší od ostatních. ",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_image_alt": {
+    "message": "Mladí obchodníci sledující obrazovku notebooku",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_heading": {
+    "message": "Vylepšení designu uživatelského rozhraní",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_two_content": {
+    "message": "Máme bohaté zkušenosti a designem uživatelského rozhraní a rádi pomůžeme vyladit i to vaše, aby bylo snáz použitelné a atraktivnější. Provedeme podrobnou analýzu vašich digitálních produktů, identifikujeme nedostatky a nasadíme řešení, která pomohou zvýšit celkovou míru spokojenosti uživatelů.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_image_alt": {
+    "message": "Mladý marketingový specialista hovořící na dvoře s tabletem v ruce",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_heading": {
+    "message": "Tvorba marketingových materiálů",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_row_three_content": {
+    "message": "Pokud chcete, aby váš marketing lépe fungoval, potřebujete fantastické propagační materiály, které skutečně udělají dojem. Máte-li zájem, vytvoříme pro vás nepřehlédnutelné materiály – od brožur a letáků až po grafiku na sociální sítě – které účinně osloví vaši cílovou skupinu a přinesou reálné výsledky.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_services_longform_button_text": {
+    "message": "Více informací",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_banner_image_alt": {
+    "message": "Skupina usmívajících se lidí, kteří se dívají přímo do objektivu",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_heading": {
+    "message": "Podpora místní potravinové banky",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_content_area_one": {
+    "message": "Pomozte nám pomáhat našim sousedům – podpořte naši místní potravinovou banku. Váš příspěvek se použije na zajištění základních potravin pro jednotlivce a rodiny z naší komunity, kterým hrozí hlad.",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_one_alt": {
+    "message": "Dva lidé hledící na lístečky nalepené na skle",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_two_alt": {
+    "message": "Telefon přiložený k platebnímu terminálu",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_image_three_alt": {
+    "message": "Muž řídící dodávku, vedle kterého leží na sedadle spolujezdce dva balíčky",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_heading": {
+    "message": "Přispět",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_message_and_amount": {
+    "message": "Doporučená částka: 350 Kč",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_one_text": {
+    "message": "Darovat 350 Kč",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_two_text": {
+    "message": "Vlastní částka",
+    "description": "",
+    "placeholders": null
+  },
+  "section_donation_sidebar_button_three_text": {
+    "message": "Sdílet",
+    "description": "",
+    "placeholders": null
+  }
+}

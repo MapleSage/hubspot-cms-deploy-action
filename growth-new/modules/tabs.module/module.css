@@ -1,0 +1,50 @@
+/* Tabs container */
+
+.tabs {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* Tabs */
+
+.tabs__tab {
+  position: relative;
+}
+
+.tabs__tab,
+.tabs__tab:hover,
+.tabs__tab:focus,
+.tabs__tab:active {
+  padding: 1.4rem 0.7rem;
+  flex: 1;
+  justify-content: center;
+  text-align: center;
+}
+
+.tabs__tab[aria-selected='true'] {
+  font-weight: bold;
+}
+
+/* Applies border to pseudo element to prevent jitter when hovering over tabs */
+
+.tabs__tab:after {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-bottom: 1px solid;
+  content: '';
+}
+
+.tabs__tab[aria-selected='false']:hover:after,
+.tabs__tab[aria-selected='false']:focus:after,
+.tabs__tab[aria-selected='true']:after {
+  border-bottom: 2px solid;
+}
+
+/* Tab content */
+
+.tabs__content {
+  padding: 2.8rem;
+}

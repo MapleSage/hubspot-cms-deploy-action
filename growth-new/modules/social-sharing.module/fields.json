@@ -1,0 +1,376 @@
+[ {
+  "id" : "share_text",
+  "name" : "share_text",
+  "display_width" : null,
+  "label" : "Share text",
+  "required" : false,
+  "locked" : true,
+  "validation_regex" : "",
+  "allow_new_line" : false,
+  "show_emoji_picker" : false,
+  "type" : "text",
+  "default" : "Share:"
+}, {
+  "id" : "social_links",
+  "name" : "social_links",
+  "display_width" : null,
+  "label" : "Social links",
+  "required" : false,
+  "locked" : true,
+  "occurrence" : {
+    "min" : 1,
+    "max" : null,
+    "sorting_label_field" : null,
+    "default" : 5
+  },
+  "children" : [ {
+    "id" : "social_links.social_account",
+    "name" : "social_account",
+    "display_width" : null,
+    "label" : "Social account",
+    "required" : true,
+    "locked" : false,
+    "display" : "select",
+    "choices" : [ [ "facebook-f", "Facebook" ], [ "twitter", "Twitter" ], [ "linkedin-in", "LinkedIn" ], [ "pinterest-p", "Pinterest" ], [ "envelope", "Email" ] ],
+    "multiple" : false,
+    "reordering_enabled" : true,
+    "preset" : null,
+    "type" : "choice",
+    "default" : "facebook-f"
+  }, {
+    "id" : "social_links.twitter_icon",
+    "name" : "twitter_icon",
+    "display_width" : null,
+    "label" : "Twitter icon",
+    "required" : true,
+    "locked" : false,
+    "visibility" : {
+      "controlling_field" : "social_links.social_account",
+      "controlling_field_path" : null,
+      "controlling_value_regex" : "twitter",
+      "property" : null,
+      "operator" : "EQUAL",
+      "access" : null
+    },
+    "display" : "select",
+    "choices" : [ [ "twitter", "Twitter bird" ], [ "x-twitter", "Twitter X" ] ],
+    "multiple" : false,
+    "reordering_enabled" : true,
+    "preset" : null,
+    "type" : "choice",
+    "default" : "twitter"
+  }, {
+    "id" : "social_links.accessibility_options",
+    "name" : "accessibility_options",
+    "display_width" : null,
+    "label" : "Accessibility options",
+    "required" : false,
+    "locked" : false,
+    "children" : [ {
+      "id" : "social_links.accessibility_options.title",
+      "name" : "title",
+      "display_width" : null,
+      "label" : "Title",
+      "help_text" : "Read by screen reader",
+      "required" : true,
+      "locked" : false,
+      "validation_regex" : "",
+      "allow_new_line" : false,
+      "show_emoji_picker" : false,
+      "type" : "text",
+      "default" : "Share this page on Facebook"
+    } ],
+    "tab" : "CONTENT",
+    "expanded" : false,
+    "type" : "group"
+  } ],
+  "tab" : "CONTENT",
+  "expanded" : false,
+  "type" : "group",
+  "default" : [ {
+    "social_account" : "facebook-f",
+    "accessibility" : {
+      "title" : "Share this page on Facebook"
+    }
+  }, {
+    "social_account" : "linkedin-in",
+    "accessibility" : {
+      "title" : "Share this page on LinkedIn"
+    }
+  }, {
+    "social_account" : "twitter",
+    "twitter_icon" : "twitter",
+    "accessibility" : {
+      "title" : "Share this page on Twitter"
+    }
+  }, {
+    "social_account" : "pinterest-p",
+    "accessibility" : {
+      "title" : "Share this page on Pinterest"
+    }
+  }, {
+    "social_account" : "envelope",
+    "accessibility" : {
+      "title" : "Share this page via email"
+    }
+  } ]
+}, {
+  "id" : "styles",
+  "name" : "styles",
+  "display_width" : null,
+  "label" : "Styles",
+  "required" : false,
+  "locked" : true,
+  "children" : [ {
+    "id" : "styles.presets",
+    "name" : "presets",
+    "display_width" : null,
+    "label" : "Presets",
+    "help_text" : "Use presets to quickly adjust the appearance of the selected item to predefined values.",
+    "required" : false,
+    "locked" : false,
+    "children" : [ {
+      "id" : "styles.presets.icon_color",
+      "name" : "icon_color",
+      "display_width" : null,
+      "label" : "Icon color",
+      "required" : true,
+      "locked" : false,
+      "display" : "select",
+      "choices" : [ [ "dark", "Dark" ], [ "light", "Light" ] ],
+      "multiple" : false,
+      "reordering_enabled" : true,
+      "preset" : null,
+      "type" : "choice",
+      "default" : "light"
+    }, {
+      "id" : "styles.presets.icon_size",
+      "name" : "icon_size",
+      "display_width" : null,
+      "label" : "Icon size",
+      "required" : true,
+      "locked" : false,
+      "display" : "select",
+      "choices" : [ [ "small", "Small" ], [ "regular", "Regular" ], [ "large", "Large" ] ],
+      "multiple" : false,
+      "reordering_enabled" : true,
+      "preset" : null,
+      "type" : "choice",
+      "default" : "regular"
+    }, {
+      "id" : "styles.presets.icon_shape",
+      "name" : "icon_shape",
+      "display_width" : null,
+      "label" : "Icon shape",
+      "required" : true,
+      "locked" : false,
+      "display" : "select",
+      "choices" : [ [ "circle", "Circle" ], [ "square", "Square" ] ],
+      "multiple" : false,
+      "reordering_enabled" : true,
+      "preset" : null,
+      "type" : "choice",
+      "default" : "circle"
+    } ],
+    "tab" : "STYLE",
+    "expanded" : false,
+    "type" : "group"
+  }, {
+    "id" : "styles.text",
+    "name" : "text",
+    "display_width" : null,
+    "label" : "Text",
+    "required" : false,
+    "locked" : false,
+    "children" : [ {
+      "id" : "styles.text.font",
+      "name" : "font",
+      "display_width" : null,
+      "label" : "Font",
+      "required" : false,
+      "locked" : false,
+      "load_external_fonts" : true,
+      "type" : "font",
+      "default" : {
+        "size_unit" : "px"
+      }
+    } ],
+    "tab" : "STYLE",
+    "expanded" : false,
+    "type" : "group"
+  }, {
+    "id" : "styles.fill",
+    "name" : "fill",
+    "display_width" : null,
+    "label" : "Fill",
+    "required" : false,
+    "locked" : false,
+    "children" : [ {
+      "id" : "styles.fill.color",
+      "name" : "color",
+      "display_width" : null,
+      "label" : "Color",
+      "required" : false,
+      "locked" : false,
+      "visibility" : {
+        "controlling_field" : null,
+        "controlling_field_path" : null,
+        "controlling_value_regex" : null,
+        "property" : null,
+        "operator" : null,
+        "access" : null,
+        "hidden_subfields" : {
+          "opacity" : true
+        }
+      },
+      "type" : "color",
+      "default" : {
+        "color" : null,
+        "opacity" : null,
+        "rgba" : null,
+        "rgb" : null,
+        "hex" : null
+      }
+    } ],
+    "tab" : "STYLE",
+    "expanded" : false,
+    "type" : "group"
+  }, {
+    "id" : "styles.size",
+    "name" : "size",
+    "display_width" : null,
+    "label" : "Size",
+    "required" : false,
+    "locked" : false,
+    "children" : [ {
+      "id" : "styles.size.size",
+      "name" : "size",
+      "display_width" : null,
+      "label" : "Size",
+      "required" : false,
+      "locked" : false,
+      "display" : "text",
+      "min" : 1,
+      "max" : 50,
+      "step" : 1,
+      "suffix" : "px",
+      "type" : "number"
+    } ],
+    "tab" : "STYLE",
+    "expanded" : false,
+    "type" : "group"
+  }, {
+    "id" : "styles.background",
+    "name" : "background",
+    "display_width" : null,
+    "label" : "Background",
+    "required" : false,
+    "locked" : false,
+    "children" : [ {
+      "id" : "styles.background.color",
+      "name" : "color",
+      "display_width" : null,
+      "label" : "Color",
+      "required" : false,
+      "locked" : false,
+      "type" : "color",
+      "default" : {
+        "color" : null,
+        "opacity" : null,
+        "rgba" : null,
+        "rgb" : null,
+        "hex" : null
+      }
+    } ],
+    "tab" : "STYLE",
+    "expanded" : false,
+    "type" : "group"
+  }, {
+    "id" : "styles.corner",
+    "name" : "corner",
+    "display_width" : null,
+    "label" : "Corner",
+    "required" : false,
+    "locked" : false,
+    "children" : [ {
+      "id" : "styles.corner.radius",
+      "name" : "radius",
+      "display_width" : null,
+      "label" : "Radius",
+      "required" : false,
+      "locked" : false,
+      "display" : "text",
+      "max" : 100,
+      "step" : 1,
+      "suffix" : "px",
+      "type" : "number"
+    } ],
+    "tab" : "STYLE",
+    "expanded" : false,
+    "type" : "group"
+  }, {
+    "id" : "styles.spacing",
+    "name" : "spacing",
+    "display_width" : null,
+    "label" : "Spacing",
+    "required" : false,
+    "locked" : false,
+    "children" : [ {
+      "id" : "styles.spacing.space_between_icons",
+      "name" : "space_between_icons",
+      "display_width" : null,
+      "label" : "Space between icons",
+      "required" : false,
+      "locked" : false,
+      "display" : "slider",
+      "min" : 0,
+      "max" : 50,
+      "step" : 5,
+      "suffix" : "px",
+      "type" : "number"
+    }, {
+      "id" : "styles.spacing.spacing",
+      "name" : "spacing",
+      "display_width" : null,
+      "label" : "Spacing",
+      "required" : false,
+      "locked" : false,
+      "type" : "spacing",
+      "default" : { }
+    } ],
+    "tab" : "STYLE",
+    "expanded" : false,
+    "type" : "group"
+  }, {
+    "id" : "styles.alignment",
+    "name" : "alignment",
+    "display_width" : null,
+    "label" : "Alignment",
+    "required" : false,
+    "locked" : false,
+    "children" : [ {
+      "id" : "styles.alignment.alignment",
+      "name" : "alignment",
+      "display_width" : null,
+      "label" : "Alignment",
+      "required" : false,
+      "locked" : false,
+      "alignment_direction" : "HORIZONTAL",
+      "type" : "alignment",
+      "default" : { }
+    } ],
+    "tab" : "STYLE",
+    "expanded" : false,
+    "type" : "group"
+  } ],
+  "tab" : "STYLE",
+  "expanded" : false,
+  "type" : "group",
+  "default" : {
+    "presets" : {
+      "icon_color" : "light",
+      "icon_size" : "regular",
+      "icon_shape" : "circle"
+    }
+  }
+} ]

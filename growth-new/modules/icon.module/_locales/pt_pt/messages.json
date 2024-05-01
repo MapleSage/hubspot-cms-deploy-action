@@ -1,0 +1,182 @@
+{
+  "accessibility_options.label" : {
+    "message" : "Opções de acessibilidade",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accessibility_options.purpose.choices.decorative" : {
+    "message" : "Ignorado pelo leitor do ecrã",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accessibility_options.purpose.choices.semantic" : {
+    "message" : "Lido pelo leitor do ecrã",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accessibility_options.purpose.help_text" : {
+    "message" : "Categorize a finalidade deste ícone para os leitores do ecrã. <a href='https://www.w3.org/WAI/tutorials/images/' target='_blank' rel='noopener noreferrer'>Saber Mais</a>",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accessibility_options.purpose.label" : {
+    "message" : "Finalidade",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accessibility_options.title.help_text" : {
+    "message" : "Este texto será lido pelos leitores de ecrã para descrever o ícone.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "accessibility_options.title.label" : {
+    "message" : "Título",
+    "description" : "",
+    "placeholders" : null
+  },
+  "icon.label" : {
+    "message" : "Ícone",
+    "description" : "",
+    "placeholders" : null
+  },
+  "name" : {
+    "message" : "Ícone",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.alignment.alignment.label" : {
+    "message" : "Alinhamento",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.alignment.label" : {
+    "message" : "Alinhamento",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.background.color.label" : {
+    "message" : "Cor",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.background.label" : {
+    "message" : "Fundo",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.corner.label" : {
+    "message" : "Canto",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.corner.radius.label" : {
+    "message" : "Raio",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.fill.color.label" : {
+    "message" : "Cor",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.fill.label" : {
+    "message" : "Preencher",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.label" : {
+    "message" : "Estilos",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.help_text" : {
+    "message" : "Utilize predefinições para ajustar rapidamente o aspeto do artigo selecionado para valores predefinidos.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_color.choices.dark" : {
+    "message" : "Escuro",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_color.choices.light" : {
+    "message" : "Claro",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_color.label" : {
+    "message" : "Cor do ícone",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_shape.choices.circle" : {
+    "message" : "Círculo",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_shape.choices.square" : {
+    "message" : "Quadrado",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_shape.label" : {
+    "message" : "Forma do ícone",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_size.choices.large" : {
+    "message" : "Grande",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_size.choices.regular" : {
+    "message" : "Normal",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_size.choices.small" : {
+    "message" : "Pequeno",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.icon_size.label" : {
+    "message" : "Tamanho do ícone",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.presets.label" : {
+    "message" : "Predefinições",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.size.label" : {
+    "message" : "Tamanho",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.size.size.label" : {
+    "message" : "Tamanho",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.spacing.force_full_width.help_text" : {
+    "message" : "Força o botão a ocupar todo o espaço horizontal possível. O botão continuará a respeitar o preenchimento e a margem definidos abaixo.",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.spacing.force_full_width.label" : {
+    "message" : "Forçar a toda a largura",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.spacing.label" : {
+    "message" : "Espaçamento",
+    "description" : "",
+    "placeholders" : null
+  },
+  "styles.spacing.spacing.label" : {
+    "message" : "Espaçamento",
+    "description" : "",
+    "placeholders" : null
+  }
+}

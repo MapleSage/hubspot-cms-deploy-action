@@ -1,0 +1,51 @@
+<!--
+  templateType: section
+  label: Testimonial quote
+  isAvailableForNewContent: true
+  screenshotPath: ../images/section-previews/testimonial-quote.png
+  description: "Middle centered title and subtitle above a single testimonial containing text, image and author."
+-->
+{% set template_translations = load_translations('../templates/_locales', html_lang, 'en') %}
+{% set anchor_tag = '<a id="{{ context.anchor_id }}" data-hs-anchor="true"></a>' %}
+
+{% dnd_section
+  background_color={{ context.background_color }}
+%}
+  {% dnd_column %}
+    {% dnd_row
+      margin={
+        "bottom": 22
+      }
+    %}
+      {% dnd_module path="@hubspot/rich_text" %}
+        {% module_attribute "html" %}
+          <div style="text-align: center;">
+            {{ anchor_tag if context.anchor_id }}
+            <h2>{{ context.heading or template_translations.section_testimonial_quote_heading.message }}</h2>
+            <p>{{ context.content or template_translations.placeholder_content_one.message }}</p>
+          </div>
+        {% end_module_attribute %}
+      {% end_dnd_module %}
+    {% end_dnd_row %}
+    {% dnd_row %}
+      {% dnd_module
+        horizontal_alignment="CENTER"
+        path="../modules/testimonial",
+        quote_text={{ context.testimonial.content
+          ? "<span>&ldquo;" ~ context.testimonial.content ~ "&rdquo;</span>"
+          : "<span>&ldquo;" ~ template_translations.placeholder_content_two.message ~ "&rdquo;</span>"
+        }},
+        author={
+          "content": context.testimonial.author.name
+            ? "<span>" ~ context.testimonial.author.name ~ "</span>"
+            :  "<span>Ervin Howell, " ~ template_translations.section_testimonial_quote_team_member_title_one.message ~ ", Deckow-Crist</span>",
+          "image": {
+            "alt": context.testimonial.author.name,
+            "src": context.testimonial.author.image.src or get_asset_url("../images/testimonial-one.jpg"),
+          }
+        },
+      %}
+      {% end_dnd_module %}
+    {% end_dnd_row %}
+  {% end_dnd_column %}
+{% end_dnd_section %}

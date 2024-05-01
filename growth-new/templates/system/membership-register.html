@@ -1,0 +1,42 @@
+<!--
+  templateType: membership_register_page
+  isAvailableForNewContent: true
+  label: Membership registration
+  screenshotPath: ../../images/template-previews/membership-register.png
+-->
+{% set template_css = "../../css/templates/membership.css" %}
+{% extends "../layouts/base.html" %}
+
+{% block header %}
+{% endblock %}
+
+{% block body %}
+<section class="content-wrapper">
+  <div class="membership-page membership-page--narrow">
+
+    {% module "register_heading"
+      path="@hubspot/rich_text",
+      html="<h1>Welcome!</h1><p>Set up your password to sign in and see the content you now have access to.</p>"
+    %}
+
+    <div class="form-container">
+      {% member_register "register_form"
+        email_label="Email",
+        password_confirm_label="Confirm password",
+        password_label="Password",
+        submit_button_text="Save password"
+      %}
+    </div>
+
+    {% module_block module "admin_contact"
+      label="Contact admin",
+      path="@hubspot/rich_text"
+    %}
+      {% module_attribute "html" %}
+        <p>Having trouble? <a href="{{ "mailto:" ~ site_settings.membershipWebsiteAdmin }}">Contact the admin</a>.</p>
+      {% end_module_attribute %}
+    {% end_module_block %}
+
+  </div>
+</section>
+{% endblock %}

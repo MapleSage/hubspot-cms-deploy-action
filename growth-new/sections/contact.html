@@ -1,0 +1,102 @@
+<!--
+  templateType: section
+  label: Contact
+  isAvailableForNewContent: true
+  screenshotPath: ../images/section-previews/contact.png
+  description: "Middle centered title and subtitle with two columns below. Left column has a bulleted list of contact information and right column has a form."
+-->
+{% set template_translations = load_translations('../templates/_locales', html_lang, 'en') %}
+{% set anchor_tag = '<a id="{{ context.anchor_id }}" data-hs-anchor="true"></a>' %}
+
+{% dnd_section
+  background_color={{ context.background_color }}
+%}
+  {% dnd_column %}
+    {% dnd_row
+      margin={
+        "bottom": 22
+      }
+    %}
+      {% dnd_module path="@hubspot/rich_text" %}
+        {% module_attribute "html" %}
+          <div style="text-align: center;">
+            {{ anchor_tag if context.anchor_id }}
+            <h2>{{ context.heading or template_translations.section_contact_heading.message }}</h2>
+            <p>{{ context.content or template_translations.placeholder_content_one.message }}</p>
+          </div>
+        {% end_module_attribute %}
+      {% end_dnd_module %}
+    {% end_dnd_row %}
+    {% dnd_row %}
+      {% dnd_column
+        width=5
+      %}
+        {% dnd_row %}
+          {% dnd_module
+            path="../modules/list"
+            use_same_icon_for_all_list_items=false,
+            list_items=[
+              {
+                "content": context.list[0].content
+                  ? "<p>" ~ context.list[0].content ~ "</p>"
+                  : "<p>" ~ template_translations.section_contact_address.message ~ "</p>",
+                "icon": {
+                  "name": context.list[0].icon or "map-pin",
+                  "type" : "SOLID"
+                }
+              },
+              {
+                "content": context.list[1].content
+                  ? "<p>" ~ context.list[1].content ~ "</p>"
+                  : "<p>contact@businessname.com</p>",
+                "icon": {
+                  "name": context.list[1].icon or "envelope",
+                  "type" : "SOLID"
+                }
+              },
+              {
+                "content": context.list[2].content
+                  ? "<p>" ~ context.list[2].content ~ "</p>"
+                  : "<p>+1 234-567-8901</p>",
+                "icon": {
+                  "name": context.list[2].icon or "phone",
+                  "type" : "SOLID"
+                }
+              }
+            ],
+            styles={
+              "list_items": {
+                "spacing": {
+                  "between_list_items": {
+                    "margin": {
+                      "bottom": {
+                        "value": 22
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          %}
+          {% end_dnd_module %}
+        {% end_dnd_row %}
+      {% end_dnd_column %}
+      {% dnd_column
+        offset=5,
+        width=7
+      %}
+        {% dnd_row %}
+          {% dnd_module
+            path="@hubspot/form"
+            form={
+              form_id: context.form.id or "",
+              response_type: context.form.response_type or "redirect",
+              message: context.form.message or ""
+            }
+          %}
+          {% end_dnd_module %}
+        {% end_dnd_row %}
+      {% end_dnd_column %}
+    {% end_dnd_row %}
+  {% end_dnd_column %}
+{% end_dnd_section %}

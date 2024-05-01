@@ -1,0 +1,140 @@
+/* Primary button */
+
+button,
+.button,
+.hs-button {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  cursor: pointer;
+  text-align: center;
+  transition: color 0.15s linear;
+  white-space: normal;
+}
+
+.hs-button-modify--full-width {
+  width: 100%;
+  justify-content: center;
+  text-align: center;
+}
+
+/* Simple button */
+
+.button.button--simple {
+  position: relative;
+  padding: 0;
+  border: none;
+  border-radius: 0;
+  background-color: transparent;
+}
+
+.button.button--simple:hover,
+.button.button--simple:focus {
+  border: none;
+  background-color: transparent;
+}
+
+/* Disabled button */
+
+button:disabled,
+.button:disabled,
+.hs-button:disabled {
+  border-color: #f1f1f1;
+  background-color: #f1f1f1;
+  pointer-events: none;
+}
+
+button:disabled,
+.button:disabled,
+.button.button--secondary:disabled,
+.button.button--simple:disabled {
+  color: #d0d0d0;
+}
+
+/* No button */
+
+.no-button,
+.no-button:hover,
+.no-button:focus,
+.no-button:active {
+  padding: 0;
+  border: none;
+  border-radius: 0;
+  margin-bottom: 0;
+  background: none;
+  color: initial;
+  font-family: inherit;
+  font-size: inherit;
+  font-style: inherit;
+  font-weight: inherit;
+  letter-spacing: inherit;
+  line-height: inherit;
+  text-align: left;
+  text-decoration: none;
+  transition: none;
+}
+
+/* Tooltip styles for copy to clipboard */
+
+.hs-tooltip {
+  position: absolute;
+  bottom: calc(100% + 7px);
+  left: 50%;
+  display: none;
+  height: auto;
+  width: auto;
+  padding: 5px 10px;
+  border-radius: 3px;
+  background-color: #494a52;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 400;
+  opacity: 0.8;
+  transform: translateX(-50%);
+}
+.hs-tooltip:after {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  height: 0;
+  width: 0;
+  border-top: 5px solid #494a52;
+  border-right: 5px solid transparent;
+  border-left: 5px solid transparent;
+  content: '';
+  transform: translateX(-50%);
+}
+.hs-tooltip__failure,
+.hs-tooltip__success {
+  display: none;
+  min-width: -webkit-max-content;
+  min-width: -moz-max-content;
+  min-width: max-content;
+}
+.hs-visible {
+  display: block;
+}
+
+/* Button icons */
+
+.button .button__icon svg {
+  display: block;
+  height: 1.25rem;
+  margin-right: 1rem;
+  fill: inherit;
+}
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+  .button .button__icon svg {
+    width: 1.25rem;
+  }
+}
+
+.button--icon-right .button__icon {
+  order: 1;
+}
+
+.button--icon-right .button__icon svg {
+  margin-right: 0;
+  margin-left: 1rem;
+}

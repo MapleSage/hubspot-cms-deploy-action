@@ -1,0 +1,536 @@
+<!--
+  templateType: page
+  isAvailableForNewContent: true
+  label: About
+  screenshotPath: ../images/template-previews/about.png
+  scaffoldSchemaPath: ./schemas/about.scaffold_schema.json
+-->
+{% extends "./layouts/base.html" %}
+
+{% block body %}
+{% dnd_area "dnd_area"
+  label="Main section"
+%}
+
+  {# Banner #}
+
+  {% dnd_section
+    background_image={
+      "backgroundPosition": "TOP_CENTER",
+      "backgroundSize": "cover",
+      "imageUrl": scaffold_content.banner.background_image.src or get_asset_url("../images/industry-images/about-banner.jpg")
+    },
+    max_width=750,
+    padding={
+      "top": 132,
+      "bottom": 132
+    }
+  %}
+    {% dnd_module path="@hubspot/rich_text" %}
+      {% module_attribute "html" %}
+        <div style="text-align: center;">
+          <h1 style="color: #fff">{{ scaffold_content.banner.heading or template_translations.about_banner_heading.message }}</h1>
+          <p style="color: #fff">{{ scaffold_content.banner.subheading or template_translations.placeholder_content_one.message }}</p>
+        </div>
+      {% end_module_attribute %}
+    {% end_dnd_module %}
+  {% end_dnd_section %}
+
+  {# Two column image and text #}
+
+  {% dnd_section %}
+    {% dnd_column %}
+      {% dnd_row
+        margin={
+          "bottom": 44
+        }
+      %}
+        {% dnd_column
+          margin={
+            "bottom": 22
+          },
+          width=5
+        %}
+          {% dnd_row %}
+            {% dnd_module
+              path="@hubspot/linked_image",
+              img={
+                "alt": scaffold_content.our_story.image.alt or template_translations.about_heading_one.message,
+                "loading": "lazy",
+                "max_height": scaffold_content.our_story.image.height or 300,
+                "max_width": scaffold_content.our_story.image.width or 500,
+                "size_type": "auto_custom_max",
+                "src": scaffold_content.our_story.image.src or get_asset_url("../images/industry-images/company-one.jpg")
+              }
+            %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+        {% dnd_column
+          offset=5,
+          width=1
+        %}
+          {% dnd_row %}
+            {% dnd_module path="@hubspot/horizontal_spacer" %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+        {% dnd_column
+          offset=6,
+          width=6
+        %}
+          {% dnd_row %}
+            {% dnd_module path="@hubspot/rich_text" %}
+              {% module_attribute "html" %}
+                <div style="text-align: center;">
+                  <h2>{{ scaffold_content.our_story.heading or template_translations.about_heading_one.message }}</h2>
+                  <p>{{ scaffold_content.our_story.description or template_translations.placeholder_content_one.message }}</p>
+                </div>
+              {% end_module_attribute %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+      {% end_dnd_row %}
+      {% dnd_row
+        margin={
+          "bottom": 44
+        }
+      %}
+        {% dnd_column
+          width=6
+        %}
+          {% dnd_row %}
+            {% dnd_module path="@hubspot/rich_text" %}
+              {% module_attribute "html" %}
+                <div style="text-align: center;">
+                  <h2>{{ scaffold_content.our_values.heading or template_translations.about_heading_two.message }}</h2>
+                  <p>{{ scaffold_content.our_values.description or template_translations.placeholder_content_one.message }}</p>
+                </div>
+              {% end_module_attribute %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+        {% dnd_column
+          offset=6,
+          width=1
+        %}
+          {% dnd_row %}
+            {% dnd_module path="@hubspot/horizontal_spacer" %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+        {% dnd_column
+          offset=7,
+          width=5
+        %}
+          {% dnd_row %}
+            {% dnd_module
+              path="@hubspot/linked_image",
+              horizontal_alignment="RIGHT",
+              img={
+                "alt": scaffold_content.our_values.image.alt or template_translations.about_heading_two.message,
+                "loading": "lazy",
+                "max_height": scaffold_content.our_values.image.height or 300,
+                "max_width": scaffold_content.our_values.image.width or 500,
+                "size_type": "auto_custom_max",
+                "src": scaffold_content.our_values.image.src or get_asset_url("../images/industry-images/company-two.jpg")
+              }
+            %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+      {% end_dnd_row %}
+      {% dnd_row %}
+        {% dnd_column
+          margin={
+            "bottom": 22
+          },
+          width=5
+        %}
+          {% dnd_row %}
+            {% dnd_module
+              path="@hubspot/linked_image",
+              img={
+                "alt": scaffold_content.our_history.image.alt or template_translations.about_heading_three.message,
+                "loading": "lazy",
+                "max_height": scaffold_content.our_history.image.height or 300,
+                "max_width": scaffold_content.our_history.image.width or 500,
+                "size_type": "auto_custom_max",
+                "src": scaffold_content.our_history.image.src or get_asset_url("../images/industry-images/company-three.jpg")
+              }
+            %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+        {% dnd_column
+          offset=5,
+          width=1
+        %}
+          {% dnd_row %}
+            {% dnd_module path="@hubspot/horizontal_spacer" %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+        {% dnd_column
+          offset=6,
+          width=6
+        %}
+          {% dnd_row %}
+            {% dnd_module path="@hubspot/rich_text" %}
+              {% module_attribute "html" %}
+                <div style="text-align: center;">
+                  <h2>{{ scaffold_content.our_history.heading or template_translations.about_heading_three.message }}</h2>
+                  <p>{{ scaffold_content.our_history.description or template_translations.placeholder_content_one.message }}</p>
+                </div>
+              {% end_module_attribute %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+      {% end_dnd_row %}
+    {% end_dnd_column %}
+  {% end_dnd_section %}
+
+  {# Image gallery #}
+
+  {% dnd_section
+    background_color="#F5F8FA"
+  %}
+    {% dnd_module
+      path="@hubspot/image_grid",
+      grid_settings={
+        group_uniform_display_options:{
+          number_of_columns: 4,
+          mobile_columns: true,
+          mobile_number_of_columns: 1
+        },
+        group_aspect_ratio:{
+          aspect_ratio: "1/1"
+        },
+        group_image_click:{
+          image_click_functionality: false
+        },
+      }
+
+      styles={
+        grid_images: {
+          group_gap: {
+            gap: 40
+          }
+        }
+      }
+
+      slides=[
+        {
+          "img": {
+            "alt": scaffold_content.gallery.image_one.alt or template_translations.about_image_alt_text.message,
+            "src": scaffold_content.gallery.image_one.src or get_asset_url("../images/industry-images/about-gallery-one.jpg")
+          }
+        },
+        {
+          "img": {
+            "alt": scaffold_content.gallery.image_two.alt or template_translations.about_image_alt_text.message,
+            "src": scaffold_content.gallery.image_two.src or get_asset_url("../images/industry-images/about-gallery-two.jpg")
+          }
+        },
+        {
+          "img": {
+            "alt": scaffold_content.gallery.image_three.alt or template_translations.about_image_alt_text.message,
+            "src": scaffold_content.gallery.image_three.src or get_asset_url("../images/industry-images/about-gallery-three.jpg")
+          }
+        },
+        {
+          "img": {
+            "alt": scaffold_content.gallery.image_four.alt or template_translations.about_image_alt_text.message,
+            "src": scaffold_content.gallery.image_four.src or get_asset_url("../images/industry-images/about-gallery-four.jpg")
+          }
+        }
+      ]
+    %}
+    {% end_dnd_module %}
+  {% end_dnd_section %}
+
+  {# Our team #}
+
+  {% dnd_section %}
+    {% dnd_column %}
+      {% dnd_row
+        margin={
+          "bottom": 22
+        }
+      %}
+        {% dnd_module path="@hubspot/rich_text" %}
+          {% module_attribute "html" %}
+            <div style="text-align: center;">
+              <h2>{{ scaffold_content.our_team.heading or template_translations.about_heading_four.message }}</h2>
+              <p>{{ scaffold_content.our_team.subheading or template_translations.placeholder_content_one.message }}</p>
+            </div>
+          {% end_module_attribute %}
+        {% end_dnd_module %}
+      {% end_dnd_row %}
+      {% dnd_row
+        margin={
+          "bottom": 22
+        }
+      %}
+        {% dnd_column
+          width=4
+        %}
+          {% dnd_row
+            margin={
+              "bottom": 22
+            }
+          %}
+            {% dnd_module
+              path="@hubspot/linked_image",
+              img={
+                "alt": scaffold_content.our_team.team_member_one.image.alt or "Louise Patton",
+                "loading": "lazy",
+                "max_height": scaffold_content.our_team.team_member_one.image.height or 300,
+                "max_width": scaffold_content.our_team.team_member_one.image.width or 300,
+                "size_type": "auto_custom_max",
+                "src": scaffold_content.our_team.team_member_one.image.src or get_asset_url("../images/industry-images/employee-one.jpg")
+              }
+            %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+          {% dnd_row %}
+            {% dnd_module path="@hubspot/rich_text" %}
+              {% module_attribute "html" %}
+                <div style="text-align: center;">
+                  <h3>{{ scaffold_content.our_team.team_member_one.name or "Louise Patton" }} </h3>
+                  <h4>{{ scaffold_content.our_team.team_member_one.title or template_translations.about_team_member_one_title.message }}</h4>
+                  <p>{{ scaffold_content.our_team.team_member_one.description or template_translations.about_team_member_description.message }}</p>
+                </div>
+              {% end_module_attribute %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+        {% dnd_column
+          offset=4,
+          width=4
+        %}
+          {% dnd_row
+            margin={
+              "bottom": 22
+            }
+          %}
+            {% dnd_module
+              path="@hubspot/linked_image",
+              img={
+                "alt": scaffold_content.our_team.team_member_two.image.alt or "Micheal Barton",
+                "loading": "lazy",
+                "max_height": scaffold_content.our_team.team_member_two.image.height or 300,
+                "max_width": scaffold_content.our_team.team_member_two.image.width or 300,
+                "size_type": "auto_custom_max",
+                "src": scaffold_content.our_team.team_member_two.image.src or get_asset_url("../images/industry-images/employee-two.jpg")
+              }
+            %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+          {% dnd_row %}
+            {% dnd_module path="@hubspot/rich_text" %}
+              {% module_attribute "html" %}
+                <div style="text-align: center;">
+                  <h3>{{ scaffold_content.our_team.team_member_two.name or "Micheal Barton" }}</h3>
+                  <h4>{{ scaffold_content.our_team.team_member_two.title or template_translations.about_team_member_two_title.message }}</h4>
+                  <p>{{ scaffold_content.our_team.team_member_two.description or template_translations.about_team_member_description.message }}</p>
+                </div>
+              {% end_module_attribute %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+        {% dnd_column
+          offset=8,
+          width=4
+        %}
+          {% dnd_row
+            margin={
+              "bottom": 22
+            }
+          %}
+            {% dnd_module
+              path="@hubspot/linked_image",
+              img={
+                "alt": scaffold_content.our_team.team_member_three.image.alt or "Angela Brooks",
+                "loading": "lazy",
+                "max_height": scaffold_content.our_team.team_member_three.image.height or 300,
+                "max_width": scaffold_content.our_team.team_member_three.image.width or 300,
+                "size_type": "auto_custom_max",
+                "src": scaffold_content.our_team.team_member_three.image.src or get_asset_url("../images/industry-images/employee-three.jpg")
+              }
+            %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+          {% dnd_row %}
+            {% dnd_module path="@hubspot/rich_text" %}
+              {% module_attribute "html" %}
+                <div style="text-align: center;">
+                  <h3>{{ scaffold_content.our_team.team_member_three.name or "Angela Brooks" }}</h3>
+                  <h4>{{ scaffold_content.our_team.team_member_three.title or template_translations.about_team_member_three_title.message }}</h4>
+                  <p>{{ scaffold_content.our_team.team_member_three.description or template_translations.about_team_member_description.message }}</p>
+                </div>
+              {% end_module_attribute %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+      {% end_dnd_row %}
+      {% dnd_row %}
+        {% dnd_column
+          width=4
+        %}
+          {% dnd_row
+            margin={
+              "bottom": 22
+            }
+          %}
+            {% dnd_module
+              path="@hubspot/linked_image",
+              img={
+                "alt": scaffold_content.our_team.team_member_four.image.alt or "Brian Lee",
+                "loading": "lazy",
+                "max_height": scaffold_content.our_team.team_member_four.image.height or 300,
+                "max_width": scaffold_content.our_team.team_member_four.image.width or 300,
+                "size_type": "auto_custom_max",
+                "src": scaffold_content.our_team.team_member_four.image.src or get_asset_url("../images/industry-images/employee-four.jpg")
+              }
+            %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+          {% dnd_row %}
+            {% dnd_module path="@hubspot/rich_text" %}
+              {% module_attribute "html" %}
+                <div style="text-align: center;">
+                  <h3>{{ scaffold_content.our_team.team_member_four.name or "Brian Lee" }}</h3>
+                  <h4>{{ scaffold_content.our_team.team_member_four.title or template_translations.about_team_member_four_title.message }}</h4>
+                  <p>{{ scaffold_content.our_team.team_member_four.description or template_translations.about_team_member_description.message }}</p>
+                </div>
+              {% end_module_attribute %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+        {% dnd_column
+          offset=4,
+          width=4
+        %}
+          {% dnd_row
+            margin={
+              "bottom": 22
+            }
+          %}
+            {% dnd_module
+              path="@hubspot/linked_image",
+              img={
+                "alt": scaffold_content.our_team.team_member_five.image.alt or "Anne Kim",
+                "loading": "lazy",
+                "max_height": scaffold_content.our_team.team_member_five.image.height or 300,
+                "max_width": scaffold_content.our_team.team_member_five.image.width or 300,
+                "size_type": "auto_custom_max",
+                "src": scaffold_content.our_team.team_member_five.image.src or get_asset_url("../images/industry-images/employee-five.jpg")
+              }
+            %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+          {% dnd_row %}
+            {% dnd_module path="@hubspot/rich_text" %}
+              {% module_attribute "html" %}
+                <div style="text-align: center;">
+                  <h3>{{ scaffold_content.our_team.team_member_five.name or "Anne Kim" }}</h3>
+                  <h4>{{ scaffold_content.our_team.team_member_five.title or template_translations.about_team_member_five_title.message }}</h4>
+                  <p>{{ scaffold_content.our_team.team_member_five.description or template_translations.about_team_member_description.message }}</p>
+                </div>
+              {% end_module_attribute %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+        {% dnd_column
+          offset=8,
+          width=4
+        %}
+          {% dnd_row
+            margin={
+              "bottom": 22
+            }
+          %}
+            {% dnd_module
+              path="@hubspot/linked_image",
+              img={
+                "alt": scaffold_content.our_team.team_member_six.image.alt or "Sara Ortiz",
+                "loading": "lazy",
+                "max_height": scaffold_content.our_team.team_member_six.image.height or 300,
+                "max_width": scaffold_content.our_team.team_member_six.image.width or 300,
+                "size_type": "auto_custom_max",
+                "src": scaffold_content.our_team.team_member_six.image.src or get_asset_url("../images/industry-images/employee-six.jpg")
+              }
+            %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+          {% dnd_row %}
+            {% dnd_module path="@hubspot/rich_text" %}
+              {% module_attribute "html" %}
+                <div style="text-align: center;">
+                  <h3>{{ scaffold_content.our_team.team_member_six.name or "Sara Ortiz" }}</h3>
+                  <h4>{{ scaffold_content.our_team.team_member_six.title or template_translations.about_team_member_six_title.message }}</h4>
+                  <p>{{ scaffold_content.our_team.team_member_six.description or template_translations.about_team_member_description.message }}</p>
+                </div>
+              {% end_module_attribute %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+      {% end_dnd_row %}
+    {% end_dnd_column %}
+  {% end_dnd_section %}
+
+  {# Video #}
+
+  {% dnd_section
+    background_color="#F5F8FA"
+  %}
+    {% dnd_column %}
+      {% dnd_row
+        margin={
+          "bottom": 22
+        }
+      %}
+        {% dnd_module path="@hubspot/rich_text" %}
+          {% module_attribute "html" %}
+            <div style="text-align: center;">
+              <div style="text-align: center;">
+                <h2>{{ scaffold_content.our_culture.heading or template_translations.about_heading_five.message }}</h2>
+                <p>{{ scaffold_content.our_culture.subheading or template_translations.placeholder_content_one.message }}</p>
+              </div>
+            </div>
+          {% end_module_attribute %}
+        {% end_dnd_module %}
+      {% end_dnd_row %}
+      {% dnd_row %}
+        {% dnd_module path="@hubspot/video" %}
+        {% end_dnd_module %}
+      {% end_dnd_row %}
+    {% end_dnd_column %}
+  {% end_dnd_section %}
+
+  {# Company news #}
+
+  {% dnd_section %}
+    {% dnd_column %}
+      {% dnd_row %}
+        {% dnd_module path="@hubspot/rich_text" %}
+          {% module_attribute "html" %}
+            <div style="text-align: center;">
+              <div style="text-align: center;">
+                <h2>{{ scaffold_content.company_news.heading or template_translations.about_heading_six.message }}</h2>
+                <p>{{ scaffold_content.company_news.subheading or template_translations.placeholder_content_one.message }}</p>
+              </div>
+            </div>
+          {% end_module_attribute %}
+        {% end_dnd_module %}
+      {% end_dnd_row %}
+      {% dnd_row %}
+        {% dnd_module path="../modules/recent-posts" %}
+        {% end_dnd_module %}
+      {% end_dnd_row %}
+    {% end_dnd_column %}
+  {% end_dnd_section %}
+
+{% end_dnd_area %}
+{% endblock body %}

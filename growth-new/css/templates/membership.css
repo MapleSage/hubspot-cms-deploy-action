@@ -1,0 +1,73 @@
+.membership-page {
+  padding: 2.8rem 1.4rem;
+}
+
+.membership-page--centered {
+  text-align: center;
+}
+
+.membership-page--narrow {
+  margin: 0 auto;
+  max-width: 700px;
+}
+
+@media(min-width: 767px) {
+  .membership-page--spaced {
+    padding: 8.4rem 1.4rem;
+  }
+}
+
+/* Membership forms */
+
+.membership-page .form-container {
+  margin-bottom: 1.4rem;
+}
+
+#hs-membership-password-requirements ul {
+  margin-bottom: 1.4rem;
+  padding-left: 0;
+}
+
+#hs-membership-password-requirements ul li {
+  line-height: 1.4;
+  margin: 0;
+}
+
+.membership-page .hs-login-widget-show-password,
+.membership-page .hs-register-widget-show-password,
+.membership-page .hs-reset-widget-show-password {
+  display: block;
+  margin-bottom: 0.7rem;
+}
+
+.membership-page #hs-login-widget-remember,
+.membership-page #hs-login-widget-remember ~ label {
+  display: inline-block;
+  margin-bottom: 0;
+}
+
+.membership-page #hs_login_reset {
+  display: block;
+  margin-bottom: 0.7rem;
+}
+
+.form-input-validation-message ul.hs-error-msgs {
+  margin: 0;
+  padding-left: 0;
+}
+
+.form-input-validation-message ul.hs-error-msgs li {
+  margin: 0;
+}
+
+/* Membership logout */
+
+.logout-description {
+  margin-top: 1.4rem;
+}
+
+/* Membership registration confirmation */
+
+.contact-admin-description {
+  margin-top: 1.4rem;
+}

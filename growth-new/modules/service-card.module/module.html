@@ -1,0 +1,113 @@
+{# Module styles #}
+
+{% require_css %}
+<style>
+{% scope_css %}
+
+  {# Icon #}
+
+  {% if module.styles.icon.alignment.alignment.horizontal_align %}
+    .service-card__icon-wrapper {
+      text-align: {{ module.styles.icon.alignment.alignment.horizontal_align }};
+    }
+  {% endif %}
+
+  .service-card__icon {
+    {% if module.styles.icon.background.color.color %}
+      background-color: rgba({{ module.styles.icon.background.color.color|convert_rgb }}, {{ module.styles.icon.background.color.opacity / 100 }});
+    {% endif %}
+    {% if module.styles.icon.corner.radius >= 0 %}
+      border-radius: {{ module.styles.icon.corner.radius ~ "px" }};
+    {% endif %}
+    {{ module.styles.icon.spacing.spacing.css }}
+  }
+
+  .service-card__icon svg {
+    {% if module.styles.icon.fill.color.color %}
+      fill: {{ module.styles.icon.fill.color.color }};
+    {% endif %}
+    {% if module.styles.icon.size.size %}
+      height: {{ module.styles.icon.size.size ~ "px" }};
+      width: {{ module.styles.icon.size.size ~ "px" }};
+    {% endif %}
+  }
+
+  {# Content #}
+
+  {% if module.styles.content.alignment.alignment.text_align %}
+    .service-card__content {
+      text-align: {{ module.styles.content.alignment.alignment.text_align }};
+    }
+  {% endif %}
+
+  {# Card #}
+
+  .service-card {
+    {% if module.styles.card.background.color %}
+      background-color: rgba({{ module.styles.card.background.color.color|convert_rgb }}, {{ module.styles.card.background.color.opacity / 100 }});
+    {% endif %}
+    {{ module.styles.card.border.border.css }}
+    {% if module.styles.card.corner.radius >= 0 %}
+      border-radius: {{ module.styles.card.corner.radius ~ "px" }};
+    {% endif %}
+    {% if module.styles.card.height.min_height %}
+      min-height: {{ module.styles.card.height.min_height ~ "px" }};
+    {% endif %}
+    {{ module.styles.card.spacing.spacing.css }}
+    {% if module.styles.card.alignment.alignment.text_align %}
+      text-align: {{ module.styles.card.alignment.alignment.text_align }};
+    {% endif %}
+  }
+
+{% end_scope_css %}
+</style>
+{% end_require_css %}
+
+{# Sets CSS classes based on style field options #}
+
+{% if module.styles.icon.presets.icon_size == "small" %}
+  {% set icon_size = "icon--small" %}
+{% elif module.styles.icon.presets.icon_size == "large" %}
+  {% set icon_size = "icon--large" %}
+{% endif %}
+
+{% if module.styles.icon.presets.icon_color == "light" %}
+  {% set icon_color = "icon--light" %}
+{% endif %}
+
+{% if module.styles.icon.presets.icon_shape == "square" %}
+  {% set icon_shape = "icon--square" %}
+{% endif %}
+
+{% if module.styles.card.presets.card_style == "dark" %}
+  {% set card_style = "card--dark" %}
+{% elif module.styles.card.presets.card_style == "light" %}
+  {% set card_style = "card--light" %}
+{% endif %}
+
+{# Offer card #}
+
+<section class="service-card card {{ card_style }}">
+
+  {# Icon #}
+
+  <div class="service-card__icon-wrapper">
+    <span class="{{ icon_size }} {{ icon_color }} {{ icon_shape }}">
+      {% icon
+        extra_classes="service-card__icon icon"
+        name="{{ module.icon.icon.name }}"
+        purpose="{{ module.icon.accessibility_options.purpose }}"
+        style="{{ module.icon.icon.type }}"
+        title="{{ module.icon.accessibility_options.title }}"
+        unicode="{{ module.icon.icon.unicode }}"
+      %}
+    </span>
+  </div>
+
+  {# Content #}
+
+  <div class="service-card__content">
+    {{ module.content.content }}
+  </div>
+
+</section>

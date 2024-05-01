@@ -1,0 +1,269 @@
+<!--
+  templateType: page
+  isAvailableForNewContent: true
+  label: Contact
+  screenshotPath: ../images/template-previews/contact.png
+  scaffoldSchemaPath: ./schemas/contact.scaffold_schema.json
+-->
+{% extends "./layouts/base.html" %}
+
+{# Template variables #}
+
+{# Default content for accordions #}
+{% set accordion_one_answer = "<p>{{ scaffold_content.faq.accordion_one.answer or template_translations.contact_faq_answer.message }}</p>" %}
+{% set accordion_two_answer = "<p>{{ scaffold_content.faq.accordion_two.answer or template_translations.contact_faq_answer.message }}</p>" %}
+
+{# Default content for locations #}
+{% set location_one = "<h3>{{ scaffold_content.locations.location_one.city }}</h3><p>{{ scaffold_content.locations.location_one.address }}</p>" %}
+{% set location_two = "<h3>{{ scaffold_content.locations.location_two.city }}</h3><p>{{ scaffold_content.locations.location_two.address }}</p>" %}
+{% set location_three = "<h3>{{ scaffold_content.locations.location_three.city }}</h3><p>{{ scaffold_content.locations.location_three.address }}</p>" %}
+{% set has_scaffold_location_one = scaffold_content.locations.location_one.city and scaffold_content.locations.location_one.address %}
+{% set has_scaffold_location_two = scaffold_content.locations.location_two.city and scaffold_content.locations.location_two.address %}
+{% set has_scaffold_location_three = scaffold_content.locations.location_three.city and scaffold_content.locations.location_three.address %}
+
+{% block body %}
+{% dnd_area "dnd_area"
+  label="Main section"
+%}
+
+  {# Banner #}
+
+  {% dnd_section
+    background_image={
+      "backgroundPosition": "MIDDLE_LEFT",
+      "backgroundSize": "cover",
+      "imageUrl": scaffold_content.banner.background_image.src or get_asset_url("../images/industry-images/contact-banner.jpg")
+    },
+    max_width=750,
+    padding={
+      "top": 132,
+      "bottom": 132
+    }
+  %}
+    {% dnd_module path="@hubspot/rich_text" %}
+      {% module_attribute "html" %}
+        <div style="text-align: center;">
+          <h1 style="color: #fff;">{{ scaffold_content.banner.heading or template_translations.contact_heading_one.message }}</h1>
+          <p style="color: #fff;">{{ scaffold_content.banner.subheading or template_translations.placeholder_content_one.message }}</p>
+        </div>
+      {% end_module_attribute %}
+    {% end_dnd_module %}
+  {% end_dnd_section %}
+
+  {# Locations #}
+
+  {% dnd_section %}
+    {% dnd_column %}
+      {% dnd_row
+        margin={
+          "bottom": 22
+        }
+      %}
+        {% dnd_module path="@hubspot/rich_text" %}
+          {% module_attribute "html" %}
+            <div style="text-align: center;">
+              <h2>{{ scaffold_content.locations.heading or template_translations.contact_heading_two.message }}</h2>
+              <p>{{ scaffold_content.locations.subheading or template_translations.placeholder_content_one.message }}</p>
+            </div>
+          {% end_module_attribute %}
+        {% end_dnd_module %}
+      {% end_dnd_row %}
+      {% dnd_row %}
+        {% dnd_column
+          width=4
+        %}
+          {% dnd_row %}
+            {% dnd_module
+              path="../modules/icon",
+              icon={
+                "name": "map-pin",
+                "type" : "SOLID",
+                "unicode": "f276"
+              }
+              styles={
+                "alignment": {
+                  "alignment": {
+                    "horizontal_align": "CENTER"
+                  }
+                },
+                "spacing": {
+                  "spacing": {
+                    "margin": {
+                      "bottom": {
+                        "value": 22,
+                        "units": "px"
+                      }
+                    }
+                  }
+                }
+              }
+            %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+          {% dnd_row %}
+            {% dnd_module path="@hubspot/rich_text" %}
+              {% module_attribute "html" %}
+                <div style="text-align: center;">
+                  {{ has_scaffold_location_one ? location_one|render : template_translations.contact_address_one.message }}
+                </div>
+              {% end_module_attribute %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+        {% dnd_column
+          offset=4,
+          width=4
+        %}
+          {% dnd_row %}
+            {% dnd_module
+              path="../modules/icon",
+              icon={
+                "name": "map-pin",
+                "type" : "SOLID",
+                "unicode": "f276"
+              }
+              styles={
+                "alignment": {
+                  "alignment": {
+                    "horizontal_align": "CENTER"
+                  }
+                },
+                "spacing": {
+                  "spacing": {
+                    "margin": {
+                      "bottom": {
+                        "value": 22,
+                        "units": "px"
+                      }
+                    }
+                  }
+                }
+              }
+            %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+          {% dnd_row %}
+             {% dnd_module path="@hubspot/rich_text" %}
+              {% module_attribute "html" %}
+                <div style="text-align: center;">
+                  {{ has_scaffold_location_two ? location_two|render : template_translations.contact_address_two.message }}
+                </div>
+              {% end_module_attribute %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+        {% dnd_column
+          offset=8,
+          width=4
+        %}
+          {% dnd_row %}
+            {% dnd_module
+              path="../modules/icon",
+              icon={
+                "name": "map-pin",
+                "type" : "SOLID",
+                "unicode": "f276"
+              }
+              styles={
+                "alignment": {
+                  "alignment": {
+                    "horizontal_align": "CENTER"
+                  }
+                },
+                "spacing": {
+                  "spacing": {
+                    "margin": {
+                      "bottom": {
+                        "value": 22,
+                        "units": "px"
+                      }
+                    }
+                  }
+                }
+              }
+            %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+          {% dnd_row %}
+            {% dnd_module path="@hubspot/rich_text" %}
+              {% module_attribute "html" %}
+                <div style="text-align: center;">
+                  {{ has_scaffold_location_three ? location_three|render : template_translations.contact_address_three.message }}
+                </div>
+              {% end_module_attribute %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+      {% end_dnd_row %}
+    {% end_dnd_column %}
+  {% end_dnd_section %}
+
+  {# Contact form #}
+
+  {% dnd_section
+    background_color="#F5F8FA",
+  %}
+    {% dnd_column %}
+      {% dnd_row %}
+        {% dnd_module path="@hubspot/rich_text" %}
+          {% module_attribute "html" %}
+            <div style="text-align: center;">
+              <h2>{{ scaffold_content.contact.heading or template_translations.contact_heading_three.message }}</h2>
+              <p>{{ scaffold_content.contact.subheading or template_translations.placeholder_content_one.message }}</p>
+            </div>
+          {% end_module_attribute %}
+        {% end_dnd_module %}
+      {% end_dnd_row %}
+      {% dnd_row %}
+        {% dnd_module
+          path="@hubspot/form",
+          form={
+            "form_id": scaffold_content.contact.form.form_id or "",
+            "response_type": scaffold_content.contact.form.response_type or "redirect",
+            "message": scaffold_content.contact.form.message or ""
+          }
+        %}
+        {% end_dnd_module %}
+      {% end_dnd_row %}
+    {% end_dnd_column %}
+  {% end_dnd_section %}
+
+  {# FAQ #}
+
+  {% dnd_section %}
+    {% dnd_column %}
+      {% dnd_row
+        margin={
+          "bottom": 22
+        }
+      %}
+        {% dnd_module path="@hubspot/rich_text" %}
+          {% module_attribute "html" %}
+            <div style="text-align: center;">
+              <h2>{{ scaffold_content.faq.heading or template_translations.contact_heading_four.message }}</h2>
+              <p>{{ scaffold_content.faq.subheading or template_translations.placeholder_content_one.message }}</p>
+            </div>
+          {% end_module_attribute %}
+        {% end_dnd_module %}
+      {% end_dnd_row %}
+      {% dnd_row %}
+        {% dnd_module
+          path="../modules/accordion",
+          accordions=[
+            {
+              "title": scaffold_content.faq.accordion_one.question or template_translations.contact_faq_question.message,
+              "content": accordion_one_answer|render
+            },
+            {
+              "title": scaffold_content.faq.accordion_two.question or template_translations.contact_faq_question.message,
+              "content": accordion_two_answer|render
+            }
+          ]
+        %}
+        {% end_dnd_module %}
+      {% end_dnd_row %}
+    {% end_dnd_column %}
+  {% end_dnd_section %}
+
+{% end_dnd_area %}
+{% endblock body %}
